@@ -30,14 +30,14 @@
             "id": "e9a3af4a35222ed3",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "00-MOC/未命名 3.canvas",
-                "bFile": "00-MOC/未命名 3.canvas",
-                "aRef": ""
+                "file": "01-Diary/本周事务/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 未命名 3.canvas"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -168,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01-Diary/本周事务/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Untitled 的反向链接列表"
             }
           }
         ],
@@ -185,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,10 +204,10 @@
   },
   "active": "e9a3af4a35222ed3",
   "lastOpenFiles": [
+    "01-Diary/日志存档/2025-05-09.md",
     "06-Cards/202505091845.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名 3.canvas",
-    "01-Diary/日志存档/2025-05-09.md",
     "reserach",
     "01-Diary/本周事务/Untitled.md",
     "obsidian-vault",
