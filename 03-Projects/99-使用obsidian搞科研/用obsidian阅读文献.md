@@ -9,7 +9,7 @@ alias:
 
 ### 文献入库
 
-1. 在zotero中通过doi号新建文献条目。
+1.  
 	![[Pasted image 20230718142134.png]]
 2. 下载原文pdf文件到桌面（或用户在 ZotFile 插件设置的自定义路径），再右键点击该文献条目 Attach New File
 	![[Pasted image 20230718142425.png]]
