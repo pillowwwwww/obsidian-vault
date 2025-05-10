@@ -46,12 +46,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2025-05-10.md",
+                "file": "01-Diary/本周事务/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-10"
+              "title": "Untitled"
             }
           }
         ],
@@ -182,6 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01-Diary/本周事务/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +192,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Untitled 的反向链接列表"
             }
           }
         ],
@@ -218,8 +219,8 @@
   "active": "f6f7844b5c1da664",
   "lastOpenFiles": [
     "01-Diary/日志存档/2025-05-09.md",
-    "01-Diary/日志存档/2025-05-10.md",
     "01-Diary/本周事务/Untitled.md",
+    "01-Diary/日志存档/2025-05-10.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "06-Cards/202505091845.md",
     "00-MOC/未命名 3.canvas",
