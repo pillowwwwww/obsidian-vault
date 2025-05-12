@@ -5,16 +5,20 @@
       "path": "01-Diary/日志存档/2025-05-12.md"
     },
     {
+      "basename": "第一周小结",
+      "path": "01-Diary/本周事务/第一周小结.md"
+    },
+    {
+      "basename": "本周事务",
+      "path": "00-MOC/本周事务.md"
+    },
+    {
       "basename": "2025-05-10",
       "path": "01-Diary/日志存档/2025-05-10.md"
     },
     {
       "basename": "2025-05-09",
       "path": "01-Diary/日志存档/2025-05-09.md"
-    },
-    {
-      "basename": "第一周小结",
-      "path": "01-Diary/本周事务/第一周小结.md"
     },
     {
       "basename": "202307181606",
@@ -63,10 +67,6 @@
     {
       "basename": "obsidian白板教程",
       "path": "03-Projects/99-使用obsidian搞科研/obsidian白板教程.md"
-    },
-    {
-      "basename": "本周事务",
-      "path": "00-MOC/本周事务.md"
     },
     {
       "basename": "代码整理",
