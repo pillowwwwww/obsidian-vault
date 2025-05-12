@@ -202,8 +202,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "480fab67771beb09",
+  "active": "3090910a3bbb4bfa",
   "lastOpenFiles": [
+    "01-Diary/日志存档/2025-05-10.md",
+    "01-Diary/日志存档/2025-05-09.md",
+    "01-Diary/日志存档/2025-05-12.md",
     "08-Assets/Pasted image 20250512155457.png",
     "08-Assets/Pasted image 20250512155413.png",
     "01-Diary/本周事务/第一周小结.md",
@@ -219,7 +222,6 @@
     "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md",
     "09-Templates/草稿模板.md",
     "03-Projects/99-使用obsidian搞科研/obsidian白板教程.md",
-    "01-Diary/日志存档/2025-05-12.md",
     "01-Diary/日志存档/2023-07-18.md",
     "01-Diary/本周事务/Untitled.md",
     "00-MOC/本周事务.md",
@@ -231,12 +233,10 @@
     "08-Assets/Pasted image 20220321155719.png",
     "02-Reading/mdnotes/未命名.md",
     "02-Reading/mdnotes/@Reinhardt2023.md",
-    "01-Diary/日志存档/2025-05-10.md",
     "00-MOC/未命名 3.canvas",
     "08-Assets/pdfs/2016/McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data.pdf",
     "08-Assets/pdfs/2016",
     "03-Projects/99-使用obsidian搞科研/软件下载安装.md",
-    "01-Diary/日志存档/2025-05-09.md",
     "reserach",
     "obsidian-vault",
     "00-MOC/文献阅读白板.canvas",
@@ -255,7 +255,6 @@
     "08-Assets/pdfs/Nature Reviews Molecular Cell Biology/2017/2017_Fluorescence nanoscopy in cell biology.pdf",
     "08-Assets/Pasted image 20230718162058.png",
     "00-MOC/obsidian升级内容.canvas",
-    "08-Assets/Pasted image 20230718160014.png",
-    "08-Assets/Pasted image 20230718155300.png"
+    "08-Assets/Pasted image 20230718160014.png"
   ]
 }
