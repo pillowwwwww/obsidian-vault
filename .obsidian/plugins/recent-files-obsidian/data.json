@@ -5,6 +5,46 @@
       "path": "01-Diary/日志存档/2025-05-12.md"
     },
     {
+      "basename": "第一周小结",
+      "path": "01-Diary/本周事务/第一周小结.md"
+    },
+    {
+      "basename": "本周事务",
+      "path": "00-MOC/本周事务.md"
+    },
+    {
+      "basename": "代码整理",
+      "path": "09-Templates/代码整理.md"
+    },
+    {
+      "basename": "实验记录",
+      "path": "09-Templates/实验记录.md"
+    },
+    {
+      "basename": "每周小结",
+      "path": "09-Templates/每周小结.md"
+    },
+    {
+      "basename": "日志模板",
+      "path": "09-Templates/日志模板.md"
+    },
+    {
+      "basename": "Pasted image 20230718170012",
+      "path": "08-Assets/Pasted image 20230718170012.png"
+    },
+    {
+      "basename": "Pasted image 20220321155719",
+      "path": "08-Assets/Pasted image 20220321155719.png"
+    },
+    {
+      "basename": "202505091841",
+      "path": "06-Cards/202505091841.md"
+    },
+    {
+      "basename": "202505091845",
+      "path": "06-Cards/202505091845.md"
+    },
+    {
       "basename": "使用obsidian搞科研",
       "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
     },
@@ -19,14 +59,6 @@
     {
       "basename": "2025-05-10",
       "path": "01-Diary/日志存档/2025-05-10.md"
-    },
-    {
-      "basename": "第一周小结",
-      "path": "01-Diary/本周事务/第一周小结.md"
-    },
-    {
-      "basename": "本周事务",
-      "path": "00-MOC/本周事务.md"
     },
     {
       "basename": "未命名 3",
@@ -61,14 +93,6 @@
       "path": "01-Diary/日志存档/2025-05-09.md"
     },
     {
-      "basename": "202505091845",
-      "path": "06-Cards/202505091845.md"
-    },
-    {
-      "basename": "日志模板",
-      "path": "09-Templates/日志模板.md"
-    },
-    {
       "basename": "2023-07-18",
       "path": "01-Diary/日志存档/2023-07-18.md"
     },
@@ -87,10 +111,6 @@
     {
       "basename": "未命名 1",
       "path": "00-MOC/未命名 1.canvas"
-    },
-    {
-      "basename": "202505091841",
-      "path": "06-Cards/202505091841.md"
     },
     {
       "basename": "obsidan双链与知识图谱",
