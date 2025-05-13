@@ -5,6 +5,26 @@
       "path": "02-Reading/mdnotes/@Multimodal federated learning Concept, methods, applications and future directions.md"
     },
     {
+      "basename": "Mdnotes Default Template",
+      "path": "08-Assets/Scripts/Mdnotes Default Template.md"
+    },
+    {
+      "basename": "dataview表格数据下载",
+      "path": "08-Assets/Scripts/dataview表格数据下载.md"
+    },
+    {
+      "basename": "使用obsidian搞科研",
+      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
+    },
+    {
+      "basename": "未命名",
+      "path": "00-MOC/未命名.canvas"
+    },
+    {
+      "basename": "2025-05-13",
+      "path": "01-Diary/日志存档/2025-05-13.md"
+    },
+    {
       "basename": "@Reinhardt2023",
       "path": "02-Reading/mdnotes/@Reinhardt2023.md"
     },
@@ -17,10 +37,6 @@
       "path": "00-MOC/阅读清单.md"
     },
     {
-      "basename": "2025-05-13",
-      "path": "01-Diary/日志存档/2025-05-13.md"
-    },
-    {
       "basename": "McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data",
       "path": "08-Assets/pdfs/2016/McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data.pdf"
     },
@@ -31,10 +47,6 @@
     {
       "basename": "软件下载安装",
       "path": "03-Projects/99-使用obsidian搞科研/软件下载安装.md"
-    },
-    {
-      "basename": "使用obsidian搞科研",
-      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
     },
     {
       "basename": "Pasted image 20220321141509",
@@ -187,14 +199,6 @@
     {
       "basename": "Pasted image 20220321155719",
       "path": "08-Assets/Pasted image 20220321155719.png"
-    },
-    {
-      "basename": "大牛页面",
-      "path": "09-Templates/大牛页面.md"
-    },
-    {
-      "basename": "Stefan W. Hell",
-      "path": "02-Reading/3-people/Stefan W. Hell.md"
     }
   ],
   "omittedPaths": [],
