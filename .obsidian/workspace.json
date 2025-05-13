@@ -27,17 +27,15 @@
             }
           },
           {
-            "id": "19268abc01286e04",
+            "id": "743ef27c21768e18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "00-MOC/本周事务.md",
-                "mode": "source",
-                "source": false
+                "file": "08-Assets/Pasted image 20220321141509.png"
               },
-              "icon": "lucide-file",
-              "title": "本周事务"
+              "icon": "lucide-image",
+              "title": "Pasted image 20220321141509"
             }
           }
         ],
@@ -108,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -168,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-MOC/本周事务.md",
+                "file": "08-Assets/Pasted image 20220321141509.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +177,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "本周事务 的反向链接列表"
+              "title": "Pasted image 20220321141509 的反向链接列表"
             }
           }
         ],
@@ -202,8 +201,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19268abc01286e04",
+  "active": "743ef27c21768e18",
   "lastOpenFiles": [
+    "03-Projects/99-使用obsidian搞科研/obsidian_vault_template_for_graduate_student - 快捷方式.lnk",
+    "08-Assets/Pasted image 20220321143352.png",
+    "08-Assets/列表缩进.gif",
+    "08-Assets/陈致逸,HOYO-MiX - Dawn Winery Theme 晨曦酒庄.mp3",
+    "08-Assets/Pasted image 20250512155457.png",
+    "08-Assets/Pasted image 20250512155413.png",
+    "08-Assets/Pasted image 20230718165638.png",
+    "08-Assets/Pasted image 20230718144535.png",
+    "08-Assets/Pasted image 20230718144911.png",
+    "01-Diary/日志存档/2025-05-13.md",
+    "01-Diary/本周事务/环境配置.md",
+    "01-Diary/本周事务/@McMahan2016.md",
+    "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
+    "01-Diary/本周事务/第一周小结.md",
+    "00-MOC/本周事务.md",
     "00-MOC/文献阅读白板.canvas",
     "00-MOC/试剂管理.md",
     "00-MOC/愿望清单.md",
@@ -211,34 +225,26 @@
     "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md",
     "03-Projects/99-使用obsidian搞科研/用obsidian写日志.md",
     "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md",
-    "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "02-Reading/mdnotes/@Reinhardt2023.md",
     "02-Reading/mdnotes/@Sahl2017.md",
     "02-Reading/mdnotes/未命名.md",
     "08-Assets/pdfs/2016/McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data.pdf",
     "03-Projects/99-使用obsidian搞科研/软件下载安装.md",
     "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md",
-    "00-MOC/本周事务.md",
     "06-Cards/202505131639.md",
     "00-MOC/未命名 4.canvas",
     "01-Diary/周小结/2025-05-13_周小结.md",
     "00-MOC/未命名.canvas",
     "00-MOC/未命名 2.canvas",
-    "01-Diary/本周事务/环境配置.md",
     "01-Diary/本周事务/python基础知识.md",
     "01-Diary/日志存档/2025-05-12.md",
-    "01-Diary/日志存档/2025-05-13.md",
     "01-Diary/日志存档/2025-05-09.md",
     "01-Diary/日志存档/2025-05-10.md",
-    "01-Diary/本周事务/第一周小结.md",
     "08-Assets/pdfs/Nature Reviews Molecular Cell Biology/2017/2017_Fluorescence nanoscopy in cell biology.pdf",
     "08-Assets/pdfs/Nature/2023/2023_Ångström-resolution fluorescence microscopy.pdf",
-    "08-Assets/Pasted image 20250512155457.png",
-    "08-Assets/Pasted image 20250512155413.png",
     "06-Cards/202307181606.md",
     "06-Cards/202505091841.md",
     "06-Cards/202505091845.md",
-    "03-Projects/99-使用obsidian搞科研/obsidan双链与知识图谱.md",
     "08-Assets/Pasted image 20230718170012.png",
     "08-Assets/Pasted image 20220321155719.png",
     "00-MOC/未命名 3.canvas",
@@ -247,15 +253,9 @@
     "obsidian-vault",
     "00-MOC/未命名 1.canvas",
     "08-Assets/Pasted image 20230718165911.png",
-    "08-Assets/Pasted image 20230718165638.png",
-    "08-Assets/Pasted image 20230718165521.png",
-    "08-Assets/Pasted image 20230718164658.png",
     "07-Archives/230718-黑曜石玩家指南/4-obsidian附录",
     "07-Archives/230718-黑曜石玩家指南/3-obsidian做课题",
     "07-Archives/230718-黑曜石玩家指南/2-obsidian读文献",
-    "07-Archives/230718-黑曜石玩家指南/1-obsidian入门",
-    "08-Assets/Pasted image 20230718162058.png",
-    "00-MOC/obsidian升级内容.canvas",
-    "08-Assets/Pasted image 20230718160014.png"
+    "00-MOC/obsidian升级内容.canvas"
   ]
 }
