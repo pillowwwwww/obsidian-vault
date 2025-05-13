@@ -1,10 +1,12 @@
 ---
-alias: undefined
-tags: unread
-rating: ⭐
+aliases:
+  - undefined
+tags:
+  - unread
+rating: ⭐⭐⭐⭐
 share: false
 ptype: article
-annotation-target: 
+annotation-target:
 ---
 
 %%mdnote文件从zotero中通过mdnotes插件生成，注意该文件仅需生成一次，否则会造成新增阅读批注的丢失%%
