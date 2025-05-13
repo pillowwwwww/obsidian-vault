@@ -27,17 +27,17 @@
             }
           },
           {
-            "id": "8dbc27d1a41c20eb",
+            "id": "19268abc01286e04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md",
+                "file": "00-MOC/本周事务.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zotero-obsidian联动配置"
+              "title": "本周事务"
             }
           }
         ],
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md",
+                "file": "00-MOC/本周事务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "zotero-obsidian联动配置 的反向链接列表"
+              "title": "本周事务 的反向链接列表"
             }
           }
         ],
@@ -202,22 +202,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8dbc27d1a41c20eb",
+  "active": "19268abc01286e04",
   "lastOpenFiles": [
+    "00-MOC/文献阅读白板.canvas",
+    "00-MOC/试剂管理.md",
+    "00-MOC/愿望清单.md",
+    "00-MOC/阅读清单.md",
+    "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md",
+    "03-Projects/99-使用obsidian搞科研/用obsidian写日志.md",
     "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
-    "02-Reading/mdnotes/未命名.md",
-    "02-Reading/mdnotes/@Sahl2017.md",
     "02-Reading/mdnotes/@Reinhardt2023.md",
+    "02-Reading/mdnotes/@Sahl2017.md",
+    "02-Reading/mdnotes/未命名.md",
+    "08-Assets/pdfs/2016/McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data.pdf",
     "03-Projects/99-使用obsidian搞科研/软件下载安装.md",
     "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md",
-    "00-MOC/阅读清单.md",
-    "00-MOC/试剂管理.md",
-    "00-MOC/文献阅读白板.canvas",
     "00-MOC/本周事务.md",
     "06-Cards/202505131639.md",
     "00-MOC/未命名 4.canvas",
-    "00-MOC/愿望清单.md",
     "01-Diary/周小结/2025-05-13_周小结.md",
     "00-MOC/未命名.canvas",
     "00-MOC/未命名 2.canvas",
@@ -228,7 +231,6 @@
     "01-Diary/日志存档/2025-05-09.md",
     "01-Diary/日志存档/2025-05-10.md",
     "01-Diary/本周事务/第一周小结.md",
-    "08-Assets/pdfs/2016/McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data.pdf",
     "08-Assets/pdfs/Nature Reviews Molecular Cell Biology/2017/2017_Fluorescence nanoscopy in cell biology.pdf",
     "08-Assets/pdfs/Nature/2023/2023_Ångström-resolution fluorescence microscopy.pdf",
     "08-Assets/Pasted image 20250512155457.png",
@@ -237,8 +239,6 @@
     "06-Cards/202505091841.md",
     "06-Cards/202505091845.md",
     "03-Projects/99-使用obsidian搞科研/obsidan双链与知识图谱.md",
-    "03-Projects/99-使用obsidian搞科研/从白板新建笔记.md",
-    "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md",
     "08-Assets/Pasted image 20230718170012.png",
     "08-Assets/Pasted image 20220321155719.png",
     "00-MOC/未命名 3.canvas",
