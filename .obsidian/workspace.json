@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md",
+                "file": "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "用obsidian阅读文献"
+              "title": "zotero-obsidian联动配置"
             }
           }
         ],
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md",
+                "file": "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "用obsidian阅读文献 的反向链接列表"
+              "title": "zotero-obsidian联动配置 的反向链接列表"
             }
           }
         ],
@@ -204,7 +204,11 @@
   },
   "active": "8dbc27d1a41c20eb",
   "lastOpenFiles": [
+    "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
+    "02-Reading/mdnotes/未命名.md",
+    "02-Reading/mdnotes/@Sahl2017.md",
+    "02-Reading/mdnotes/@Reinhardt2023.md",
     "03-Projects/99-使用obsidian搞科研/软件下载安装.md",
     "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md",
     "00-MOC/阅读清单.md",
@@ -217,8 +221,6 @@
     "01-Diary/周小结/2025-05-13_周小结.md",
     "00-MOC/未命名.canvas",
     "00-MOC/未命名 2.canvas",
-    "02-Reading/mdnotes/@Reinhardt2023.md",
-    "02-Reading/mdnotes/未命名.md",
     "01-Diary/本周事务/环境配置.md",
     "01-Diary/本周事务/python基础知识.md",
     "01-Diary/日志存档/2025-05-12.md",
@@ -237,8 +239,6 @@
     "03-Projects/99-使用obsidian搞科研/obsidan双链与知识图谱.md",
     "03-Projects/99-使用obsidian搞科研/从白板新建笔记.md",
     "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md",
-    "03-Projects/99-使用obsidian搞科研/obsidian撰写草稿.md",
-    "03-Projects/99-使用obsidian搞科研/用obsidian写日志.md",
     "08-Assets/Pasted image 20230718170012.png",
     "08-Assets/Pasted image 20220321155719.png",
     "00-MOC/未命名 3.canvas",

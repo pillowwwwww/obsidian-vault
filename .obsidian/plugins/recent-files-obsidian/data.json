@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "zotero-obsidian联动配置",
+      "path": "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md"
+    },
+    {
       "basename": "用obsidian阅读文献",
       "path": "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md"
     },
     {
       "basename": "使用obsidian搞科研",
       "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
+    },
+    {
+      "basename": "未命名",
+      "path": "02-Reading/mdnotes/未命名.md"
+    },
+    {
+      "basename": "@Sahl2017",
+      "path": "02-Reading/mdnotes/@Sahl2017.md"
+    },
+    {
+      "basename": "@Reinhardt2023",
+      "path": "02-Reading/mdnotes/@Reinhardt2023.md"
     },
     {
       "basename": "软件下载安装",
@@ -39,14 +55,6 @@
     {
       "basename": "愿望清单",
       "path": "00-MOC/愿望清单.md"
-    },
-    {
-      "basename": "@Reinhardt2023",
-      "path": "02-Reading/mdnotes/@Reinhardt2023.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "02-Reading/mdnotes/未命名.md"
     },
     {
       "basename": "环境配置",
@@ -101,10 +109,6 @@
       "path": "03-Projects/99-使用obsidian搞科研/从白板新建笔记.md"
     },
     {
-      "basename": "zotero-obsidian联动配置",
-      "path": "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md"
-    },
-    {
       "basename": "obsidian撰写草稿",
       "path": "03-Projects/99-使用obsidian搞科研/obsidian撰写草稿.md"
     },
@@ -155,10 +159,6 @@
     {
       "basename": "Mdnotes Default Template",
       "path": "08-Assets/Scripts/Mdnotes Default Template.md"
-    },
-    {
-      "basename": "@Sahl2017",
-      "path": "02-Reading/mdnotes/@Sahl2017.md"
     }
   ],
   "omittedPaths": [],
