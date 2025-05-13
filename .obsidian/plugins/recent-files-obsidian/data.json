@@ -5,12 +5,16 @@
       "path": "02-Reading/mdnotes/@Multimodal federated learning Concept, methods, applications and future directions.md"
     },
     {
-      "basename": "阅读清单",
-      "path": "00-MOC/阅读清单.md"
-    },
-    {
       "basename": "McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data",
       "path": "08-Assets/pdfs/2016/McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data.pdf"
+    },
+    {
+      "basename": "从白板新建笔记",
+      "path": "03-Projects/99-使用obsidian搞科研/从白板新建笔记.md"
+    },
+    {
+      "basename": "阅读清单",
+      "path": "00-MOC/阅读清单.md"
     },
     {
       "basename": "zotero-obsidian联动配置",
@@ -159,10 +163,6 @@
     {
       "basename": "obsidan双链与知识图谱",
       "path": "03-Projects/99-使用obsidian搞科研/obsidan双链与知识图谱.md"
-    },
-    {
-      "basename": "从白板新建笔记",
-      "path": "03-Projects/99-使用obsidian搞科研/从白板新建笔记.md"
     },
     {
       "basename": "obsidian撰写草稿",

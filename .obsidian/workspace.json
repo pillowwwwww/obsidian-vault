@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,9 +204,10 @@
   },
   "active": "ee46aaff92b0d5ba",
   "lastOpenFiles": [
-    "00-MOC/阅读清单.md",
     "08-Assets/pdfs/2016/McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data.pdf",
     "02-Reading/mdnotes/@Multimodal federated learning Concept, methods, applications and future directions.md",
+    "03-Projects/99-使用obsidian搞科研/从白板新建笔记.md",
+    "00-MOC/阅读清单.md",
     "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md",
     "08-Assets/Scripts/Mdnotes Default Template.md",
     "08-Assets/Scripts/dataview表格数据下载.md",
@@ -246,7 +248,6 @@
     "01-Diary/周小结/2025-05-13_周小结.md",
     "00-MOC/未命名 2.canvas",
     "01-Diary/本周事务/python基础知识.md",
-    "01-Diary/日志存档/2025-05-12.md",
     "08-Assets/pdfs/Nature Reviews Molecular Cell Biology/2017/2017_Fluorescence nanoscopy in cell biology.pdf",
     "08-Assets/pdfs/Nature/2023/2023_Ångström-resolution fluorescence microscopy.pdf",
     "08-Assets/Pasted image 20230718170012.png",
