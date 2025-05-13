@@ -39,23 +39,9 @@
               "icon": "lucide-file",
               "title": "2025-05-13"
             }
-          },
-          {
-            "id": "ff5bbf3ae1068656",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/本周事务/FedAvg复现.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FedAvg复现"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Diary/本周事务/FedAvg复现.md",
+                "file": "01-Diary/日志存档/2025-05-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +178,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "FedAvg复现 的反向链接列表"
+              "title": "2025-05-13 的反向链接列表"
             }
           }
         ],
@@ -216,10 +202,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff5bbf3ae1068656",
+  "active": "8f5e5091e05bb9ef",
   "lastOpenFiles": [
-    "01-Diary/本周事务/FedAvg复现.md",
+    "02-Reading/mdnotes/Untitled.md",
     "01-Diary/日志存档/2025-05-13.md",
+    "02-Reading/mdnotes/未命名.md",
+    "02-Reading/mdnotes/@Reinhardt2023.md",
+    "00-MOC/阅读清单.md",
+    "08-Assets/pdfs/2016/McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data.pdf",
+    "01-Diary/本周事务/FedAvg复现.md",
     "03-Projects/99-使用obsidian搞科研/软件下载安装.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "08-Assets/Pasted image 20220321141509.png",
@@ -239,14 +230,10 @@
     "00-MOC/文献阅读白板.canvas",
     "00-MOC/试剂管理.md",
     "00-MOC/愿望清单.md",
-    "00-MOC/阅读清单.md",
     "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md",
     "03-Projects/99-使用obsidian搞科研/用obsidian写日志.md",
     "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md",
-    "02-Reading/mdnotes/@Reinhardt2023.md",
     "02-Reading/mdnotes/@Sahl2017.md",
-    "02-Reading/mdnotes/未命名.md",
-    "08-Assets/pdfs/2016/McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data.pdf",
     "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md",
     "06-Cards/202505131639.md",
     "00-MOC/未命名 4.canvas",
@@ -261,7 +248,6 @@
     "08-Assets/pdfs/Nature/2023/2023_Ångström-resolution fluorescence microscopy.pdf",
     "06-Cards/202307181606.md",
     "06-Cards/202505091841.md",
-    "06-Cards/202505091845.md",
     "08-Assets/Pasted image 20230718170012.png",
     "08-Assets/Pasted image 20220321155719.png",
     "00-MOC/未命名 3.canvas",
