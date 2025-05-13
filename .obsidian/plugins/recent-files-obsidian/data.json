@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "用obsidian阅读文献",
+      "path": "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md"
+    },
+    {
+      "basename": "使用obsidian搞科研",
+      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
+    },
+    {
+      "basename": "软件下载安装",
+      "path": "03-Projects/99-使用obsidian搞科研/软件下载安装.md"
+    },
+    {
+      "basename": "试剂耗材仪器建卡管理",
+      "path": "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md"
+    },
+    {
+      "basename": "阅读清单",
+      "path": "00-MOC/阅读清单.md"
+    },
+    {
+      "basename": "试剂管理",
+      "path": "00-MOC/试剂管理.md"
+    },
+    {
+      "basename": "文献阅读白板",
+      "path": "00-MOC/文献阅读白板.canvas"
+    },
+    {
       "basename": "本周事务",
       "path": "00-MOC/本周事务.md"
+    },
+    {
+      "basename": "202505131639",
+      "path": "06-Cards/202505131639.md"
+    },
+    {
+      "basename": "愿望清单",
+      "path": "00-MOC/愿望清单.md"
+    },
+    {
+      "basename": "@Reinhardt2023",
+      "path": "02-Reading/mdnotes/@Reinhardt2023.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "02-Reading/mdnotes/未命名.md"
+    },
+    {
+      "basename": "环境配置",
+      "path": "01-Diary/本周事务/环境配置.md"
+    },
+    {
+      "basename": "python基础知识",
+      "path": "01-Diary/本周事务/python基础知识.md"
     },
     {
       "basename": "2025-05-12",
@@ -17,16 +69,8 @@
       "path": "01-Diary/日志存档/2025-05-09.md"
     },
     {
-      "basename": "python基础知识",
-      "path": "01-Diary/本周事务/python基础知识.md"
-    },
-    {
       "basename": "2025-05-10",
       "path": "01-Diary/日志存档/2025-05-10.md"
-    },
-    {
-      "basename": "环境配置",
-      "path": "01-Diary/本周事务/环境配置.md"
     },
     {
       "basename": "第一周小结",
@@ -35,10 +79,6 @@
     {
       "basename": "McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data",
       "path": "08-Assets/pdfs/2016/McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data.pdf"
-    },
-    {
-      "basename": "使用obsidian搞科研",
-      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
     },
     {
       "basename": "202307181606",
@@ -73,10 +113,6 @@
       "path": "03-Projects/99-使用obsidian搞科研/用obsidian写日志.md"
     },
     {
-      "basename": "用obsidian阅读文献",
-      "path": "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md"
-    },
-    {
       "basename": "草稿模板",
       "path": "09-Templates/草稿模板.md"
     },
@@ -109,50 +145,6 @@
       "path": "08-Assets/Pasted image 20220321155719.png"
     },
     {
-      "basename": "未命名",
-      "path": "02-Reading/mdnotes/未命名.md"
-    },
-    {
-      "basename": "@Reinhardt2023",
-      "path": "02-Reading/mdnotes/@Reinhardt2023.md"
-    },
-    {
-      "basename": "未命名 3",
-      "path": "00-MOC/未命名 3.canvas"
-    },
-    {
-      "basename": "软件下载安装",
-      "path": "03-Projects/99-使用obsidian搞科研/软件下载安装.md"
-    },
-    {
-      "basename": "愿望清单",
-      "path": "00-MOC/愿望清单.md"
-    },
-    {
-      "basename": "文献阅读白板",
-      "path": "00-MOC/文献阅读白板.canvas"
-    },
-    {
-      "basename": "未命名 2",
-      "path": "00-MOC/未命名 2.canvas"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "00-MOC/未命名 1.canvas"
-    },
-    {
-      "basename": "试剂管理",
-      "path": "00-MOC/试剂管理.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "00-MOC/未命名.canvas"
-    },
-    {
-      "basename": "阅读清单",
-      "path": "00-MOC/阅读清单.md"
-    },
-    {
       "basename": "大牛页面",
       "path": "09-Templates/大牛页面.md"
     },
@@ -167,10 +159,6 @@
     {
       "basename": "@Sahl2017",
       "path": "02-Reading/mdnotes/@Sahl2017.md"
-    },
-    {
-      "basename": "试剂耗材仪器建卡管理",
-      "path": "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md"
     }
   ],
   "omittedPaths": [],

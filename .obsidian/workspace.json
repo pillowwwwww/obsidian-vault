@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-MOC/本周事务.md",
+                "file": "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "本周事务"
+              "title": "用obsidian阅读文献"
             }
           }
         ],
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Diary/日志存档/2025-05-12.md",
+                "file": "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-05-12 的反向链接列表"
+              "title": "用obsidian阅读文献 的反向链接列表"
             }
           }
         ],
@@ -204,18 +204,31 @@
   },
   "active": "8dbc27d1a41c20eb",
   "lastOpenFiles": [
+    "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
+    "03-Projects/99-使用obsidian搞科研/软件下载安装.md",
+    "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md",
+    "00-MOC/阅读清单.md",
+    "00-MOC/试剂管理.md",
+    "00-MOC/文献阅读白板.canvas",
+    "00-MOC/本周事务.md",
+    "06-Cards/202505131639.md",
+    "00-MOC/未命名 4.canvas",
+    "00-MOC/愿望清单.md",
+    "01-Diary/周小结/2025-05-13_周小结.md",
+    "00-MOC/未命名.canvas",
+    "00-MOC/未命名 2.canvas",
+    "02-Reading/mdnotes/@Reinhardt2023.md",
+    "02-Reading/mdnotes/未命名.md",
+    "01-Diary/本周事务/环境配置.md",
+    "01-Diary/本周事务/python基础知识.md",
     "01-Diary/日志存档/2025-05-12.md",
     "01-Diary/日志存档/2025-05-13.md",
     "01-Diary/日志存档/2025-05-09.md",
-    "01-Diary/本周事务/python基础知识.md",
     "01-Diary/日志存档/2025-05-10.md",
-    "01-Diary/本周事务/环境配置.md",
     "01-Diary/本周事务/第一周小结.md",
     "08-Assets/pdfs/2016/McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data.pdf",
     "08-Assets/pdfs/Nature Reviews Molecular Cell Biology/2017/2017_Fluorescence nanoscopy in cell biology.pdf",
-    "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "08-Assets/pdfs/Nature/2023/2023_Ångström-resolution fluorescence microscopy.pdf",
-    "00-MOC/本周事务.md",
     "08-Assets/Pasted image 20250512155457.png",
     "08-Assets/Pasted image 20250512155413.png",
     "06-Cards/202307181606.md",
@@ -226,26 +239,13 @@
     "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md",
     "03-Projects/99-使用obsidian搞科研/obsidian撰写草稿.md",
     "03-Projects/99-使用obsidian搞科研/用obsidian写日志.md",
-    "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md",
-    "09-Templates/草稿模板.md",
-    "03-Projects/99-使用obsidian搞科研/obsidian白板教程.md",
-    "01-Diary/日志存档/2023-07-18.md",
-    "01-Diary/本周事务/Untitled.md",
-    "09-Templates/代码整理.md",
-    "09-Templates/实验记录.md",
-    "09-Templates/每周小结.md",
-    "09-Templates/日志模板.md",
     "08-Assets/Pasted image 20230718170012.png",
     "08-Assets/Pasted image 20220321155719.png",
-    "02-Reading/mdnotes/未命名.md",
     "00-MOC/未命名 3.canvas",
     "08-Assets/pdfs/2016",
     "reserach",
     "obsidian-vault",
-    "00-MOC/文献阅读白板.canvas",
     "00-MOC/未命名 1.canvas",
-    "00-MOC/未命名 2.canvas",
-    "00-MOC/未命名.canvas",
     "08-Assets/Pasted image 20230718165911.png",
     "08-Assets/Pasted image 20230718165638.png",
     "08-Assets/Pasted image 20230718165521.png",
