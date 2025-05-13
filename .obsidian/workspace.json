@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
+                "file": "09-Templates/实验记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@Communication-Efficient Learning of Deep Networks from Decentralized Data"
+              "title": "实验记录"
             }
           }
         ],
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
+                "file": "09-Templates/实验记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "@Communication-Efficient Learning of Deep Networks from Decentralized Data 的反向链接列表"
+              "title": "实验记录 的反向链接列表"
             }
           }
         ],
@@ -204,9 +204,15 @@
   },
   "active": "31941b65f1286c5c",
   "lastOpenFiles": [
+    "09-Templates/代码整理.md",
+    "09-Templates/卡片模板.md",
+    "09-Templates/阅读批注.md",
+    "09-Templates/文献比较.md",
+    "09-Templates/试剂卡片.md",
+    "09-Templates/日志模板.md",
+    "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
     "00-MOC/阅读清单.md",
     "00-MOC/本周事务.md",
-    "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
     "02-Reading/mdnotes/@Reinhardt2023.md",
     "02-Reading/mdnotes/@Sahl2017.md",
     "02-Reading/mdnotes/@Multimodal federated learning Concept, methods, applications and future directions.md",
@@ -241,14 +247,8 @@
     "00-MOC/文献阅读白板.canvas",
     "00-MOC/试剂管理.md",
     "00-MOC/愿望清单.md",
-    "03-Projects/99-使用obsidian搞科研/用obsidian写日志.md",
-    "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md",
-    "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md",
-    "06-Cards/202505131639.md",
     "00-MOC/未命名 4.canvas",
-    "01-Diary/周小结/2025-05-13_周小结.md",
     "00-MOC/未命名 2.canvas",
-    "01-Diary/本周事务/python基础知识.md",
     "08-Assets/pdfs/Nature Reviews Molecular Cell Biology/2017/2017_Fluorescence nanoscopy in cell biology.pdf",
     "08-Assets/pdfs/Nature/2023/2023_Ångström-resolution fluorescence microscopy.pdf",
     "08-Assets/Pasted image 20230718170012.png",

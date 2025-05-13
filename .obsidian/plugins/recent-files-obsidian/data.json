@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "实验记录",
+      "path": "09-Templates/实验记录.md"
+    },
+    {
+      "basename": "代码整理",
+      "path": "09-Templates/代码整理.md"
+    },
+    {
+      "basename": "卡片模板",
+      "path": "09-Templates/卡片模板.md"
+    },
+    {
+      "basename": "阅读批注",
+      "path": "09-Templates/阅读批注.md"
+    },
+    {
+      "basename": "文献比较",
+      "path": "09-Templates/文献比较.md"
+    },
+    {
+      "basename": "试剂卡片",
+      "path": "09-Templates/试剂卡片.md"
+    },
+    {
+      "basename": "日志模板",
+      "path": "09-Templates/日志模板.md"
+    },
+    {
       "basename": "@Communication-Efficient Learning of Deep Networks from Decentralized Data",
       "path": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md"
     },
@@ -171,30 +199,6 @@
     {
       "basename": "obsidian白板教程",
       "path": "03-Projects/99-使用obsidian搞科研/obsidian白板教程.md"
-    },
-    {
-      "basename": "代码整理",
-      "path": "09-Templates/代码整理.md"
-    },
-    {
-      "basename": "实验记录",
-      "path": "09-Templates/实验记录.md"
-    },
-    {
-      "basename": "每周小结",
-      "path": "09-Templates/每周小结.md"
-    },
-    {
-      "basename": "日志模板",
-      "path": "09-Templates/日志模板.md"
-    },
-    {
-      "basename": "Pasted image 20230718170012",
-      "path": "08-Assets/Pasted image 20230718170012.png"
-    },
-    {
-      "basename": "Pasted image 20220321155719",
-      "path": "08-Assets/Pasted image 20220321155719.png"
     }
   ],
   "omittedPaths": [],
