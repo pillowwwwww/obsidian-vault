@@ -6,8 +6,9 @@
   "pdfExportImageQuality": 90,
   "citeFormats": [
     {
-      "name": "Cite",
-      "format": "formatted-citation"
+      "name": "Format #1",
+      "format": "formatted-bibliography",
+      "cslStyle": "apa"
     }
   ],
   "exportFormats": [
@@ -15,7 +16,9 @@
       "name": "my_import",
       "outputPathTemplate": "02-Reading/{{citekey}}.md",
       "imageOutputPathTemplate": "{{citekey}}/images",
-      "imageBaseNameTemplate": "image"
+      "imageBaseNameTemplate": "image",
+      "templatePath": "09-Templates/Zotero_import_note.md",
+      "cslStyle": "apa"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",

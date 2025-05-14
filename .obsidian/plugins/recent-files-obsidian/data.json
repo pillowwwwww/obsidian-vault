@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "@Communication-Efficient Learning of Deep Networks from Decentralized Data",
+      "path": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md"
+    },
+    {
+      "basename": "@Reinhardt2023",
+      "path": "02-Reading/mdnotes/@Reinhardt2023.md"
+    },
+    {
+      "basename": "Zotero_import_note",
+      "path": "09-Templates/Zotero_import_note.md"
+    },
+    {
       "basename": "2025-05-14",
       "path": "01-Diary/日志存档/2025-05-14.md"
     },
@@ -53,10 +65,6 @@
       "path": "09-Templates/草稿模板.md"
     },
     {
-      "basename": "@Communication-Efficient Learning of Deep Networks from Decentralized Data",
-      "path": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md"
-    },
-    {
       "basename": "FedAvg复现",
       "path": "01-Diary/本周事务/FedAvg复现.md"
     },
@@ -71,10 +79,6 @@
     {
       "basename": "本周事务",
       "path": "00-MOC/本周事务.md"
-    },
-    {
-      "basename": "@Reinhardt2023",
-      "path": "02-Reading/mdnotes/@Reinhardt2023.md"
     },
     {
       "basename": "McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data",
@@ -191,14 +195,6 @@
     {
       "basename": "2025-05-10",
       "path": "01-Diary/日志存档/2025-05-10.md"
-    },
-    {
-      "basename": "202307181606",
-      "path": "06-Cards/202307181606.md"
-    },
-    {
-      "basename": "202505091841",
-      "path": "06-Cards/202505091841.md"
     }
   ],
   "omittedPaths": [],

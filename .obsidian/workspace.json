@@ -32,32 +32,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2025-05-14.md",
-                "mode": "source",
+                "file": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-05-14"
+              "title": "@Communication-Efficient Learning of Deep Networks from Decentralized Data"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "7620adb5fadcd002",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5af0c5f1310e5ecc",
-            "type": "leaf",
-            "state": {
-              "type": "zdc-debug",
-              "state": {},
-              "icon": "gear",
-              "title": "Zotero Data Explorer"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Diary/日志存档/2025-05-14.md",
+                "file": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +178,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-05-14 的反向链接列表"
+              "title": "@Communication-Efficient Learning of Deep Networks from Decentralized Data 的反向链接列表"
             }
           }
         ],
@@ -218,8 +202,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5af0c5f1310e5ecc",
+  "active": "eef1bbc4add8f006",
   "lastOpenFiles": [
+    "02-Reading/mdnotes/@Reinhardt2023.md",
+    "02-Reading/Huang2024.md",
+    "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
+    "09-Templates/Zotero_import_note.md",
+    "02-Reading/McMahan2016.md",
+    "01-Diary/日志存档/2025-05-14.md",
     "08-Assets/Pasted image 20250514200134.png",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "09-Templates/阅读批注.md",
@@ -233,25 +223,20 @@
     "09-Templates/每周小结.md",
     "09-Templates/试剂卡片.md",
     "09-Templates/草稿模板.md",
-    "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
     "01-Diary/本周事务/FedAvg复现.md",
     "01-Diary/日志存档/2025-05-13.md",
-    "01-Diary/日志存档/2025-05-14.md",
     "08-Assets/Pasted image 20250514180928.png",
     "08-Assets/Pasted image 20250514180921.png",
     "00-MOC/阅读清单.md",
     "00-MOC/本周事务.md",
-    "02-Reading/mdnotes/@Reinhardt2023.md",
     "02-Reading/mdnotes/@Sahl2017.md",
     "02-Reading/mdnotes/@Multimodal federated learning Concept, methods, applications and future directions.md",
     "08-Assets/pdfs/2016/McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data.pdf",
     "03-Projects/99-使用obsidian搞科研/从白板新建笔记.md",
     "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md",
     "08-Assets/Scripts/Mdnotes Default Template.md",
-    "08-Assets/Scripts/dataview表格数据下载.md",
     "08-Assets/Scripts/我的文库.bib",
     "00-MOC/未命名.canvas",
-    "02-Reading/mdnotes/未命名.md",
     "08-Assets/pdfs/Information Fusion2024/Huang et al_2024_Multimodal federated learning.pdf",
     "08-Assets/pdfs/Information Fusion2024",
     "08-Assets/Pasted image 20220321141509.png",
@@ -263,7 +248,6 @@
     "08-Assets/Pasted image 20250512155413.png",
     "08-Assets/Pasted image 20230718165638.png",
     "08-Assets/Pasted image 20230718144535.png",
-    "08-Assets/Pasted image 20230718144911.png",
     "00-MOC/文献阅读白板.canvas",
     "00-MOC/未命名 4.canvas",
     "00-MOC/未命名 2.canvas",
