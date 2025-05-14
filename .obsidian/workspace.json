@@ -104,8 +104,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,15 +204,17 @@
   },
   "active": "31941b65f1286c5c",
   "lastOpenFiles": [
-    "09-Templates/实验记录.md",
+    "08-Assets/Pasted image 20250514180928.png",
+    "08-Assets/Pasted image 20250514180921.png",
+    "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
     "01-Diary/日志存档/2025-05-14.md",
+    "09-Templates/实验记录.md",
     "09-Templates/代码整理.md",
     "09-Templates/卡片模板.md",
     "09-Templates/阅读批注.md",
     "09-Templates/文献比较.md",
     "09-Templates/试剂卡片.md",
     "09-Templates/日志模板.md",
-    "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
     "00-MOC/阅读清单.md",
     "00-MOC/本周事务.md",
     "02-Reading/mdnotes/@Reinhardt2023.md",
@@ -246,14 +247,12 @@
     "08-Assets/Pasted image 20230718144911.png",
     "01-Diary/本周事务/环境配置.md",
     "01-Diary/本周事务/@McMahan2016.md",
-    "01-Diary/本周事务/第一周小结.md",
     "00-MOC/文献阅读白板.canvas",
     "00-MOC/未命名 4.canvas",
     "00-MOC/未命名 2.canvas",
     "08-Assets/pdfs/Nature Reviews Molecular Cell Biology/2017/2017_Fluorescence nanoscopy in cell biology.pdf",
     "08-Assets/pdfs/Nature/2023/2023_Ångström-resolution fluorescence microscopy.pdf",
     "08-Assets/Pasted image 20230718170012.png",
-    "08-Assets/Pasted image 20220321155719.png",
     "00-MOC/未命名 3.canvas",
     "08-Assets/pdfs/2016",
     "reserach",
