@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "使用obsidian搞科研",
+      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
+    },
+    {
+      "basename": "阅读批注",
+      "path": "09-Templates/阅读批注.md"
+    },
+    {
+      "basename": "文献比较",
+      "path": "09-Templates/文献比较.md"
+    },
+    {
+      "basename": "实验记录",
+      "path": "09-Templates/实验记录.md"
+    },
+    {
+      "basename": "大牛页面",
+      "path": "09-Templates/大牛页面.md"
+    },
+    {
+      "basename": "代码整理",
+      "path": "09-Templates/代码整理.md"
+    },
+    {
+      "basename": "卡片模板",
+      "path": "09-Templates/卡片模板.md"
+    },
+    {
+      "basename": "时间戳",
+      "path": "09-Templates/时间戳.md"
+    },
+    {
+      "basename": "日志模板",
+      "path": "09-Templates/日志模板.md"
+    },
+    {
+      "basename": "每周小结",
+      "path": "09-Templates/每周小结.md"
+    },
+    {
+      "basename": "试剂卡片",
+      "path": "09-Templates/试剂卡片.md"
+    },
+    {
+      "basename": "草稿模板",
+      "path": "09-Templates/草稿模板.md"
+    },
+    {
+      "basename": "@Communication-Efficient Learning of Deep Networks from Decentralized Data",
+      "path": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md"
+    },
+    {
       "basename": "FedAvg复现",
       "path": "01-Diary/本周事务/FedAvg复现.md"
     },
@@ -13,38 +65,6 @@
       "path": "01-Diary/日志存档/2025-05-14.md"
     },
     {
-      "basename": "@Communication-Efficient Learning of Deep Networks from Decentralized Data",
-      "path": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md"
-    },
-    {
-      "basename": "实验记录",
-      "path": "09-Templates/实验记录.md"
-    },
-    {
-      "basename": "代码整理",
-      "path": "09-Templates/代码整理.md"
-    },
-    {
-      "basename": "卡片模板",
-      "path": "09-Templates/卡片模板.md"
-    },
-    {
-      "basename": "阅读批注",
-      "path": "09-Templates/阅读批注.md"
-    },
-    {
-      "basename": "文献比较",
-      "path": "09-Templates/文献比较.md"
-    },
-    {
-      "basename": "试剂卡片",
-      "path": "09-Templates/试剂卡片.md"
-    },
-    {
-      "basename": "日志模板",
-      "path": "09-Templates/日志模板.md"
-    },
-    {
       "basename": "阅读清单",
       "path": "00-MOC/阅读清单.md"
     },
@@ -55,10 +75,6 @@
     {
       "basename": "@Reinhardt2023",
       "path": "02-Reading/mdnotes/@Reinhardt2023.md"
-    },
-    {
-      "basename": "使用obsidian搞科研",
-      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
     },
     {
       "basename": "McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data",
@@ -183,22 +199,6 @@
     {
       "basename": "202505091841",
       "path": "06-Cards/202505091841.md"
-    },
-    {
-      "basename": "202505091845",
-      "path": "06-Cards/202505091845.md"
-    },
-    {
-      "basename": "obsidan双链与知识图谱",
-      "path": "03-Projects/99-使用obsidian搞科研/obsidan双链与知识图谱.md"
-    },
-    {
-      "basename": "obsidian撰写草稿",
-      "path": "03-Projects/99-使用obsidian搞科研/obsidian撰写草稿.md"
-    },
-    {
-      "basename": "草稿模板",
-      "path": "09-Templates/草稿模板.md"
     }
   ],
   "omittedPaths": [],
