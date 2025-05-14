@@ -34,7 +34,7 @@
               "state": {
                 "file": "01-Diary/日志存档/2025-05-14.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "2025-05-14"
@@ -42,6 +42,22 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "7620adb5fadcd002",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5af0c5f1310e5ecc",
+            "type": "leaf",
+            "state": {
+              "type": "zdc-debug",
+              "state": {},
+              "icon": "gear",
+              "title": "Zotero Data Explorer"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09-Templates/实验记录.md",
+                "file": "01-Diary/日志存档/2025-05-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "实验记录 的反向链接列表"
+              "title": "2025-05-14 的反向链接列表"
             }
           }
         ],
@@ -202,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eef1bbc4add8f006",
+  "active": "5af0c5f1310e5ecc",
   "lastOpenFiles": [
     "08-Assets/Pasted image 20250514200134.png",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
