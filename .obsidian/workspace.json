@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
+                "file": "03-Projects/99-使用obsidian搞科研/软件下载安装.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "@Communication-Efficient Learning of Deep Networks from Decentralized Data"
+              "title": "软件下载安装"
             }
           }
         ],
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
+                "file": "03-Projects/99-使用obsidian搞科研/软件下载安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "@Communication-Efficient Learning of Deep Networks from Decentralized Data 的反向链接列表"
+              "title": "软件下载安装 的反向链接列表"
             }
           }
         ],
@@ -204,9 +204,9 @@
   },
   "active": "eef1bbc4add8f006",
   "lastOpenFiles": [
+    "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
     "02-Reading/mdnotes/@Reinhardt2023.md",
     "02-Reading/Huang2024.md",
-    "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
     "09-Templates/Zotero_import_note.md",
     "02-Reading/McMahan2016.md",
     "01-Diary/日志存档/2025-05-14.md",
