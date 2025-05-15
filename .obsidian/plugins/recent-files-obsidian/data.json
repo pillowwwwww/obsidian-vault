@@ -1,32 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-FedMBridge Bridgeable multimodal federated learning",
-      "path": "08-Assets/pdfs/2024-FedMBridge/2024-FedMBridge Bridgeable multimodal federated learning.pdf"
-    },
-    {
-      "basename": "3692070.3692369",
-      "path": "02-Reading/mdnotes/10.5555/3692070.3692369.md"
-    },
-    {
-      "basename": "@Communication-Efficient Learning of Deep Networks from Decentralized Data",
-      "path": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md"
-    },
-    {
       "basename": "使用obsidian搞科研",
       "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
     },
     {
-      "basename": "{{relation.citekey}}",
-      "path": "01-Diary/本周事务/{{relation.citekey}}.md"
+      "basename": "未命名",
+      "path": "09-Templates/未命名.md"
+    },
+    {
+      "basename": "Huang2024",
+      "path": "02-Reading/mdnotes/Huang2024.md"
     },
     {
       "basename": "source-notes",
       "path": "09-Templates/source-notes.md"
     },
     {
+      "basename": "草稿模板",
+      "path": "09-Templates/草稿模板.md"
+    },
+    {
+      "basename": "试剂卡片",
+      "path": "09-Templates/试剂卡片.md"
+    },
+    {
+      "basename": "阅读批注",
+      "path": "09-Templates/阅读批注.md"
+    },
+    {
+      "basename": "文献比较",
+      "path": "09-Templates/文献比较.md"
+    },
+    {
+      "basename": "日志模板",
+      "path": "09-Templates/日志模板.md"
+    },
+    {
       "basename": "Zotero_import_note",
       "path": "09-Templates/Zotero_import_note.md"
+    },
+    {
+      "basename": "Pasted image 20220321143352",
+      "path": "08-Assets/Pasted image 20220321143352.png"
+    },
+    {
+      "basename": "Pasted image 20230717203051",
+      "path": "08-Assets/Pasted image 20230717203051.png"
+    },
+    {
+      "basename": "Pasted image 20230718144649",
+      "path": "08-Assets/Pasted image 20230718144649.png"
+    },
+    {
+      "basename": "Pasted image 20230718150227",
+      "path": "08-Assets/Pasted image 20230718150227.png"
+    },
+    {
+      "basename": "Pasted image 20250512155413",
+      "path": "08-Assets/Pasted image 20250512155413.png"
+    },
+    {
+      "basename": "Pasted image 20250514180921",
+      "path": "08-Assets/Pasted image 20250514180921.png"
+    },
+    {
+      "basename": "Pasted image 20250514200134",
+      "path": "08-Assets/Pasted image 20250514200134.png"
+    },
+    {
+      "basename": "@Communication-Efficient Learning of Deep Networks from Decentralized Data",
+      "path": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md"
+    },
+    {
+      "basename": "2024-FedMBridge Bridgeable multimodal federated learning",
+      "path": "08-Assets/pdfs/2024-FedMBridge/2024-FedMBridge Bridgeable multimodal federated learning.pdf"
+    },
+    {
+      "basename": "{{relation.citekey}}",
+      "path": "01-Diary/本周事务/{{relation.citekey}}.md"
     },
     {
       "basename": "@Reinhardt2023",
@@ -77,14 +129,6 @@
       "path": "01-Diary/日志存档/2025-05-14.md"
     },
     {
-      "basename": "阅读批注",
-      "path": "09-Templates/阅读批注.md"
-    },
-    {
-      "basename": "文献比较",
-      "path": "09-Templates/文献比较.md"
-    },
-    {
       "basename": "实验记录",
       "path": "09-Templates/实验记录.md"
     },
@@ -105,20 +149,8 @@
       "path": "09-Templates/时间戳.md"
     },
     {
-      "basename": "日志模板",
-      "path": "09-Templates/日志模板.md"
-    },
-    {
       "basename": "每周小结",
       "path": "09-Templates/每周小结.md"
-    },
-    {
-      "basename": "试剂卡片",
-      "path": "09-Templates/试剂卡片.md"
-    },
-    {
-      "basename": "草稿模板",
-      "path": "09-Templates/草稿模板.md"
     },
     {
       "basename": "FedAvg复现",
@@ -157,10 +189,6 @@
       "path": "08-Assets/Pasted image 20220321141509.png"
     },
     {
-      "basename": "Pasted image 20220321143352",
-      "path": "08-Assets/Pasted image 20220321143352.png"
-    },
-    {
       "basename": "列表缩进",
       "path": "08-Assets/列表缩进.gif"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Pasted image 20250512155457",
       "path": "08-Assets/Pasted image 20250512155457.png"
-    },
-    {
-      "basename": "Pasted image 20250512155413",
-      "path": "08-Assets/Pasted image 20250512155413.png"
-    },
-    {
-      "basename": "Pasted image 20230718165638",
-      "path": "08-Assets/Pasted image 20230718165638.png"
-    },
-    {
-      "basename": "Pasted image 20230718144535",
-      "path": "08-Assets/Pasted image 20230718144535.png"
-    },
-    {
-      "basename": "Pasted image 20230718144911",
-      "path": "08-Assets/Pasted image 20230718144911.png"
-    },
-    {
-      "basename": "环境配置",
-      "path": "01-Diary/本周事务/环境配置.md"
-    },
-    {
-      "basename": "第一周小结",
-      "path": "01-Diary/本周事务/第一周小结.md"
-    },
-    {
-      "basename": "文献阅读白板",
-      "path": "00-MOC/文献阅读白板.canvas"
     }
   ],
   "omittedPaths": [],

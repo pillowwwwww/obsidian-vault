@@ -1,5 +1,5 @@
 --- 
-Title: "{{title | escape}}"
+title: "{{title | escape}}"
 Year: {{date | format("YYYY")}}
 Authors: {{authors}}
 Tags: {% if allTags %}{{allTags}}{% endif %}

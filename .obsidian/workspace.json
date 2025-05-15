@@ -25,21 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "使用obsidian搞科研"
             }
-          },
-          {
-            "id": "6611717342813ccd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "08-Assets/pdfs/2024-FedMBridge/2024-FedMBridge Bridgeable multimodal federated learning.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2024-FedMBridge Bridgeable multimodal federated learning"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08-Assets/pdfs/2024-FedMBridge/2024-FedMBridge Bridgeable multimodal federated learning.pdf",
+                "file": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2024-FedMBridge Bridgeable multimodal federated learning 的反向链接列表"
+              "title": "使用obsidian搞科研 的反向链接列表"
             }
           }
         ],
@@ -184,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,17 +187,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6611717342813ccd",
+  "active": "9b448d9d679bf6dd",
   "lastOpenFiles": [
-    "02-Reading/mdnotes/10.5555/3692070.3692369.md",
-    "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
+    "09-Templates/未命名.md",
+    "02-Reading/mdnotes/Huang2024.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
-    "01-Diary/本周事务/{{relation.citekey}}.md",
     "09-Templates/source-notes.md",
-    "02-Reading/mdnotes/10.5555",
+    "09-Templates/草稿模板.md",
+    "09-Templates/试剂卡片.md",
+    "09-Templates/阅读批注.md",
+    "09-Templates/文献比较.md",
+    "09-Templates/日志模板.md",
     "09-Templates/Zotero_import_note.md",
-    "02-Reading/mdnotes/test.md",
+    "08-Assets/Pasted image 20220321143352.png",
+    "08-Assets/Pasted image 20230717203051.png",
+    "08-Assets/Pasted image 20230718144649.png",
+    "08-Assets/Pasted image 20230718150227.png",
+    "08-Assets/Pasted image 20250512155413.png",
+    "08-Assets/Pasted image 20250514180921.png",
+    "08-Assets/Pasted image 20250514200134.png",
+    "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
     "08-Assets/pdfs/2024-FedMBridge/2024-FedMBridge Bridgeable multimodal federated learning.pdf",
+    "02-Reading/mdnotes/10.5555/3692070.3692369.md",
+    "01-Diary/本周事务/{{relation.citekey}}.md",
+    "02-Reading/mdnotes/10.5555",
+    "02-Reading/mdnotes/test.md",
     "08-Assets/pdfs/2024-FedMBridge/Chen和Zhang2024 - .pdf",
     "02-Reading/mdnotes/@Reinhardt2023.md",
     "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md",
@@ -220,20 +222,12 @@
     "02-Reading/Huang2024.md",
     "02-Reading/McMahan2016.md",
     "01-Diary/日志存档/2025-05-14.md",
-    "08-Assets/Pasted image 20250514200134.png",
-    "09-Templates/阅读批注.md",
-    "09-Templates/文献比较.md",
     "09-Templates/实验记录.md",
     "09-Templates/大牛页面.md",
     "09-Templates/代码整理.md",
     "09-Templates/卡片模板.md",
     "09-Templates/时间戳.md",
-    "09-Templates/日志模板.md",
-    "09-Templates/每周小结.md",
-    "09-Templates/试剂卡片.md",
-    "09-Templates/草稿模板.md",
     "08-Assets/Pasted image 20250514180928.png",
-    "08-Assets/Pasted image 20250514180921.png",
     "08-Assets/pdfs/2016/McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data.pdf",
     "08-Assets/Scripts/我的文库.bib",
     "00-MOC/未命名.canvas",
@@ -241,13 +235,8 @@
     "08-Assets/pdfs/Information Fusion2024",
     "08-Assets/Pasted image 20220321141509.png",
     "03-Projects/99-使用obsidian搞科研/obsidian_vault_template_for_graduate_student - 快捷方式.lnk",
-    "08-Assets/Pasted image 20220321143352.png",
     "08-Assets/列表缩进.gif",
     "08-Assets/陈致逸,HOYO-MiX - Dawn Winery Theme 晨曦酒庄.mp3",
-    "08-Assets/Pasted image 20250512155457.png",
-    "08-Assets/Pasted image 20250512155413.png",
-    "08-Assets/Pasted image 20230718165638.png",
-    "08-Assets/Pasted image 20230718144535.png",
     "00-MOC/文献阅读白板.canvas",
     "00-MOC/未命名 4.canvas",
     "00-MOC/未命名 2.canvas",

@@ -120,7 +120,5 @@
   "blue-topaz-theme@@hide-vault-name": true,
   "blue-topaz-theme@@toggle-calendar-shadow": true,
   "blue-topaz-theme@@toggle-calendar-transparent": true,
-  "blue-topaz-theme@@layout-style-options": "layout-style-options-rectangle",
-  "blue-topaz-theme@@canvas-card-text-middle": true,
-  "blue-topaz-theme@@canvas-card-focus-mode": true
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-rectangle"
 }
