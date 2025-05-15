@@ -1,9 +1,10 @@
-
 ---
- Title: "Communication-Efficient Learning of Deep Networks from Decentralized Data" 
- Year: 2016 
- Authors: H. Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, Blaise Agüera y Arcas 
- Tags: FedAvg 
+title: "Communication-Efficient Learning of Deep Networks from Decentralized Data"
+Year: 2016
+Authors: H. Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, Blaise Agüera y Arcas
+
+tags: ["F", "e", "d", "A", "v", "g"]
+
 ---
 Zotero PDF Link: [McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data.pdf](zotero://select/library/items/B5AKWBL6)
 Related::  
@@ -24,4 +25,4 @@ Write notes here!
  
  
 
-%% Import Date: 2025-05-15T17:10:58.925+08:00 %%
+%% Import Date: 2025-05-15T17:20:55.103+08:00 %%

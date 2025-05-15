@@ -5,16 +5,16 @@
       "path": "02-Reading/mdnotes/McMahan2016.md"
     },
     {
-      "basename": "@Communication-Efficient Learning of Deep Networks from Decentralized Data",
-      "path": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md"
-    },
-    {
       "basename": "source-notes",
       "path": "09-Templates/source-notes.md"
     },
     {
       "basename": "草稿模板",
       "path": "09-Templates/草稿模板.md"
+    },
+    {
+      "basename": "@Communication-Efficient Learning of Deep Networks from Decentralized Data",
+      "path": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md"
     },
     {
       "basename": "使用obsidian搞科研",

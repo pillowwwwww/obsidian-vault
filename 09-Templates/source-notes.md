@@ -1,9 +1,12 @@
-
 ---
- Title: "{{title | escape}}" 
- Year: {{date | format("YYYY")}} 
- Authors: {{authors}} 
- Tags: {% if allTags %}{{allTags}}{% endif %} 
+title: "{{title | escape}}"
+Year: {{date | format("YYYY")}}
+Authors: {{authors}}
+{% if allTags and allTags.length > 0 %}
+tags: [{% for tag in allTags %}"{{tag}}"{% if not loop.last %}, {% endif %}{% endfor %}]
+{% else %}
+tags: []
+{% endif %}
 ---
 Zotero PDF Link: {{pdfZoteroLink}}
 Related:: {% for relation in relations | selectattr("citekey") %} [[{{relation.citekey}}]]{% if not loop.last %}, {% endif%} {% endfor %} 
