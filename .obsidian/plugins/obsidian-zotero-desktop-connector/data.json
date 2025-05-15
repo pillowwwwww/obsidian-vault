@@ -14,8 +14,8 @@
   "exportFormats": [
     {
       "name": "my_import",
-      "outputPathTemplate": "02-Reading/{{citekey}}.md",
-      "imageOutputPathTemplate": "{{citekey}}/images",
+      "outputPathTemplate": "02-Reading/mdnotes/{{citekey}}.md",
+      "imageOutputPathTemplate": "02-Reading/mdnotes/{{citekey}}/",
       "imageBaseNameTemplate": "image",
       "templatePath": "09-Templates/Zotero_import_note.md",
       "cslStyle": "apa"
