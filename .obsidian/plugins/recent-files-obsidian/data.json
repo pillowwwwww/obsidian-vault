@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "zotero-obsidian联动配置",
+      "path": "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md"
+    },
+    {
+      "basename": "软件下载安装",
+      "path": "03-Projects/99-使用obsidian搞科研/软件下载安装.md"
+    },
+    {
+      "basename": "试剂耗材仪器建卡管理",
+      "path": "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md"
+    },
+    {
       "basename": "obsidan双链与知识图谱",
       "path": "03-Projects/99-使用obsidian搞科研/obsidan双链与知识图谱.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "使用obsidian搞科研",
       "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
-    },
-    {
-      "basename": "试剂耗材仪器建卡管理",
-      "path": "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md"
     },
     {
       "basename": "从白板新建笔记",
@@ -31,10 +39,6 @@
     {
       "basename": "2025-05-15",
       "path": "01-Diary/日志存档/2025-05-15.md"
-    },
-    {
-      "basename": "软件下载安装",
-      "path": "03-Projects/99-使用obsidian搞科研/软件下载安装.md"
     },
     {
       "basename": "@Communication-Efficient Learning of Deep Networks from Decentralized Data",
@@ -115,10 +119,6 @@
     {
       "basename": "McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data",
       "path": "08-Assets/pdfs/2016/McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data.pdf"
-    },
-    {
-      "basename": "zotero-obsidian联动配置",
-      "path": "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md"
     },
     {
       "basename": "Mdnotes Default Template",

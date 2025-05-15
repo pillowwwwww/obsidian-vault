@@ -30,17 +30,14 @@
             "id": "eef1bbc4add8f006",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
-                "viewState": {
-                  "x": 1944.2701758426358,
-                  "y": -228.53878762277145,
-                  "zoom": -0.3333333375161155
-                }
+                "file": "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "使用obsidian搞科研"
+              "icon": "lucide-file",
+              "title": "zotero-obsidian联动配置"
             }
           }
         ],
@@ -171,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Projects/99-使用obsidian搞科研/软件下载安装.md",
+                "file": "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +178,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "软件下载安装 的反向链接列表"
+              "title": "zotero-obsidian联动配置 的反向链接列表"
             }
           }
         ],
@@ -207,8 +204,10 @@
   },
   "active": "eef1bbc4add8f006",
   "lastOpenFiles": [
-    "01-Diary/日志存档/2025-05-15.md",
     "03-Projects/99-使用obsidian搞科研/软件下载安装.md",
+    "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md",
+    "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
+    "01-Diary/日志存档/2025-05-15.md",
     "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
     "02-Reading/mdnotes/@Reinhardt2023.md",
     "02-Reading/Huang2024.md",
@@ -216,7 +215,6 @@
     "02-Reading/McMahan2016.md",
     "01-Diary/日志存档/2025-05-14.md",
     "08-Assets/Pasted image 20250514200134.png",
-    "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "09-Templates/阅读批注.md",
     "09-Templates/文献比较.md",
     "09-Templates/实验记录.md",
@@ -237,7 +235,6 @@
     "02-Reading/mdnotes/@Sahl2017.md",
     "02-Reading/mdnotes/@Multimodal federated learning Concept, methods, applications and future directions.md",
     "08-Assets/pdfs/2016/McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data.pdf",
-    "03-Projects/99-使用obsidian搞科研/从白板新建笔记.md",
     "08-Assets/Scripts/我的文库.bib",
     "00-MOC/未命名.canvas",
     "08-Assets/pdfs/Information Fusion2024/Huang et al_2024_Multimodal federated learning.pdf",
