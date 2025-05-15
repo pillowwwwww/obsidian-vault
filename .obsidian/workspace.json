@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Reading/mdnotes/McMahan2016.md",
-                "mode": "source",
+                "file": "02-Reading/mdnotes/10.5555/3692070.3692369.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "McMahan2016"
+              "title": "3692070.3692369"
             }
           }
         ],
@@ -108,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.50328826904297
+    "width": 286.50328826904297
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Reading/mdnotes/McMahan2016.md",
+                "file": "02-Reading/mdnotes/10.5555/3692070.3692369.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "McMahan2016 的反向链接列表"
+              "title": "3692070.3692369 的反向链接列表"
             }
           }
         ],
@@ -186,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,15 +201,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2e46fd319a95104",
+  "active": "3090910a3bbb4bfa",
   "lastOpenFiles": [
-    "09-Templates/source-notes.md",
     "02-Reading/mdnotes/McMahan2016.md",
+    "02-Reading/mdnotes/10.5555/3692070.3692369.md",
+    "02-Reading/mdnotes/10.5555",
+    "09-Templates/source-notes.md",
     "09-Templates/草稿模板.md",
     "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
-    "02-Reading/mdnotes/10.5555/3692070.3692369.md",
-    "02-Reading/mdnotes/10.5555",
     "02-Reading/mdnotes/@Reinhardt2023.md",
     "09-Templates/Zotero_import_note.md",
     "09-Templates/试剂卡片.md",
