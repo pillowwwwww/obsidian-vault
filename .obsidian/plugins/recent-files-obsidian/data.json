@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "09-Templates/未命名.md"
+    },
+    {
+      "basename": "Zotero_import_note",
+      "path": "09-Templates/Zotero_import_note.md"
+    },
+    {
+      "basename": "2024-FedMBridge Bridgeable multimodal federated learning",
+      "path": "08-Assets/pdfs/2024-FedMBridge/2024-FedMBridge Bridgeable multimodal federated learning.pdf"
+    },
+    {
       "basename": "使用obsidian搞科研",
       "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
     },
@@ -51,10 +63,6 @@
     {
       "basename": "2025-05-15",
       "path": "01-Diary/日志存档/2025-05-15.md"
-    },
-    {
-      "basename": "Zotero_import_note",
-      "path": "09-Templates/Zotero_import_note.md"
     },
     {
       "basename": "2025-05-14",
@@ -191,14 +199,6 @@
     {
       "basename": "愿望清单",
       "path": "00-MOC/愿望清单.md"
-    },
-    {
-      "basename": "202505131639",
-      "path": "06-Cards/202505131639.md"
-    },
-    {
-      "basename": "python基础知识",
-      "path": "01-Diary/本周事务/python基础知识.md"
     }
   ],
   "omittedPaths": [],
