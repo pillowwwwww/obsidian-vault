@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Zotero_import_note",
-      "path": "09-Templates/Zotero_import_note.md"
+      "basename": "2024-FedMBridge Bridgeable multimodal federated learning",
+      "path": "08-Assets/pdfs/2024-FedMBridge/2024-FedMBridge Bridgeable multimodal federated learning.pdf"
     },
     {
-      "basename": "source-notes",
-      "path": "09-Templates/source-notes.md"
+      "basename": "3692070.3692369",
+      "path": "02-Reading/mdnotes/10.5555/3692070.3692369.md"
     },
     {
       "basename": "@Communication-Efficient Learning of Deep Networks from Decentralized Data",
       "path": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md"
     },
     {
-      "basename": "2024-FedMBridge Bridgeable multimodal federated learning",
-      "path": "08-Assets/pdfs/2024-FedMBridge/2024-FedMBridge Bridgeable multimodal federated learning.pdf"
-    },
-    {
       "basename": "使用obsidian搞科研",
       "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
+    },
+    {
+      "basename": "{{relation.citekey}}",
+      "path": "01-Diary/本周事务/{{relation.citekey}}.md"
+    },
+    {
+      "basename": "source-notes",
+      "path": "09-Templates/source-notes.md"
+    },
+    {
+      "basename": "Zotero_import_note",
+      "path": "09-Templates/Zotero_import_note.md"
     },
     {
       "basename": "@Reinhardt2023",
@@ -191,10 +199,6 @@
     {
       "basename": "文献阅读白板",
       "path": "00-MOC/文献阅读白板.canvas"
-    },
-    {
-      "basename": "试剂管理",
-      "path": "00-MOC/试剂管理.md"
     }
   ],
   "omittedPaths": [],
