@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Projects/99-使用obsidian搞科研/软件下载安装.md",
-                "mode": "preview",
+                "file": "01-Diary/日志存档/2025-05-15.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "软件下载安装"
+              "title": "2025-05-15"
             }
           }
         ],
@@ -104,7 +104,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -204,6 +205,8 @@
   },
   "active": "eef1bbc4add8f006",
   "lastOpenFiles": [
+    "03-Projects/99-使用obsidian搞科研/软件下载安装.md",
+    "01-Diary/日志存档/2025-05-15.md",
     "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
     "02-Reading/mdnotes/@Reinhardt2023.md",
     "02-Reading/Huang2024.md",
@@ -233,8 +236,6 @@
     "02-Reading/mdnotes/@Multimodal federated learning Concept, methods, applications and future directions.md",
     "08-Assets/pdfs/2016/McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data.pdf",
     "03-Projects/99-使用obsidian搞科研/从白板新建笔记.md",
-    "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md",
-    "08-Assets/Scripts/Mdnotes Default Template.md",
     "08-Assets/Scripts/我的文库.bib",
     "00-MOC/未命名.canvas",
     "08-Assets/pdfs/Information Fusion2024/Huang et al_2024_Multimodal federated learning.pdf",
