@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "09-Templates/未命名.md"
-    },
-    {
       "basename": "Zotero_import_note",
       "path": "09-Templates/Zotero_import_note.md"
+    },
+    {
+      "basename": "source-notes",
+      "path": "09-Templates/source-notes.md"
+    },
+    {
+      "basename": "@Communication-Efficient Learning of Deep Networks from Decentralized Data",
+      "path": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md"
     },
     {
       "basename": "2024-FedMBridge Bridgeable multimodal federated learning",
@@ -19,10 +23,6 @@
     {
       "basename": "@Reinhardt2023",
       "path": "02-Reading/mdnotes/@Reinhardt2023.md"
-    },
-    {
-      "basename": "@Communication-Efficient Learning of Deep Networks from Decentralized Data",
-      "path": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md"
     },
     {
       "basename": "用obsidian写日志",
@@ -195,10 +195,6 @@
     {
       "basename": "试剂管理",
       "path": "00-MOC/试剂管理.md"
-    },
-    {
-      "basename": "愿望清单",
-      "path": "00-MOC/愿望清单.md"
     }
   ],
   "omittedPaths": [],

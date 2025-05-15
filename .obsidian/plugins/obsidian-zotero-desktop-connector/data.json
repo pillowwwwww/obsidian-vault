@@ -14,10 +14,10 @@
   "exportFormats": [
     {
       "name": "my_import",
-      "outputPathTemplate": "02-Reading/mdnotes/{{citekey}}.md",
+      "outputPathTemplate": "02-Reading/mdnotes/{%y}-{%t}.md",
       "imageOutputPathTemplate": "02-Reading/mdnotes/{{citekey}}/",
       "imageBaseNameTemplate": "image",
-      "templatePath": "09-Templates/Zotero_import_note.md",
+      "templatePath": "09-Templates/source-notes.md",
       "cslStyle": "apa"
     }
   ],

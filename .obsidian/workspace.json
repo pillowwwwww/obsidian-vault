@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09-Templates/未命名.md",
-                "mode": "source",
+                "file": "09-Templates/Zotero_import_note.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Zotero_import_note"
             }
           }
         ],
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09-Templates/未命名.md",
+                "file": "09-Templates/Zotero_import_note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "Zotero_import_note 的反向链接列表"
             }
           }
         ],
@@ -186,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,13 +203,16 @@
   },
   "active": "72e9597bb0890466",
   "lastOpenFiles": [
+    "09-Templates/source-notes.md",
+    "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
+    "02-Reading/mdnotes/test.md",
+    "02-Reading/mdnotes/10.5555/3692070.3692369.md",
+    "02-Reading/mdnotes/10.5555",
     "09-Templates/Zotero_import_note.md",
-    "09-Templates/未命名.md",
     "08-Assets/pdfs/2024-FedMBridge/2024-FedMBridge Bridgeable multimodal federated learning.pdf",
     "08-Assets/pdfs/2024-FedMBridge/Chen和Zhang2024 - .pdf",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "02-Reading/mdnotes/@Reinhardt2023.md",
-    "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
     "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md",
     "08-Assets/pdfs/2024-FedMBridge",
     "03-Projects/99-使用obsidian搞科研/软件下载安装.md",
@@ -235,8 +237,6 @@
     "01-Diary/日志存档/2025-05-13.md",
     "08-Assets/Pasted image 20250514180928.png",
     "08-Assets/Pasted image 20250514180921.png",
-    "00-MOC/阅读清单.md",
-    "00-MOC/本周事务.md",
     "08-Assets/pdfs/2016/McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data.pdf",
     "08-Assets/Scripts/我的文库.bib",
     "00-MOC/未命名.canvas",
@@ -254,7 +254,6 @@
     "00-MOC/文献阅读白板.canvas",
     "00-MOC/未命名 4.canvas",
     "00-MOC/未命名 2.canvas",
-    "08-Assets/pdfs/Nature Reviews Molecular Cell Biology/2017/2017_Fluorescence nanoscopy in cell biology.pdf",
     "00-MOC/未命名 3.canvas",
     "00-MOC/未命名 1.canvas",
     "00-MOC/obsidian升级内容.canvas"
