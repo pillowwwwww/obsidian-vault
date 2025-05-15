@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09-Templates/source-notes.md",
+                "file": "02-Reading/mdnotes/McMahan2016.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "source-notes"
+              "title": "McMahan2016"
             }
           }
         ],
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09-Templates/source-notes.md",
+                "file": "02-Reading/mdnotes/McMahan2016.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "source-notes 的反向链接列表"
+              "title": "McMahan2016 的反向链接列表"
             }
           }
         ],
@@ -204,19 +204,19 @@
   },
   "active": "e2e46fd319a95104",
   "lastOpenFiles": [
+    "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
+    "02-Reading/mdnotes/McMahan2016.md",
+    "09-Templates/source-notes.md",
+    "09-Templates/草稿模板.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "02-Reading/mdnotes/10.5555/3692070.3692369.md",
-    "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
     "02-Reading/mdnotes/10.5555",
     "02-Reading/mdnotes/@Reinhardt2023.md",
-    "09-Templates/source-notes.md",
     "09-Templates/Zotero_import_note.md",
-    "09-Templates/草稿模板.md",
     "09-Templates/试剂卡片.md",
     "09-Templates/阅读批注.md",
     "09-Templates/文献比较.md",
     "09-Templates/未命名.md",
-    "02-Reading/mdnotes/McMahan2016.md",
     "02-Reading/mdnotes/Huang2024.md",
     "02-Reading/mdnotes/未命名.md",
     "09-Templates/日志模板.md",
