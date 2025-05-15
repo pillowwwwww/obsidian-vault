@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "使用obsidian搞科研",
-      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
-    },
-    {
-      "basename": "未命名",
-      "path": "09-Templates/未命名.md"
+      "basename": "source-notes",
+      "path": "09-Templates/source-notes.md"
     },
     {
       "basename": "Huang2024",
       "path": "02-Reading/mdnotes/Huang2024.md"
     },
     {
-      "basename": "source-notes",
-      "path": "09-Templates/source-notes.md"
+      "basename": "@Communication-Efficient Learning of Deep Networks from Decentralized Data",
+      "path": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md"
+    },
+    {
+      "basename": "使用obsidian搞科研",
+      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
+    },
+    {
+      "basename": "未命名",
+      "path": "09-Templates/未命名.md"
     },
     {
       "basename": "草稿模板",
@@ -67,10 +71,6 @@
     {
       "basename": "Pasted image 20250514200134",
       "path": "08-Assets/Pasted image 20250514200134.png"
-    },
-    {
-      "basename": "@Communication-Efficient Learning of Deep Networks from Decentralized Data",
-      "path": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md"
     },
     {
       "basename": "2024-FedMBridge Bridgeable multimodal federated learning",

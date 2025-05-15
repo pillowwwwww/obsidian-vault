@@ -16,6 +16,6 @@
     "【自定义】mytools 样式",
     "【图标】iconfont"
   ],
-  "baseFontSizeAction": false,
+  "baseFontSizeAction": true,
   "accentColor": ""
 }
