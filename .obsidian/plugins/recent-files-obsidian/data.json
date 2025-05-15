@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "obsidan双链与知识图谱",
+      "path": "03-Projects/99-使用obsidian搞科研/obsidan双链与知识图谱.md"
+    },
+    {
+      "basename": "obsidian白板教程",
+      "path": "03-Projects/99-使用obsidian搞科研/obsidian白板教程.md"
+    },
+    {
+      "basename": "使用obsidian搞科研",
+      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
+    },
+    {
+      "basename": "试剂耗材仪器建卡管理",
+      "path": "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md"
+    },
+    {
+      "basename": "从白板新建笔记",
+      "path": "03-Projects/99-使用obsidian搞科研/从白板新建笔记.md"
+    },
+    {
+      "basename": "obsidian撰写草稿",
+      "path": "03-Projects/99-使用obsidian搞科研/obsidian撰写草稿.md"
+    },
+    {
+      "basename": "用obsidian阅读文献",
+      "path": "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md"
+    },
+    {
       "basename": "2025-05-15",
       "path": "01-Diary/日志存档/2025-05-15.md"
     },
@@ -23,10 +51,6 @@
     {
       "basename": "2025-05-14",
       "path": "01-Diary/日志存档/2025-05-14.md"
-    },
-    {
-      "basename": "使用obsidian搞科研",
-      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
     },
     {
       "basename": "阅读批注",
@@ -91,10 +115,6 @@
     {
       "basename": "McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data",
       "path": "08-Assets/pdfs/2016/McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data.pdf"
-    },
-    {
-      "basename": "从白板新建笔记",
-      "path": "03-Projects/99-使用obsidian搞科研/从白板新建笔记.md"
     },
     {
       "basename": "zotero-obsidian联动配置",
@@ -173,32 +193,12 @@
       "path": "03-Projects/99-使用obsidian搞科研/用obsidian写日志.md"
     },
     {
-      "basename": "用obsidian阅读文献",
-      "path": "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md"
-    },
-    {
-      "basename": "试剂耗材仪器建卡管理",
-      "path": "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md"
-    },
-    {
       "basename": "202505131639",
       "path": "06-Cards/202505131639.md"
     },
     {
       "basename": "python基础知识",
       "path": "01-Diary/本周事务/python基础知识.md"
-    },
-    {
-      "basename": "2025-05-12",
-      "path": "01-Diary/日志存档/2025-05-12.md"
-    },
-    {
-      "basename": "2025-05-09",
-      "path": "01-Diary/日志存档/2025-05-09.md"
-    },
-    {
-      "basename": "2025-05-10",
-      "path": "01-Diary/日志存档/2025-05-10.md"
     }
   ],
   "omittedPaths": [],

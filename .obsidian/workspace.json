@@ -30,14 +30,17 @@
             "id": "eef1bbc4add8f006",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01-Diary/日志存档/2025-05-15.md",
-                "mode": "source",
-                "source": true
+                "file": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
+                "viewState": {
+                  "x": 1944.2701758426358,
+                  "y": -228.53878762277145,
+                  "zoom": -0.3333333375161155
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-05-15"
+              "icon": "lucide-layout-dashboard",
+              "title": "使用obsidian搞科研"
             }
           }
         ],
@@ -104,8 +107,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,8 +207,8 @@
   },
   "active": "eef1bbc4add8f006",
   "lastOpenFiles": [
-    "03-Projects/99-使用obsidian搞科研/软件下载安装.md",
     "01-Diary/日志存档/2025-05-15.md",
+    "03-Projects/99-使用obsidian搞科研/软件下载安装.md",
     "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
     "02-Reading/mdnotes/@Reinhardt2023.md",
     "02-Reading/Huang2024.md",
