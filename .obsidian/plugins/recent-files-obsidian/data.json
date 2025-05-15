@@ -5,20 +5,16 @@
       "path": "09-Templates/source-notes.md"
     },
     {
-      "basename": "Huang2024",
-      "path": "02-Reading/mdnotes/Huang2024.md"
+      "basename": "使用obsidian搞科研",
+      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
     },
     {
       "basename": "@Communication-Efficient Learning of Deep Networks from Decentralized Data",
       "path": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md"
     },
     {
-      "basename": "使用obsidian搞科研",
-      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
-    },
-    {
-      "basename": "未命名",
-      "path": "09-Templates/未命名.md"
+      "basename": "@Reinhardt2023",
+      "path": "02-Reading/mdnotes/@Reinhardt2023.md"
     },
     {
       "basename": "草稿模板",
@@ -39,10 +35,6 @@
     {
       "basename": "日志模板",
       "path": "09-Templates/日志模板.md"
-    },
-    {
-      "basename": "Zotero_import_note",
-      "path": "09-Templates/Zotero_import_note.md"
     },
     {
       "basename": "Pasted image 20220321143352",
@@ -79,10 +71,6 @@
     {
       "basename": "{{relation.citekey}}",
       "path": "01-Diary/本周事务/{{relation.citekey}}.md"
-    },
-    {
-      "basename": "@Reinhardt2023",
-      "path": "02-Reading/mdnotes/@Reinhardt2023.md"
     },
     {
       "basename": "用obsidian写日志",
@@ -195,10 +183,6 @@
     {
       "basename": "陈致逸,HOYO-MiX - Dawn Winery Theme 晨曦酒庄",
       "path": "08-Assets/陈致逸,HOYO-MiX - Dawn Winery Theme 晨曦酒庄.mp3"
-    },
-    {
-      "basename": "Pasted image 20250512155457",
-      "path": "08-Assets/Pasted image 20250512155457.png"
     }
   ],
   "omittedPaths": [],

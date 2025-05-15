@@ -27,14 +27,14 @@
             }
           },
           {
-            "id": "511bf131f4c2d0dd",
+            "id": "e2e46fd319a95104",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "09-Templates/source-notes.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "source-notes"
@@ -202,19 +202,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "511bf131f4c2d0dd",
+  "active": "e2e46fd319a95104",
   "lastOpenFiles": [
-    "02-Reading/mdnotes/Huang2024.md",
-    "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
-    "09-Templates/source-notes.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
-    "09-Templates/未命名.md",
+    "02-Reading/mdnotes/10.5555/3692070.3692369.md",
+    "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
+    "02-Reading/mdnotes/10.5555",
+    "02-Reading/mdnotes/@Reinhardt2023.md",
+    "09-Templates/source-notes.md",
+    "09-Templates/Zotero_import_note.md",
     "09-Templates/草稿模板.md",
     "09-Templates/试剂卡片.md",
     "09-Templates/阅读批注.md",
     "09-Templates/文献比较.md",
+    "09-Templates/未命名.md",
+    "02-Reading/mdnotes/McMahan2016.md",
+    "02-Reading/mdnotes/Huang2024.md",
+    "02-Reading/mdnotes/未命名.md",
     "09-Templates/日志模板.md",
-    "09-Templates/Zotero_import_note.md",
     "08-Assets/Pasted image 20220321143352.png",
     "08-Assets/Pasted image 20230717203051.png",
     "08-Assets/Pasted image 20230718144649.png",
@@ -223,12 +228,9 @@
     "08-Assets/Pasted image 20250514180921.png",
     "08-Assets/Pasted image 20250514200134.png",
     "08-Assets/pdfs/2024-FedMBridge/2024-FedMBridge Bridgeable multimodal federated learning.pdf",
-    "02-Reading/mdnotes/10.5555/3692070.3692369.md",
     "01-Diary/本周事务/{{relation.citekey}}.md",
-    "02-Reading/mdnotes/10.5555",
     "02-Reading/mdnotes/test.md",
     "08-Assets/pdfs/2024-FedMBridge/Chen和Zhang2024 - .pdf",
-    "02-Reading/mdnotes/@Reinhardt2023.md",
     "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md",
     "08-Assets/pdfs/2024-FedMBridge",
     "03-Projects/99-使用obsidian搞科研/软件下载安装.md",
@@ -239,8 +241,6 @@
     "01-Diary/日志存档/2025-05-14.md",
     "09-Templates/实验记录.md",
     "09-Templates/大牛页面.md",
-    "09-Templates/代码整理.md",
-    "09-Templates/卡片模板.md",
     "08-Assets/Pasted image 20250514180928.png",
     "08-Assets/pdfs/2016/McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data.pdf",
     "08-Assets/Scripts/我的文库.bib",
