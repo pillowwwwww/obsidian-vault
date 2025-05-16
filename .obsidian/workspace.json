@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/机器学习基本概念.md",
+                "file": "01-Diary/本周事务/神经网络.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "机器学习基本概念"
+              "title": "神经网络"
             }
           }
         ],
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-Cards/机器学习基本概念.md",
+                "file": "01-Diary/本周事务/神经网络.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "机器学习基本概念 的大纲"
+              "title": "神经网络 的大纲"
             }
           },
           {
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-Cards/机器学习基本概念.md",
+                "file": "01-Diary/本周事务/神经网络.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "机器学习基本概念 的反向链接列表"
+              "title": "神经网络 的反向链接列表"
             }
           }
         ],
@@ -203,14 +203,16 @@
   },
   "active": "a87b221c5348c627",
   "lastOpenFiles": [
+    "08-Assets/Pasted image 20250516164511.png",
+    "01-Diary/本周事务/{{relation.citekey}}.md",
+    "06-Cards/机器学习基本概念.md",
+    "01-Diary/本周事务/神经网络.md",
     "09-Templates/source-notes.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "06-Cards/202505131639.md",
     "06-Cards/未命名.md",
     "06-Cards/202307181606.md",
-    "06-Cards/机器学习基本概念.md",
     "02-Reading/mdnotes/2024ICML FedMBridge/3692070.3692369.md",
-    "01-Diary/本周事务/神经网络.md",
     "08-Assets/md15b3twH2KXygeIxapo 2.webp",
     "08-Assets/md15b3twH2KXygeIxapo 1.webp",
     "08-Assets/md15b3twH2KXygeIxapo.webp",
@@ -233,7 +235,6 @@
     "00-MOC/阅读清单.md",
     "00-MOC/愿望清单.md",
     "06-Cards/202505091841.md",
-    "06-Cards/202505091845.md",
     "02-Reading/mdnotes/2024ICML FedMBridge",
     "08-Assets/Pasted image 20220321143352.png",
     "08-Assets/Pasted image 20230717203051.png",

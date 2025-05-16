@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "神经网络",
+      "path": "01-Diary/本周事务/神经网络.md"
+    },
+    {
+      "basename": "{{relation.citekey}}",
+      "path": "01-Diary/本周事务/{{relation.citekey}}.md"
+    },
+    {
       "basename": "机器学习基本概念",
       "path": "06-Cards/机器学习基本概念.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "3692070.3692369",
       "path": "02-Reading/mdnotes/2024ICML FedMBridge/3692070.3692369.md"
-    },
-    {
-      "basename": "神经网络",
-      "path": "01-Diary/本周事务/神经网络.md"
     },
     {
       "basename": "知识卡片",
@@ -123,10 +127,6 @@
     {
       "basename": "2024-FedMBridge Bridgeable multimodal federated learning",
       "path": "08-Assets/pdfs/2024-FedMBridge/2024-FedMBridge Bridgeable multimodal federated learning.pdf"
-    },
-    {
-      "basename": "{{relation.citekey}}",
-      "path": "01-Diary/本周事务/{{relation.citekey}}.md"
     },
     {
       "basename": "用obsidian写日志",
