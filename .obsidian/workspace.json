@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Reading/mdnotes/10.5555/3692070.3692369.md",
-                "mode": "preview",
+                "file": "01-Diary/日志存档/2025-05-16.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "3692070.3692369"
+              "title": "2025-05-16"
             }
           }
         ],
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Reading/mdnotes/10.5555/3692070.3692369.md",
+                "file": "01-Diary/日志存档/2025-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "3692070.3692369 的反向链接列表"
+              "title": "2025-05-16 的反向链接列表"
             }
           }
         ],
@@ -203,8 +203,9 @@
   },
   "active": "3090910a3bbb4bfa",
   "lastOpenFiles": [
-    "02-Reading/mdnotes/McMahan2016.md",
     "02-Reading/mdnotes/10.5555/3692070.3692369.md",
+    "01-Diary/日志存档/2025-05-16.md",
+    "02-Reading/mdnotes/McMahan2016.md",
     "02-Reading/mdnotes/10.5555",
     "09-Templates/source-notes.md",
     "09-Templates/草稿模板.md",
