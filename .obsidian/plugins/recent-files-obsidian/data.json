@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "02-Reading/mdnotes/2024ICML FedMBridge/未命名.md"
-    },
-    {
-      "basename": "知识卡片",
-      "path": "09-Templates/知识卡片.md"
+      "basename": "机器学习基本概念",
+      "path": "06-Cards/机器学习基本概念.md"
     },
     {
       "basename": "source-notes",
@@ -19,6 +15,14 @@
     {
       "basename": "3692070.3692369",
       "path": "02-Reading/mdnotes/2024ICML FedMBridge/3692070.3692369.md"
+    },
+    {
+      "basename": "神经网络",
+      "path": "01-Diary/本周事务/神经网络.md"
+    },
+    {
+      "basename": "知识卡片",
+      "path": "09-Templates/知识卡片.md"
     },
     {
       "basename": "McMahan2016",
@@ -62,14 +66,6 @@
     },
     {
       "basename": "未命名",
-      "path": "06-Cards/未命名.md"
-    },
-    {
-      "basename": "202505131639",
-      "path": "06-Cards/202505131639.md"
-    },
-    {
-      "basename": "未命名",
       "path": "00-MOC/未命名.canvas"
     },
     {
@@ -87,18 +83,6 @@
     {
       "basename": "愿望清单",
       "path": "00-MOC/愿望清单.md"
-    },
-    {
-      "basename": "202307181606",
-      "path": "06-Cards/202307181606.md"
-    },
-    {
-      "basename": "202505091841",
-      "path": "06-Cards/202505091841.md"
-    },
-    {
-      "basename": "202505091845",
-      "path": "06-Cards/202505091845.md"
     },
     {
       "basename": "2025-05-16",
@@ -195,10 +179,6 @@
     {
       "basename": "FedAvg复现",
       "path": "01-Diary/本周事务/FedAvg复现.md"
-    },
-    {
-      "basename": "2025-05-13",
-      "path": "01-Diary/日志存档/2025-05-13.md"
     }
   ],
   "omittedPaths": [],
