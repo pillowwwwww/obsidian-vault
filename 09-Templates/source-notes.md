@@ -8,11 +8,11 @@ Tags: {% if allTags %}{{allTags}}{% endif %}
 Zotero PDF Link: {{pdfZoteroLink}}
 Related:: {% for relation in relations | selectattr("citekey") %} [[{{relation.citekey}}]]{% if not loop.last %}, {% endif%} {% endfor %} 
 
-### Persistent Notes 
+### 持续笔记
 {% persist "notes" %}{% if isFirstImport %} 
 Write notes here! 
 {% endif %} {% endpersist %} 
-### In-text annotations
+### 文中笔记
   
 {% for annotation in annotations -%}
 {%- if annotation.annotatedText -%}

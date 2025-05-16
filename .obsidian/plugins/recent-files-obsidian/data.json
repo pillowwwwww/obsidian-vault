@@ -1,24 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-05-16",
-      "path": "01-Diary/日志存档/2025-05-16.md"
-    },
-    {
       "basename": "3692070.3692369",
-      "path": "02-Reading/mdnotes/10.5555/3692070.3692369.md"
-    },
-    {
-      "basename": "McMahan2016",
-      "path": "02-Reading/mdnotes/McMahan2016.md"
+      "path": "02-Reading/mdnotes/2024ICML FedMBridge/3692070.3692369.md"
     },
     {
       "basename": "source-notes",
       "path": "09-Templates/source-notes.md"
     },
     {
-      "basename": "草稿模板",
-      "path": "09-Templates/草稿模板.md"
+      "basename": "McMahan2016",
+      "path": "02-Reading/mdnotes/McMahan2016.md"
     },
     {
       "basename": "@Communication-Efficient Learning of Deep Networks from Decentralized Data",
@@ -29,20 +21,80 @@
       "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
     },
     {
-      "basename": "@Reinhardt2023",
-      "path": "02-Reading/mdnotes/@Reinhardt2023.md"
+      "basename": "文献比较",
+      "path": "09-Templates/文献比较.md"
     },
     {
-      "basename": "试剂卡片",
-      "path": "09-Templates/试剂卡片.md"
+      "basename": "时间戳",
+      "path": "09-Templates/时间戳.md"
+    },
+    {
+      "basename": "代码整理",
+      "path": "09-Templates/代码整理.md"
+    },
+    {
+      "basename": "实验记录",
+      "path": "09-Templates/实验记录.md"
+    },
+    {
+      "basename": "卡片模板",
+      "path": "09-Templates/卡片模板.md"
+    },
+    {
+      "basename": "大牛页面",
+      "path": "09-Templates/大牛页面.md"
     },
     {
       "basename": "阅读批注",
       "path": "09-Templates/阅读批注.md"
     },
     {
-      "basename": "文献比较",
-      "path": "09-Templates/文献比较.md"
+      "basename": "草稿模板",
+      "path": "09-Templates/草稿模板.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "06-Cards/未命名.md"
+    },
+    {
+      "basename": "202505131639",
+      "path": "06-Cards/202505131639.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "00-MOC/未命名.canvas"
+    },
+    {
+      "basename": "文献阅读白板",
+      "path": "00-MOC/文献阅读白板.canvas"
+    },
+    {
+      "basename": "本周事务",
+      "path": "00-MOC/本周事务.md"
+    },
+    {
+      "basename": "阅读清单",
+      "path": "00-MOC/阅读清单.md"
+    },
+    {
+      "basename": "愿望清单",
+      "path": "00-MOC/愿望清单.md"
+    },
+    {
+      "basename": "202307181606",
+      "path": "06-Cards/202307181606.md"
+    },
+    {
+      "basename": "202505091841",
+      "path": "06-Cards/202505091841.md"
+    },
+    {
+      "basename": "202505091845",
+      "path": "06-Cards/202505091845.md"
+    },
+    {
+      "basename": "2025-05-16",
+      "path": "01-Diary/日志存档/2025-05-16.md"
     },
     {
       "basename": "日志模板",
@@ -129,26 +181,6 @@
       "path": "01-Diary/日志存档/2025-05-14.md"
     },
     {
-      "basename": "实验记录",
-      "path": "09-Templates/实验记录.md"
-    },
-    {
-      "basename": "大牛页面",
-      "path": "09-Templates/大牛页面.md"
-    },
-    {
-      "basename": "代码整理",
-      "path": "09-Templates/代码整理.md"
-    },
-    {
-      "basename": "卡片模板",
-      "path": "09-Templates/卡片模板.md"
-    },
-    {
-      "basename": "时间戳",
-      "path": "09-Templates/时间戳.md"
-    },
-    {
       "basename": "每周小结",
       "path": "09-Templates/每周小结.md"
     },
@@ -159,42 +191,6 @@
     {
       "basename": "2025-05-13",
       "path": "01-Diary/日志存档/2025-05-13.md"
-    },
-    {
-      "basename": "阅读清单",
-      "path": "00-MOC/阅读清单.md"
-    },
-    {
-      "basename": "本周事务",
-      "path": "00-MOC/本周事务.md"
-    },
-    {
-      "basename": "McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data",
-      "path": "08-Assets/pdfs/2016/McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data.pdf"
-    },
-    {
-      "basename": "Mdnotes Default Template",
-      "path": "08-Assets/Scripts/Mdnotes Default Template.md"
-    },
-    {
-      "basename": "dataview表格数据下载",
-      "path": "08-Assets/Scripts/dataview表格数据下载.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "00-MOC/未命名.canvas"
-    },
-    {
-      "basename": "Pasted image 20220321141509",
-      "path": "08-Assets/Pasted image 20220321141509.png"
-    },
-    {
-      "basename": "列表缩进",
-      "path": "08-Assets/列表缩进.gif"
-    },
-    {
-      "basename": "陈致逸,HOYO-MiX - Dawn Winery Theme 晨曦酒庄",
-      "path": "08-Assets/陈致逸,HOYO-MiX - Dawn Winery Theme 晨曦酒庄.mp3"
     }
   ],
   "omittedPaths": [],
