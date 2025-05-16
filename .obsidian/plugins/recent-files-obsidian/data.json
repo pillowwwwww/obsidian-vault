@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "神经网络",
-      "path": "01-Diary/本周事务/神经网络.md"
-    },
-    {
-      "basename": "{{relation.citekey}}",
-      "path": "01-Diary/本周事务/{{relation.citekey}}.md"
+      "basename": "机器学习与深度学习中的数学知识点汇总",
+      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
     },
     {
       "basename": "机器学习基本概念",
       "path": "06-Cards/机器学习基本概念.md"
+    },
+    {
+      "basename": "神经网络",
+      "path": "06-Cards/神经网络.md"
+    },
+    {
+      "basename": "python基础知识",
+      "path": "01-Diary/本周事务/python基础知识.md"
+    },
+    {
+      "basename": "FedAvg复现",
+      "path": "01-Diary/本周事务/FedAvg复现.md"
+    },
+    {
+      "basename": "环境配置",
+      "path": "01-Diary/本周事务/环境配置.md"
+    },
+    {
+      "basename": "{{relation.citekey}}",
+      "path": "01-Diary/本周事务/{{relation.citekey}}.md"
     },
     {
       "basename": "source-notes",
@@ -175,10 +191,6 @@
     {
       "basename": "每周小结",
       "path": "09-Templates/每周小结.md"
-    },
-    {
-      "basename": "FedAvg复现",
-      "path": "01-Diary/本周事务/FedAvg复现.md"
     }
   ],
   "omittedPaths": [],
