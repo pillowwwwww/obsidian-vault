@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Reading/mdnotes/2024ICML FedMBridge/3692070.3692369.md",
+                "file": "01-Diary/日志存档/2025-05-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3692070.3692369"
+              "title": "2025-05-17"
             }
           }
         ],
@@ -104,7 +104,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -203,6 +204,8 @@
   },
   "active": "a87b221c5348c627",
   "lastOpenFiles": [
+    "02-Reading/mdnotes/2024ICML FedMBridge/3692070.3692369.md",
+    "01-Diary/日志存档/2025-05-17.md",
     "00-MOC/未命名 2.canvas",
     "00-MOC/未命名 1.canvas",
     "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
@@ -226,7 +229,6 @@
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "06-Cards/202505131639.md",
     "06-Cards/202307181606.md",
-    "02-Reading/mdnotes/2024ICML FedMBridge/3692070.3692369.md",
     "09-Templates/知识卡片.md",
     "02-Reading/mdnotes/McMahan2016.md",
     "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
