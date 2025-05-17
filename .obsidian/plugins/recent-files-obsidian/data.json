@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "模型漂移model drift",
+      "path": "06-Cards/模型漂移model drift.md"
+    },
+    {
+      "basename": "2023-Multimodal federated learning via contrastive representation ensemble",
+      "path": "08-Assets/pdfs/2023-Multimodal federated learning via contrastive representation ensemble/2023-Multimodal federated learning via contrastive representation ensemble.pdf"
+    },
+    {
       "basename": "2025-05-17",
       "path": "01-Diary/日志存档/2025-05-17.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "obsidian撰写草稿",
       "path": "03-Projects/99-使用obsidian搞科研/obsidian撰写草稿.md"
-    },
-    {
-      "basename": "用obsidian阅读文献",
-      "path": "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md"
-    },
-    {
-      "basename": "2025-05-15",
-      "path": "01-Diary/日志存档/2025-05-15.md"
     }
   ],
   "omittedPaths": [],

@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2025-05-17.md",
+                "file": "06-Cards/模型漂移model drift.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-17"
+              "title": "模型漂移model drift"
             }
           }
         ],
@@ -104,8 +104,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,8 +203,10 @@
   },
   "active": "a87b221c5348c627",
   "lastOpenFiles": [
-    "02-Reading/mdnotes/2024ICML FedMBridge/3692070.3692369.md",
+    "08-Assets/pdfs/2023-Multimodal federated learning via contrastive representation ensemble/2023-Multimodal federated learning via contrastive representation ensemble.pdf",
+    "06-Cards/模型漂移model drift.md",
     "01-Diary/日志存档/2025-05-17.md",
+    "02-Reading/mdnotes/2024ICML FedMBridge/3692070.3692369.md",
     "00-MOC/未命名 2.canvas",
     "00-MOC/未命名 1.canvas",
     "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
@@ -241,10 +242,8 @@
     "09-Templates/卡片模板.md",
     "09-Templates/大牛页面.md",
     "09-Templates/阅读批注.md",
-    "09-Templates/草稿模板.md",
     "00-MOC/未命名.canvas",
     "00-MOC/文献阅读白板.canvas",
-    "00-MOC/本周事务.md",
     "02-Reading/mdnotes/2024ICML FedMBridge",
     "08-Assets/pdfs/2024-FedMBridge/2024-FedMBridge Bridgeable multimodal federated learning.pdf",
     "08-Assets/pdfs/2024-FedMBridge/Chen和Zhang2024 - .pdf",
