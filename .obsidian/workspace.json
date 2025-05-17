@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "a87b221c5348c627",
+            "id": "13e18aa38e9befdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -201,12 +201,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a87b221c5348c627",
+  "active": "13e18aa38e9befdd",
   "lastOpenFiles": [
+    "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "08-Assets/pdfs/2023-Multimodal federated learning via contrastive representation ensemble/2023-Multimodal federated learning via contrastive representation ensemble.pdf",
     "06-Cards/模型漂移model drift.md",
-    "01-Diary/日志存档/2025-05-17.md",
+    "02-Reading/mdnotes/Yu2023.md",
     "02-Reading/mdnotes/2024ICML FedMBridge/3692070.3692369.md",
+    "01-Diary/日志存档/2025-05-17.md",
     "00-MOC/未命名 2.canvas",
     "00-MOC/未命名 1.canvas",
     "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
@@ -227,7 +229,6 @@
     "01-Diary/本周事务/环境配置.md",
     "01-Diary/本周事务/{{relation.citekey}}.md",
     "09-Templates/source-notes.md",
-    "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "06-Cards/202505131639.md",
     "06-Cards/202307181606.md",
     "09-Templates/知识卡片.md",
@@ -241,7 +242,6 @@
     "09-Templates/实验记录.md",
     "09-Templates/卡片模板.md",
     "09-Templates/大牛页面.md",
-    "09-Templates/阅读批注.md",
     "00-MOC/未命名.canvas",
     "00-MOC/文献阅读白板.canvas",
     "02-Reading/mdnotes/2024ICML FedMBridge",
@@ -253,7 +253,6 @@
     "08-Assets/pdfs/Information Fusion2024/Huang et al_2024_Multimodal federated learning.pdf",
     "08-Assets/pdfs/Information Fusion2024",
     "03-Projects/99-使用obsidian搞科研/obsidian_vault_template_for_graduate_student - 快捷方式.lnk",
-    "08-Assets/陈致逸,HOYO-MiX - Dawn Winery Theme 晨曦酒庄.mp3",
     "00-MOC/未命名 4.canvas",
     "00-MOC/未命名 3.canvas",
     "00-MOC/obsidian升级内容.canvas"

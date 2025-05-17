@@ -14,7 +14,7 @@
   "exportFormats": [
     {
       "name": "my_import",
-      "outputPathTemplate": "02-Reading/mdnotes/{{citekey}}.md",
+      "outputPathTemplate": "02-Reading/mdnotes/{{citekey}}.md/",
       "imageOutputPathTemplate": "02-Reading/mdnotes/{{citekey}}/",
       "imageBaseNameTemplate": "image",
       "templatePath": "09-Templates/source-notes.md",

@@ -5,16 +5,24 @@
       "path": "06-Cards/模型漂移model drift.md"
     },
     {
+      "basename": "使用obsidian搞科研",
+      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
+    },
+    {
       "basename": "2023-Multimodal federated learning via contrastive representation ensemble",
       "path": "08-Assets/pdfs/2023-Multimodal federated learning via contrastive representation ensemble/2023-Multimodal federated learning via contrastive representation ensemble.pdf"
     },
     {
-      "basename": "2025-05-17",
-      "path": "01-Diary/日志存档/2025-05-17.md"
+      "basename": "Yu2023",
+      "path": "02-Reading/mdnotes/Yu2023.md"
     },
     {
       "basename": "3692070.3692369",
       "path": "02-Reading/mdnotes/2024ICML FedMBridge/3692070.3692369.md"
+    },
+    {
+      "basename": "2025-05-17",
+      "path": "01-Diary/日志存档/2025-05-17.md"
     },
     {
       "basename": "未命名 2",
@@ -59,10 +67,6 @@
     {
       "basename": "source-notes",
       "path": "09-Templates/source-notes.md"
-    },
-    {
-      "basename": "使用obsidian搞科研",
-      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
     },
     {
       "basename": "知识卡片",
@@ -195,10 +199,6 @@
     {
       "basename": "从白板新建笔记",
       "path": "03-Projects/99-使用obsidian搞科研/从白板新建笔记.md"
-    },
-    {
-      "basename": "obsidian撰写草稿",
-      "path": "03-Projects/99-使用obsidian搞科研/obsidian撰写草稿.md"
     }
   ],
   "omittedPaths": [],
