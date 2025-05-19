@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-05-12",
+      "path": "01-Diary/日志存档/2025-05-12.md"
+    },
+    {
+      "basename": "2025-05-13",
+      "path": "01-Diary/日志存档/2025-05-13.md"
+    },
+    {
+      "basename": "2025-05-14",
+      "path": "01-Diary/日志存档/2025-05-14.md"
+    },
+    {
+      "basename": "2025-05-15",
+      "path": "01-Diary/日志存档/2025-05-15.md"
+    },
+    {
+      "basename": "2025-05-16",
+      "path": "01-Diary/日志存档/2025-05-16.md"
+    },
+    {
+      "basename": "2025-05-17",
+      "path": "01-Diary/日志存档/2025-05-17.md"
+    },
+    {
+      "basename": "2025-05-19",
+      "path": "01-Diary/日志存档/2025-05-19.md"
+    },
+    {
+      "basename": "第一周小结",
+      "path": "01-Diary/本周事务/第一周小结.md"
+    },
+    {
+      "basename": "python基础知识",
+      "path": "01-Diary/本周事务/python基础知识.md"
+    },
+    {
+      "basename": "FedAvg复现",
+      "path": "01-Diary/本周事务/FedAvg复现.md"
+    },
+    {
+      "basename": "环境配置",
+      "path": "01-Diary/本周事务/环境配置.md"
+    },
+    {
       "basename": "Li2018 FedProx",
       "path": "02-Reading/mdnotes/Li2018 FedProx.md"
     },
@@ -21,20 +65,12 @@
       "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
     },
     {
-      "basename": "2025-05-19",
-      "path": "01-Diary/日志存档/2025-05-19.md"
-    },
-    {
       "basename": "2023-Multimodal federated learning via contrastive representation ensemble",
       "path": "08-Assets/pdfs/2023-Multimodal federated learning via contrastive representation ensemble/2023-Multimodal federated learning via contrastive representation ensemble.pdf"
     },
     {
       "basename": "3692070.3692369",
       "path": "02-Reading/mdnotes/2024ICML FedMBridge/3692070.3692369.md"
-    },
-    {
-      "basename": "2025-05-17",
-      "path": "01-Diary/日志存档/2025-05-17.md"
     },
     {
       "basename": "未命名 2",
@@ -55,22 +91,6 @@
     {
       "basename": "神经网络",
       "path": "06-Cards/神经网络.md"
-    },
-    {
-      "basename": "python基础知识",
-      "path": "01-Diary/本周事务/python基础知识.md"
-    },
-    {
-      "basename": "FedAvg复现",
-      "path": "01-Diary/本周事务/FedAvg复现.md"
-    },
-    {
-      "basename": "环境配置",
-      "path": "01-Diary/本周事务/环境配置.md"
-    },
-    {
-      "basename": "{{relation.citekey}}",
-      "path": "01-Diary/本周事务/{{relation.citekey}}.md"
     },
     {
       "basename": "source-notes",
@@ -141,10 +161,6 @@
       "path": "00-MOC/愿望清单.md"
     },
     {
-      "basename": "2025-05-16",
-      "path": "01-Diary/日志存档/2025-05-16.md"
-    },
-    {
       "basename": "日志模板",
       "path": "09-Templates/日志模板.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "用obsidian写日志",
       "path": "03-Projects/99-使用obsidian搞科研/用obsidian写日志.md"
-    },
-    {
-      "basename": "zotero-obsidian联动配置",
-      "path": "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md"
-    },
-    {
-      "basename": "软件下载安装",
-      "path": "03-Projects/99-使用obsidian搞科研/软件下载安装.md"
-    },
-    {
-      "basename": "试剂耗材仪器建卡管理",
-      "path": "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md"
-    },
-    {
-      "basename": "obsidan双链与知识图谱",
-      "path": "03-Projects/99-使用obsidian搞科研/obsidan双链与知识图谱.md"
     }
   ],
   "omittedPaths": [],

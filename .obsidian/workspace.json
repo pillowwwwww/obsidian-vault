@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Reading/mdnotes/Li2018 FedProx.md",
+                "file": "01-Diary/日志存档/2025-05-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Li2018 FedProx"
+              "title": "2025-05-12"
             }
           }
         ],
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Reading/mdnotes/Li2018 FedProx.md",
+                "file": "01-Diary/日志存档/2025-05-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Li2018 FedProx 的反向链接列表"
+              "title": "2025-05-12 的反向链接列表"
             }
           }
         ],
@@ -203,8 +203,19 @@
   },
   "active": "5cc141d33115aaeb",
   "lastOpenFiles": [
-    "02-Reading/mdnotes/未命名.md",
+    "01-Diary/日志存档/2025-05-13.md",
+    "01-Diary/日志存档/2025-05-14.md",
+    "01-Diary/日志存档/2025-05-15.md",
+    "01-Diary/日志存档/2025-05-16.md",
+    "01-Diary/日志存档/2025-05-17.md",
+    "01-Diary/日志存档/2025-05-19.md",
+    "01-Diary/本周事务/第一周小结.md",
+    "01-Diary/本周事务/{{relation.citekey}}.md",
+    "01-Diary/本周事务/python基础知识.md",
+    "01-Diary/本周事务/FedAvg复现.md",
+    "01-Diary/本周事务/环境配置.md",
     "02-Reading/mdnotes/Li2018 FedProx.md",
+    "02-Reading/mdnotes/未命名.md",
     "02-Reading/mdnotes/未命名/未命名.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "02-Reading/mdnotes/未命名",
@@ -213,10 +224,8 @@
     "08-Assets/pdfs/2018-Federated optimization in heterogeneous networks/2018-Federated optimization in heterogeneous networks.pdf",
     "08-Assets/pdfs/2018-Federated optimization in heterogeneous networks",
     "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
-    "01-Diary/日志存档/2025-05-19.md",
     "08-Assets/pdfs/2023-Multimodal federated learning via contrastive representation ensemble/2023-Multimodal federated learning via contrastive representation ensemble.pdf",
     "02-Reading/mdnotes/2024ICML FedMBridge/3692070.3692369.md",
-    "01-Diary/日志存档/2025-05-17.md",
     "00-MOC/未命名 2.canvas",
     "00-MOC/未命名 1.canvas",
     "08-Assets/Pasted image 20250516204755.png",
@@ -231,21 +240,12 @@
     "08-Assets/Pasted image 20250516180049.png",
     "06-Cards/机器学习基本概念.md",
     "06-Cards/神经网络.md",
-    "01-Diary/本周事务/python基础知识.md",
-    "01-Diary/本周事务/FedAvg复现.md",
-    "01-Diary/本周事务/环境配置.md",
-    "01-Diary/本周事务/{{relation.citekey}}.md",
     "09-Templates/source-notes.md",
     "06-Cards/202505131639.md",
     "06-Cards/202307181606.md",
     "09-Templates/知识卡片.md",
     "02-Reading/mdnotes/McMahan2016.md",
     "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
-    "02-Reading/mdnotes/@Reinhardt2023.md",
-    "02-Reading/未命名.md",
-    "09-Templates/文献比较.md",
-    "09-Templates/时间戳.md",
-    "09-Templates/代码整理.md",
     "00-MOC/未命名.canvas",
     "00-MOC/文献阅读白板.canvas",
     "02-Reading/mdnotes/2024ICML FedMBridge",
