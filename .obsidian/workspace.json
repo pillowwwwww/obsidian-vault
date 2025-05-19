@@ -108,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.50328826904297
+    "width": 268.50328826904297,
+    "collapsed": true
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -203,6 +204,8 @@
   },
   "active": "5cc141d33115aaeb",
   "lastOpenFiles": [
+    "08-Assets/600e3b8c-a3e9-4d4d-a109-92d8f26cfc59_image2-1.avif",
+    "08-Assets/600e3b8c-a3e9-4d4d-a109-92d8f26cfc59_image2.avif",
     "01-Diary/日志存档/2025-05-12.md",
     "06-Cards/对比学习.md",
     "08-Assets/pdfs/2021-Model-contrastive federated learning/2021-Model-contrastive federated learning.pdf",
@@ -241,13 +244,11 @@
     "08-Assets/Pasted image 20250516182822.png",
     "08-Assets/Pasted image 20250516182657.png",
     "08-Assets/Pasted image 20250516182052.png",
-    "08-Assets/Pasted image 20250516180049.png",
     "06-Cards/机器学习基本概念.md",
     "06-Cards/神经网络.md",
     "09-Templates/source-notes.md",
     "06-Cards/202505131639.md",
     "06-Cards/202307181606.md",
-    "09-Templates/知识卡片.md",
     "00-MOC/未命名.canvas",
     "00-MOC/文献阅读白板.canvas",
     "02-Reading/mdnotes/2024ICML FedMBridge",
