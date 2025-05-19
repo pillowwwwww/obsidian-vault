@@ -5,6 +5,14 @@
       "path": "06-Cards/对比学习.md"
     },
     {
+      "basename": "模型漂移model drift",
+      "path": "06-Cards/模型漂移model drift.md"
+    },
+    {
+      "basename": "机器学习与深度学习中的数学知识点汇总",
+      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
+    },
+    {
       "basename": "2025-05-12",
       "path": "01-Diary/日志存档/2025-05-12.md"
     },
@@ -59,14 +67,6 @@
     {
       "basename": "2023ICLR CreamFL",
       "path": "02-Reading/mdnotes/2023ICLR CreamFL.md"
-    },
-    {
-      "basename": "模型漂移model drift",
-      "path": "06-Cards/模型漂移model drift.md"
-    },
-    {
-      "basename": "机器学习与深度学习中的数学知识点汇总",
-      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
     },
     {
       "basename": "2023-Multimodal federated learning via contrastive representation ensemble",
