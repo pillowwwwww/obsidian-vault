@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2025-05-12.md",
+                "file": "06-Cards/对比学习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-12"
+              "title": "对比学习"
             }
           }
         ],
@@ -108,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.50328826904297
+    "width": 268.50328826904297
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Diary/日志存档/2025-05-12.md",
+                "file": "06-Cards/对比学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2025-05-12 的反向链接列表"
+              "title": "对比学习 的反向链接列表"
             }
           }
         ],
@@ -203,6 +203,8 @@
   },
   "active": "5cc141d33115aaeb",
   "lastOpenFiles": [
+    "01-Diary/日志存档/2025-05-12.md",
+    "06-Cards/对比学习.md",
     "08-Assets/pdfs/2021-Model-contrastive federated learning/2021-Model-contrastive federated learning.pdf",
     "08-Assets/pdfs/2021-Model-contrastive federated learning",
     "01-Diary/日志存档/2025-05-13.md",
@@ -246,14 +248,12 @@
     "06-Cards/202505131639.md",
     "06-Cards/202307181606.md",
     "09-Templates/知识卡片.md",
-    "02-Reading/mdnotes/McMahan2016.md",
     "00-MOC/未命名.canvas",
     "00-MOC/文献阅读白板.canvas",
     "02-Reading/mdnotes/2024ICML FedMBridge",
     "08-Assets/pdfs/2024-FedMBridge/2024-FedMBridge Bridgeable multimodal federated learning.pdf",
     "08-Assets/pdfs/2024-FedMBridge/Chen和Zhang2024 - .pdf",
     "08-Assets/pdfs/2024-FedMBridge",
-    "08-Assets/pdfs/2016/McMahan et al_2016_Communication-Efficient Learning of Deep Networks from Decentralized Data.pdf",
     "00-MOC/未命名 4.canvas",
     "00-MOC/未命名 3.canvas",
     "00-MOC/obsidian升级内容.canvas"
