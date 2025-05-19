@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Li2018 FedProx",
+      "path": "02-Reading/mdnotes/Li2018 FedProx.md"
+    },
+    {
+      "basename": "使用obsidian搞科研",
+      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
+    },
+    {
+      "basename": "2023ICLR CreamFL",
+      "path": "02-Reading/mdnotes/2023ICLR CreamFL.md"
+    },
+    {
       "basename": "模型漂移model drift",
       "path": "06-Cards/模型漂移model drift.md"
     },
@@ -13,16 +25,8 @@
       "path": "01-Diary/日志存档/2025-05-19.md"
     },
     {
-      "basename": "使用obsidian搞科研",
-      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
-    },
-    {
       "basename": "2023-Multimodal federated learning via contrastive representation ensemble",
       "path": "08-Assets/pdfs/2023-Multimodal federated learning via contrastive representation ensemble/2023-Multimodal federated learning via contrastive representation ensemble.pdf"
-    },
-    {
-      "basename": "Yu2023",
-      "path": "02-Reading/mdnotes/Yu2023.md"
     },
     {
       "basename": "3692070.3692369",
@@ -195,10 +199,6 @@
     {
       "basename": "obsidan双链与知识图谱",
       "path": "03-Projects/99-使用obsidian搞科研/obsidan双链与知识图谱.md"
-    },
-    {
-      "basename": "obsidian白板教程",
-      "path": "03-Projects/99-使用obsidian搞科研/obsidian白板教程.md"
     }
   ],
   "omittedPaths": [],
