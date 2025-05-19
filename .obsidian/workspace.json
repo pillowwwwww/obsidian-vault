@@ -30,10 +30,14 @@
             "id": "13e18aa38e9befdd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "06-Cards/模型漂移model drift.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "模型漂移model drift"
             }
           }
         ],
@@ -100,13 +104,11 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.50328826904297,
-    "collapsed": true
+    "width": 299.50328826904297
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -165,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Reading/mdnotes/2024ICML FedMBridge/3692070.3692369.md",
+                "file": "06-Cards/模型漂移model drift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +177,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "3692070.3692369 的反向链接列表"
+              "title": "模型漂移model drift 的反向链接列表"
             }
           }
         ],
@@ -201,6 +203,7 @@
   },
   "active": "13e18aa38e9befdd",
   "lastOpenFiles": [
+    "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
     "01-Diary/日志存档/2025-05-19.md",
     "06-Cards/模型漂移model drift.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
@@ -210,7 +213,6 @@
     "01-Diary/日志存档/2025-05-17.md",
     "00-MOC/未命名 2.canvas",
     "00-MOC/未命名 1.canvas",
-    "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
     "08-Assets/Pasted image 20250516204755.png",
     "08-Assets/Pasted image 20250516204746.png",
     "08-Assets/Pasted image 20250516204617.png",
