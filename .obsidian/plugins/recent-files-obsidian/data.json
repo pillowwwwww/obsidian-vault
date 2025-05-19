@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-05-19",
+      "path": "01-Diary/日志存档/2025-05-19.md"
+    },
+    {
       "basename": "模型漂移model drift",
       "path": "06-Cards/模型漂移model drift.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "obsidian白板教程",
       "path": "03-Projects/99-使用obsidian搞科研/obsidian白板教程.md"
-    },
-    {
-      "basename": "从白板新建笔记",
-      "path": "03-Projects/99-使用obsidian搞科研/从白板新建笔记.md"
     }
   ],
   "omittedPaths": [],
