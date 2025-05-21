@@ -27,35 +27,21 @@
             }
           },
           {
-            "id": "5cc141d33115aaeb",
+            "id": "e53a3cc7bb764bdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
+                "file": "06-Cards/对比学习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "弄懂CNN、RNN、GAN、Transformer等架构"
-            }
-          },
-          {
-            "id": "057067c339a2df1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/日志存档/2025-05-21.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-21"
+              "title": "对比学习"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Diary/日志存档/2025-05-19.md",
+                "file": "06-Cards/对比学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +177,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2025-05-19 的反向链接列表"
+              "title": "对比学习 的反向链接列表"
             }
           }
         ],
@@ -215,13 +201,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3090910a3bbb4bfa",
+  "active": "e53a3cc7bb764bdf",
   "lastOpenFiles": [
-    "01-Diary/日志存档/2025-05-19.md",
-    "01-Diary/日志存档/2025-05-21.md",
+    "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
+    "01-Diary/日志存档/2025-05-19.md",
     "06-Cards/对比学习.md",
     "06-Cards/模型漂移model drift.md",
+    "02-Reading/mdnotes/2023ICLR CreamFL.md",
+    "01-Diary/日志存档/2025-05-21.md",
+    "00-MOC/未命名 2.canvas",
     "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
     "08-Assets/image.png",
     "08-Assets/600e3b8c-a3e9-4d4d-a109-92d8f26cfc59_image2-1.avif",
@@ -242,14 +231,11 @@
     "02-Reading/mdnotes/Li2018 FedProx.md",
     "02-Reading/mdnotes/未命名.md",
     "02-Reading/mdnotes/未命名/未命名.md",
-    "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "02-Reading/mdnotes/未命名",
-    "02-Reading/mdnotes/2023ICLR CreamFL.md",
     "08-Assets/pdfs/2018-Federated optimization in heterogeneous networks/2018-Federated optimization in heterogeneous networks.pdf",
     "08-Assets/pdfs/2018-Federated optimization in heterogeneous networks",
     "08-Assets/pdfs/2023-Multimodal federated learning via contrastive representation ensemble/2023-Multimodal federated learning via contrastive representation ensemble.pdf",
     "02-Reading/mdnotes/2024ICML FedMBridge/3692070.3692369.md",
-    "00-MOC/未命名 2.canvas",
     "00-MOC/未命名 1.canvas",
     "08-Assets/Pasted image 20250516204755.png",
     "08-Assets/Pasted image 20250516204746.png",
@@ -261,7 +247,6 @@
     "06-Cards/机器学习基本概念.md",
     "06-Cards/神经网络.md",
     "09-Templates/source-notes.md",
-    "06-Cards/202505131639.md",
     "00-MOC/未命名.canvas",
     "00-MOC/文献阅读白板.canvas",
     "02-Reading/mdnotes/2024ICML FedMBridge",
