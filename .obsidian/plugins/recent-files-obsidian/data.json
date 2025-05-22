@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "卡片模板",
+      "path": "09-Templates/卡片模板.md"
+    },
+    {
       "basename": "2025-05-22",
       "path": "01-Diary/日志存档/2025-05-22.md"
     },
@@ -127,10 +131,6 @@
     {
       "basename": "实验记录",
       "path": "09-Templates/实验记录.md"
-    },
-    {
-      "basename": "卡片模板",
-      "path": "09-Templates/卡片模板.md"
     },
     {
       "basename": "大牛页面",
