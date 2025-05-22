@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "损失函数（Loss Function）",
+      "path": "06-Cards/损失函数（Loss Function）.md"
+    },
+    {
+      "basename": "知识卡片",
+      "path": "09-Templates/知识卡片.md"
+    },
+    {
       "basename": "卡片模板",
       "path": "09-Templates/卡片模板.md"
     },
@@ -103,10 +111,6 @@
     {
       "basename": "source-notes",
       "path": "09-Templates/source-notes.md"
-    },
-    {
-      "basename": "知识卡片",
-      "path": "09-Templates/知识卡片.md"
     },
     {
       "basename": "McMahan2016",
