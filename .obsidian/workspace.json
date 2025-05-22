@@ -41,49 +41,91 @@
             }
           },
           {
-            "id": "f946541a52648991",
+            "id": "ed9ea196ddc58f2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/损失函数（Loss Function）.md",
+                "file": "01-Diary/本周事务/环境配置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "损失函数（Loss Function）"
+              "title": "环境配置"
             }
           },
           {
-            "id": "8e25713baff3207d",
+            "id": "a170f77e93e988e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/实验方法.md",
+                "file": "01-Diary/本周事务/FedAvg复现.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实验方法"
+              "title": "FedAvg复现"
             }
           },
           {
-            "id": "bdbff702f3c8516e",
+            "id": "7a34a72fc4f76f2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
+                "file": "01-Diary/日志存档/2025-05-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "机器学习与深度学习中的数学知识点汇总"
+              "title": "2025-05-17"
+            }
+          },
+          {
+            "id": "53fa813feed9a6a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Diary/日志存档/2025-05-16.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-16"
+            }
+          },
+          {
+            "id": "2006a969407861ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Diary/日志存档/2025-05-14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-14"
+            }
+          },
+          {
+            "id": "e6a67cd4d859319b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Diary/日志存档/2025-05-12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-12"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -242,10 +284,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e25713baff3207d",
+  "active": "e6a67cd4d859319b",
   "lastOpenFiles": [
-    "06-Cards/对比学习.md",
+    "01-Diary/日志存档/2025-05-13.md",
+    "01-Diary/日志存档/2025-05-14.md",
+    "01-Diary/日志存档/2025-05-16.md",
+    "01-Diary/日志存档/2025-05-17.md",
+    "01-Diary/本周事务/FedAvg复现.md",
+    "01-Diary/本周事务/环境配置.md",
+    "01-Diary/日志存档/2025-05-22.md",
     "06-Cards/实验方法.md",
+    "06-Cards/对比学习.md",
     "06-Cards/损失函数（Loss Function）.md",
     "08-Assets/640-1.png",
     "08-Assets/640-3.jpg",
@@ -258,7 +307,6 @@
     "08-Assets/image-1.png",
     "09-Templates/知识卡片.md",
     "09-Templates/卡片模板.md",
-    "01-Diary/日志存档/2025-05-22.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
     "01-Diary/日志存档/2025-05-19.md",
@@ -271,16 +319,10 @@
     "01-Diary/日志存档/2025-05-12.md",
     "08-Assets/pdfs/2021-Model-contrastive federated learning/2021-Model-contrastive federated learning.pdf",
     "08-Assets/pdfs/2021-Model-contrastive federated learning",
-    "01-Diary/日志存档/2025-05-13.md",
-    "01-Diary/日志存档/2025-05-14.md",
     "01-Diary/日志存档/2025-05-15.md",
-    "01-Diary/日志存档/2025-05-16.md",
-    "01-Diary/日志存档/2025-05-17.md",
     "01-Diary/本周事务/第一周小结.md",
     "01-Diary/本周事务/{{relation.citekey}}.md",
     "01-Diary/本周事务/python基础知识.md",
-    "01-Diary/本周事务/FedAvg复现.md",
-    "01-Diary/本周事务/环境配置.md",
     "02-Reading/mdnotes/Li2018 FedProx.md",
     "02-Reading/mdnotes/未命名.md",
     "02-Reading/mdnotes/未命名/未命名.md",
