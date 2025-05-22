@@ -5,6 +5,10 @@
       "path": "06-Cards/损失函数（Loss Function）.md"
     },
     {
+      "basename": "机器学习与深度学习中的数学知识点汇总",
+      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
+    },
+    {
       "basename": "知识卡片",
       "path": "09-Templates/知识卡片.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "2023ICLR CreamFL",
       "path": "02-Reading/mdnotes/2023ICLR CreamFL.md"
-    },
-    {
-      "basename": "机器学习与深度学习中的数学知识点汇总",
-      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
     },
     {
       "basename": "2025-05-12",
