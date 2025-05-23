@@ -39,93 +39,9 @@
               "icon": "lucide-file",
               "title": "2025-05-22"
             }
-          },
-          {
-            "id": "ed9ea196ddc58f2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/本周事务/环境配置.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "环境配置"
-            }
-          },
-          {
-            "id": "a170f77e93e988e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/本周事务/FedAvg复现.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FedAvg复现"
-            }
-          },
-          {
-            "id": "7a34a72fc4f76f2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/日志存档/2025-05-17.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-17"
-            }
-          },
-          {
-            "id": "53fa813feed9a6a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/日志存档/2025-05-16.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-16"
-            }
-          },
-          {
-            "id": "2006a969407861ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/日志存档/2025-05-14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-14"
-            }
-          },
-          {
-            "id": "e6a67cd4d859319b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/日志存档/2025-05-12.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-12"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +104,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -284,16 +201,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed9ea196ddc58f2a",
+  "active": "e53a3cc7bb764bdf",
   "lastOpenFiles": [
+    "01-Diary/日志存档/2025-05-16.md",
+    "01-Diary/日志存档/2025-05-22.md",
+    "01-Diary/日志存档/2025-05-23.md",
+    "01-Diary/本周事务/环境配置.md",
     "01-Diary/日志存档/2025-05-12.md",
     "01-Diary/日志存档/2025-05-13.md",
     "01-Diary/日志存档/2025-05-14.md",
-    "01-Diary/日志存档/2025-05-16.md",
     "01-Diary/日志存档/2025-05-17.md",
     "01-Diary/本周事务/FedAvg复现.md",
-    "01-Diary/本周事务/环境配置.md",
-    "01-Diary/日志存档/2025-05-22.md",
     "06-Cards/实验方法.md",
     "06-Cards/对比学习.md",
     "06-Cards/损失函数（Loss Function）.md",
@@ -325,7 +243,6 @@
     "01-Diary/本周事务/python基础知识.md",
     "02-Reading/mdnotes/Li2018 FedProx.md",
     "02-Reading/mdnotes/未命名.md",
-    "02-Reading/mdnotes/未命名/未命名.md",
     "02-Reading/mdnotes/未命名",
     "08-Assets/pdfs/2018-Federated optimization in heterogeneous networks/2018-Federated optimization in heterogeneous networks.pdf",
     "08-Assets/pdfs/2018-Federated optimization in heterogeneous networks",
