@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "使用obsidian搞科研",
+      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
+    },
+    {
       "basename": "2025-05-22",
       "path": "01-Diary/日志存档/2025-05-22.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "卡片模板",
       "path": "09-Templates/卡片模板.md"
-    },
-    {
-      "basename": "使用obsidian搞科研",
-      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
     },
     {
       "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
