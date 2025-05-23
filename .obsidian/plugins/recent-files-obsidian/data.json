@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "batch",
+      "path": "06-Cards/batch.md"
+    },
+    {
       "basename": "使用obsidian搞科研",
       "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20250512155413",
       "path": "08-Assets/Pasted image 20250512155413.png"
-    },
-    {
-      "basename": "Pasted image 20250514180921",
-      "path": "08-Assets/Pasted image 20250514180921.png"
     }
   ],
   "omittedPaths": [],

@@ -25,8 +25,23 @@
               "icon": "lucide-layout-dashboard",
               "title": "使用obsidian搞科研"
             }
+          },
+          {
+            "id": "78187000866c2f70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Cards/batch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "batch"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,8 +200,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b448d9d679bf6dd",
+  "active": "78187000866c2f70",
   "lastOpenFiles": [
+    "08-Assets/image-3.png",
+    "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
+    "06-Cards/batch.md",
     "01-Diary/日志存档/2025-05-22.md",
     "01-Diary/日志存档/2025-05-16.md",
     "01-Diary/日志存档/2025-05-23.md",
@@ -210,7 +228,6 @@
     "08-Assets/image-1.png",
     "09-Templates/知识卡片.md",
     "09-Templates/卡片模板.md",
-    "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
     "01-Diary/日志存档/2025-05-19.md",
     "06-Cards/模型漂移model drift.md",
@@ -225,8 +242,6 @@
     "01-Diary/本周事务/第一周小结.md",
     "01-Diary/本周事务/{{relation.citekey}}.md",
     "01-Diary/本周事务/python基础知识.md",
-    "02-Reading/mdnotes/Li2018 FedProx.md",
-    "02-Reading/mdnotes/未命名.md",
     "02-Reading/mdnotes/未命名",
     "08-Assets/pdfs/2018-Federated optimization in heterogeneous networks/2018-Federated optimization in heterogeneous networks.pdf",
     "08-Assets/pdfs/2018-Federated optimization in heterogeneous networks",
