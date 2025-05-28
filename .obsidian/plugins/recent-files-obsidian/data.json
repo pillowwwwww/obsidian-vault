@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-05-28",
-      "path": "01-Diary/日志存档/2025-05-28.md"
+      "basename": "未命名",
+      "path": "06-Cards/未命名.md"
     },
     {
       "basename": "batch",
       "path": "06-Cards/batch.md"
+    },
+    {
+      "basename": "2025-05-28",
+      "path": "01-Diary/日志存档/2025-05-28.md"
     },
     {
       "basename": "使用obsidian搞科研",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20230718144649",
       "path": "08-Assets/Pasted image 20230718144649.png"
-    },
-    {
-      "basename": "Pasted image 20230718150227",
-      "path": "08-Assets/Pasted image 20230718150227.png"
     }
   ],
   "omittedPaths": [],

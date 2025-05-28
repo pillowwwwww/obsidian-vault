@@ -39,9 +39,23 @@
               "icon": "lucide-file",
               "title": "2025-05-28"
             }
+          },
+          {
+            "id": "621b4b85f4476759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Cards/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.50328826904297
+    "width": 268.50328826904297,
+    "collapsed": true
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -200,9 +215,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3090910a3bbb4bfa",
+  "active": "621b4b85f4476759",
   "lastOpenFiles": [
     "06-Cards/batch.md",
+    "06-Cards/未命名.md",
     "01-Diary/日志存档/2025-05-28.md",
     "08-Assets/image-3.png",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
@@ -241,7 +257,6 @@
     "01-Diary/日志存档/2025-05-15.md",
     "01-Diary/本周事务/第一周小结.md",
     "01-Diary/本周事务/{{relation.citekey}}.md",
-    "01-Diary/本周事务/python基础知识.md",
     "02-Reading/mdnotes/未命名",
     "08-Assets/pdfs/2018-Federated optimization in heterogeneous networks/2018-Federated optimization in heterogeneous networks.pdf",
     "08-Assets/pdfs/2018-Federated optimization in heterogeneous networks",
