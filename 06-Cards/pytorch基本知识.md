@@ -4,7 +4,6 @@ tags:
 原始链接:
 ---
 
-
 ### PyTorch Tensor分类
 
 | 名称     | 维度  | 数学含义      | 示例                         | Shape          | 常见用途          |
