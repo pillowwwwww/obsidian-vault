@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "机器学习与深度学习中的数学知识点汇总",
+      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
+    },
+    {
+      "basename": "实验方法",
+      "path": "06-Cards/实验方法.md"
+    },
+    {
+      "basename": "损失函数（Loss Function）",
+      "path": "06-Cards/损失函数（Loss Function）.md"
+    },
+    {
       "basename": "pytorch基本知识",
       "path": "06-Cards/pytorch基本知识.md"
     },
@@ -53,20 +65,8 @@
       "path": "01-Diary/本周事务/FedAvg复现.md"
     },
     {
-      "basename": "实验方法",
-      "path": "06-Cards/实验方法.md"
-    },
-    {
       "basename": "对比学习",
       "path": "06-Cards/对比学习.md"
-    },
-    {
-      "basename": "损失函数（Loss Function）",
-      "path": "06-Cards/损失函数（Loss Function）.md"
-    },
-    {
-      "basename": "机器学习与深度学习中的数学知识点汇总",
-      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
     },
     {
       "basename": "知识卡片",
