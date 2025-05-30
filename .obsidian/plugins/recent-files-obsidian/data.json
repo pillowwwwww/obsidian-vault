@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "机器学习与深度学习中的数学知识点汇总",
-      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
-    },
-    {
       "basename": "实验方法",
       "path": "06-Cards/实验方法.md"
+    },
+    {
+      "basename": "2025-05-30",
+      "path": "01-Diary/日志存档/2025-05-30.md"
+    },
+    {
+      "basename": "机器学习与深度学习中的数学知识点汇总",
+      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
     },
     {
       "basename": "损失函数（Loss Function）",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20220321143352",
       "path": "08-Assets/Pasted image 20220321143352.png"
-    },
-    {
-      "basename": "Pasted image 20230717203051",
-      "path": "08-Assets/Pasted image 20230717203051.png"
     }
   ],
   "omittedPaths": [],
