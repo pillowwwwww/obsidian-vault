@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "pytorch基本知识",
+      "path": "06-Cards/pytorch基本知识.md"
+    },
+    {
       "basename": "实验方法",
       "path": "06-Cards/实验方法.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "损失函数（Loss Function）",
       "path": "06-Cards/损失函数（Loss Function）.md"
-    },
-    {
-      "basename": "pytorch基本知识",
-      "path": "06-Cards/pytorch基本知识.md"
     },
     {
       "basename": "2025-05-28",

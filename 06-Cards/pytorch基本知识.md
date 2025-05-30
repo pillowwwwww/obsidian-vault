@@ -55,3 +55,25 @@ assert vector.shape == (3,)
 	但它无法解决像圆一样的问题，因为圆的边界是曲线，不是直线！
 #### 要模型学到曲线，就要在模型中加入 **非线性成分**
 
+#### 为什么可以直接写 model_0(X_test) 来执行前向传播？
+
+ ✅ 原因：
+PyTorch 中的所有模型类都继承自 `torch.nn.Module`，这个基类实现了 `__call__()` 方法。
+```
+class SimpleModel(nn.Module):
+    def __init__(self):
+        super().__init__()
+        self.linear = nn.Linear(1, 1)
+
+    def forward(self, x):
+        print("Calling forward")
+        return self.linear(x)
+        
+
+# 创建模型
+model = SimpleModel()
+
+# 调用模型
+x = torch.tensor([[1.0]])
+y = model(x)  # 实际上就是在调用 forward()
+```
