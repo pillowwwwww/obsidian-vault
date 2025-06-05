@@ -5,6 +5,10 @@
       "path": "01-Diary/日志存档/2025-06-05.md"
     },
     {
+      "basename": "未命名",
+      "path": "00-MOC/未命名.canvas"
+    },
+    {
       "basename": "pytorch基本知识",
       "path": "06-Cards/pytorch基本知识.md"
     },
@@ -175,10 +179,6 @@
     {
       "basename": "草稿模板",
       "path": "09-Templates/草稿模板.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "00-MOC/未命名.canvas"
     },
     {
       "basename": "文献阅读白板",
