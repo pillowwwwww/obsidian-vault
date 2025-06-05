@@ -5,6 +5,10 @@
       "path": "01-Diary/日志存档/2025-06-05.md"
     },
     {
+      "basename": "2025-05-19",
+      "path": "01-Diary/日志存档/2025-05-19.md"
+    },
+    {
       "basename": "未命名",
       "path": "00-MOC/未命名.canvas"
     },
@@ -17,24 +21,12 @@
       "path": "06-Cards/实验方法.md"
     },
     {
-      "basename": "2025-05-30",
-      "path": "01-Diary/日志存档/2025-05-30.md"
-    },
-    {
       "basename": "机器学习与深度学习中的数学知识点汇总",
       "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
     },
     {
       "basename": "损失函数（Loss Function）",
       "path": "06-Cards/损失函数（Loss Function）.md"
-    },
-    {
-      "basename": "2025-05-28",
-      "path": "01-Diary/日志存档/2025-05-28.md"
-    },
-    {
-      "basename": "2025-05-29",
-      "path": "01-Diary/日志存档/2025-05-29.md"
     },
     {
       "basename": "batch",
@@ -45,16 +37,8 @@
       "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
     },
     {
-      "basename": "2025-05-22",
-      "path": "01-Diary/日志存档/2025-05-22.md"
-    },
-    {
       "basename": "2025-05-16",
       "path": "01-Diary/日志存档/2025-05-16.md"
-    },
-    {
-      "basename": "2025-05-23",
-      "path": "01-Diary/日志存档/2025-05-23.md"
     },
     {
       "basename": "环境配置",
@@ -91,10 +75,6 @@
     {
       "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
       "path": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md"
-    },
-    {
-      "basename": "2025-05-19",
-      "path": "01-Diary/日志存档/2025-05-19.md"
     },
     {
       "basename": "模型漂移model drift",

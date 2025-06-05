@@ -39,6 +39,20 @@
               "icon": "lucide-file",
               "title": "2025-06-05"
             }
+          },
+          {
+            "id": "136a90e02349824e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Diary/日志存档/2025-05-19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-19"
+            }
           }
         ],
         "currentTab": 1
@@ -203,21 +217,22 @@
   },
   "active": "96283877094908c5",
   "lastOpenFiles": [
-    "00-MOC/未命名.canvas",
+    "01-Diary/日志存档/2025-05-19.md",
     "01-Diary/日志存档/2025-06-05.md",
+    "01-Diary/日志存档/2025-05-30.md",
+    "01-Diary/日志存档/2025-05-29.md",
+    "01-Diary/日志存档/2025-05-28.md",
+    "01-Diary/日志存档/2025-05-23.md",
+    "01-Diary/日志存档/2025-05-22.md",
+    "00-MOC/未命名.canvas",
     "06-Cards/pytorch基本知识.md",
     "06-Cards/实验方法.md",
-    "01-Diary/日志存档/2025-05-30.md",
     "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
     "06-Cards/损失函数（Loss Function）.md",
-    "01-Diary/日志存档/2025-05-28.md",
-    "01-Diary/日志存档/2025-05-29.md",
     "06-Cards/batch.md",
     "08-Assets/image-3.png",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
-    "01-Diary/日志存档/2025-05-22.md",
     "01-Diary/日志存档/2025-05-16.md",
-    "01-Diary/日志存档/2025-05-23.md",
     "01-Diary/本周事务/环境配置.md",
     "01-Diary/日志存档/2025-05-12.md",
     "01-Diary/日志存档/2025-05-13.md",
@@ -236,7 +251,6 @@
     "09-Templates/知识卡片.md",
     "09-Templates/卡片模板.md",
     "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
-    "01-Diary/日志存档/2025-05-19.md",
     "06-Cards/模型漂移model drift.md",
     "02-Reading/mdnotes/2023ICLR CreamFL.md",
     "00-MOC/未命名 2.canvas",
