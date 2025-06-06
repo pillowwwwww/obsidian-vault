@@ -20,3 +20,4 @@ tags:
        self.uploaded_weights.append(client.train_samples)  # 收集样本权重
 ```
 
+```mermaid
