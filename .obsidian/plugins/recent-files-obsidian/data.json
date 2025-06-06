@@ -9,6 +9,22 @@
       "path": "06-Cards/Dirichlet分布.md"
     },
     {
+      "basename": "640-2",
+      "path": "08-Assets/640-2.jpg"
+    },
+    {
+      "basename": "image-2",
+      "path": "08-Assets/image-2.png"
+    },
+    {
+      "basename": "image-1",
+      "path": "08-Assets/image-1.png"
+    },
+    {
+      "basename": "640",
+      "path": "08-Assets/640.png"
+    },
+    {
       "basename": "2025-06-05",
       "path": "01-Diary/日志存档/2025-06-05.md"
     },
@@ -183,14 +199,6 @@
     {
       "basename": "阅读清单",
       "path": "00-MOC/阅读清单.md"
-    },
-    {
-      "basename": "愿望清单",
-      "path": "00-MOC/愿望清单.md"
-    },
-    {
-      "basename": "日志模板",
-      "path": "09-Templates/日志模板.md"
     }
   ],
   "omittedPaths": [],
