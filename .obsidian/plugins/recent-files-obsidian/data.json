@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "生成数据集",
+      "path": "09-Templates/生成数据集.md"
+    },
+    {
       "basename": "2025-06-06",
       "path": "01-Diary/日志存档/2025-06-06.md"
     },
     {
       "basename": "2025-06-05",
       "path": "01-Diary/日志存档/2025-06-05.md"
+    },
+    {
+      "basename": "使用obsidian搞科研",
+      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
     },
     {
       "basename": "2025-05-19",
@@ -37,10 +45,6 @@
       "path": "06-Cards/batch.md"
     },
     {
-      "basename": "使用obsidian搞科研",
-      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
-    },
-    {
       "basename": "2025-05-16",
       "path": "01-Diary/日志存档/2025-05-16.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "对比学习",
       "path": "06-Cards/对比学习.md"
-    },
-    {
-      "basename": "知识卡片",
-      "path": "09-Templates/知识卡片.md"
     },
     {
       "basename": "卡片模板",
