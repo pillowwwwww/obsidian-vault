@@ -245,6 +245,7 @@
   },
   "active": "3adab410d8a069d0",
   "lastOpenFiles": [
+    "08-Assets/image-5.png",
     "09-Templates/知识卡片.md",
     "06-Cards/生成数据集.md",
     "08-Assets/image-4.png",
@@ -282,7 +283,6 @@
     "08-Assets/image-1.png",
     "09-Templates/卡片模板.md",
     "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
-    "06-Cards/模型漂移model drift.md",
     "00-MOC/未命名 2.canvas",
     "08-Assets/pdfs/2021-Model-contrastive federated learning/2021-Model-contrastive federated learning.pdf",
     "08-Assets/pdfs/2021-Model-contrastive federated learning",
