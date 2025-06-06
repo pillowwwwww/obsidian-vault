@@ -9,7 +9,13 @@ tags:
 
 #### 模型传输流程：
 
+```
 1. 下行传输 (send_models):
        for client in self.selected_clients:
            client.set_parameters(self.global_model)  # 复制全局模型到客户端
 2. 上行传输 (receive_models):
+   for client in self.selected_clients:
+       self.uploaded_models.append(client.model)      # 收集客户端模型
+       self.uploaded_weights.append(client.train_samples)  # 收集样本权重
+```
+
