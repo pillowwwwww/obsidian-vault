@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2025-06-05.md",
+                "file": "01-Diary/日志存档/2025-06-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-05"
+              "title": "2025-06-06"
             }
           },
           {
@@ -118,7 +118,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -217,8 +218,9 @@
   },
   "active": "96283877094908c5",
   "lastOpenFiles": [
-    "01-Diary/日志存档/2025-05-19.md",
     "01-Diary/日志存档/2025-06-05.md",
+    "01-Diary/日志存档/2025-06-06.md",
+    "01-Diary/日志存档/2025-05-19.md",
     "01-Diary/日志存档/2025-05-30.md",
     "01-Diary/日志存档/2025-05-29.md",
     "01-Diary/日志存档/2025-05-28.md",
