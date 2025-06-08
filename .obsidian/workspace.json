@@ -41,31 +41,17 @@
             }
           },
           {
-            "id": "027ba5387c0e1125",
+            "id": "9828784b7c86e104",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/可视化.md",
+                "file": "01-Diary/日志存档/2025-06-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "可视化"
-            }
-          },
-          {
-            "id": "33636172d246ab44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-Cards/MINE_FL框架.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MINE_FL框架"
+              "title": "2025-06-06"
             }
           }
         ],
@@ -136,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.50328826904297,
-    "collapsed": true
+    "width": 263.50328826904297
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -196,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-Cards/可视化.md",
+                "file": "01-Diary/日志存档/2025-06-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +191,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "可视化 的反向链接列表"
+              "title": "2025-06-06 的反向链接列表"
             }
           }
         ],
@@ -230,21 +215,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "027ba5387c0e1125",
+  "active": "9828784b7c86e104",
   "lastOpenFiles": [
+    "01-Diary/日志存档/2025-06-07.md",
+    "01-Diary/日志存档/2025-06-05.md",
+    "06-Cards/MINE_FL框架.md",
+    "01-Diary/日志存档/2025-05-19.md",
+    "01-Diary/日志存档/2025-06-06.md",
+    "06-Cards/可视化.md",
     "08-Assets/image-9.png",
     "08-Assets/image-8.png",
     "08-Assets/image-7.png",
-    "01-Diary/日志存档/2025-06-06.md",
-    "06-Cards/可视化.md",
-    "01-Diary/日志存档/2025-06-07.md",
-    "06-Cards/MINE_FL框架.md",
     "06-Cards/batch.md",
     "08-Assets/2092aacd37d1608f1ed9d958063203c-1.png",
     "08-Assets/2092aacd37d1608f1ed9d958063203c.png",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "06-Cards/生成数据集.md",
-    "01-Diary/日志存档/2025-06-05.md",
     "06-Cards/Dirichlet分布.md",
     "08-Assets/640-2.jpg",
     "08-Assets/image-2.png",
@@ -252,8 +238,6 @@
     "08-Assets/640.png",
     "09-Templates/知识卡片.md",
     "08-Assets/image-6.png",
-    "08-Assets/image-5.png",
-    "01-Diary/日志存档/2025-05-19.md",
     "01-Diary/日志存档/2025-05-30.md",
     "01-Diary/日志存档/2025-05-29.md",
     "01-Diary/日志存档/2025-05-28.md",
