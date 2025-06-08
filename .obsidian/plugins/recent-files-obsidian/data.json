@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "pytorch一些容易错的地方",
+      "path": "06-Cards/pytorch一些容易错的地方.md"
+    },
+    {
+      "basename": "可视化",
+      "path": "06-Cards/可视化.md"
+    },
+    {
       "basename": "2025-06-06",
       "path": "01-Diary/日志存档/2025-06-06.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "2025-05-19",
       "path": "01-Diary/日志存档/2025-05-19.md"
-    },
-    {
-      "basename": "可视化",
-      "path": "06-Cards/可视化.md"
     },
     {
       "basename": "batch",
@@ -195,10 +199,6 @@
     {
       "basename": "大牛页面",
       "path": "09-Templates/大牛页面.md"
-    },
-    {
-      "basename": "阅读批注",
-      "path": "09-Templates/阅读批注.md"
     }
   ],
   "omittedPaths": [],
