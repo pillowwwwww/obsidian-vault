@@ -27,20 +27,6 @@
             }
           },
           {
-            "id": "d8e634f611c92726",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/日志存档/2025-06-07.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-07"
-            }
-          },
-          {
             "id": "9828784b7c86e104",
             "type": "leaf",
             "state": {
@@ -83,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
