@@ -5,6 +5,34 @@
       "path": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md"
     },
     {
+      "basename": "对比学习",
+      "path": "06-Cards/对比学习.md"
+    },
+    {
+      "basename": "机器学习基本概念",
+      "path": "06-Cards/机器学习基本概念.md"
+    },
+    {
+      "basename": "用obsidian阅读文献",
+      "path": "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md"
+    },
+    {
+      "basename": "obsidian撰写草稿",
+      "path": "03-Projects/99-使用obsidian搞科研/obsidian撰写草稿.md"
+    },
+    {
+      "basename": "试剂耗材仪器建卡管理",
+      "path": "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md"
+    },
+    {
+      "basename": "使用obsidian搞科研",
+      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
+    },
+    {
+      "basename": "2025-06-06",
+      "path": "01-Diary/日志存档/2025-06-06.md"
+    },
+    {
       "basename": "2025-06-09",
       "path": "01-Diary/日志存档/2025-06-09.md"
     },
@@ -15,10 +43,6 @@
     {
       "basename": "可视化",
       "path": "06-Cards/可视化.md"
-    },
-    {
-      "basename": "2025-06-06",
-      "path": "01-Diary/日志存档/2025-06-06.md"
     },
     {
       "basename": "2025-06-07",
@@ -43,10 +67,6 @@
     {
       "basename": "2092aacd37d1608f1ed9d958063203c",
       "path": "08-Assets/2092aacd37d1608f1ed9d958063203c.png"
-    },
-    {
-      "basename": "使用obsidian搞科研",
-      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
     },
     {
       "basename": "生成数据集",
@@ -121,10 +141,6 @@
       "path": "01-Diary/本周事务/FedAvg复现.md"
     },
     {
-      "basename": "对比学习",
-      "path": "06-Cards/对比学习.md"
-    },
-    {
       "basename": "卡片模板",
       "path": "09-Templates/卡片模板.md"
     },
@@ -165,10 +181,6 @@
       "path": "08-Assets/Pasted image 20250516204755.png"
     },
     {
-      "basename": "机器学习基本概念",
-      "path": "06-Cards/机器学习基本概念.md"
-    },
-    {
       "basename": "神经网络",
       "path": "06-Cards/神经网络.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "文献比较",
       "path": "09-Templates/文献比较.md"
-    },
-    {
-      "basename": "时间戳",
-      "path": "09-Templates/时间戳.md"
-    },
-    {
-      "basename": "代码整理",
-      "path": "09-Templates/代码整理.md"
-    },
-    {
-      "basename": "实验记录",
-      "path": "09-Templates/实验记录.md"
     }
   ],
   "omittedPaths": [],
