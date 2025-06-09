@@ -3,7 +3,9 @@ Title: pytorch基本知识
 tags: 
 原始链接:
 ---
-
+记得看google colab 笔记： 
+00、01、02、03
+https://colab.research.google.com/drive/13-KqUlaOSNPHa-hJGtZHMDtRBgSXDpvh
 ### PyTorch Tensor分类
 
 | 名称     | 维度  | 数学含义      | 示例                         | Shape          | 常见用途          |
