@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "pytorch基本知识",
+      "path": "06-Cards/pytorch基本知识.md"
+    },
+    {
       "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
       "path": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "未命名",
       "path": "00-MOC/未命名.canvas"
-    },
-    {
-      "basename": "pytorch基本知识",
-      "path": "06-Cards/pytorch基本知识.md"
     },
     {
       "basename": "实验方法",
