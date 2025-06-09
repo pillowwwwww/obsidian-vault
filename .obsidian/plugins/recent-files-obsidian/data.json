@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
+      "path": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md"
+    },
+    {
       "basename": "2025-06-09",
       "path": "01-Diary/日志存档/2025-06-09.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "卡片模板",
       "path": "09-Templates/卡片模板.md"
-    },
-    {
-      "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
-      "path": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md"
     },
     {
       "basename": "模型漂移model drift",
