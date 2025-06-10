@@ -27,35 +27,49 @@
             }
           },
           {
-            "id": "a30ef8d6718b6c89",
+            "id": "b2d1d2b99f27e80e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2025-05-16.md",
+                "file": "01-Diary/日志存档/2025-06-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-16"
+              "title": "2025-06-09"
             }
           },
           {
-            "id": "997e6d45cdd37c52",
+            "id": "d39425e32f69bb7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2025-05-12.md",
+                "file": "02-Reading/3-people/Stefan W. Hell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-12"
+              "title": "Stefan W. Hell"
+            }
+          },
+          {
+            "id": "f25bdcaa6047d6e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "弄懂CNN、RNN、GAN、Transformer等架构"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Diary/日志存档/2025-05-12.md",
+                "file": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +205,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2025-05-12 的反向链接列表"
+              "title": "弄懂CNN、RNN、GAN、Transformer等架构 的反向链接列表"
             }
           }
         ],
@@ -215,14 +229,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "997e6d45cdd37c52",
+  "active": "f25bdcaa6047d6e1",
   "lastOpenFiles": [
-    "01-Diary/日志存档/2025-05-10.md",
-    "01-Diary/日志存档/2025-05-09.md",
-    "01-Diary/日志存档/2025-05-16.md",
+    "02-Reading/3-people/Stefan W. Hell.md",
+    "01-Diary/日志存档/2025-06-09.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "01-Diary/日志存档/2025-06-07.md",
+    "01-Diary/日志存档/2025-06-06.md",
+    "01-Diary/日志存档/2025-06-05.md",
+    "01-Diary/日志存档/2025-05-16.md",
     "01-Diary/日志存档/2025-05-19.md",
+    "01-Diary/日志存档/2025-05-17.md",
+    "01-Diary/日志存档/2025-05-14.md",
+    "01-Diary/日志存档/2025-05-15.md",
+    "01-Diary/日志存档/2025-05-12.md",
+    "01-Diary/日志存档/2025-05-10.md",
+    "01-Diary/日志存档/2025-05-09.md",
     "01-Diary/本周事务/环境配置.md",
     "01-Diary/本周事务/FedAvg复现.md",
     "06-Cards/对比学习.md",
@@ -231,12 +253,9 @@
     "08-Assets/pdfs/2021-Federated learning on non-IID data silos",
     "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
     "06-Cards/机器学习基本概念.md",
-    "01-Diary/日志存档/2025-06-06.md",
-    "01-Diary/日志存档/2025-06-09.md",
     "08-Assets/image-10.png",
     "06-Cards/pytorch一些容易错的地方.md",
     "06-Cards/可视化.md",
-    "01-Diary/日志存档/2025-06-05.md",
     "06-Cards/MINE_FL框架.md",
     "08-Assets/image-9.png",
     "08-Assets/image-8.png",
@@ -251,11 +270,6 @@
     "08-Assets/image-1.png",
     "08-Assets/640.png",
     "09-Templates/知识卡片.md",
-    "01-Diary/日志存档/2025-05-30.md",
-    "01-Diary/日志存档/2025-05-29.md",
-    "01-Diary/日志存档/2025-05-28.md",
-    "01-Diary/日志存档/2025-05-23.md",
-    "01-Diary/日志存档/2025-05-22.md",
     "00-MOC/未命名.canvas",
     "00-MOC/未命名 2.canvas",
     "08-Assets/pdfs/2021-Model-contrastive federated learning/2021-Model-contrastive federated learning.pdf",
