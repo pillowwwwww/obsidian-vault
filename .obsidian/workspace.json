@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2025-06-09.md",
+                "file": "01-Diary/日志存档/2025-06-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-09"
+              "title": "2025-06-11"
             }
           },
           {
@@ -229,11 +229,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2d1d2b99f27e80e",
+  "active": "3090910a3bbb4bfa",
   "lastOpenFiles": [
+    "01-Diary/日志存档/2025-06-09.md",
+    "01-Diary/日志存档/2025-06-11.md",
     "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
     "02-Reading/3-people/Stefan W. Hell.md",
-    "01-Diary/日志存档/2025-06-09.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "01-Diary/日志存档/2025-06-07.md",
     "01-Diary/日志存档/2025-06-06.md",
@@ -269,7 +270,6 @@
     "08-Assets/image-2.png",
     "08-Assets/image-1.png",
     "08-Assets/640.png",
-    "09-Templates/知识卡片.md",
     "00-MOC/未命名.canvas",
     "00-MOC/未命名 2.canvas",
     "08-Assets/pdfs/2021-Model-contrastive federated learning/2021-Model-contrastive federated learning.pdf",
