@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-06-11",
-      "path": "01-Diary/日志存档/2025-06-11.md"
+      "basename": "pytorch一些容易错的地方",
+      "path": "06-Cards/pytorch一些容易错的地方.md"
     },
     {
       "basename": "python基本语法",
       "path": "06-Cards/python基本语法.md"
+    },
+    {
+      "basename": "2025-06-11",
+      "path": "01-Diary/日志存档/2025-06-11.md"
     },
     {
       "basename": "2025-06-09",
@@ -79,10 +83,6 @@
     {
       "basename": "试剂耗材仪器建卡管理",
       "path": "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md"
-    },
-    {
-      "basename": "pytorch一些容易错的地方",
-      "path": "06-Cards/pytorch一些容易错的地方.md"
     },
     {
       "basename": "可视化",
