@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-06-11",
-      "path": "01-Diary/日志存档/2025-06-11.md"
+      "basename": "常见深度学习术语解析笔记",
+      "path": "06-Cards/常见深度学习术语解析笔记.md"
+    },
+    {
+      "basename": "python基本语法",
+      "path": "06-Cards/python基本语法.md"
     },
     {
       "basename": "pytorch一些容易错的地方",
       "path": "06-Cards/pytorch一些容易错的地方.md"
     },
     {
-      "basename": "python基本语法",
-      "path": "06-Cards/python基本语法.md"
+      "basename": "可视化",
+      "path": "06-Cards/可视化.md"
+    },
+    {
+      "basename": "神经网络",
+      "path": "06-Cards/神经网络.md"
+    },
+    {
+      "basename": "机器学习与深度学习中的数学知识点汇总",
+      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
+    },
+    {
+      "basename": "机器学习基本概念",
+      "path": "06-Cards/机器学习基本概念.md"
+    },
+    {
+      "basename": "使用obsidian搞科研",
+      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
+    },
+    {
+      "basename": "batch",
+      "path": "06-Cards/batch.md"
+    },
+    {
+      "basename": "2025-06-11",
+      "path": "01-Diary/日志存档/2025-06-11.md"
     },
     {
       "basename": "2025-06-09",
@@ -23,10 +51,6 @@
     {
       "basename": "Stefan W. Hell",
       "path": "02-Reading/3-people/Stefan W. Hell.md"
-    },
-    {
-      "basename": "使用obsidian搞科研",
-      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
     },
     {
       "basename": "2025-06-06",
@@ -69,10 +93,6 @@
       "path": "06-Cards/pytorch基本知识.md"
     },
     {
-      "basename": "机器学习基本概念",
-      "path": "06-Cards/机器学习基本概念.md"
-    },
-    {
       "basename": "用obsidian阅读文献",
       "path": "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md"
     },
@@ -85,16 +105,8 @@
       "path": "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md"
     },
     {
-      "basename": "可视化",
-      "path": "06-Cards/可视化.md"
-    },
-    {
       "basename": "MINE_FL框架",
       "path": "06-Cards/MINE_FL框架.md"
-    },
-    {
-      "basename": "batch",
-      "path": "06-Cards/batch.md"
     },
     {
       "basename": "2092aacd37d1608f1ed9d958063203c",
@@ -137,10 +149,6 @@
       "path": "06-Cards/实验方法.md"
     },
     {
-      "basename": "机器学习与深度学习中的数学知识点汇总",
-      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
-    },
-    {
       "basename": "损失函数（Loss Function）",
       "path": "06-Cards/损失函数（Loss Function）.md"
     },
@@ -179,10 +187,6 @@
     {
       "basename": "Pasted image 20250516204755",
       "path": "08-Assets/Pasted image 20250516204755.png"
-    },
-    {
-      "basename": "神经网络",
-      "path": "06-Cards/神经网络.md"
     },
     {
       "basename": "source-notes",
