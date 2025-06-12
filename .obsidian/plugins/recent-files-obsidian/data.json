@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Featurize配置环境",
+      "path": "06-Cards/Featurize配置环境.md"
+    },
+    {
       "basename": "2025-06-06",
       "path": "01-Diary/日志存档/2025-06-06.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3692070.3692369",
       "path": "02-Reading/mdnotes/2024ICML FedMBridge/3692070.3692369.md"
-    },
-    {
-      "basename": "Pasted image 20250516204755",
-      "path": "08-Assets/Pasted image 20250516204755.png"
     }
   ],
   "omittedPaths": [],

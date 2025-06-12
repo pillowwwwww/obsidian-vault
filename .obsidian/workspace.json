@@ -116,12 +116,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2025-06-06.md",
+                "file": "06-Cards/Featurize配置环境.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-06"
+              "title": "Featurize配置环境"
             }
           }
         ],
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Diary/日志存档/2025-06-06.md",
+                "file": "06-Cards/Featurize配置环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +261,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2025-06-06 的反向链接列表"
+              "title": "Featurize配置环境 的反向链接列表"
             }
           }
         ],
@@ -287,6 +287,8 @@
   },
   "active": "c418a8ef37e430d8",
   "lastOpenFiles": [
+    "01-Diary/日志存档/2025-06-06.md",
+    "06-Cards/Featurize配置环境.md",
     "01-Diary/日志存档/2025-06-09.md",
     "01-Diary/日志存档/2025-06-11.md",
     "01-Diary/日志存档/2025-06-12.md",
@@ -310,7 +312,6 @@
     "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
     "02-Reading/3-people/Stefan W. Hell.md",
     "01-Diary/日志存档/2025-06-07.md",
-    "01-Diary/日志存档/2025-06-06.md",
     "01-Diary/日志存档/2025-06-05.md",
     "01-Diary/日志存档/2025-05-16.md",
     "01-Diary/日志存档/2025-05-19.md",
@@ -319,7 +320,6 @@
     "01-Diary/日志存档/2025-05-15.md",
     "01-Diary/日志存档/2025-05-12.md",
     "01-Diary/日志存档/2025-05-10.md",
-    "01-Diary/日志存档/2025-05-09.md",
     "08-Assets/pdfs/2021-Federated learning on non-IID data silos/2021-Federated learning on non-IID data silos An experimental study.pdf",
     "08-Assets/pdfs/2021-Federated learning on non-IID data silos",
     "08-Assets/image-10.png",
