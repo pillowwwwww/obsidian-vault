@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Featurize配置环境",
+      "path": "06-Cards/Featurize配置环境.md"
+    },
+    {
+      "basename": "2025-06-12",
+      "path": "01-Diary/日志存档/2025-06-12.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "01-Diary/本周事务/未命名.md"
+    },
+    {
       "basename": "2025-06-09",
       "path": "01-Diary/日志存档/2025-06-09.md"
     },
     {
       "basename": "未命名",
       "path": "01-Diary/周小结/未命名.md"
-    },
-    {
-      "basename": "Featurize配置环境",
-      "path": "06-Cards/Featurize配置环境.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "01-Diary/本周事务/未命名.md"
     },
     {
       "basename": "FedAvg复现",
@@ -39,10 +43,6 @@
     {
       "basename": "2025-06-11",
       "path": "01-Diary/日志存档/2025-06-11.md"
-    },
-    {
-      "basename": "2025-06-12",
-      "path": "01-Diary/日志存档/2025-06-12.md"
     },
     {
       "basename": "生成数据集",
