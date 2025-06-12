@@ -6,6 +6,7 @@
       {
         "id": "fc867be8188b2965",
         "type": "tabs",
+        "dimension": 57.22689075630252,
         "children": [
           {
             "id": "9b448d9d679bf6dd",
@@ -46,6 +47,7 @@
       {
         "id": "9babd13b2c9f9e99",
         "type": "tabs",
+        "dimension": 42.773109243697476,
         "children": [
           {
             "id": "fa4c4448e15f3a84",
@@ -185,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Diary/日志存档/2025-06-09.md",
+                "file": "08-Assets/pdfs/2018-Federated optimization in heterogeneous networks/2018-Federated optimization in heterogeneous networks.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +197,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2025-06-09 的反向链接列表"
+              "title": "2018-Federated optimization in heterogeneous networks 的反向链接列表"
             }
           }
         ],
@@ -219,8 +221,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b1d8687a3415ec7",
+  "active": "fa4c4448e15f3a84",
   "lastOpenFiles": [
+    "06-Cards/可视化.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "01-Diary/日志存档/2025-06-12.md",
     "08-Assets/pdfs/2018-Federated optimization in heterogeneous networks/2018-Federated optimization in heterogeneous networks.pdf",
@@ -233,7 +236,6 @@
     "08-Assets/Scripts/fed_idea_20250324_121203.pptx",
     "08-Assets/866b95dc127796d0c8e09f802af195f9.png",
     "06-Cards/pytorch一些容易错的地方.md",
-    "06-Cards/可视化.md",
     "06-Cards/神经网络.md",
     "06-Cards/机器学习基本概念.md",
     "06-Cards/batch.md",
