@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-06-09",
+      "path": "01-Diary/日志存档/2025-06-09.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "01-Diary/周小结/未命名.md"
+    },
+    {
       "basename": "Featurize配置环境",
       "path": "06-Cards/Featurize配置环境.md"
     },
     {
-      "basename": "2025-06-06",
-      "path": "01-Diary/日志存档/2025-06-06.md"
+      "basename": "未命名",
+      "path": "01-Diary/本周事务/未命名.md"
     },
     {
-      "basename": "2025-06-09",
-      "path": "01-Diary/日志存档/2025-06-09.md"
+      "basename": "FedAvg复现",
+      "path": "01-Diary/本周事务/FedAvg复现.md"
+    },
+    {
+      "basename": "第一周小结",
+      "path": "01-Diary/本周事务/第一周小结.md"
+    },
+    {
+      "basename": "每周小结",
+      "path": "09-Templates/每周小结.md"
+    },
+    {
+      "basename": "日志模板",
+      "path": "09-Templates/日志模板.md"
+    },
+    {
+      "basename": "2025-06-06",
+      "path": "01-Diary/日志存档/2025-06-06.md"
     },
     {
       "basename": "2025-06-11",
@@ -105,10 +129,6 @@
       "path": "01-Diary/本周事务/环境配置.md"
     },
     {
-      "basename": "FedAvg复现",
-      "path": "01-Diary/本周事务/FedAvg复现.md"
-    },
-    {
       "basename": "对比学习",
       "path": "06-Cards/对比学习.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "2023ICLR CreamFL",
       "path": "02-Reading/mdnotes/2023ICLR CreamFL.md"
-    },
-    {
-      "basename": "第一周小结",
-      "path": "01-Diary/本周事务/第一周小结.md"
-    },
-    {
-      "basename": "python基础知识",
-      "path": "01-Diary/本周事务/python基础知识.md"
-    },
-    {
-      "basename": "Li2018 FedProx",
-      "path": "02-Reading/mdnotes/Li2018 FedProx.md"
-    },
-    {
-      "basename": "2023-Multimodal federated learning via contrastive representation ensemble",
-      "path": "08-Assets/pdfs/2023-Multimodal federated learning via contrastive representation ensemble/2023-Multimodal federated learning via contrastive representation ensemble.pdf"
-    },
-    {
-      "basename": "3692070.3692369",
-      "path": "02-Reading/mdnotes/2024ICML FedMBridge/3692070.3692369.md"
     }
   ],
   "omittedPaths": [],
