@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "常见深度学习术语解析笔记",
-      "path": "06-Cards/常见深度学习术语解析笔记.md"
-    },
-    {
       "basename": "python基本语法",
       "path": "06-Cards/python基本语法.md"
+    },
+    {
+      "basename": "使用obsidian搞科研",
+      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
+    },
+    {
+      "basename": "2025-06-12",
+      "path": "01-Diary/日志存档/2025-06-12.md"
+    },
+    {
+      "basename": "机器学习与深度学习中的数学知识点汇总",
+      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
+    },
+    {
+      "basename": "Huang et al_2024_Multimodal federated learning",
+      "path": "08-Assets/pdfs/Information Fusion2024/Huang et al_2024_Multimodal federated learning.pdf"
+    },
+    {
+      "basename": "2018-Federated optimization in heterogeneous networks",
+      "path": "08-Assets/pdfs/2018-Federated optimization in heterogeneous networks/2018-Federated optimization in heterogeneous networks.pdf"
+    },
+    {
+      "basename": "常见深度学习术语解析笔记",
+      "path": "06-Cards/常见深度学习术语解析笔记.md"
     },
     {
       "basename": "pytorch一些容易错的地方",
@@ -21,16 +41,8 @@
       "path": "06-Cards/神经网络.md"
     },
     {
-      "basename": "机器学习与深度学习中的数学知识点汇总",
-      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
-    },
-    {
       "basename": "机器学习基本概念",
       "path": "06-Cards/机器学习基本概念.md"
-    },
-    {
-      "basename": "使用obsidian搞科研",
-      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
     },
     {
       "basename": "batch",
@@ -187,18 +199,6 @@
     {
       "basename": "Pasted image 20250516204755",
       "path": "08-Assets/Pasted image 20250516204755.png"
-    },
-    {
-      "basename": "source-notes",
-      "path": "09-Templates/source-notes.md"
-    },
-    {
-      "basename": "McMahan2016",
-      "path": "02-Reading/mdnotes/McMahan2016.md"
-    },
-    {
-      "basename": "@Communication-Efficient Learning of Deep Networks from Decentralized Data",
-      "path": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md"
     }
   ],
   "omittedPaths": [],
