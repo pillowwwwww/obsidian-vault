@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "python基本语法",
-      "path": "06-Cards/python基本语法.md"
+      "basename": "可视化",
+      "path": "06-Cards/可视化.md"
     },
     {
       "basename": "使用obsidian搞科研",
@@ -13,6 +13,14 @@
       "path": "01-Diary/日志存档/2025-06-12.md"
     },
     {
+      "basename": "2018-Federated optimization in heterogeneous networks",
+      "path": "08-Assets/pdfs/2018-Federated optimization in heterogeneous networks/2018-Federated optimization in heterogeneous networks.pdf"
+    },
+    {
+      "basename": "python基本语法",
+      "path": "06-Cards/python基本语法.md"
+    },
+    {
       "basename": "机器学习与深度学习中的数学知识点汇总",
       "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
     },
@@ -21,20 +29,12 @@
       "path": "08-Assets/pdfs/Information Fusion2024/Huang et al_2024_Multimodal federated learning.pdf"
     },
     {
-      "basename": "2018-Federated optimization in heterogeneous networks",
-      "path": "08-Assets/pdfs/2018-Federated optimization in heterogeneous networks/2018-Federated optimization in heterogeneous networks.pdf"
-    },
-    {
       "basename": "常见深度学习术语解析笔记",
       "path": "06-Cards/常见深度学习术语解析笔记.md"
     },
     {
       "basename": "pytorch一些容易错的地方",
       "path": "06-Cards/pytorch一些容易错的地方.md"
-    },
-    {
-      "basename": "可视化",
-      "path": "06-Cards/可视化.md"
     },
     {
       "basename": "神经网络",

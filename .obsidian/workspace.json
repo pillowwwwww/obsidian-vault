@@ -17,7 +17,7 @@
                 "file": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
                 "viewState": {
                   "x": 1288.694187326915,
-                  "y": -554.4138877583846,
+                  "y": -807.2143314521425,
                   "zoom": -0.4426964064629948
                 }
               },
@@ -27,20 +27,21 @@
             }
           },
           {
-            "id": "37e3d70005a3ac1a",
+            "id": "7b1d8687a3415ec7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2025-06-12.md",
+                "file": "06-Cards/可视化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-12"
+              "title": "可视化"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9babd13b2c9f9e99",
@@ -50,14 +51,12 @@
             "id": "fa4c4448e15f3a84",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "06-Cards/python基本语法.md",
-                "mode": "source",
-                "source": false
+                "file": "08-Assets/pdfs/2018-Federated optimization in heterogeneous networks/2018-Federated optimization in heterogeneous networks.pdf"
               },
-              "icon": "lucide-file",
-              "title": "python基本语法"
+              "icon": "lucide-file-text",
+              "title": "2018-Federated optimization in heterogeneous networks"
             }
           }
         ]
@@ -123,8 +122,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,19 +219,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f4ff75561bebdd2",
+  "active": "7b1d8687a3415ec7",
   "lastOpenFiles": [
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "01-Diary/日志存档/2025-06-12.md",
+    "08-Assets/pdfs/2018-Federated optimization in heterogeneous networks/2018-Federated optimization in heterogeneous networks.pdf",
+    "06-Cards/python基本语法.md",
     "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
     "08-Assets/Scripts/蓝色-申博PPT.pptx.pptx",
     "08-Assets/pdfs/Information Fusion2024/Huang et al_2024_Multimodal federated learning.pdf",
-    "08-Assets/pdfs/2018-Federated optimization in heterogeneous networks/2018-Federated optimization in heterogeneous networks.pdf",
     "06-Cards/常见深度学习术语解析笔记.md",
     "08-Assets/Scripts/fed_idea_20250324_121203 1.pptx",
     "08-Assets/Scripts/fed_idea_20250324_121203.pptx",
     "08-Assets/866b95dc127796d0c8e09f802af195f9.png",
-    "06-Cards/python基本语法.md",
     "06-Cards/pytorch一些容易错的地方.md",
     "06-Cards/可视化.md",
     "06-Cards/神经网络.md",
