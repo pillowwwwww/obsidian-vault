@@ -164,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.50328826904297
+    "width": 321.50328826904297
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -257,7 +257,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "380e2776f29c52d2",
+  "active": "3090910a3bbb4bfa",
   "lastOpenFiles": [
     "06-Cards/数据预处理：torchvision, torchaudio,torchtext.md",
     "01-Diary/日志存档/2025-06-09.md",
