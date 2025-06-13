@@ -60,12 +60,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/生成数据集.md",
+                "file": "06-Cards/Featurize配置环境.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "生成数据集"
+              "title": "Featurize配置环境"
             }
           },
           {
@@ -111,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Diary/日志存档/2025-06-11.md",
+                "file": "06-Cards/Featurize配置环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2025-06-11 的反向链接列表"
+              "title": "Featurize配置环境 的反向链接列表"
             }
           }
         ],
@@ -271,10 +271,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ec8ccb522c681ab",
+  "active": "e56f21340e5ff5d8",
   "lastOpenFiles": [
-    "01-Diary/本周事务/未命名.md",
+    "06-Cards/生成数据集.md",
     "01-Diary/日志存档/2025-06-11.md",
+    "01-Diary/本周事务/未命名.md",
     "01-Diary/日志存档/2025-06-13.md",
     "06-Cards/Featurize配置环境.md",
     "01-Diary/日志存档/2025-06-12.md",
@@ -285,7 +286,6 @@
     "09-Templates/每周小结.md",
     "09-Templates/日志模板.md",
     "01-Diary/日志存档/2025-06-06.md",
-    "06-Cards/生成数据集.md",
     "06-Cards/Dirichlet分布.md",
     "06-Cards/可视化.md",
     "08-Assets/pdfs/2018-Federated optimization in heterogeneous networks/2018-Federated optimization in heterogeneous networks.pdf",
