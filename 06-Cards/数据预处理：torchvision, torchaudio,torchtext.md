@@ -48,11 +48,12 @@ tags:
 只有完成以上处理，才能把形状是 `(batch_size, seq_len)` 且元素为整数的张量，输入到后端的文本编码器里，得到连续的特征表示 `(batch_size, seq_len, hidden_dim)`。
 
 ## 三个模态的比较
-|步骤|图像 (`torchvision`)|文本 (`torchtext`)|音频 (`torchaudio`)|
-|---|---|---|---|
-|加载原始数据|`.jpg`, `.png`, `.bmp`|`.txt`, `.csv`, `.json`|`.wav`, `.mp3`, `.flac`|
-|数据集接口|`ImageFolder`, `CIFAR10`, `COCO` 等|`AG_NEWS`, `IMDB`, `WikiText` 等|`LibriSpeech`, `CommonVoice` 等|
-|样本结构|图像为 `HWC`，转为 `CHW` 张量|文本为字符串 → token ids|音频为波形（1D）张量|
-|模型输入前处理|Resize, Normalize, ToTensor|Tokenize, Vocab Lookup, Padding|STFT, MelSpectrogram, Normalize|
-|模型输入结构|`[batch_size, 3, H, W]`|`[batch_size, seq_len]`|`[batch_size, waveform_len]`|
-|预训练模型支持|`ResNet`, `ViT`, `YOLO` 等|`BERT`, `GPT`, `RoBERTa`（需从 Transformers）|`wav2vec 2.0`, `HuBERT`, `WavLM` 等|
+| 步骤      | 图像 (`torchvision`)                 | 文本 (`torchtext`)                          | 音频 (`torchaudio`)                  |
+| ------- | ---------------------------------- | ----------------------------------------- | ---------------------------------- |
+| 加载原始数据  | `.jpg`, `.png`, `.bmp`             | `.txt`, `.csv`, `.json`                   | `.wav`, `.mp3`, `.flac`            |
+| 数据集接口   | `ImageFolder`, `CIFAR10`, `COCO` 等 | `AG_NEWS`, `IMDB`, `WikiText` 等           | `LibriSpeech`, `CommonVoice` 等     |
+| 样本结构    | 图像为 `HWC`，转为 `CHW` 张量              | 文本为字符串 → token ids                        | 音频为波形（1D）张量                        |
+| 模型输入前处理 | Resize, Normalize, ToTensor        | Tokenize, Vocab Lookup, Padding           | STFT, MelSpectrogram, Normalize    |
+| 模型输入结构  | `[batch_size, 3, H, W]`            | `[batch_size, seq_len]`                   | `[batch_size, waveform_len]`       |
+| 预训练模型支持 | `ResNet`, `ViT`, `YOLO` 等          | `BERT`, `GPT`, `RoBERTa`（需从 Transformers） | `wav2vec 2.0`, `HuBERT`, `WavLM` 等 |
+|         |                                    |                                           |                                    |
