@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-06-11",
+      "path": "01-Diary/日志存档/2025-06-11.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "01-Diary/本周事务/未命名.md"
+    },
+    {
+      "basename": "2025-06-13",
+      "path": "01-Diary/日志存档/2025-06-13.md"
+    },
+    {
       "basename": "Featurize配置环境",
       "path": "06-Cards/Featurize配置环境.md"
     },
     {
       "basename": "2025-06-12",
       "path": "01-Diary/日志存档/2025-06-12.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "01-Diary/本周事务/未命名.md"
     },
     {
       "basename": "2025-06-09",
@@ -39,10 +47,6 @@
     {
       "basename": "2025-06-06",
       "path": "01-Diary/日志存档/2025-06-06.md"
-    },
-    {
-      "basename": "2025-06-11",
-      "path": "01-Diary/日志存档/2025-06-11.md"
     },
     {
       "basename": "生成数据集",
@@ -195,10 +199,6 @@
     {
       "basename": "模型漂移model drift",
       "path": "06-Cards/模型漂移model drift.md"
-    },
-    {
-      "basename": "2023ICLR CreamFL",
-      "path": "02-Reading/mdnotes/2023ICLR CreamFL.md"
     }
   ],
   "omittedPaths": [],

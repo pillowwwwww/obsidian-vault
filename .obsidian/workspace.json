@@ -88,12 +88,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/Featurize配置环境.md",
+                "file": "01-Diary/日志存档/2025-06-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Featurize配置环境"
+              "title": "2025-06-13"
             }
           },
           {
@@ -109,37 +109,9 @@
               "icon": "lucide-file",
               "title": "2025-06-11"
             }
-          },
-          {
-            "id": "914b0b1877841002",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/日志存档/2025-06-09.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-09"
-            }
-          },
-          {
-            "id": "689d1281b6f0cd46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/本周事务/未命名.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -202,7 +174,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -265,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-Cards/Featurize配置环境.md",
+                "file": "01-Diary/日志存档/2025-06-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +248,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Featurize配置环境 的反向链接列表"
+              "title": "2025-06-11 的反向链接列表"
             }
           }
         ],
@@ -283,8 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,19 +271,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e32ab029134910e",
+  "active": "3ec8ccb522c681ab",
   "lastOpenFiles": [
-    "01-Diary/日志存档/2025-06-12.md",
     "01-Diary/本周事务/未命名.md",
+    "01-Diary/日志存档/2025-06-11.md",
+    "01-Diary/日志存档/2025-06-13.md",
+    "06-Cards/Featurize配置环境.md",
+    "01-Diary/日志存档/2025-06-12.md",
     "01-Diary/日志存档/2025-06-09.md",
     "01-Diary/周小结/未命名.md",
-    "06-Cards/Featurize配置环境.md",
     "01-Diary/本周事务/FedAvg复现.md",
     "01-Diary/本周事务/第一周小结.md",
     "09-Templates/每周小结.md",
     "09-Templates/日志模板.md",
     "01-Diary/日志存档/2025-06-06.md",
-    "01-Diary/日志存档/2025-06-11.md",
     "06-Cards/生成数据集.md",
     "06-Cards/Dirichlet分布.md",
     "06-Cards/可视化.md",
@@ -333,7 +306,6 @@
     "02-Reading/3-people/Stefan W. Hell.md",
     "01-Diary/日志存档/2025-06-07.md",
     "01-Diary/日志存档/2025-06-05.md",
-    "01-Diary/日志存档/2025-05-16.md",
     "08-Assets/pdfs/2021-Federated learning on non-IID data silos/2021-Federated learning on non-IID data silos An experimental study.pdf",
     "08-Assets/pdfs/2021-Federated learning on non-IID data silos",
     "08-Assets/image-10.png",
