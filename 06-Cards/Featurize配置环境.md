@@ -5,6 +5,7 @@ tags:
 ---
 
 conda activate /home/featurize/work/myenv
+torch用1.12
 
 持久化安装：`(/home/featurize/work/myenv) ➜ CreamFL pip install --user torch torchvision torchaudio`
 
