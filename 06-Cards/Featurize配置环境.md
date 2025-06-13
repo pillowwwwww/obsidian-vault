@@ -15,12 +15,12 @@ conda activate /home/featurize/work/myenv
 
 版本：
 pip install --user --index-url https://download.pytorch.org/whl/cu116 \
-    torch==1.12.1+cu116 \
-    torchvision==0.13.1+cu116 \
-    torchaudio==0.12.1+cu116
+    torch=0.11.1+cu113 \
+    torchvision0.11.1 \
+    #torchaudio==0.12.1+cu116 先不用，版本不确定
     
  安装与之匹配的 torchtext（CPU 库即可，C++ 扩展会自动与 torch 对齐）
-pip install --user torchtext==0.13.1
+pip install --user torchtext==0.11.1
 2. 安装apex，按照官网的格式，用的linux
 3. 把requirement里面的文件装好
 4. pip install --user fire
