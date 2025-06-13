@@ -125,8 +125,10 @@ max_pool_layer = nn.MaxPool2d(kernel_size=2)
 | ------------------------ | ------------- |
 | 转为 Tensor                | 便于模型处理        |
 | 封装为 Dataset 和 DataLoader | 支持批处理、打乱、并行加载 |
-### 卷积过程padding的理解
+## 卷积过程padding的理解
+
 ![[image-11.png]]
 ![[image-12.png]]在深度学习框架 TensorFlow 、keras 等中 pading的参数有 valid 和 same 两种可选。
 
 valid 其实就是表示没有 pad （填充） ； same 表示图像进行 pad ，得到的输出图像会与输入图像尺寸相同。
+![[image-14.png]]

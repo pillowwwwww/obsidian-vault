@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "数据预处理：torchvision, torchaudio,torchtext",
+      "path": "06-Cards/数据预处理：torchvision, torchaudio,torchtext.md"
+    },
+    {
       "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
       "path": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "卡片模板",
       "path": "09-Templates/卡片模板.md"
-    },
-    {
-      "basename": "模型漂移model drift",
-      "path": "06-Cards/模型漂移model drift.md"
     }
   ],
   "omittedPaths": [],
