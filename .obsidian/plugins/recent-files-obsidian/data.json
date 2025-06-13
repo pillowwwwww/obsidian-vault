@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "实验日志",
+      "path": "06-Cards/实验日志.md"
+    },
+    {
+      "basename": "2025-06-09",
+      "path": "01-Diary/日志存档/2025-06-09.md"
+    },
+    {
       "basename": "Dirichlet分布",
       "path": "06-Cards/Dirichlet分布.md"
+    },
+    {
+      "basename": "2025-06-11",
+      "path": "01-Diary/日志存档/2025-06-11.md"
+    },
+    {
+      "basename": "2025-06-13",
+      "path": "01-Diary/日志存档/2025-06-13.md"
+    },
+    {
+      "basename": "MINE_FL框架",
+      "path": "06-Cards/MINE_FL框架.md"
     },
     {
       "basename": "Featurize配置环境",
@@ -25,24 +45,8 @@
       "path": "06-Cards/生成数据集.md"
     },
     {
-      "basename": "2025-06-11",
-      "path": "01-Diary/日志存档/2025-06-11.md"
-    },
-    {
       "basename": "未命名",
       "path": "01-Diary/本周事务/未命名.md"
-    },
-    {
-      "basename": "2025-06-13",
-      "path": "01-Diary/日志存档/2025-06-13.md"
-    },
-    {
-      "basename": "2025-06-12",
-      "path": "01-Diary/日志存档/2025-06-12.md"
-    },
-    {
-      "basename": "2025-06-09",
-      "path": "01-Diary/日志存档/2025-06-09.md"
     },
     {
       "basename": "未命名",
@@ -157,10 +161,6 @@
       "path": "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md"
     },
     {
-      "basename": "MINE_FL框架",
-      "path": "06-Cards/MINE_FL框架.md"
-    },
-    {
       "basename": "2092aacd37d1608f1ed9d958063203c",
       "path": "08-Assets/2092aacd37d1608f1ed9d958063203c.png"
     },
@@ -187,10 +187,6 @@
     {
       "basename": "未命名",
       "path": "00-MOC/未命名.canvas"
-    },
-    {
-      "basename": "实验方法",
-      "path": "06-Cards/实验方法.md"
     },
     {
       "basename": "损失函数（Loss Function）",
