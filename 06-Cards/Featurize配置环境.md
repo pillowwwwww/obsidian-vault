@@ -11,12 +11,15 @@ conda activate /home/featurize/work/myenv
 
  ✅  始终使用 pip 安装依赖，而不是用 conda，如无必要，不要创建虚拟环境，除非你知道自己在做什么。（i donnot know why)
  ✅  常用的包可使用 pip install --user xxx 安装，这样下次使用无需重复安装。 
+服务器cuda12.3
 
-
+creamfl：
 版本：
-pip install --user --index-url https://download.pytorch.org/whl/cu116 \
-    torch=0.11.1+cu113 \
-    torchvision0.11.1 \
+pip install --user \
+    torch==1.10.0 \
+    torchvision==0.11.1 \
+    torchtext==0.11.1
+
     #torchaudio==0.12.1+cu116 先不用，版本不确定
     
  安装与之匹配的 torchtext（CPU 库即可，C++ 扩展会自动与 torch 对齐）

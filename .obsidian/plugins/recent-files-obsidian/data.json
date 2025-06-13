@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "实验日志",
-      "path": "06-Cards/实验日志.md"
+      "basename": "Featurize配置环境",
+      "path": "06-Cards/Featurize配置环境.md"
     },
     {
       "basename": "2025-06-09",
       "path": "01-Diary/日志存档/2025-06-09.md"
+    },
+    {
+      "basename": "数据预处理：torchvision, torchaudio,torchtext",
+      "path": "06-Cards/数据预处理：torchvision, torchaudio,torchtext.md"
+    },
+    {
+      "basename": "实验日志",
+      "path": "06-Cards/实验日志.md"
     },
     {
       "basename": "Dirichlet分布",
@@ -23,14 +31,6 @@
     {
       "basename": "MINE_FL框架",
       "path": "06-Cards/MINE_FL框架.md"
-    },
-    {
-      "basename": "Featurize配置环境",
-      "path": "06-Cards/Featurize配置环境.md"
-    },
-    {
-      "basename": "数据预处理：torchvision, torchaudio,torchtext",
-      "path": "06-Cards/数据预处理：torchvision, torchaudio,torchtext.md"
     },
     {
       "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
