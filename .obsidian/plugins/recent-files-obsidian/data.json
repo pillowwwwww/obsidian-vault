@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dirichlet分布",
+      "path": "06-Cards/Dirichlet分布.md"
+    },
+    {
       "basename": "Featurize配置环境",
       "path": "06-Cards/Featurize配置环境.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "2025-06-06",
       "path": "01-Diary/日志存档/2025-06-06.md"
-    },
-    {
-      "basename": "Dirichlet分布",
-      "path": "06-Cards/Dirichlet分布.md"
     },
     {
       "basename": "可视化",
