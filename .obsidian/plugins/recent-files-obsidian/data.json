@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
+      "path": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md"
+    },
+    {
+      "basename": "神经网络",
+      "path": "06-Cards/神经网络.md"
+    },
+    {
       "basename": "Featurize配置环境",
       "path": "06-Cards/Featurize配置环境.md"
     },
@@ -89,20 +97,12 @@
       "path": "06-Cards/pytorch一些容易错的地方.md"
     },
     {
-      "basename": "神经网络",
-      "path": "06-Cards/神经网络.md"
-    },
-    {
       "basename": "机器学习基本概念",
       "path": "06-Cards/机器学习基本概念.md"
     },
     {
       "basename": "batch",
       "path": "06-Cards/batch.md"
-    },
-    {
-      "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
-      "path": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md"
     },
     {
       "basename": "Stefan W. Hell",
