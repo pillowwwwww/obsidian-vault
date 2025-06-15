@@ -24,6 +24,9 @@ creamfl：
 5. 设置软连接：ln -s /home/featurize/work/data/mmdata /home/featurize/data/mmdata
 6. 运行creamfl ：
 pip install transformers==4.21.0
+```text
+pip install -U huggingface_hub
+```
 
 
 
