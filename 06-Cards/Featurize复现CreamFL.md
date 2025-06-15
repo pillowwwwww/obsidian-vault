@@ -23,7 +23,7 @@ creamfl：
 4. pip install --user fire
 5. 设置软连接：ln -s /home/featurize/work/data/mmdata /home/featurize/data/mmdata
 6. 运行creamfl ：
-
+pip install transformers==4.21.0
 
 
 
