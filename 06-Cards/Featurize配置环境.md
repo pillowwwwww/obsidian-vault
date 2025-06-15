@@ -17,7 +17,9 @@ creamfl：
 版本：
  pip install --user torch==1.10.0+cu113 torchvision==0.11.1+cu113 torchaudio==0.10.0+cu113 torchtext==0.11.0 -f https://download.pytorch.org/whl/torch_stable.html
 
-2. 安装apex，(python setup.py install) 按照官网的格式，用的linux
+2. Apex的Cuda版本与Pytorch的Cuda版本不匹配（无root权限）
+安装apex，(pip install -v --no-cache-dir ./) [import apex always have AttributeError: module 'torch' has no attribute 'library' · Issue #1870 · NVIDIA/apex](https://github.com/NVIDIA/apex/issues/1870)按照官网的格式，用的linux
 3. 把requirement里面的文件装好
 4. pip install --user fire
+5. 运行creamfl
 
