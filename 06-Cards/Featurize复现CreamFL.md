@@ -21,7 +21,8 @@ creamfl：
 安装apex，(pip install -v --no-cache-dir ./) [import apex always have AttributeError: module 'torch' has no attribute 'library' · Issue #1870 · NVIDIA/apex](https://github.com/NVIDIA/apex/issues/1870)按照官网的格式，用的linux
 3. 把requirement里面的文件装好
 4. pip install --user fire
-5. 运行creamfl ：
+5. 设置软连接：ln -s /home/featurize/work/data/mmdata /home/featurize/data/mmdata
+6. 运行creamfl ：
 
 
 
