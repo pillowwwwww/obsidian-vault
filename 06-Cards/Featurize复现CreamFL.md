@@ -25,10 +25,11 @@ ae54560cc7626fdea0641de28b9f493368799ceb
 3. 把requirement里面的文件装好
 4. pip install --user fire
 5. 设置软连接：ln -s /home/featurize/work/data/mmdata /home/featurize/data/mmdata
-6. 运行creamfl ：
+6. 把train2014和val2014的内容放到allimages里面！
+7. 运行creamfl ：
 pip install transformers==4.21.0
 ```text
-pip install -U huggingface_hub
+pip install --user -U huggingface_hub
 ```
 
 
@@ -44,7 +45,7 @@ ResNet18 是图像编码器，它的预训练权重能让你快速获得表达�
 ```
  export HF_ENDPOINT=https://hf-mirror.com
  
-  huggingface-cli download --resume-download google-bert/bert-base-uncased --local-dir google-bert/bert-base-uncased
+  huggingface-cli download --resume-download google-bert/bert-base-uncased --local-dir google-bert/bert-base-uncased --local-dir-use-symlinks False`
   ``` 
 **可选参数 `--local-dir-use-symlinks False`**
 
