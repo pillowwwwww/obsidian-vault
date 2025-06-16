@@ -6,6 +6,8 @@ tags:
 
 conda activate /home/featurize/work/myenv
 
+wandb key：
+ae54560cc7626fdea0641de28b9f493368799ceb
 
 持久化安装：`(/home/featurize/work/myenv) ➜ CreamFL pip install --user torch torchvision torchaudio`
 
@@ -13,10 +15,11 @@ conda activate /home/featurize/work/myenv
  ✅  常用的包可使用 pip install --user xxx 安装，这样下次使用无需重复安装。 
 服务器cuda12.3
 
-creamfl：
+### Creamfl：
 版本：
+```
  pip install --user torch==1.10.0+cu113 torchvision==0.11.1+cu113 torchaudio==0.10.0+cu113 torchtext==0.11.0 -f https://download.pytorch.org/whl/torch_stable.html
-
+```
 2. Apex的Cuda版本与Pytorch的Cuda版本不匹配（无root权限）
 安装apex，(pip install -v --no-cache-dir ./) [import apex always have AttributeError: module 'torch' has no attribute 'library' · Issue #1870 · NVIDIA/apex](https://github.com/NVIDIA/apex/issues/1870)按照官网的格式，用的linux
 3. 把requirement里面的文件装好
@@ -30,13 +33,41 @@ pip install -U huggingface_hub
 
 
 
-
+### 预训练
 图像（jpg） → ResNet18（预训练） → 图像特征向量（例如 512维）  
 文本（caption） → GloVe（预训练） → 文本特征向量（300维）  
 图文匹配：通过对比学习或表征对齐（如 PCME）
 所以：
-
 ResNet18 是图像编码器，它的预训练权重能让你快速获得表达图像语义的向量；
-
 如果不用预训练，模型将无法“理解”图像的语义。
+### pretrain: 从huggingface上下载模型：
+```
+ export HF_ENDPOINT=https://hf-mirror.com
+ 
+  huggingface-cli download --resume-download google-bert/bert-base-uncased --local-dir google-bert/bert-base-uncased
+  ``` 
+**可选参数 `--local-dir-use-symlinks False`**
 
+_【更新：请注意，_[v0.23.0](https://link.zhihu.com/?target=https%3A//github.com/huggingface/huggingface_hub/releases/tag/v0.23.0)_开始加--local-dir 时会关闭符号链接】_
+
+值得注意的是，有个`--local-dir-use-symlinks False` 参数可选，因为huggingface的工具链默认会使用符号链接来存储下载的文件，导致`--local-dir`指定的目录中都是一些“链接文件”，真实模型则存储在`~/.cache/huggingface`下，如果不喜欢这个可以用 `--local-dir-use-symlinks False`取消这个逻辑。
+
+但我不太喜欢取消这个参数，**其最大方便点在于，调用时可以用模型名直接引用模型，而非指定模型路径。**
+
+什么意思呢？我们知道，`from_pretrain` 函数可以接收一个模型的id，也可以接收模型的存储路径。
+
+假如我们用浏览器下载了一个模型，存储到服务器的 `/data/gpt2` 下了，调用的时候你得写模型的绝对路径
+
+```python3
+AutoModelForCausalLM.from_pretrained("/data/gpt2")
+```
+
+然而如果你用的 `huggingface-cli download gpt2` 下载，即使你把模型存储到了自己指定的目录，但是你仍然可以简单的用模型的名字来引用他。即：
+
+```text
+AutoModelForCausalLM.from_pretrained("gpt2")
+```
+
+原理是因为huggingface工具链会在 `.cache/huggingface/` 下维护一份模型的**符号链接**，无论你是否指定了模型的存储路径 ，缓存目录下都会链接过去，这样可以避免自己忘了自己曾经下过某个模型，此外调用的时候就很方便。
+
+所以用了官方工具，既可以方便的用模型名引用模型，又可以自己把模型集中存在一个自定义的路径，方便管理。
