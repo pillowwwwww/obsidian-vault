@@ -34,14 +34,16 @@ find train2014 -type f -name '*.jpg' -exec ln -s ../train2014/{} allimages/ \;
 #为val2014 中所有图片创建软链接到 allimages/
 find val2014 -type f -name '*.jpg' -exec ln -s ../val2014/{} allimages/ \;
 ```
-2. 运行creamfl ：
+8. 运行creamfl ：
 pip install transformers==4.21.0
 ```text
 pip install --user -U huggingface_hub
 
 python src/main.py --name CreamFL --server_lr 1e-5 --agg_method con_w --contrast_local_inter --contrast_local_intra --interintra_weight 0.5
 ```
-
+  9. 
+  >>> import nltk
+  >>> nltk.download('punkt_tab')
 
 
 ### 预训练
@@ -51,11 +53,12 @@ python src/main.py --name CreamFL --server_lr 1e-5 --agg_method con_w --contrast
 所以：
 ResNet18 是图像编码器，它的预训练权重能让你快速获得表达图像语义的向量；
 如果不用预训练，模型将无法“理解”图像的语义。
-### pretrain: 从huggingface上下载模型：
+### 9. pretrain: 从huggingface上下载模型：
 ```
  export HF_ENDPOINT=https://hf-mirror.com
  
-  huggingface-cli download --resume-download google-bert/bert-base-uncased --local-dir google-bert/bert-base-uncased --local-dir-use-symlinks False`
+  huggingface-cli download --resume-download google-bert/bert-base-uncased --local-dir google-bert/bert-base-uncased --local-dir-use-symlinks False
+  注意云服务器会删除缓存,你可以把模型删了再下一遍
   ``` 
 **可选参数 `--local-dir-use-symlinks False`**
 
