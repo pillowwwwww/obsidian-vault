@@ -25,7 +25,8 @@ ae54560cc7626fdea0641de28b9f493368799ceb
 3. 把requirement里面的文件装好
 4. pip install --user fire
 5. 设置软连接：ln -s /home/featurize/work/data/mmdata /home/featurize/data/mmdata
-6. 把train2014和val2014的内容放到allimages里面！
+6. ln -s /home/featurize/work/data/flickr30k/flickr30k-images /home/featurize/data/flickr30k/flickr30k-images
+7. 把train2014和val2014的内容放到allimages里面！
  ```# 为 train2014 中所有图片创建软链接到 allimages/
 find train2014 -type f -name '*.jpg' -exec ln -s ../train2014/{} allimages/ \;
 
@@ -36,6 +37,8 @@ find val2014 -type f -name '*.jpg' -exec ln -s ../val2014/{} allimages/ \;
 pip install transformers==4.21.0
 ```text
 pip install --user -U huggingface_hub
+
+python src/main.py --name CreamFL --server_lr 1e-5 --agg_method con_w --contrast_local_inter --contrast_local_intra --interintra_weight 0.5
 ```
 
 
