@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:unread",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -215,7 +215,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "734ce210c74823c9",
+  "active": "3090910a3bbb4bfa",
   "lastOpenFiles": [
     "01-Diary/日志存档/2025-06-16.md",
     "01-Diary/日志存档/2025-06-13.md",

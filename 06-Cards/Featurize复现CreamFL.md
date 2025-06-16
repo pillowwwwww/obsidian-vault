@@ -26,7 +26,13 @@ ae54560cc7626fdea0641de28b9f493368799ceb
 4. pip install --user fire
 5. 设置软连接：ln -s /home/featurize/work/data/mmdata /home/featurize/data/mmdata
 6. 把train2014和val2014的内容放到allimages里面！
-7. 运行creamfl ：
+ ```# 为 train2014 中所有图片创建软链接到 allimages/
+find train2014 -type f -name '*.jpg' -exec ln -s ../train2014/{} allimages/ \;
+
+#为val2014 中所有图片创建软链接到 allimages/
+find val2014 -type f -name '*.jpg' -exec ln -s ../val2014/{} allimages/ \;
+```
+2. 运行creamfl ：
 pip install transformers==4.21.0
 ```text
 pip install --user -U huggingface_hub
