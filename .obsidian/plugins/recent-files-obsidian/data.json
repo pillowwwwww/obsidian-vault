@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-06-16",
+      "path": "01-Diary/日志存档/2025-06-16.md"
+    },
+    {
       "basename": "Featurize复现CreamFL",
       "path": "06-Cards/Featurize复现CreamFL.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "损失函数（Loss Function）",
       "path": "06-Cards/损失函数（Loss Function）.md"
-    },
-    {
-      "basename": "卡片模板",
-      "path": "09-Templates/卡片模板.md"
     }
   ],
   "omittedPaths": [],
