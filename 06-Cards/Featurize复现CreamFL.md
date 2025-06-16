@@ -24,7 +24,8 @@ ae54560cc7626fdea0641de28b9f493368799ceb
 安装apex，(pip install -v --no-cache-dir ./) [import apex always have AttributeError: module 'torch' has no attribute 'library' · Issue #1870 · NVIDIA/apex](https://github.com/NVIDIA/apex/issues/1870)按照官网的格式，用的linux
 3. 把requirement里面的文件装好
 4. pip install --user fire
-5. 设置软连接：ln -s /home/featurize/work/data/mmdata /home/featurize/data/mmdata
+5. 设置软连接：ln -参数+源文件或目录+目标文件或目录
+   ln -s /home/featurize/work/data/mmdata /home/featurize/data/mmdata
 6. ln -s /home/featurize/work/data/flickr30k/flickr30k-images /home/featurize/data/flickr30k/flickr30k-images
 7. 把train2014和val2014的内容放到allimages里面！
  ```# 为 train2014 中所有图片创建软链接到 allimages/
