@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "多模态",
+      "path": "06-Cards/多模态.md"
+    },
+    {
       "basename": "Featurize复现CreamFL",
       "path": "06-Cards/Featurize复现CreamFL.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "未命名",
       "path": "00-MOC/未命名.canvas"
-    },
-    {
-      "basename": "损失函数（Loss Function）",
-      "path": "06-Cards/损失函数（Loss Function）.md"
     }
   ],
   "omittedPaths": [],
