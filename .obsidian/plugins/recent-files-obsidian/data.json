@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Li2018 FedProx",
+      "path": "02-Reading/mdnotes/Li2018 FedProx.md"
+    },
+    {
       "basename": "2023ICLR CreamFL",
       "path": "02-Reading/mdnotes/2023ICLR CreamFL.md"
     },
     {
-      "basename": "Li2018 FedProx",
-      "path": "02-Reading/mdnotes/Li2018 FedProx.md"
+      "basename": "@Communication-Efficient Learning of Deep Networks from Decentralized Data",
+      "path": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md"
     },
     {
       "basename": "Featurize复现CreamFL",
@@ -195,10 +199,6 @@
     {
       "basename": "640",
       "path": "08-Assets/640.png"
-    },
-    {
-      "basename": "知识卡片",
-      "path": "09-Templates/知识卡片.md"
     }
   ],
   "omittedPaths": [],
