@@ -54,7 +54,7 @@ python src/main.py --name CreamFL --server_lr 1e-5 --agg_method con_w --contrast
 所以：
 ResNet18 是图像编码器，它的预训练权重能让你快速获得表达图像语义的向量；
 如果不用预训练，模型将无法“理解”图像的语义。
-### 9. pretrain: 从huggingface上下载模型：
+### 10. pretrain: 从huggingface上下载模型：
 ```
  export HF_ENDPOINT=https://hf-mirror.com
  

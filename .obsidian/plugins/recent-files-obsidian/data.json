@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-06-17",
+      "path": "01-Diary/日志存档/2025-06-17.md"
+    },
+    {
       "basename": "Featurize复现CreamFL",
       "path": "06-Cards/Featurize复现CreamFL.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "知识卡片",
       "path": "09-Templates/知识卡片.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "00-MOC/未命名.canvas"
     }
   ],
   "omittedPaths": [],
