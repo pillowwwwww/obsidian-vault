@@ -60,6 +60,14 @@ ResNet18 是图像编码器，它的预训练权重能让你快速获得表达�
  
   huggingface-cli download --resume-download google-bert/bert-base-uncased --local-dir google-bert/bert-base-uncased --local-dir-use-symlinks False
   注意云服务器会删除缓存,你可以把模型删了再下一遍
+ 然后告诉电脑我已经下载好了：export TRANSFORMERS_CACHE=/home/featurize/work/google-bert
+ 等到了服务器上之后：
+## 🔒 如何彻底阻止联网下载？
+你需要：
+### ✅ 1. 设置离线模式（阻止联网）
+`export TRANSFORMERS_OFFLINE=1`
+### ✅ 2. 加载模型时**改用本地路径**
+AutoModel.from_pretrained("/home/featurize/work/google-bert/bert-base-uncased")
   ``` 
 **可选参数 `--local-dir-use-symlinks False`**
 
