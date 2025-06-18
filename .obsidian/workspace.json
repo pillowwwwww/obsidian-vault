@@ -8,25 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b448d9d679bf6dd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
-                "viewState": {
-                  "x": 1288.694187326915,
-                  "y": -807.2143314521425,
-                  "zoom": -0.4426964064629948
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "使用obsidian搞科研"
-            }
-          },
-          {
             "id": "7f99b46c2f674500",
             "type": "leaf",
             "state": {
@@ -54,8 +35,7 @@
               "title": "2025-06-06"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.50328826904297,
-    "collapsed": true
+    "width": 321.50328826904297
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -216,18 +195,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "212a770b0c8ad771",
+  "active": "7f99b46c2f674500",
   "lastOpenFiles": [
+    "01-Diary/日志存档/2025-06-06.md",
+    "01-Diary/日志存档/2025-06-05.md",
+    "01-Diary/日志存档/2025-05-19.md",
+    "01-Diary/日志存档/2025-05-16.md",
+    "01-Diary/日志存档/2025-05-14.md",
+    "01-Diary/日志存档/2025-05-12.md",
+    "06-Cards/Featurize复现CreamFL.md",
     "06-Cards/数据预处理：torchvision, torchaudio,torchtext.md",
     "06-Cards/显卡.md",
-    "01-Diary/日志存档/2025-06-06.md",
-    "06-Cards/Featurize复现CreamFL.md",
-    "01-Diary/日志存档/2025-06-05.md",
     "01-Diary/日志存档/2025-06-09.md",
     "01-Diary/日志存档/2025-06-11.md",
     "01-Diary/日志存档/2025-06-17.md",
     "01-Diary/日志存档/2025-06-18.md",
-    "01-Diary/日志存档/2025-05-19.md",
     "06-Cards/对比学习.md",
     "06-Cards/PFL.md",
     "02-Reading/mdnotes/2023ICLR CreamFL.md",
@@ -244,13 +226,10 @@
     "06-Cards/Dirichlet分布.md",
     "01-Diary/日志存档/2025-06-12.md",
     "06-Cards/MINE_FL框架.md",
-    "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
     "08-Assets/image-14.png",
     "08-Assets/image-13.png",
     "08-Assets/image-12.png",
     "08-Assets/image-11.png",
-    "06-Cards/神经网络.md",
-    "01-Diary/本周事务/未命名.md",
     "08-Assets/pdfs/2018-Federated optimization in heterogeneous networks/2018-Federated optimization in heterogeneous networks.pdf",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "08-Assets/Scripts/蓝色-申博PPT.pptx.pptx",
