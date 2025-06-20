@@ -20,34 +20,6 @@
               "icon": "lucide-file",
               "title": "Featurize复现CreamFL"
             }
-          },
-          {
-            "id": "b31e74ce9d0e4316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-Cards/多模态数据预处理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "多模态数据预处理"
-            }
-          },
-          {
-            "id": "212a770b0c8ad771",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/日志存档/2025-06-06.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-06"
-            }
           }
         ]
       }
@@ -211,14 +183,14 @@
   },
   "active": "2c0d4237822d3a7c",
   "lastOpenFiles": [
+    "06-Cards/多模态数据预处理.md",
+    "06-Cards/Featurize复现CreamFL.md",
     "08-Assets/pdfs/2021-Federated multi-task learning under a mixture of distributions/2021-Federated multi-task learning under a mixture of distributions.pdf",
     "08-Assets/pdfs/2021-Federated multi-task learning under a mixture of distributions",
     "08-Assets/pdfs/2021-FedGEMS/2021-FedGEMS Federated learning of larger server models via selective knowledge fusion.pdf",
     "08-Assets/pdfs/2021-FedGEMS",
-    "06-Cards/多模态数据预处理.md",
     "06-Cards/显卡.md",
     "01-Diary/日志存档/2025-06-06.md",
-    "06-Cards/Featurize复现CreamFL.md",
     "06-Cards/多模态.md",
     "01-Diary/日志存档/2025-06-19.md",
     "01-Diary/日志存档/2025-05-16.md",
@@ -252,7 +224,6 @@
     "08-Assets/Scripts/蓝色-申博PPT.pptx.pptx",
     "08-Assets/pdfs/Information Fusion2024/Huang et al_2024_Multimodal federated learning.pdf",
     "08-Assets/Scripts/fed_idea_20250324_121203 1.pptx",
-    "08-Assets/Scripts/fed_idea_20250324_121203.pptx",
     "08-Assets/866b95dc127796d0c8e09f802af195f9.png",
     "08-Assets/image-10.png",
     "08-Assets/image-9.png",
