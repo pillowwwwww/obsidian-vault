@@ -49,8 +49,7 @@
               "title": "2025-06-06"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.50328826904297,
-    "collapsed": true
+    "width": 321.50328826904297
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -177,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-Cards/多模态数据预处理.md",
+                "file": "06-Cards/Featurize复现CreamFL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +185,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "多模态数据预处理 的反向链接列表"
+              "title": "Featurize复现CreamFL 的反向链接列表"
             }
           }
         ],
@@ -211,11 +209,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b31e74ce9d0e4316",
+  "active": "2c0d4237822d3a7c",
   "lastOpenFiles": [
+    "06-Cards/多模态数据预处理.md",
     "06-Cards/显卡.md",
     "01-Diary/日志存档/2025-06-06.md",
-    "06-Cards/多模态数据预处理.md",
     "06-Cards/Featurize复现CreamFL.md",
     "06-Cards/多模态.md",
     "01-Diary/日志存档/2025-06-19.md",
