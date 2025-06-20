@@ -39,7 +39,8 @@ pip install transformers==4.21.0
 ```text
 pip install --user -U huggingface_hub
 
-python src/main.py --name CreamFL --server_lr 1e-5 --agg_method con_w --contrast_local_inter --contrast_local_intra --interintra_weight 0.5=
+python src/main.py --name CreamFL --server_lr 1e-5 --agg_method con_w --contrast_local_inter --contrast_local_intra --interintra_weight 0.5
+
 ```
   9. 下载这个包
      pip install --user nltk
