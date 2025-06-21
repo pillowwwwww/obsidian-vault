@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PFL",
+      "path": "06-Cards/PFL.md"
+    },
+    {
       "basename": "Featurize复现CreamFL",
       "path": "06-Cards/Featurize复现CreamFL.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "对比学习",
       "path": "06-Cards/对比学习.md"
-    },
-    {
-      "basename": "PFL",
-      "path": "06-Cards/PFL.md"
     },
     {
       "basename": "2023ICLR CreamFL",
