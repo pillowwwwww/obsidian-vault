@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "3692070.3692369",
+      "path": "02-Reading/mdnotes/2024ICML FedMBridge/3692070.3692369.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "00-MOC/未命名 1.canvas"
+    },
+    {
+      "basename": "2023ICLR CreamFL",
+      "path": "02-Reading/mdnotes/2023ICLR CreamFL.md"
+    },
+    {
+      "basename": "Li2018 FedProx",
+      "path": "02-Reading/mdnotes/Li2018 FedProx.md"
+    },
+    {
+      "basename": "source-notes",
+      "path": "09-Templates/source-notes.md"
+    },
+    {
       "basename": "Featurize复现CreamFL",
       "path": "06-Cards/Featurize复现CreamFL.md"
     },
@@ -63,18 +83,6 @@
     {
       "basename": "对比学习",
       "path": "06-Cards/对比学习.md"
-    },
-    {
-      "basename": "2023ICLR CreamFL",
-      "path": "02-Reading/mdnotes/2023ICLR CreamFL.md"
-    },
-    {
-      "basename": "Li2018 FedProx",
-      "path": "02-Reading/mdnotes/Li2018 FedProx.md"
-    },
-    {
-      "basename": "@Communication-Efficient Learning of Deep Networks from Decentralized Data",
-      "path": "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md"
     },
     {
       "basename": "生成数据集",
@@ -191,10 +199,6 @@
     {
       "basename": "2092aacd37d1608f1ed9d958063203c",
       "path": "08-Assets/2092aacd37d1608f1ed9d958063203c.png"
-    },
-    {
-      "basename": "640-2",
-      "path": "08-Assets/640-2.jpg"
     }
   ],
   "omittedPaths": [],
