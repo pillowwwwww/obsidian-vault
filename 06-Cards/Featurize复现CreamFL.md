@@ -131,3 +131,12 @@ rm -r annotations
 ```
 
 ---
+
+在学校服务器上：
+学校服务器不能联网，所以要从本本地下载，如何传到了pretained文件夹下面，然后向缓存中设置了软连接：
+```
+(creamfl_torch1.10) liuchang@work2:~/pretrained_models/bert/models--bert-base-uncased$ mkdir -p ~/.cache/huggingface/hub/
+(creamfl_torch1.10) liuchang@work2:~/pretrained_models/bert/models--bert-base-uncased$ ln -s /home/liuchang/pretrained_models/bert/models--bert-base-uncased ~/.cache/huggingface/hub/models--bert-base-uncased
+```
+注意，mscoco也设置了软连接，真实的存放地址在：
+/home/mount/lc_data/coco2014/train2014
