@@ -45,7 +45,8 @@ python src/main.py --name CreamFL --server_lr 1e-5 --agg_method con_w --contrast
   9. 下载这个包
      pip install --user nltk
   >>> import nltk
-  >>>  nltk.download('punkt_tab')
+  >>>  nltk.download('punkt_tab')\
+  >>>  也有可能是nltk.download('punkt')
 
 
 ### 预训练
@@ -140,3 +141,5 @@ rm -r annotations
 ```
 注意，mscoco也设置了软连接，真实的存放地址在：
 /home/mount/lc_data/coco2014/train2014
+
+
