@@ -5,20 +5,52 @@
       "path": "02-Reading/mdnotes/McMahan2016.md"
     },
     {
-      "basename": "3692070.3692369",
-      "path": "02-Reading/mdnotes/2024ICML FedMBridge/3692070.3692369.md"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "00-MOC/未命名 1.canvas"
+      "basename": "Li2018 FedProx",
+      "path": "02-Reading/mdnotes/Li2018 FedProx.md"
     },
     {
       "basename": "2023ICLR CreamFL",
       "path": "02-Reading/mdnotes/2023ICLR CreamFL.md"
     },
     {
-      "basename": "Li2018 FedProx",
-      "path": "02-Reading/mdnotes/Li2018 FedProx.md"
+      "basename": "2025-06-21",
+      "path": "01-Diary/日志存档/2025-06-21.md"
+    },
+    {
+      "basename": "2025-06-09",
+      "path": "01-Diary/日志存档/2025-06-09.md"
+    },
+    {
+      "basename": "2025-06-11",
+      "path": "01-Diary/日志存档/2025-06-11.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "01-Diary/周小结/未命名.md"
+    },
+    {
+      "basename": "第一周小结",
+      "path": "01-Diary/本周事务/第一周小结.md"
+    },
+    {
+      "basename": "python基础知识",
+      "path": "01-Diary/本周事务/python基础知识.md"
+    },
+    {
+      "basename": "环境配置",
+      "path": "01-Diary/本周事务/环境配置.md"
+    },
+    {
+      "basename": "FedAvg复现",
+      "path": "01-Diary/本周事务/FedAvg复现.md"
+    },
+    {
+      "basename": "3692070.3692369",
+      "path": "02-Reading/mdnotes/2024ICML FedMBridge/3692070.3692369.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "00-MOC/未命名 1.canvas"
     },
     {
       "basename": "source-notes",
@@ -29,16 +61,8 @@
       "path": "06-Cards/Featurize复现CreamFL.md"
     },
     {
-      "basename": "2025-06-11",
-      "path": "01-Diary/日志存档/2025-06-11.md"
-    },
-    {
       "basename": "PFL",
       "path": "06-Cards/PFL.md"
-    },
-    {
-      "basename": "2025-06-21",
-      "path": "01-Diary/日志存档/2025-06-21.md"
     },
     {
       "basename": "多模态数据预处理",
@@ -81,10 +105,6 @@
       "path": "06-Cards/数据预处理：torchvision, torchaudio,torchtext.md"
     },
     {
-      "basename": "2025-06-09",
-      "path": "01-Diary/日志存档/2025-06-09.md"
-    },
-    {
       "basename": "对比学习",
       "path": "06-Cards/对比学习.md"
     },
@@ -115,18 +135,6 @@
     {
       "basename": "未命名",
       "path": "01-Diary/本周事务/未命名.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "01-Diary/周小结/未命名.md"
-    },
-    {
-      "basename": "FedAvg复现",
-      "path": "01-Diary/本周事务/FedAvg复现.md"
-    },
-    {
-      "basename": "第一周小结",
-      "path": "01-Diary/本周事务/第一周小结.md"
     },
     {
       "basename": "每周小结",
@@ -181,24 +189,12 @@
       "path": "02-Reading/3-people/Stefan W. Hell.md"
     },
     {
-      "basename": "环境配置",
-      "path": "01-Diary/本周事务/环境配置.md"
-    },
-    {
       "basename": "pytorch基本知识",
       "path": "06-Cards/pytorch基本知识.md"
     },
     {
       "basename": "用obsidian阅读文献",
       "path": "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md"
-    },
-    {
-      "basename": "obsidian撰写草稿",
-      "path": "03-Projects/99-使用obsidian搞科研/obsidian撰写草稿.md"
-    },
-    {
-      "basename": "试剂耗材仪器建卡管理",
-      "path": "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md"
     }
   ],
   "omittedPaths": [],
