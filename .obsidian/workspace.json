@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2025-06-23.md",
+                "file": "06-Cards/pytorch基本知识.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-23"
+              "title": "pytorch基本知识"
             }
           },
           {
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "logits",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -127,7 +127,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -224,12 +225,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "095e1e580d268cd6",
+  "active": "d4cc5673d41093ba",
   "lastOpenFiles": [
+    "06-Cards/损失函数（Loss Function）.md",
+    "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
+    "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
+    "06-Cards/生成数据集.md",
+    "01-Diary/日志存档/2025-06-23.md",
     "01-Diary/周小结/🥑来兴庆的第一周！.md",
     "01-Diary/日志存档/2025-06-21.md",
     "01-Diary/日志存档/2025-06-11.md",
-    "01-Diary/日志存档/2025-06-23.md",
     "08-Assets/pdfs/2023-Towards personalized federated learning/2023-Towards personalized federated learning.pdf",
     "06-Cards/Dirichlet分布.md",
     "02-Reading/mdnotes/McMahan2016.md",
@@ -253,11 +258,8 @@
     "09-Templates/source-notes.md",
     "02-Reading/mdnotes/@Communication-Efficient Learning of Deep Networks from Decentralized Data.md",
     "06-Cards/Featurize复现CreamFL.md",
-    "02-Reading/mdnotes/未命名.md",
-    "01-Diary/日志存档/2025-06-19.md",
     "08-Assets/pdfs/2021-FedGEMS/2021-FedGEMS Federated learning of larger server models via selective knowledge fusion 1.pdf",
     "08-Assets/pdfs/2023-Towards personalized federated learning",
-    "06-Cards/多模态数据预处理.md",
     "08-Assets/pdfs/2021-Federated multi-task learning under a mixture of distributions",
     "08-Assets/pdfs/2021-FedGEMS/2021-FedGEMS Federated learning of larger server models via selective knowledge fusion.pdf",
     "08-Assets/pdfs/2021-FedGEMS",

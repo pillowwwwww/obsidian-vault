@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "pytorch基本知识",
+      "path": "06-Cards/pytorch基本知识.md"
+    },
+    {
+      "basename": "损失函数（Loss Function）",
+      "path": "06-Cards/损失函数（Loss Function）.md"
+    },
+    {
+      "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
+      "path": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md"
+    },
+    {
+      "basename": "机器学习与深度学习中的数学知识点汇总",
+      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
+    },
+    {
+      "basename": "生成数据集",
+      "path": "06-Cards/生成数据集.md"
+    },
+    {
       "basename": "2025-06-23",
       "path": "01-Diary/日志存档/2025-06-23.md"
     },
@@ -125,20 +145,12 @@
       "path": "06-Cards/对比学习.md"
     },
     {
-      "basename": "生成数据集",
-      "path": "06-Cards/生成数据集.md"
-    },
-    {
       "basename": "实验日志",
       "path": "06-Cards/实验日志.md"
     },
     {
       "basename": "MINE_FL框架",
       "path": "06-Cards/MINE_FL框架.md"
-    },
-    {
-      "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
-      "path": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md"
     },
     {
       "basename": "神经网络",
@@ -173,10 +185,6 @@
       "path": "06-Cards/python基本语法.md"
     },
     {
-      "basename": "机器学习与深度学习中的数学知识点汇总",
-      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
-    },
-    {
       "basename": "Huang et al_2024_Multimodal federated learning",
       "path": "08-Assets/pdfs/Information Fusion2024/Huang et al_2024_Multimodal federated learning.pdf"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "机器学习基本概念",
       "path": "06-Cards/机器学习基本概念.md"
-    },
-    {
-      "basename": "batch",
-      "path": "06-Cards/batch.md"
-    },
-    {
-      "basename": "Stefan W. Hell",
-      "path": "02-Reading/3-people/Stefan W. Hell.md"
     }
   ],
   "omittedPaths": [],
