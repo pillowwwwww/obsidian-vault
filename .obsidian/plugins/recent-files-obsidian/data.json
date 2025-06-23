@@ -5,12 +5,40 @@
       "path": "03-Projects/CreamFL/creamfl复现记录.md"
     },
     {
-      "basename": "2023ICLR CreamFL",
-      "path": "02-Reading/mdnotes/2023ICLR CreamFL.md"
+      "basename": "source-notes",
+      "path": "09-Templates/source-notes.md"
+    },
+    {
+      "basename": "日志模板",
+      "path": "09-Templates/日志模板.md"
+    },
+    {
+      "basename": "知识卡片",
+      "path": "09-Templates/知识卡片.md"
+    },
+    {
+      "basename": "文献比较",
+      "path": "09-Templates/文献比较.md"
+    },
+    {
+      "basename": "大牛页面",
+      "path": "09-Templates/大牛页面.md"
+    },
+    {
+      "basename": "卡片模板",
+      "path": "09-Templates/卡片模板.md"
     },
     {
       "basename": "实验记录",
       "path": "09-Templates/实验记录.md"
+    },
+    {
+      "basename": "时间戳",
+      "path": "09-Templates/时间戳.md"
+    },
+    {
+      "basename": "2023ICLR CreamFL",
+      "path": "02-Reading/mdnotes/2023ICLR CreamFL.md"
     },
     {
       "basename": "代码整理",
@@ -145,10 +173,6 @@
       "path": "00-MOC/未命名 1.canvas"
     },
     {
-      "basename": "source-notes",
-      "path": "09-Templates/source-notes.md"
-    },
-    {
       "basename": "Featurize复现CreamFL",
       "path": "06-Cards/Featurize复现CreamFL.md"
     },
@@ -175,26 +199,6 @@
     {
       "basename": "2025-05-12",
       "path": "01-Diary/日志存档/2025-05-12.md"
-    },
-    {
-      "basename": "2025-05-19",
-      "path": "01-Diary/日志存档/2025-05-19.md"
-    },
-    {
-      "basename": "对比学习",
-      "path": "06-Cards/对比学习.md"
-    },
-    {
-      "basename": "实验日志",
-      "path": "06-Cards/实验日志.md"
-    },
-    {
-      "basename": "MINE_FL框架",
-      "path": "06-Cards/MINE_FL框架.md"
-    },
-    {
-      "basename": "神经网络",
-      "path": "06-Cards/神经网络.md"
     }
   ],
   "omittedPaths": [],

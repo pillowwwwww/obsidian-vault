@@ -3,7 +3,9 @@ title: creamfl复现记录
 date: 2025-06-23 15:57:11
 tags:
 ---
-
+论文pdf: [[2023-Multimodal federated learning via contrastive representation ensemble.pdf]]
+论文笔记：[[2023ICLR CreamFL]]
+## 复现记录
 [[2025-06-23]] 学校服务器 
 ``` bash fold:"CreamFL_Quick成功"
 python src/main.py --name CreamFL_Quick   --server_lr 1e-5 --agg_method con_w   --contrast_local_inter --contrast_local_intra --interintra_weight 0.5   --comm_rounds 8   --local_epochs 3   --pub_data_num 50000   --num_img_clients 4 --num_txt_clients 4 --num_mm_clients 6   --client_num_per_round 6   --feature_dim 128
