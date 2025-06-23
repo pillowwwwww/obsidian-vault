@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "机器学习与深度学习中的数学知识点汇总",
+      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
+    },
+    {
       "basename": "pytorch基本知识",
       "path": "06-Cards/pytorch基本知识.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
       "path": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md"
-    },
-    {
-      "basename": "机器学习与深度学习中的数学知识点汇总",
-      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
     },
     {
       "basename": "生成数据集",
