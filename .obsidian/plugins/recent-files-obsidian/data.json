@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-06-23",
+      "path": "01-Diary/日志存档/2025-06-23.md"
+    },
+    {
       "basename": "2023-Towards personalized federated learning",
       "path": "08-Assets/pdfs/2023-Towards personalized federated learning/2023-Towards personalized federated learning.pdf"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Stefan W. Hell",
       "path": "02-Reading/3-people/Stefan W. Hell.md"
-    },
-    {
-      "basename": "pytorch基本知识",
-      "path": "06-Cards/pytorch基本知识.md"
     }
   ],
   "omittedPaths": [],

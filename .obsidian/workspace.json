@@ -39,12 +39,14 @@
             "id": "095e1e580d268cd6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "08-Assets/pdfs/2023-Towards personalized federated learning/2023-Towards personalized federated learning.pdf"
+                "file": "01-Diary/日志存档/2025-06-23.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2023-Towards personalized federated learning"
+              "icon": "lucide-file",
+              "title": "2025-06-23"
             }
           }
         ],
@@ -111,7 +113,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -205,12 +208,13 @@
       "workspaces:管理工作区布局": false,
       "zk-prefixer:创建时间戳笔记": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-trash-explorer:Open trash explorer": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "095e1e580d268cd6",
   "lastOpenFiles": [
+    "08-Assets/pdfs/2023-Towards personalized federated learning/2023-Towards personalized federated learning.pdf",
+    "01-Diary/日志存档/2025-06-23.md",
     "06-Cards/Dirichlet分布.md",
     "02-Reading/mdnotes/McMahan2016.md",
     "08-Assets/pdfs/2021-Federated multi-task learning under a mixture of distributions/2021-Federated multi-task learning under a mixture of distributions.pdf",
@@ -239,14 +243,11 @@
     "02-Reading/mdnotes/未命名.md",
     "01-Diary/日志存档/2025-06-19.md",
     "08-Assets/pdfs/2021-FedGEMS/2021-FedGEMS Federated learning of larger server models via selective knowledge fusion 1.pdf",
-    "08-Assets/pdfs/2023-Towards personalized federated learning/2023-Towards personalized federated learning.pdf",
     "08-Assets/pdfs/2023-Towards personalized federated learning",
     "06-Cards/多模态数据预处理.md",
     "08-Assets/pdfs/2021-Federated multi-task learning under a mixture of distributions",
     "08-Assets/pdfs/2021-FedGEMS/2021-FedGEMS Federated learning of larger server models via selective knowledge fusion.pdf",
     "08-Assets/pdfs/2021-FedGEMS",
-    "01-Diary/日志存档/2025-06-06.md",
-    "01-Diary/日志存档/2025-05-16.md",
     "08-Assets/image-15.png",
     "08-Assets/pdfs/2024-A survey of multimodal federated learning/2024-A survey of multimodal federated learning Background, applications, and perspectives.pdf",
     "08-Assets/pdfs/2024-A survey of multimodal federated learning",
