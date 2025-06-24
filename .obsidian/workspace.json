@@ -63,7 +63,8 @@
               "title": "2025-06-23"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -189,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Reading/mdnotes/McMahan2016.md",
+                "file": "01-Diary/日志存档/2025-06-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +200,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "McMahan2016 的反向链接列表"
+              "title": "2025-06-23 的反向链接列表"
             }
           }
         ],
@@ -223,8 +224,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d7af428f20fd536",
+  "active": "9f18ceb2595946b2",
   "lastOpenFiles": [
+    "08-Assets/pdfs/2024-Federated learning for generalization, robustness, fairness/2024-Federated learning for generalization, robustness, fairness A survey and benchmark.pdf",
+    "08-Assets/pdfs/2024-Federated learning for generalization, robustness, fairness",
+    "08-Assets/pdfs/2022-FairVFL/2022-FairVFL A fair vertical federated learning framework with contrastive adversarial learning.pdf",
+    "08-Assets/pdfs/2022-FairVFL",
+    "02-Reading/mdnotes/McMahan2016.md",
     "01-Diary/日志存档/2025-06-23.md",
     "03-Projects/CreamFL/creamfl复现记录.md",
     "09-Templates/source-notes.md",
@@ -242,7 +248,6 @@
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "03-Projects/CreamFL",
     "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md",
-    "02-Reading/mdnotes/McMahan2016.md",
     "08-Assets/image-17.png",
     "06-Cards/Dirichlet分布.md",
     "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
@@ -257,14 +262,10 @@
     "01-Diary/日志存档/2025-06-11.md",
     "08-Assets/pdfs/2023-Towards personalized federated learning/2023-Towards personalized federated learning.pdf",
     "08-Assets/pdfs/2021-Federated multi-task learning under a mixture of distributions/2021-Federated multi-task learning under a mixture of distributions.pdf",
-    "06-Cards/数据预处理：torchvision, torchaudio,torchtext.md",
     "08-Assets/image-16.png",
     "00-MOC/未命名 1.canvas",
     "10 2.5555",
     "08-Assets/pdfs/2021-FedGEMS/2021-FedGEMS Federated learning of larger server models via selective knowledge fusion 1.pdf",
-    "08-Assets/pdfs/2023-Towards personalized federated learning",
-    "08-Assets/pdfs/2021-Federated multi-task learning under a mixture of distributions",
-    "08-Assets/pdfs/2021-FedGEMS/2021-FedGEMS Federated learning of larger server models via selective knowledge fusion.pdf",
     "08-Assets/image-15.png",
     "08-Assets/image-14.png",
     "08-Assets/image-13.png",
