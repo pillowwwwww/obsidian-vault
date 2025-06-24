@@ -5,6 +5,22 @@
       "path": "02-Reading/mdnotes/McMahan2016.md"
     },
     {
+      "basename": "生成数据集",
+      "path": "06-Cards/生成数据集.md"
+    },
+    {
+      "basename": "Dirichlet分布",
+      "path": "06-Cards/Dirichlet分布.md"
+    },
+    {
+      "basename": "机器学习与深度学习中的数学知识点汇总",
+      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
+    },
+    {
+      "basename": "常见深度学习术语解析笔记",
+      "path": "06-Cards/常见深度学习术语解析笔记.md"
+    },
+    {
       "basename": "2023ICLR CreamFL",
       "path": "02-Reading/mdnotes/2023ICLR CreamFL.md"
     },
@@ -85,14 +101,6 @@
       "path": "03-Projects/99-使用obsidian搞科研/软件下载安装.md"
     },
     {
-      "basename": "Dirichlet分布",
-      "path": "06-Cards/Dirichlet分布.md"
-    },
-    {
-      "basename": "机器学习与深度学习中的数学知识点汇总",
-      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
-    },
-    {
       "basename": "pytorch基本知识",
       "path": "06-Cards/pytorch基本知识.md"
     },
@@ -103,10 +111,6 @@
     {
       "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
       "path": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md"
-    },
-    {
-      "basename": "生成数据集",
-      "path": "06-Cards/生成数据集.md"
     },
     {
       "basename": "2025-06-21",
@@ -195,10 +199,6 @@
     {
       "basename": "2025-06-05",
       "path": "01-Diary/日志存档/2025-06-05.md"
-    },
-    {
-      "basename": "2025-05-12",
-      "path": "01-Diary/日志存档/2025-05-12.md"
     }
   ],
   "omittedPaths": [],

@@ -193,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,8 +210,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7d7af428f20fd536",
+  "active": "3090910a3bbb4bfa",
   "lastOpenFiles": [
+    "06-Cards/生成数据集.md",
+    "06-Cards/Dirichlet分布.md",
+    "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
+    "06-Cards/常见深度学习术语解析笔记.md",
+    "02-Reading/mdnotes/McMahan2016.md",
     "02-Reading/mdnotes/2023ICLR CreamFL.md",
     "01-Diary/周小结/🥑来兴庆的第一周！.md",
     "03-Projects/CreamFL/creamfl复现记录.md",
@@ -219,7 +225,6 @@
     "08-Assets/pdfs/2024-Federated learning for generalization, robustness, fairness",
     "08-Assets/pdfs/2022-FairVFL/2022-FairVFL A fair vertical federated learning framework with contrastive adversarial learning.pdf",
     "08-Assets/pdfs/2022-FairVFL",
-    "02-Reading/mdnotes/McMahan2016.md",
     "09-Templates/source-notes.md",
     "09-Templates/日志模板.md",
     "09-Templates/知识卡片.md",
@@ -235,14 +240,11 @@
     "03-Projects/CreamFL",
     "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md",
     "08-Assets/image-17.png",
-    "06-Cards/Dirichlet分布.md",
-    "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
     "08-Assets/pdfs/2023-Visual prompt based personalized federated learning/2023-Visual prompt based personalized federated learning.pdf",
     "08-Assets/pdfs/2023-Visual prompt based personalized federated learning",
     "06-Cards/pytorch基本知识.md",
     "06-Cards/损失函数（Loss Function）.md",
     "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
-    "06-Cards/生成数据集.md",
     "01-Diary/日志存档/2025-06-21.md",
     "01-Diary/日志存档/2025-06-11.md",
     "08-Assets/pdfs/2023-Towards personalized federated learning/2023-Towards personalized federated learning.pdf",
