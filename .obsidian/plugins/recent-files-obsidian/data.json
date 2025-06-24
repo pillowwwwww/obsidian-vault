@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "机器学习与深度学习中的数学知识点汇总",
+      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
+    },
+    {
+      "basename": "数据预处理：torchvision, torchaudio,torchtext",
+      "path": "06-Cards/数据预处理：torchvision, torchaudio,torchtext.md"
+    },
+    {
       "basename": "McMahan2016",
       "path": "02-Reading/mdnotes/McMahan2016.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Dirichlet分布",
       "path": "06-Cards/Dirichlet分布.md"
-    },
-    {
-      "basename": "机器学习与深度学习中的数学知识点汇总",
-      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
     },
     {
       "basename": "常见深度学习术语解析笔记",
@@ -127,10 +131,6 @@
     {
       "basename": "2021-Federated multi-task learning under a mixture of distributions",
       "path": "08-Assets/pdfs/2021-Federated multi-task learning under a mixture of distributions/2021-Federated multi-task learning under a mixture of distributions.pdf"
-    },
-    {
-      "basename": "数据预处理：torchvision, torchaudio,torchtext",
-      "path": "06-Cards/数据预处理：torchvision, torchaudio,torchtext.md"
     },
     {
       "basename": "显卡",
