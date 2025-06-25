@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "机器学习与深度学习中的数学知识点汇总",
-      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
-    },
-    {
       "basename": "数据预处理：torchvision, torchaudio,torchtext",
       "path": "06-Cards/数据预处理：torchvision, torchaudio,torchtext.md"
+    },
+    {
+      "basename": "机器学习与深度学习中的数学知识点汇总",
+      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
     },
     {
       "basename": "McMahan2016",

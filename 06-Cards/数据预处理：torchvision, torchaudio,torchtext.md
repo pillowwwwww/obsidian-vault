@@ -56,4 +56,4 @@ tags:
 | 模型输入前处理 | Resize, Normalize, ToTensor        | Tokenize, Vocab Lookup, Padding           | STFT, MelSpectrogram, Normalize    |
 | 模型输入结构  | `[batch_size, 3, H, W]`            | `[batch_size, seq_len]`                   | `[batch_size, waveform_len]`       |
 | 预训练模型支持 | `ResNet`, `ViT`, `YOLO` 等          | `BERT`, `GPT`, `RoBERTa`（需从 Transformers） | `wav2vec 2.0`, `HuBERT`, `WavLM` 等 |
-|         |                                    |                                           |                                    |
+

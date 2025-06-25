@@ -35,8 +35,7 @@
               "title": "机器学习与深度学习中的数学知识点汇总"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
+                "file": "06-Cards/数据预处理：torchvision, torchaudio,torchtext.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "机器学习与深度学习中的数学知识点汇总 的反向链接列表"
+              "title": "数据预处理：torchvision, torchaudio,torchtext 的反向链接列表"
             }
           }
         ],
@@ -180,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,15 +196,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "bad15c33b5c5f9a2",
+  "active": "92fd0bcf1eab1a53",
   "lastOpenFiles": [
+    "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
     "08-Assets/image-19.png",
     "08-Assets/image-18.png",
     "06-Cards/数据预处理：torchvision, torchaudio,torchtext.md",
     "02-Reading/mdnotes/McMahan2016.md",
     "06-Cards/生成数据集.md",
     "06-Cards/Dirichlet分布.md",
-    "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
     "06-Cards/常见深度学习术语解析笔记.md",
     "02-Reading/mdnotes/2023ICLR CreamFL.md",
     "01-Diary/周小结/🥑来兴庆的第一周！.md",
@@ -245,7 +245,6 @@
     "08-Assets/image-12.png",
     "08-Assets/image-11.png",
     "08-Assets/866b95dc127796d0c8e09f802af195f9.png",
-    "08-Assets/image-10.png",
     "00-MOC/未命名.canvas",
     "00-MOC/未命名 2.canvas",
     "00-MOC/文献阅读白板.canvas",
