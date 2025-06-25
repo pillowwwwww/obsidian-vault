@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "数据预处理：torchvision, torchaudio,torchtext",
-      "path": "06-Cards/数据预处理：torchvision, torchaudio,torchtext.md"
-    },
-    {
       "basename": "机器学习与深度学习中的数学知识点汇总",
       "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
+    },
+    {
+      "basename": "2023 IEEECVF Conference on Computer Vision and Pattern Recognition (CVPR)2023-Rethinking federated learning with domain shi-1",
+      "path": "08-Assets/pdfs/2023-Rethinking federated learning with domain shift/2023 IEEECVF Conference on Computer Vision and Pattern Recognition (CVPR)2023-Rethinking federated learning with domain shi-1.pdf"
+    },
+    {
+      "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
+      "path": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md"
+    },
+    {
+      "basename": "数据预处理：torchvision, torchaudio,torchtext",
+      "path": "06-Cards/数据预处理：torchvision, torchaudio,torchtext.md"
     },
     {
       "basename": "McMahan2016",
@@ -113,10 +121,6 @@
       "path": "06-Cards/损失函数（Loss Function）.md"
     },
     {
-      "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
-      "path": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md"
-    },
-    {
       "basename": "2025-06-21",
       "path": "01-Diary/日志存档/2025-06-21.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "2025-05-16",
       "path": "01-Diary/日志存档/2025-05-16.md"
-    },
-    {
-      "basename": "2025-05-14",
-      "path": "01-Diary/日志存档/2025-05-14.md"
-    },
-    {
-      "basename": "2025-06-05",
-      "path": "01-Diary/日志存档/2025-06-05.md"
     }
   ],
   "omittedPaths": [],

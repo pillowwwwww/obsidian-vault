@@ -132,3 +132,32 @@ max_pool_layer = nn.MaxPool2d(kernel_size=2)
 
 valid 其实就是表示没有 pad （填充） ； same 表示图像进行 pad ，得到的输出图像会与输入图像尺寸相同。
 ![[image-14.png]]
+
+# DNN
+## 🧠 1. DNN（Deep Neural Network，深度神经网络）
+
+- **结构**：由多个线性层（fully connected layers） + 非线性激活函数（如 ReLU）叠加而成。
+    
+    - 输入层 → 多个隐藏层（全连接）→ 输出层
+        
+- **原理**：通过多层的线性变换和非线性激活来逼近任意复杂函数。
+- **应用场景**：
+    - 表格数据分类/回归、推荐系统（如房价预测、信用评分）。
+
+
+## 这几个网络之间的关系：
+```
+机器学习（Machine Learning）
+│
+└───► 深度学习（Deep Learning）
+     │
+     ├──► DNN（深度神经网络, Deep Neural Network）
+     │     ├──► CNN（卷积神经网络, Convolutional NN）
+     │     ├──► RNN（循环神经网络, Recurrent NN）
+     │     ├──► GNN（图神经网络, Graph NN）
+     │     └──► Transformer（变换器网络）
+     │
+     └──► 自编码器、对抗网络（GAN）、注意力机制等
+
+```
+![[image-20.png]]
