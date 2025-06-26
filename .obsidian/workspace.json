@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2025-06-26"
             }
+          },
+          {
+            "id": "d086c954b5636fca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Reading/mdnotes/Huang2024a.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Huang2024a"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,8 +99,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,10 +196,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bad15c33b5c5f9a2",
+  "active": "d086c954b5636fca",
   "lastOpenFiles": [
-    "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
     "01-Diary/日志存档/2025-06-26.md",
+    "02-Reading/mdnotes/Huang2024a.md",
+    "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
     "未命名.md",
     "08-Assets/pdfs/2023-Rethinking federated learning with domain shift/2023 IEEECVF Conference on Computer Vision and Pattern Recognition (CVPR)2023-Rethinking federated learning with domain shi-1.pdf",
     "08-Assets/pdfs/2023-Rethinking federated learning with domain shift/2023 IEEECVF Conference on Computer Vision and Pattern Recognition (CVPR)2023-Rethinking federated learning with domain shi.pdf",
@@ -224,7 +239,6 @@
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md",
     "08-Assets/image-17.png",
-    "06-Cards/pytorch基本知识.md",
     "08-Assets/image-16.png",
     "00-MOC/未命名 1.canvas",
     "08-Assets/image-15.png",
