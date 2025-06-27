@@ -13,58 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/损失函数（Loss Function）.md",
+                "file": "06-Cards/生成数据集.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "损失函数（Loss Function）"
+              "title": "生成数据集"
             }
           },
           {
-            "id": "fe3ffafa86b1931f",
+            "id": "9c7b6032309c80a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2025-06-26.md",
+                "file": "01-Diary/日志存档/2025-06-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-26"
+              "title": "2025-06-05"
             }
           },
           {
-            "id": "d086c954b5636fca",
+            "id": "2882818e6c17b65e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Reading/mdnotes/Huang2024a.md",
+                "file": "01-Diary/日志存档/2025-06-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Huang2024a"
-            }
-          },
-          {
-            "id": "4e8d48e1c9236562",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/日志存档/2025-06-23.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-23"
+              "title": "2025-06-06"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "partition",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -127,7 +112,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -224,15 +210,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe3ffafa86b1931f",
+  "active": "bad15c33b5c5f9a2",
   "lastOpenFiles": [
     "06-Cards/损失函数（Loss Function）.md",
-    "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
     "01-Diary/日志存档/2025-06-26.md",
+    "01-Diary/日志存档/2025-05-14.md",
+    "01-Diary/日志存档/2025-06-06.md",
+    "01-Diary/日志存档/2025-06-23.md",
+    "01-Diary/日志存档/2025-06-05.md",
+    "02-Reading/mdnotes/Huang2024a.md",
+    "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
     "08-Assets/pdfs/2022-On bridging generic and personalized federated learning for image classification/2022-On bridging generic and personalized federated learning for image classification.pdf",
     "08-Assets/pdfs/2022-On bridging generic and personalized federated learning for image classification",
-    "01-Diary/日志存档/2025-06-23.md",
-    "02-Reading/mdnotes/Huang2024a.md",
     "未命名.md",
     "08-Assets/pdfs/2023-Rethinking federated learning with domain shift/2023 IEEECVF Conference on Computer Vision and Pattern Recognition (CVPR)2023-Rethinking federated learning with domain shi-1.pdf",
     "08-Assets/pdfs/2023-Rethinking federated learning with domain shift/2023 IEEECVF Conference on Computer Vision and Pattern Recognition (CVPR)2023-Rethinking federated learning with domain shi.pdf",
@@ -262,9 +251,6 @@
     "09-Templates/大牛页面.md",
     "09-Templates/卡片模板.md",
     "09-Templates/实验记录.md",
-    "09-Templates/时间戳.md",
-    "03-Projects/CreamFL/复现记录.md",
-    "09-Templates/代码整理.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "08-Assets/image-17.png",
     "08-Assets/image-16.png",
