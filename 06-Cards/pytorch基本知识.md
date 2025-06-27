@@ -143,5 +143,5 @@ for batch_idx, (images, labels) in enumerate(trainloader):
     print("Images shape:", images.shape)   # torch.Size([32, 1, 28, 28])
     print("Labels shape:", labels.shape)   # torch.Size([32])
     break
-
 ```
+
