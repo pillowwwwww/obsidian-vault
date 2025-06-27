@@ -1,10 +1,12 @@
 ---
-Title: pytorch一些容易错的地方
+Title: pytorch学习笔记
 tags:
   - pytorch
 原始链接:
 ---
-# 1.
+
+# 1.一些易错点
+
 **定义**：
 “与设备无关”指的是代码可以在 CPU 或 GPU 上自动运行，而无需手动更改 `"cpu"` 或 `"cuda"`。
 ### ✅ 设备无关写法（推荐）：
@@ -25,7 +27,7 @@ RuntimeError: Expected all tensors to be on the same device, but found at least 
 
 **原因**：`eval_model()` 函数中忘了把 `X` 和 `y` 移动到同一设备。
 
-# 2. device
+## 2. device
 📌 PyTorch 中什么时候需要注意 `.to(device)`？
 
 🧠 总原则：

@@ -1,20 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "pytorch基本知识",
+      "path": "06-Cards/pytorch基本知识.md"
+    },
+    {
       "basename": "pytorch一些容易错的地方",
       "path": "06-Cards/pytorch一些容易错的地方.md"
-    },
-    {
-      "basename": "python基本语法",
-      "path": "06-Cards/python基本语法.md"
-    },
-    {
-      "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
-      "path": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md"
-    },
-    {
-      "basename": "2025-06-06",
-      "path": "01-Diary/日志存档/2025-06-06.md"
     },
     {
       "basename": "2025-06-05",
@@ -23,6 +15,22 @@
     {
       "basename": "生成数据集",
       "path": "06-Cards/生成数据集.md"
+    },
+    {
+      "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
+      "path": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md"
+    },
+    {
+      "basename": "python基本语法",
+      "path": "06-Cards/python基本语法.md"
+    },
+    {
+      "basename": "多模态数据预处理",
+      "path": "06-Cards/多模态数据预处理.md"
+    },
+    {
+      "basename": "2025-06-06",
+      "path": "01-Diary/日志存档/2025-06-06.md"
     },
     {
       "basename": "Dirichlet分布",
@@ -145,10 +153,6 @@
       "path": "03-Projects/99-使用obsidian搞科研/软件下载安装.md"
     },
     {
-      "basename": "pytorch基本知识",
-      "path": "06-Cards/pytorch基本知识.md"
-    },
-    {
       "basename": "2025-06-21",
       "path": "01-Diary/日志存档/2025-06-21.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "环境配置",
       "path": "01-Diary/本周事务/环境配置.md"
-    },
-    {
-      "basename": "FedAvg复现",
-      "path": "01-Diary/本周事务/FedAvg复现.md"
     }
   ],
   "omittedPaths": [],
