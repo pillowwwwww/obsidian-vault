@@ -12,3 +12,18 @@ range(beg, end, 步长), 步长默认是1, 步长为每两个数的间隔
 
 ### 执行顺序
 Python作为解释型语言不需要预编译，从模块顶部开始执行，而Java必须从main()方法开始。Python中的"if __name__ == '__main__'":用于标识程序入口，但不同于Java的强制性main()。在导入模块时，只有被运行的模块的"__name__"才会 https://cs.fmy1024.cn/html_online/2503_119388716online.html
+
+### extend() vs append()：
+``` python
+ # extend(): 逐个添加元素
+
+  list1 = [1, 2]
+
+  list1.extend([3, 4])  # 结果：[1, 2, 3, 4]
+
+  # append(): 添加整个对象
+
+  list2 = [1, 2]
+
+  list2.append([3, 4])  # 结果：[1, 2, [3, 4]]
+```
