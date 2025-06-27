@@ -145,3 +145,11 @@ for batch_idx, (images, labels) in enumerate(trainloader):
     break
 ```
 
+## numpy()和np.array()有什么不同？
+`tensor.numpy()` 是 **PyTorch Tensor → numpy**  ，共享内存，修改其中一个，另一个也会变！
+`np.array(...)` 是 **把任何东西变 numpy array（主要是 list/tuple）**
+
+| 函数名              | 来自哪里                     | 输入类型                                     | 主要用途                  | 是否共享内存   | 示例                            |
+| ---------------- | ------------------------ | ---------------------------------------- | --------------------- | -------- | ----------------------------- |
+| `tensor.numpy()` | PyTorch (`torch.Tensor`) | 只能用于 **PyTorch Tensor**                  | 把 tensor 转换为 numpy 数组 | ✅ 会共享内存  | `torch.tensor([1,2]).numpy()` |
+| `np.array(...)`  | NumPy                    | 可以是 `list`, `tuple`, `ndarray`, `Tensor` | 构造新的 numpy 数组         | ❌ 通常复制数据 | `np.array([1, 2, 3])`         |
