@@ -141,8 +141,19 @@
               "icon": "lucide-list",
               "title": "pytorch基本知识 的大纲"
             }
+          },
+          {
+            "id": "56bc6a6965e3b0cf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,7 +170,8 @@
       "workspaces:管理工作区布局": false,
       "zk-prefixer:创建时间戳笔记": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "6245ad11477267a4",
