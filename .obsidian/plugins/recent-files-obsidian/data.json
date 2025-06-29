@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Huang2024a",
+      "path": "02-Reading/mdnotes/Huang2024a.md"
+    },
+    {
       "basename": "2025-06-29",
       "path": "01-Diary/日志存档/2025-06-29.md"
     },
     {
-      "basename": "pytorch基本知识",
-      "path": "06-Cards/pytorch基本知识.md"
+      "basename": "2025-06-23",
+      "path": "01-Diary/日志存档/2025-06-23.md"
+    },
+    {
+      "basename": "2025-06-26",
+      "path": "01-Diary/日志存档/2025-06-26.md"
+    },
+    {
+      "basename": "对比学习",
+      "path": "06-Cards/对比学习.md"
     },
     {
       "basename": "pytorch一些容易错的地方",
       "path": "06-Cards/pytorch一些容易错的地方.md"
+    },
+    {
+      "basename": "pytorch基本知识",
+      "path": "06-Cards/pytorch基本知识.md"
     },
     {
       "basename": "2025-06-05",
@@ -45,20 +61,8 @@
       "path": "06-Cards/损失函数（Loss Function）.md"
     },
     {
-      "basename": "2025-06-26",
-      "path": "01-Diary/日志存档/2025-06-26.md"
-    },
-    {
       "basename": "2025-05-14",
       "path": "01-Diary/日志存档/2025-05-14.md"
-    },
-    {
-      "basename": "2025-06-23",
-      "path": "01-Diary/日志存档/2025-06-23.md"
-    },
-    {
-      "basename": "Huang2024a",
-      "path": "02-Reading/mdnotes/Huang2024a.md"
     },
     {
       "basename": "机器学习与深度学习中的数学知识点汇总",
@@ -195,10 +199,6 @@
     {
       "basename": "第一周小结",
       "path": "01-Diary/本周事务/第一周小结.md"
-    },
-    {
-      "basename": "python基础知识",
-      "path": "01-Diary/本周事务/python基础知识.md"
     }
   ],
   "omittedPaths": [],
