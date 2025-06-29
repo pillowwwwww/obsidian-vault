@@ -91,8 +91,6 @@ model.to(device)
 | 创建新张量       | ✅                   | `torch.tensor(..., device=...)` |
 | 加载模型        | ✅                   | `model.to(device)`              |
 | 损失函数/优化器    | ❌                   | 模型参数正确即可                        |
-|             |                     |                                 |
-|             |                     |                                 |
 
 ---
 

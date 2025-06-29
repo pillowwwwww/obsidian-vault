@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Huang2024a",
-      "path": "02-Reading/mdnotes/Huang2024a.md"
+      "basename": "pytorch一些容易错的地方",
+      "path": "06-Cards/pytorch一些容易错的地方.md"
+    },
+    {
+      "basename": "对比学习",
+      "path": "06-Cards/对比学习.md"
     },
     {
       "basename": "2025-06-29",
       "path": "01-Diary/日志存档/2025-06-29.md"
+    },
+    {
+      "basename": "Tan2023 PFL综述",
+      "path": "02-Reading/mdnotes/Tan2023 PFL综述.md"
+    },
+    {
+      "basename": "Li2018 FedProx",
+      "path": "02-Reading/mdnotes/Li2018 FedProx.md"
+    },
+    {
+      "basename": "McMahan2016",
+      "path": "02-Reading/mdnotes/McMahan2016.md"
+    },
+    {
+      "basename": "Huang Pami 综述2024",
+      "path": "02-Reading/mdnotes/Huang Pami 综述2024.md"
     },
     {
       "basename": "2025-06-23",
@@ -15,14 +35,6 @@
     {
       "basename": "2025-06-26",
       "path": "01-Diary/日志存档/2025-06-26.md"
-    },
-    {
-      "basename": "对比学习",
-      "path": "06-Cards/对比学习.md"
-    },
-    {
-      "basename": "pytorch一些容易错的地方",
-      "path": "06-Cards/pytorch一些容易错的地方.md"
     },
     {
       "basename": "pytorch基本知识",
@@ -75,10 +87,6 @@
     {
       "basename": "数据预处理：torchvision, torchaudio,torchtext",
       "path": "06-Cards/数据预处理：torchvision, torchaudio,torchtext.md"
-    },
-    {
-      "basename": "McMahan2016",
-      "path": "02-Reading/mdnotes/McMahan2016.md"
     },
     {
       "basename": "常见深度学习术语解析笔记",
@@ -189,16 +197,8 @@
       "path": "06-Cards/PFL.md"
     },
     {
-      "basename": "Li2018 FedProx",
-      "path": "02-Reading/mdnotes/Li2018 FedProx.md"
-    },
-    {
       "basename": "2025-06-09",
       "path": "01-Diary/日志存档/2025-06-09.md"
-    },
-    {
-      "basename": "第一周小结",
-      "path": "01-Diary/本周事务/第一周小结.md"
     }
   ],
   "omittedPaths": [],
