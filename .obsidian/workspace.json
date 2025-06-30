@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/pytorch一些容易错的地方.md",
+                "file": "06-Cards/各种模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pytorch一些容易错的地方"
+              "title": "各种模型"
             }
           }
         ]
@@ -104,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-Cards/pytorch一些容易错的地方.md",
+                "file": "06-Cards/各种模型.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "pytorch一些容易错的地方 的大纲"
+              "title": "各种模型 的大纲"
             }
           },
           {
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-Cards/pytorch一些容易错的地方.md",
+                "file": "06-Cards/各种模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "pytorch一些容易错的地方 的反向链接列表"
+              "title": "各种模型 的反向链接列表"
             }
           },
           {
@@ -151,9 +151,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "3f366670d29b9f71",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,6 +186,9 @@
   },
   "active": "2ef34cf5f6760b08",
   "lastOpenFiles": [
+    "06-Cards/神经网络.md",
+    "06-Cards/各种模型.md",
+    "06-Cards/pytorch一些容易错的地方.md",
     "06-Cards/对比学习.md",
     "01-Diary/日志存档/2025-06-29.md",
     "02-Reading/mdnotes/Tan2023 PFL综述.md",
@@ -184,7 +197,6 @@
     "02-Reading/mdnotes/Huang Pami 综述2024.md",
     "01-Diary/日志存档/2025-06-23.md",
     "01-Diary/日志存档/2025-06-26.md",
-    "06-Cards/pytorch一些容易错的地方.md",
     "06-Cards/pytorch基本知识.md",
     "01-Diary/日志存档/2025-06-05.md",
     "06-Cards/python基本语法.md",
@@ -213,8 +225,6 @@
     "08-Assets/image-18.png",
     "06-Cards/常见深度学习术语解析笔记.md",
     "02-Reading/mdnotes/2023ICLR CreamFL.md",
-    "01-Diary/周小结/🥑来兴庆的第一周！.md",
-    "03-Projects/CreamFL/creamfl复现记录.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "08-Assets/image-17.png",
     "08-Assets/image-16.png",
