@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "集成学习Ensembling",
+      "path": "06-Cards/集成学习Ensembling.md"
+    },
+    {
       "basename": "各种模型",
       "path": "06-Cards/各种模型.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "显卡",
       "path": "06-Cards/显卡.md"
-    },
-    {
-      "basename": "多模态",
-      "path": "06-Cards/多模态.md"
     }
   ],
   "omittedPaths": [],
