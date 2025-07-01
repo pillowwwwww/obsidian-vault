@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "KL散",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -98,7 +98,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -198,16 +199,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2ef34cf5f6760b08",
+  "active": "d4cc5673d41093ba",
   "lastOpenFiles": [
+    "06-Cards/常见深度学习术语解析笔记.md",
+    "06-Cards/集成学习Ensembling和蒸馏.md",
     "08-Assets/image-26.png",
     "02-Reading/mdnotes/Huang Pami 综述2024.md",
-    "06-Cards/集成学习Ensembling和蒸馏.md",
     "08-Assets/image-25.png",
     "08-Assets/image-24.png",
     "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
     "08-Assets/image-23.png",
-    "06-Cards/常见深度学习术语解析笔记.md",
     "08-Assets/image-22.png",
     "08-Assets/image-21.png",
     "06-Cards/各种模型.md",
@@ -246,7 +247,6 @@
     "08-Assets/image-18.png",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "08-Assets/image-17.png",
-    "08-Assets/image-16.png",
     "00-MOC/未命名 1.canvas",
     "00-MOC/未命名.canvas",
     "00-MOC/未命名 2.canvas",

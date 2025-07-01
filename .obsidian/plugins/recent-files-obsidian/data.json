@@ -5,6 +5,10 @@
       "path": "06-Cards/集成学习Ensembling和蒸馏.md"
     },
     {
+      "basename": "常见深度学习术语解析笔记",
+      "path": "06-Cards/常见深度学习术语解析笔记.md"
+    },
+    {
       "basename": "Huang Pami 综述2024",
       "path": "02-Reading/mdnotes/Huang Pami 综述2024.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "机器学习与深度学习中的数学知识点汇总",
       "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
-    },
-    {
-      "basename": "常见深度学习术语解析笔记",
-      "path": "06-Cards/常见深度学习术语解析笔记.md"
     },
     {
       "basename": "各种模型",
