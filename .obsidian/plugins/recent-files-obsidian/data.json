@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "集成学习Ensembling",
-      "path": "06-Cards/集成学习Ensembling.md"
+      "basename": "集成学习Ensembling和蒸馏",
+      "path": "06-Cards/集成学习Ensembling和蒸馏.md"
+    },
+    {
+      "basename": "Huang Pami 综述2024",
+      "path": "02-Reading/mdnotes/Huang Pami 综述2024.md"
+    },
+    {
+      "basename": "image-25",
+      "path": "08-Assets/image-25.png"
     },
     {
       "basename": "机器学习与深度学习中的数学知识点汇总",
@@ -43,10 +51,6 @@
     {
       "basename": "McMahan2016",
       "path": "02-Reading/mdnotes/McMahan2016.md"
-    },
-    {
-      "basename": "Huang Pami 综述2024",
-      "path": "02-Reading/mdnotes/Huang Pami 综述2024.md"
     },
     {
       "basename": "2025-06-23",
@@ -195,10 +199,6 @@
     {
       "basename": "2021-Federated multi-task learning under a mixture of distributions",
       "path": "08-Assets/pdfs/2021-Federated multi-task learning under a mixture of distributions/2021-Federated multi-task learning under a mixture of distributions.pdf"
-    },
-    {
-      "basename": "显卡",
-      "path": "06-Cards/显卡.md"
     }
   ],
   "omittedPaths": [],
