@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "26305e61318ccb5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Cards/显卡.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "显卡"
+            }
+          },
+          {
             "id": "6ce2e5b484e799ac",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,10 +227,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2d976b45f48925cf",
+  "active": "26305e61318ccb5a",
   "lastOpenFiles": [
-    "01-Diary/日志存档/2025-07-02.md",
     "02-Reading/mdnotes/Lin2020 FedDF 集成蒸馏.md",
+    "01-Diary/日志存档/2025-07-02.md",
     "01-Diary/本周事务/`集成学习Ensembling和蒸馏`.md",
     "06-Cards/集成学习Ensembling和蒸馏.md",
     "06-Cards/常见深度学习术语解析笔记.md",
