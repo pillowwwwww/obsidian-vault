@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-07-02",
+      "path": "01-Diary/日志存档/2025-07-02.md"
+    },
+    {
+      "basename": "Lin2020 FedDF 集成蒸馏",
+      "path": "02-Reading/mdnotes/Lin2020 FedDF 集成蒸馏.md"
+    },
+    {
       "basename": "集成学习Ensembling和蒸馏",
       "path": "06-Cards/集成学习Ensembling和蒸馏.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2025-06-11",
       "path": "01-Diary/日志存档/2025-06-11.md"
-    },
-    {
-      "basename": "2023-Towards personalized federated learning",
-      "path": "08-Assets/pdfs/2023-Towards personalized federated learning/2023-Towards personalized federated learning.pdf"
-    },
-    {
-      "basename": "2021-Federated multi-task learning under a mixture of distributions",
-      "path": "08-Assets/pdfs/2021-Federated multi-task learning under a mixture of distributions/2021-Federated multi-task learning under a mixture of distributions.pdf"
     }
   ],
   "omittedPaths": [],
