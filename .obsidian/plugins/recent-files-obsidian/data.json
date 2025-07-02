@@ -5,16 +5,20 @@
       "path": "06-Cards/常见深度学习术语解析笔记.md"
     },
     {
+      "basename": "2025-06-26",
+      "path": "01-Diary/日志存档/2025-06-26.md"
+    },
+    {
+      "basename": "2025-06-23",
+      "path": "01-Diary/日志存档/2025-06-23.md"
+    },
+    {
       "basename": "显卡",
       "path": "06-Cards/显卡.md"
     },
     {
       "basename": "Lin2020 FedDF 集成蒸馏",
       "path": "02-Reading/mdnotes/Lin2020 FedDF 集成蒸馏.md"
-    },
-    {
-      "basename": "2025-07-02",
-      "path": "01-Diary/日志存档/2025-07-02.md"
     },
     {
       "basename": "集成学习Ensembling和蒸馏",
@@ -49,10 +53,6 @@
       "path": "06-Cards/对比学习.md"
     },
     {
-      "basename": "2025-06-29",
-      "path": "01-Diary/日志存档/2025-06-29.md"
-    },
-    {
       "basename": "Tan2023 PFL综述",
       "path": "02-Reading/mdnotes/Tan2023 PFL综述.md"
     },
@@ -63,14 +63,6 @@
     {
       "basename": "McMahan2016",
       "path": "02-Reading/mdnotes/McMahan2016.md"
-    },
-    {
-      "basename": "2025-06-23",
-      "path": "01-Diary/日志存档/2025-06-23.md"
-    },
-    {
-      "basename": "2025-06-26",
-      "path": "01-Diary/日志存档/2025-06-26.md"
     },
     {
       "basename": "pytorch基本知识",
