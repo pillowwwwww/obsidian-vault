@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -227,8 +227,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26305e61318ccb5a",
+  "active": "6ce2e5b484e799ac",
   "lastOpenFiles": [
+    "06-Cards/显卡.md",
     "02-Reading/mdnotes/Lin2020 FedDF 集成蒸馏.md",
     "01-Diary/日志存档/2025-07-02.md",
     "01-Diary/本周事务/`集成学习Ensembling和蒸馏`.md",
@@ -260,7 +261,6 @@
     "06-Cards/多模态数据预处理.md",
     "01-Diary/日志存档/2025-06-06.md",
     "06-Cards/Dirichlet分布.md",
-    "06-Cards/损失函数（Loss Function）.md",
     "08-Assets/pdfs/2022-On bridging generic and personalized federated learning for image classification/2022-On bridging generic and personalized federated learning for image classification.pdf",
     "08-Assets/pdfs/2022-On bridging generic and personalized federated learning for image classification",
     "08-Assets/pdfs/2023-Rethinking federated learning with domain shift/2023 IEEECVF Conference on Computer Vision and Pattern Recognition (CVPR)2023-Rethinking federated learning with domain shi-1.pdf",
