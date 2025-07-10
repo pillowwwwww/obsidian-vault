@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-07-10",
+      "path": "01-Diary/日志存档/2025-07-10.md"
+    },
+    {
       "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
       "path": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "软件下载安装",
       "path": "03-Projects/99-使用obsidian搞科研/软件下载安装.md"
-    },
-    {
-      "basename": "2025-06-21",
-      "path": "01-Diary/日志存档/2025-06-21.md"
     }
   ],
   "omittedPaths": [],

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
+                "file": "01-Diary/日志存档/2025-07-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "弄懂CNN、RNN、GAN、Transformer等架构"
+              "title": "2025-07-10"
             }
           }
         ]
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -187,6 +187,8 @@
   },
   "active": "bc2901aab1fe332e",
   "lastOpenFiles": [
+    "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
+    "01-Diary/日志存档/2025-07-10.md",
     "06-Cards/模型漂移model drift.md",
     "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
     "06-Cards/机器学习基本概念.md",
@@ -217,8 +219,6 @@
     "06-Cards/pytorch基本知识.md",
     "01-Diary/日志存档/2025-06-05.md",
     "06-Cards/python基本语法.md",
-    "06-Cards/生成数据集.md",
-    "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
     "08-Assets/pdfs/2022-On bridging generic and personalized federated learning for image classification/2022-On bridging generic and personalized federated learning for image classification.pdf",
     "08-Assets/pdfs/2022-On bridging generic and personalized federated learning for image classification",
     "08-Assets/pdfs/2023-Rethinking federated learning with domain shift/2023 IEEECVF Conference on Computer Vision and Pattern Recognition (CVPR)2023-Rethinking federated learning with domain shi-1.pdf",
