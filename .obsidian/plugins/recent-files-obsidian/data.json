@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-07-13",
+      "path": "01-Diary/日志存档/2025-07-13.md"
+    },
+    {
       "basename": "集成学习Ensembling和蒸馏",
       "path": "06-Cards/集成学习Ensembling和蒸馏.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "zotero-obsidian联动配置",
       "path": "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md"
-    },
-    {
-      "basename": "软件下载安装",
-      "path": "03-Projects/99-使用obsidian搞科研/软件下载安装.md"
     }
   ],
   "omittedPaths": [],
