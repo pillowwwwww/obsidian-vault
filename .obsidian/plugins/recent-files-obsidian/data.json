@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "本机配置环境",
+      "path": "06-Cards/本机配置环境.md"
+    },
+    {
+      "basename": "Featurize复现CreamFL",
+      "path": "06-Cards/Featurize复现CreamFL.md"
+    },
+    {
+      "basename": "实验日志",
+      "path": "06-Cards/实验日志.md"
+    },
+    {
+      "basename": "pytorch一些容易错的地方",
+      "path": "06-Cards/pytorch一些容易错的地方.md"
+    },
+    {
       "basename": "pytorch基本知识",
       "path": "06-Cards/pytorch基本知识.md"
     },
@@ -71,10 +87,6 @@
     {
       "basename": "image-25",
       "path": "08-Assets/image-25.png"
-    },
-    {
-      "basename": "pytorch一些容易错的地方",
-      "path": "06-Cards/pytorch一些容易错的地方.md"
     },
     {
       "basename": "对比学习",
@@ -187,18 +199,6 @@
     {
       "basename": "用obsidian阅读文献",
       "path": "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md"
-    },
-    {
-      "basename": "obsidian撰写草稿",
-      "path": "03-Projects/99-使用obsidian搞科研/obsidian撰写草稿.md"
-    },
-    {
-      "basename": "用obsidian写日志",
-      "path": "03-Projects/99-使用obsidian搞科研/用obsidian写日志.md"
-    },
-    {
-      "basename": "zotero-obsidian联动配置",
-      "path": "03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md"
     }
   ],
   "omittedPaths": [],
