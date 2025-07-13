@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "pytorch基本知识",
+      "path": "06-Cards/pytorch基本知识.md"
+    },
+    {
       "basename": "2025-07-13",
       "path": "01-Diary/日志存档/2025-07-13.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "McMahan2016",
       "path": "02-Reading/mdnotes/McMahan2016.md"
-    },
-    {
-      "basename": "pytorch基本知识",
-      "path": "06-Cards/pytorch基本知识.md"
     },
     {
       "basename": "2025-06-05",
