@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/本机配置环境.md",
+                "file": "01-Diary/日志存档/2025-07-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "本机配置环境"
+              "title": "2025-07-14"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scalar",
+                "query": "scalar“投影头",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -141,7 +141,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -241,10 +242,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b06eb30c2868589d",
+  "active": "d4cc5673d41093ba",
   "lastOpenFiles": [
-    "06-Cards/Featurize复现CreamFL.md",
     "06-Cards/本机配置环境.md",
+    "01-Diary/日志存档/2025-07-14.md",
+    "06-Cards/Featurize复现CreamFL.md",
     "06-Cards/实验日志.md",
     "06-Cards/pytorch一些容易错的地方.md",
     "06-Cards/pytorch基本知识.md",
@@ -274,7 +276,6 @@
     "08-Assets/image-22.png",
     "08-Assets/image-21.png",
     "06-Cards/对比学习.md",
-    "02-Reading/mdnotes/Tan2023 PFL综述.md",
     "08-Assets/pdfs/2022-On bridging generic and personalized federated learning for image classification/2022-On bridging generic and personalized federated learning for image classification.pdf",
     "08-Assets/pdfs/2022-On bridging generic and personalized federated learning for image classification",
     "08-Assets/pdfs/2023-Rethinking federated learning with domain shift/2023 IEEECVF Conference on Computer Vision and Pattern Recognition (CVPR)2023-Rethinking federated learning with domain shi-1.pdf",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-07-14",
+      "path": "01-Diary/日志存档/2025-07-14.md"
+    },
+    {
       "basename": "本机配置环境",
       "path": "06-Cards/本机配置环境.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "使用obsidian搞科研",
       "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
-    },
-    {
-      "basename": "用obsidian阅读文献",
-      "path": "03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md"
     }
   ],
   "omittedPaths": [],
