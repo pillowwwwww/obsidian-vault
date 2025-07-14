@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2025-07-14.md",
+                "file": "06-Cards/对比学习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-14"
+              "title": "对比学习"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scalar“投影头",
+                "query": "投影头",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -242,10 +242,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d4cc5673d41093ba",
+  "active": "b06eb30c2868589d",
   "lastOpenFiles": [
-    "06-Cards/本机配置环境.md",
     "01-Diary/日志存档/2025-07-14.md",
+    "06-Cards/本机配置环境.md",
     "06-Cards/Featurize复现CreamFL.md",
     "06-Cards/实验日志.md",
     "06-Cards/pytorch一些容易错的地方.md",
