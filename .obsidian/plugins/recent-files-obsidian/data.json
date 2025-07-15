@@ -5,6 +5,18 @@
       "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
     },
     {
+      "basename": "损失函数（Loss Function）",
+      "path": "06-Cards/损失函数（Loss Function）.md"
+    },
+    {
+      "basename": "集成学习Ensembling和蒸馏",
+      "path": "06-Cards/集成学习Ensembling和蒸馏.md"
+    },
+    {
+      "basename": "常见深度学习术语解析笔记",
+      "path": "06-Cards/常见深度学习术语解析笔记.md"
+    },
+    {
       "basename": "Huang Pami 综述2024",
       "path": "02-Reading/mdnotes/Huang Pami 综述2024.md"
     },
@@ -41,10 +53,6 @@
       "path": "01-Diary/日志存档/2025-07-13.md"
     },
     {
-      "basename": "集成学习Ensembling和蒸馏",
-      "path": "06-Cards/集成学习Ensembling和蒸馏.md"
-    },
-    {
       "basename": "2025-07-10",
       "path": "01-Diary/日志存档/2025-07-10.md"
     },
@@ -71,10 +79,6 @@
     {
       "basename": "各种模型",
       "path": "06-Cards/各种模型.md"
-    },
-    {
-      "basename": "常见深度学习术语解析笔记",
-      "path": "06-Cards/常见深度学习术语解析笔记.md"
     },
     {
       "basename": "2025-06-26",
@@ -127,10 +131,6 @@
     {
       "basename": "Dirichlet分布",
       "path": "06-Cards/Dirichlet分布.md"
-    },
-    {
-      "basename": "损失函数（Loss Function）",
-      "path": "06-Cards/损失函数（Loss Function）.md"
     },
     {
       "basename": "2025-05-14",

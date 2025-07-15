@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "余弦",
+                "query": "softmax",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -155,7 +155,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -257,10 +258,13 @@
   },
   "active": "5da2849601e880cb",
   "lastOpenFiles": [
+    "06-Cards/损失函数（Loss Function）.md",
+    "06-Cards/集成学习Ensembling和蒸馏.md",
+    "06-Cards/常见深度学习术语解析笔记.md",
+    "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
     "08-Assets/image-29.png",
     "08-Assets/image-28.png",
     "02-Reading/mdnotes/Huang Pami 综述2024.md",
-    "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
     "08-Assets/image-27.png",
     "06-Cards/对比学习.md",
     "01-Diary/日志存档/2025-07-14.md",
@@ -270,7 +274,6 @@
     "06-Cards/pytorch一些容易错的地方.md",
     "06-Cards/pytorch基本知识.md",
     "01-Diary/日志存档/2025-07-13.md",
-    "06-Cards/集成学习Ensembling和蒸馏.md",
     "01-Diary/日志存档/2025-07-10.md",
     "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
     "06-Cards/模型漂移model drift.md",
@@ -278,7 +281,6 @@
     "06-Cards/神经网络.md",
     "06-Cards/多模态数据预处理.md",
     "06-Cards/各种模型.md",
-    "06-Cards/常见深度学习术语解析笔记.md",
     "01-Diary/日志存档/2025-06-26.md",
     "01-Diary/日志存档/2025-06-23.md",
     "01-Diary/日志存档/2025-06-29.md",
@@ -302,7 +304,6 @@
     "08-Assets/pdfs/2019-FedMD",
     "08-Assets/pdfs/2020-Ensemble distillation for robust model fusion in federated learning/2020-Ensemble distillation for robust model fusion in federated learning.pdf",
     "08-Assets/pdfs/2020-Ensemble distillation for robust model fusion in federated learning",
-    "08-Assets/image-19.png",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名 1.canvas",
     "00-MOC/未命名.canvas",
