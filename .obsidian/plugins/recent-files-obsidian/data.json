@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Energy-Based Models 能量模型",
+      "path": "06-Cards/Energy-Based Models 能量模型.md"
+    },
+    {
       "basename": "Huang Pami 综述2024",
       "path": "02-Reading/mdnotes/Huang Pami 综述2024.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "试剂耗材仪器建卡管理",
       "path": "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md"
-    },
-    {
-      "basename": "使用obsidian搞科研",
-      "path": "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas"
     }
   ],
   "omittedPaths": [],
