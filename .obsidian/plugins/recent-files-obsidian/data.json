@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "机器学习与深度学习中的数学知识点汇总",
+      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
+    },
+    {
+      "basename": "2025-07-15",
+      "path": "01-Diary/日志存档/2025-07-15.md"
+    },
+    {
       "basename": "Energy-Based Models 能量模型",
       "path": "06-Cards/Energy-Based Models 能量模型.md"
     },
     {
-      "basename": "Huang Pami 综述2024",
-      "path": "02-Reading/mdnotes/Huang Pami 综述2024.md"
+      "basename": "2025-07-10",
+      "path": "01-Diary/日志存档/2025-07-10.md"
     },
     {
-      "basename": "机器学习与深度学习中的数学知识点汇总",
-      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
+      "basename": "pytorch基本知识",
+      "path": "06-Cards/pytorch基本知识.md"
+    },
+    {
+      "basename": "Huang Pami 综述2024",
+      "path": "02-Reading/mdnotes/Huang Pami 综述2024.md"
     },
     {
       "basename": "对比学习",
@@ -49,16 +61,8 @@
       "path": "06-Cards/pytorch一些容易错的地方.md"
     },
     {
-      "basename": "pytorch基本知识",
-      "path": "06-Cards/pytorch基本知识.md"
-    },
-    {
       "basename": "2025-07-13",
       "path": "01-Diary/日志存档/2025-07-13.md"
-    },
-    {
-      "basename": "2025-07-10",
-      "path": "01-Diary/日志存档/2025-07-10.md"
     },
     {
       "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
@@ -195,10 +199,6 @@
     {
       "basename": "代码整理",
       "path": "09-Templates/代码整理.md"
-    },
-    {
-      "basename": "试剂耗材仪器建卡管理",
-      "path": "03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md"
     }
   ],
   "omittedPaths": [],

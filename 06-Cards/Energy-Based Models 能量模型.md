@@ -46,7 +46,7 @@ f(x) 是关于 x 的函数，其中 Z 是normalize项 :
 
 所以这样的建模方法就叫做能量模型啦。
 
-通常在机器学习中 E(x)通常可以表示为[似然函数](https://zhida.zhihu.com/search?content_id=67108005&content_type=Answer&match_order=1&q=%E4%BC%BC%E7%84%B6%E5%87%BD%E6%95%B0&zhida_source=entity)或者[对数似然](https://zhida.zhihu.com/search?content_id=67108005&content_type=Answer&match_order=1&q=%E5%AF%B9%E6%95%B0%E4%BC%BC%E7%84%B6&zhida_source=entity)或者[值函数](https://zhida.zhihu.com/search?content_id=67108005&content_type=Answer&match_order=1&q=%E5%80%BC%E5%87%BD%E6%95%B0&zhida_source=entity)，所以有时候求最大似然就可以被表示为求最小能量。
+通常在机器学习中 E(x)通常可以表示为似然函数或者对数似然或者值函数，所以有时候求最大似然就可以被表示为求最小能量。
 
 ---
  以上是原文，下面是我的整理：

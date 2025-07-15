@@ -1,5 +1,5 @@
 {
-  "baseFontSize": 17,
+  "baseFontSize": 18,
   "translucency": false,
   "theme": "obsidian",
   "cssTheme": "Obsidian Nord",
@@ -14,7 +14,8 @@
     "S - Kanban",
     "【日记】Time",
     "【自定义】mytools 样式",
-    "【图标】iconfont"
+    "【图标】iconfont",
+    "page-width"
   ],
   "baseFontSizeAction": true,
   "accentColor": ""
