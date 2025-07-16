@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-07-15",
-      "path": "01-Diary/日志存档/2025-07-15.md"
+      "basename": "机器学习与深度学习中的数学知识点汇总",
+      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
+    },
+    {
+      "basename": "2025-07-16",
+      "path": "01-Diary/日志存档/2025-07-16.md"
     },
     {
       "basename": "Energy-Based Models 能量模型",
       "path": "06-Cards/Energy-Based Models 能量模型.md"
     },
     {
-      "basename": "机器学习与深度学习中的数学知识点汇总",
-      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
-    },
-    {
       "basename": "损失函数（Loss Function）",
       "path": "06-Cards/损失函数（Loss Function）.md"
+    },
+    {
+      "basename": "2025-07-15",
+      "path": "01-Diary/日志存档/2025-07-15.md"
     },
     {
       "basename": "2025-07-10",
@@ -195,10 +199,6 @@
     {
       "basename": "时间戳",
       "path": "09-Templates/时间戳.md"
-    },
-    {
-      "basename": "代码整理",
-      "path": "09-Templates/代码整理.md"
     }
   ],
   "omittedPaths": [],
