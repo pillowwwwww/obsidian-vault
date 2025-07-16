@@ -6,6 +6,8 @@ tags:
 
 ## 🧠一、 什么是EBMs？Energy-Based Models
 
+就把数据建模为[玻尔兹曼分布](https://zhida.zhihu.com/search?content_id=107561159&content_type=Article&match_order=1&q=%E7%8E%BB%E5%B0%94%E5%85%B9%E6%9B%BC%E5%88%86%E5%B8%83&zhida_source=entity)（配分函数）的形式
+
 我感觉就是为了方便建模。
 
 比如在一个复杂系统里你要表示一个变量
