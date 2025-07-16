@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Huang Pami 综述2024",
+      "path": "02-Reading/mdnotes/Huang Pami 综述2024.md"
+    },
+    {
+      "basename": "PFL",
+      "path": "06-Cards/PFL.md"
+    },
+    {
       "basename": "机器学习与深度学习中的数学知识点汇总",
       "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "pytorch基本知识",
       "path": "06-Cards/pytorch基本知识.md"
-    },
-    {
-      "basename": "Huang Pami 综述2024",
-      "path": "02-Reading/mdnotes/Huang Pami 综述2024.md"
     },
     {
       "basename": "对比学习",
@@ -195,10 +199,6 @@
     {
       "basename": "实验记录",
       "path": "09-Templates/实验记录.md"
-    },
-    {
-      "basename": "时间戳",
-      "path": "09-Templates/时间戳.md"
     }
   ],
   "omittedPaths": [],
