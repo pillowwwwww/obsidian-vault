@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "2023ICLR CreamFL",
+      "path": "02-Reading/mdnotes/2023ICLR CreamFL.md"
+    },
+    {
+      "basename": "2025-05-12",
+      "path": "01-Diary/日志存档/2025-05-12.md"
+    },
+    {
+      "basename": "2025-07-15",
+      "path": "01-Diary/日志存档/2025-07-15.md"
+    },
+    {
+      "basename": "pytorch基本知识",
+      "path": "06-Cards/pytorch基本知识.md"
+    },
+    {
+      "basename": "2025-06-06",
+      "path": "01-Diary/日志存档/2025-06-06.md"
+    },
+    {
       "basename": "2025-07-18",
       "path": "01-Diary/日志存档/2025-07-18.md"
     },
@@ -25,20 +45,12 @@
       "path": "01-Diary/日志存档/2025-07-16.md"
     },
     {
-      "basename": "2025-07-15",
-      "path": "01-Diary/日志存档/2025-07-15.md"
-    },
-    {
       "basename": "损失函数（Loss Function）",
       "path": "06-Cards/损失函数（Loss Function）.md"
     },
     {
       "basename": "2025-07-10",
       "path": "01-Diary/日志存档/2025-07-10.md"
-    },
-    {
-      "basename": "pytorch基本知识",
-      "path": "06-Cards/pytorch基本知识.md"
     },
     {
       "basename": "对比学习",
@@ -145,10 +157,6 @@
       "path": "06-Cards/生成数据集.md"
     },
     {
-      "basename": "2025-06-06",
-      "path": "01-Diary/日志存档/2025-06-06.md"
-    },
-    {
       "basename": "Dirichlet分布",
       "path": "06-Cards/Dirichlet分布.md"
     },
@@ -163,10 +171,6 @@
     {
       "basename": "数据预处理：torchvision, torchaudio,torchtext",
       "path": "06-Cards/数据预处理：torchvision, torchaudio,torchtext.md"
-    },
-    {
-      "basename": "2023ICLR CreamFL",
-      "path": "02-Reading/mdnotes/2023ICLR CreamFL.md"
     },
     {
       "basename": "🥑来兴庆的第一周！",
@@ -195,10 +199,6 @@
     {
       "basename": "大牛页面",
       "path": "09-Templates/大牛页面.md"
-    },
-    {
-      "basename": "卡片模板",
-      "path": "09-Templates/卡片模板.md"
     }
   ],
   "omittedPaths": [],
