@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-07-18",
+      "path": "01-Diary/日志存档/2025-07-18.md"
+    },
+    {
       "basename": "Huang Pami 综述2024",
       "path": "02-Reading/mdnotes/Huang Pami 综述2024.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "卡片模板",
       "path": "09-Templates/卡片模板.md"
-    },
-    {
-      "basename": "实验记录",
-      "path": "09-Templates/实验记录.md"
     }
   ],
   "omittedPaths": [],
