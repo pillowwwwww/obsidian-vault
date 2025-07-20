@@ -5,6 +5,10 @@
       "path": "02-Reading/mdnotes/2023ICLR CreamFL.md"
     },
     {
+      "basename": "2025-07-20",
+      "path": "01-Diary/日志存档/2025-07-20.md"
+    },
+    {
       "basename": "2025-05-12",
       "path": "01-Diary/日志存档/2025-05-12.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "文献比较",
       "path": "09-Templates/文献比较.md"
-    },
-    {
-      "basename": "大牛页面",
-      "path": "09-Templates/大牛页面.md"
     }
   ],
   "omittedPaths": [],

@@ -126,8 +126,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -226,11 +225,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67c4a3ca37d16f58",
+  "active": "3090910a3bbb4bfa",
   "lastOpenFiles": [
+    "01-Diary/日志存档/2025-07-20.md",
+    "02-Reading/mdnotes/2023ICLR CreamFL.md",
     "01-Diary/日志存档/2025-05-12.md",
     "01-Diary/日志存档/2025-07-15.md",
-    "02-Reading/mdnotes/2023ICLR CreamFL.md",
     "06-Cards/pytorch基本知识.md",
     "01-Diary/日志存档/2025-06-06.md",
     "01-Diary/日志存档/2025-07-18.md",
@@ -263,7 +263,6 @@
     "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
     "06-Cards/模型漂移model drift.md",
     "06-Cards/机器学习基本概念.md",
-    "06-Cards/神经网络.md",
     "08-Assets/pdfs/2022-On bridging generic and personalized federated learning for image classification/2022-On bridging generic and personalized federated learning for image classification.pdf",
     "08-Assets/pdfs/2022-On bridging generic and personalized federated learning for image classification",
     "08-Assets/pdfs/2023-Rethinking federated learning with domain shift/2023 IEEECVF Conference on Computer Vision and Pattern Recognition (CVPR)2023-Rethinking federated learning with domain shi-1.pdf",
