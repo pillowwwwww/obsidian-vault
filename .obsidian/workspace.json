@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2025-07-24.md",
+                "file": "06-Cards/数据预处理：torchvision, torchaudio,torchtext.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-24"
+              "title": "数据预处理：torchvision, torchaudio,torchtext"
             }
           },
           {
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Diary/日志存档/2025-07-24.md",
+                "file": "06-Cards/数据预处理：torchvision, torchaudio,torchtext.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-07-24 的反向链接列表"
+              "title": "数据预处理：torchvision, torchaudio,torchtext 的反向链接列表"
             }
           },
           {
@@ -241,10 +241,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d4cc5673d41093ba",
+  "active": "e12ced09f156336a",
   "lastOpenFiles": [
-    "01-Diary/日志存档/2025-07-16.md",
     "01-Diary/日志存档/2025-07-24.md",
+    "01-Diary/日志存档/2025-07-16.md",
     "01-Diary/日志存档/2025-07-15.md",
     "01-Diary/日志存档/2025-07-14.md",
     "01-Diary/日志存档/2025-07-18.md",
