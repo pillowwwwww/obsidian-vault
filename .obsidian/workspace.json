@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "torchvisio",
+                "query": "Adam",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -255,10 +255,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d4cc5673d41093ba",
+  "active": "61f5a585e549d77d",
   "lastOpenFiles": [
-    "01-Diary/日志存档/2025-07-25.md",
+    "02-Reading/mdnotes/Lin2020 FedDF 集成蒸馏.md",
+    "02-Reading/mdnotes/Huang Pami 综述2024.md",
     "01-Diary/日志存档/2025-07-26.md",
+    "01-Diary/日志存档/2025-07-25.md",
     "01-Diary/日志存档/2025-07-16.md",
     "01-Diary/日志存档/2025-07-24.md",
     "06-Cards/本机配置环境.md",
@@ -271,7 +273,6 @@
     "01-Diary/日志存档/2025-05-12.md",
     "06-Cards/pytorch基本知识.md",
     "01-Diary/日志存档/2025-06-06.md",
-    "02-Reading/mdnotes/Huang Pami 综述2024.md",
     "06-Cards/PFL.md",
     "06-Cards/机器学习与深度学习中的数学知识点汇总.md",
     "06-Cards/Energy-Based Models 能量模型.md",
@@ -292,7 +293,6 @@
     "06-Cards/常见深度学习术语解析笔记.md",
     "06-Cards/Featurize复现CreamFL.md",
     "06-Cards/实验日志.md",
-    "06-Cards/pytorch一些容易错的地方.md",
     "08-Assets/pdfs/2022-On bridging generic and personalized federated learning for image classification/2022-On bridging generic and personalized federated learning for image classification.pdf",
     "08-Assets/pdfs/2022-On bridging generic and personalized federated learning for image classification",
     "08-Assets/pdfs/2023-Rethinking federated learning with domain shift/2023 IEEECVF Conference on Computer Vision and Pattern Recognition (CVPR)2023-Rethinking federated learning with domain shi-1.pdf",
