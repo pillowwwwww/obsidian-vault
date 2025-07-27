@@ -124,6 +124,16 @@ PyTorch 使用 `torchvision` 来处理图像数据。你需要完成以下 4 个
 `trainloader = DataLoader(train_dataset, batch_size=64, shuffle=True)`
 
 每次从 `trainloader` 取出来的内容是一个 batch，有 64 张图和 64 个标签。
+**DataLoader属性总结**
+1. **核心属性对比表**
+
+|属性|作用|训练设置|测试设置|原因|
+|---|---|---|---|---|
+|`batch_size`|批次大小|32-128|64-256|测试时可用更大批次|
+|`shuffle`|数据打乱|`True`|`False`|训练需随机性，测试需可重现|
+|`num_workers`|并行进程数|2-8|2-8|都需要加速数据加载|
+|`drop_last`|丢弃最后批次|`True`|`False`|训练要一致性，测试要完整性|
+|`pin_memory`|内存固定|`True`|`True`|有GPU时都应启用|
 ### 🧪 一个完整例子：
 
 ``` python 

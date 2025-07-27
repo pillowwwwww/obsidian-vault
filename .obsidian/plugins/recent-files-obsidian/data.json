@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Energy-Based Models 能量模型",
-      "path": "06-Cards/Energy-Based Models 能量模型.md"
+      "basename": "2025-07-25",
+      "path": "01-Diary/日志存档/2025-07-25.md"
     },
     {
       "basename": "2025-07-26",
       "path": "01-Diary/日志存档/2025-07-26.md"
+    },
+    {
+      "basename": "2025-07-27",
+      "path": "01-Diary/日志存档/2025-07-27.md"
+    },
+    {
+      "basename": "pytorch基本知识",
+      "path": "06-Cards/pytorch基本知识.md"
+    },
+    {
+      "basename": "pytorch一些容易错的地方",
+      "path": "06-Cards/pytorch一些容易错的地方.md"
+    },
+    {
+      "basename": "Energy-Based Models 能量模型",
+      "path": "06-Cards/Energy-Based Models 能量模型.md"
     },
     {
       "basename": "Lin2020 FedDF 集成蒸馏",
@@ -15,10 +31,6 @@
     {
       "basename": "Huang Pami 综述2024",
       "path": "02-Reading/mdnotes/Huang Pami 综述2024.md"
-    },
-    {
-      "basename": "2025-07-25",
-      "path": "01-Diary/日志存档/2025-07-25.md"
     },
     {
       "basename": "2025-07-16",
@@ -47,10 +59,6 @@
     {
       "basename": "2025-05-12",
       "path": "01-Diary/日志存档/2025-05-12.md"
-    },
-    {
-      "basename": "pytorch基本知识",
-      "path": "06-Cards/pytorch基本知识.md"
     },
     {
       "basename": "2025-06-06",
@@ -91,10 +99,6 @@
     {
       "basename": "实验日志",
       "path": "06-Cards/实验日志.md"
-    },
-    {
-      "basename": "pytorch一些容易错的地方",
-      "path": "06-Cards/pytorch一些容易错的地方.md"
     },
     {
       "basename": "2025-07-13",
@@ -195,10 +199,6 @@
     {
       "basename": "知识卡片",
       "path": "09-Templates/知识卡片.md"
-    },
-    {
-      "basename": "文献比较",
-      "path": "09-Templates/文献比较.md"
     }
   ],
   "omittedPaths": [],
