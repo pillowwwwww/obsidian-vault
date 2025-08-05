@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
+                "file": "01-Diary/日志存档/2025-08-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "弄懂CNN、RNN、GAN、Transformer等架构"
+              "title": "2025-08-05"
             }
           }
         ]
@@ -84,7 +84,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
+                "file": "01-Diary/日志存档/2025-08-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "弄懂CNN、RNN、GAN、Transformer等架构 的反向链接列表"
+              "title": "2025-08-05 的反向链接列表"
             }
           },
           {
@@ -185,12 +186,13 @@
   },
   "active": "64ecd0d27e2fab63",
   "lastOpenFiles": [
+    "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
+    "01-Diary/日志存档/2025-08-05.md",
     "08-Assets/image-48.png",
     "01-Diary/日志存档/2025-07-26.md",
     "01-Diary/日志存档/2025-07-25.md",
     "01-Diary/日志存档/2025-07-27.md",
     "01-Diary/日志存档/2025-07-28.md",
-    "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md",
     "01-Diary/日志存档/2025-07-31.md",
     "06-Cards/损失函数（Loss Function）.md",
     "06-Cards/pytorch基本知识.md",
@@ -220,7 +222,6 @@
     "08-Assets/image-41.png",
     "08-Assets/image-40.png",
     "08-Assets/image-39.png",
-    "08-Assets/image-38.png",
     "08-Assets/pdfs/2022-On bridging generic and personalized federated learning for image classification/2022-On bridging generic and personalized federated learning for image classification.pdf",
     "08-Assets/pdfs/2022-On bridging generic and personalized federated learning for image classification",
     "08-Assets/pdfs/2023-Rethinking federated learning with domain shift/2023 IEEECVF Conference on Computer Vision and Pattern Recognition (CVPR)2023-Rethinking federated learning with domain shi-1.pdf",
