@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/通用知识/损失函数（Loss Function）.md",
+                "file": "01-Diary/日志存档/2025-08-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "损失函数（Loss Function）"
+              "title": "2025-08-05"
             }
           }
         ]
@@ -84,7 +84,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-Cards/通用知识/损失函数（Loss Function）.md",
+                "file": "01-Diary/日志存档/2025-08-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "损失函数（Loss Function） 的反向链接列表"
+              "title": "2025-08-05 的反向链接列表"
             }
           },
           {
@@ -185,8 +186,8 @@
   },
   "active": "420d113626e1c375",
   "lastOpenFiles": [
-    "06-Cards/通用知识/机器学习与深度学习中的数学知识点汇总.md",
     "06-Cards/通用知识/损失函数（Loss Function）.md",
+    "06-Cards/通用知识/机器学习与深度学习中的数学知识点汇总.md",
     "06-Cards/通用知识/机器学习基本概念.md",
     "06-Cards/通用知识/神经网络.md",
     "06-Cards/通用知识/弄懂CNN、RNN、GAN、Transformer等架构.md",
