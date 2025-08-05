@@ -1,36 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-08-05",
-      "path": "01-Diary/日志存档/2025-08-05.md"
+      "basename": "机器学习与深度学习中的数学知识点汇总",
+      "path": "06-Cards/通用知识/机器学习与深度学习中的数学知识点汇总.md"
+    },
+    {
+      "basename": "损失函数（Loss Function）",
+      "path": "06-Cards/通用知识/损失函数（Loss Function）.md"
+    },
+    {
+      "basename": "机器学习基本概念",
+      "path": "06-Cards/通用知识/机器学习基本概念.md"
+    },
+    {
+      "basename": "神经网络",
+      "path": "06-Cards/通用知识/神经网络.md"
     },
     {
       "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
-      "path": "06-Cards/弄懂CNN、RNN、GAN、Transformer等架构.md"
+      "path": "06-Cards/通用知识/弄懂CNN、RNN、GAN、Transformer等架构.md"
+    },
+    {
+      "basename": "Dirichlet分布",
+      "path": "06-Cards/通用知识/Dirichlet分布.md"
+    },
+    {
+      "basename": "数据预处理：torchvision, torchaudio,torchtext",
+      "path": "06-Cards/通用知识/数据预处理：torchvision, torchaudio,torchtext.md"
+    },
+    {
+      "basename": "多模态数据预处理",
+      "path": "06-Cards/多模态数据预处理.md"
+    },
+    {
+      "basename": "pytorch基本知识",
+      "path": "06-Cards/环境， pytorch基础语法等/pytorch基本知识.md"
+    },
+    {
+      "basename": "Featurize复现CreamFL",
+      "path": "06-Cards/环境， pytorch基础语法等/Featurize复现CreamFL.md"
+    },
+    {
+      "basename": "pytorch一些容易错的地方",
+      "path": "06-Cards/环境， pytorch基础语法等/pytorch一些容易错的地方.md"
+    },
+    {
+      "basename": "python基本语法",
+      "path": "06-Cards/环境， pytorch基础语法等/python基本语法.md"
+    },
+    {
+      "basename": "显卡",
+      "path": "06-Cards/环境， pytorch基础语法等/显卡.md"
+    },
+    {
+      "basename": "本机配置环境",
+      "path": "06-Cards/环境， pytorch基础语法等/本机配置环境.md"
+    },
+    {
+      "basename": "Energy-Based Models 能量模型",
+      "path": "06-Cards/Energy-Based Models 能量模型.md"
+    },
+    {
+      "basename": "2025-08-05",
+      "path": "01-Diary/日志存档/2025-08-05.md"
     },
     {
       "basename": "2025-07-25",
       "path": "01-Diary/日志存档/2025-07-25.md"
     },
     {
-      "basename": "损失函数（Loss Function）",
-      "path": "06-Cards/损失函数（Loss Function）.md"
-    },
-    {
-      "basename": "pytorch基本知识",
-      "path": "06-Cards/pytorch基本知识.md"
-    },
-    {
-      "basename": "pytorch一些容易错的地方",
-      "path": "06-Cards/pytorch一些容易错的地方.md"
-    },
-    {
       "basename": "2025-07-15",
       "path": "01-Diary/日志存档/2025-07-15.md"
-    },
-    {
-      "basename": "Energy-Based Models 能量模型",
-      "path": "06-Cards/Energy-Based Models 能量模型.md"
     },
     {
       "basename": "Lin2020 FedDF 集成蒸馏",
@@ -43,14 +83,6 @@
     {
       "basename": "2025-07-16",
       "path": "01-Diary/日志存档/2025-07-16.md"
-    },
-    {
-      "basename": "本机配置环境",
-      "path": "06-Cards/本机配置环境.md"
-    },
-    {
-      "basename": "数据预处理：torchvision, torchaudio,torchtext",
-      "path": "06-Cards/数据预处理：torchvision, torchaudio,torchtext.md"
     },
     {
       "basename": "2025-07-14",
@@ -73,10 +105,6 @@
       "path": "06-Cards/PFL.md"
     },
     {
-      "basename": "机器学习与深度学习中的数学知识点汇总",
-      "path": "06-Cards/机器学习与深度学习中的数学知识点汇总.md"
-    },
-    {
       "basename": "2025-07-10",
       "path": "01-Diary/日志存档/2025-07-10.md"
     },
@@ -93,10 +121,6 @@
       "path": "06-Cards/常见深度学习术语解析笔记.md"
     },
     {
-      "basename": "Featurize复现CreamFL",
-      "path": "06-Cards/Featurize复现CreamFL.md"
-    },
-    {
       "basename": "实验日志",
       "path": "06-Cards/实验日志.md"
     },
@@ -109,18 +133,6 @@
       "path": "06-Cards/模型漂移model drift.md"
     },
     {
-      "basename": "机器学习基本概念",
-      "path": "06-Cards/机器学习基本概念.md"
-    },
-    {
-      "basename": "神经网络",
-      "path": "06-Cards/神经网络.md"
-    },
-    {
-      "basename": "多模态数据预处理",
-      "path": "06-Cards/多模态数据预处理.md"
-    },
-    {
       "basename": "各种模型",
       "path": "06-Cards/各种模型.md"
     },
@@ -131,10 +143,6 @@
     {
       "basename": "2025-06-23",
       "path": "01-Diary/日志存档/2025-06-23.md"
-    },
-    {
-      "basename": "显卡",
-      "path": "06-Cards/显卡.md"
     },
     {
       "basename": "image-25",
@@ -157,16 +165,8 @@
       "path": "01-Diary/日志存档/2025-06-05.md"
     },
     {
-      "basename": "python基本语法",
-      "path": "06-Cards/python基本语法.md"
-    },
-    {
       "basename": "生成数据集",
       "path": "06-Cards/生成数据集.md"
-    },
-    {
-      "basename": "Dirichlet分布",
-      "path": "06-Cards/Dirichlet分布.md"
     },
     {
       "basename": "2025-05-14",
