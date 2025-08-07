@@ -171,3 +171,6 @@ for batch_idx, (images, labels) in enumerate(trainloader):
 | ---------------- | ------------------------ | ---------------------------------------- | --------------------- | -------- | ----------------------------- |
 | `tensor.numpy()` | PyTorch (`torch.Tensor`) | 只能用于 **PyTorch Tensor**                  | 把 tensor 转换为 numpy 数组 | ✅ 会共享内存  | `torch.tensor([1,2]).numpy()` |
 | `np.array(...)`  | NumPy                    | 可以是 `list`, `tuple`, `ndarray`, `Tensor` | 构造新的 numpy 数组         | ❌ 通常复制数据 | `np.array([1, 2, 3])`         |
+# 使用GPU训练
+只要把以下三个东西调用cuda，或者是to device. 放到GPU上即可。
+![[image-49.png|282x206]]

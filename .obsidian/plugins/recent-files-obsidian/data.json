@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-08-07",
+      "path": "01-Diary/日志存档/2025-08-07.md"
+    },
+    {
+      "basename": "pytorch基本知识",
+      "path": "06-Cards/环境， pytorch基础语法等/pytorch基本知识.md"
+    },
+    {
       "basename": "2025-08-06",
       "path": "01-Diary/日志存档/2025-08-06.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "多模态数据预处理",
       "path": "06-Cards/多模态数据预处理.md"
-    },
-    {
-      "basename": "pytorch基本知识",
-      "path": "06-Cards/环境， pytorch基础语法等/pytorch基本知识.md"
     },
     {
       "basename": "Featurize复现CreamFL",
