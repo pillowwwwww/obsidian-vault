@@ -1,20 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-08-10",
-      "path": "01-Diary/日志存档/2025-08-10.md"
+      "basename": "Featurize复现CreamFL",
+      "path": "06-Cards/环境， pytorch基础语法等/Featurize复现CreamFL.md"
+    },
+    {
+      "basename": "环境配置",
+      "path": "01-Diary/本周事务/环境配置.md"
+    },
+    {
+      "basename": "2025-06-21",
+      "path": "01-Diary/日志存档/2025-06-21.md"
+    },
+    {
+      "basename": "2025-05-12",
+      "path": "01-Diary/日志存档/2025-05-12.md"
+    },
+    {
+      "basename": "2025-05-14",
+      "path": "01-Diary/日志存档/2025-05-14.md"
+    },
+    {
+      "basename": "2025-05-16",
+      "path": "01-Diary/日志存档/2025-05-16.md"
+    },
+    {
+      "basename": "2025-05-19",
+      "path": "01-Diary/日志存档/2025-05-19.md"
+    },
+    {
+      "basename": "2025-06-05",
+      "path": "01-Diary/日志存档/2025-06-05.md"
+    },
+    {
+      "basename": "2025-06-06",
+      "path": "01-Diary/日志存档/2025-06-06.md"
+    },
+    {
+      "basename": "FedAvg复现",
+      "path": "01-Diary/本周事务/FedAvg复现.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "01-Diary/本周事务/未命名.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "01-Diary/本周事务/未命名 1.md"
+    },
+    {
+      "basename": "本机配置环境",
+      "path": "06-Cards/环境， pytorch基础语法等/本机配置环境.md"
+    },
+    {
+      "basename": "2025-08-06",
+      "path": "01-Diary/日志存档/2025-08-06.md"
     },
     {
       "basename": "2025-08-07",
       "path": "01-Diary/日志存档/2025-08-07.md"
     },
     {
-      "basename": "pytorch基本知识",
-      "path": "06-Cards/环境， pytorch基础语法等/pytorch基本知识.md"
+      "basename": "2025-08-10",
+      "path": "01-Diary/日志存档/2025-08-10.md"
     },
     {
-      "basename": "2025-08-06",
-      "path": "01-Diary/日志存档/2025-08-06.md"
+      "basename": "2025-07-16",
+      "path": "01-Diary/日志存档/2025-07-16.md"
+    },
+    {
+      "basename": "2025-07-15",
+      "path": "01-Diary/日志存档/2025-07-15.md"
+    },
+    {
+      "basename": "pytorch基本知识",
+      "path": "06-Cards/环境， pytorch基础语法等/pytorch基本知识.md"
     },
     {
       "basename": "损失函数（Loss Function）",
@@ -49,10 +109,6 @@
       "path": "06-Cards/多模态数据预处理.md"
     },
     {
-      "basename": "Featurize复现CreamFL",
-      "path": "06-Cards/环境， pytorch基础语法等/Featurize复现CreamFL.md"
-    },
-    {
       "basename": "pytorch一些容易错的地方",
       "path": "06-Cards/环境， pytorch基础语法等/pytorch一些容易错的地方.md"
     },
@@ -65,20 +121,12 @@
       "path": "06-Cards/环境， pytorch基础语法等/显卡.md"
     },
     {
-      "basename": "本机配置环境",
-      "path": "06-Cards/环境， pytorch基础语法等/本机配置环境.md"
-    },
-    {
       "basename": "Energy-Based Models 能量模型",
       "path": "06-Cards/Energy-Based Models 能量模型.md"
     },
     {
       "basename": "2025-07-25",
       "path": "01-Diary/日志存档/2025-07-25.md"
-    },
-    {
-      "basename": "2025-07-15",
-      "path": "01-Diary/日志存档/2025-07-15.md"
     },
     {
       "basename": "Lin2020 FedDF 集成蒸馏",
@@ -89,24 +137,12 @@
       "path": "02-Reading/mdnotes/Huang Pami 综述2024.md"
     },
     {
-      "basename": "2025-07-16",
-      "path": "01-Diary/日志存档/2025-07-16.md"
-    },
-    {
       "basename": "2025-07-14",
       "path": "01-Diary/日志存档/2025-07-14.md"
     },
     {
       "basename": "2023ICLR CreamFL",
       "path": "02-Reading/mdnotes/2023ICLR CreamFL.md"
-    },
-    {
-      "basename": "2025-05-12",
-      "path": "01-Diary/日志存档/2025-05-12.md"
-    },
-    {
-      "basename": "2025-06-06",
-      "path": "01-Diary/日志存档/2025-06-06.md"
     },
     {
       "basename": "PFL",
@@ -163,38 +199,6 @@
     {
       "basename": "Li2018 FedProx",
       "path": "02-Reading/mdnotes/Li2018 FedProx.md"
-    },
-    {
-      "basename": "McMahan2016",
-      "path": "02-Reading/mdnotes/McMahan2016.md"
-    },
-    {
-      "basename": "2025-06-05",
-      "path": "01-Diary/日志存档/2025-06-05.md"
-    },
-    {
-      "basename": "生成数据集",
-      "path": "06-Cards/生成数据集.md"
-    },
-    {
-      "basename": "2025-05-14",
-      "path": "01-Diary/日志存档/2025-05-14.md"
-    },
-    {
-      "basename": "2023 IEEECVF Conference on Computer Vision and Pattern Recognition (CVPR)2023-Rethinking federated learning with domain shi-1",
-      "path": "08-Assets/pdfs/2023-Rethinking federated learning with domain shift/2023 IEEECVF Conference on Computer Vision and Pattern Recognition (CVPR)2023-Rethinking federated learning with domain shi-1.pdf"
-    },
-    {
-      "basename": "🥑来兴庆的第一周！",
-      "path": "01-Diary/周小结/🥑来兴庆的第一周！.md"
-    },
-    {
-      "basename": "creamfl复现记录",
-      "path": "03-Projects/CreamFL/creamfl复现记录.md"
-    },
-    {
-      "basename": "source-notes",
-      "path": "09-Templates/source-notes.md"
     }
   ],
   "omittedPaths": [],
