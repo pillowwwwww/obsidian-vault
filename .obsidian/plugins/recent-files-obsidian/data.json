@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "```",
+      "path": "01-Diary/日志存档/```.md"
+    },
+    {
       "basename": "环境配置",
       "path": "01-Diary/本周事务/环境配置.md"
     },
     {
       "basename": "本机配置环境",
       "path": "06-Cards/环境， pytorch基础语法等/本机配置环境.md"
-    },
-    {
-      "basename": "2025-08-14",
-      "path": "01-Diary/日志存档/2025-08-14.md"
     },
     {
       "basename": "Featurize复现CreamFL",
