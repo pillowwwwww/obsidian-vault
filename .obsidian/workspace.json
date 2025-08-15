@@ -205,7 +205,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -228,9 +229,10 @@
   },
   "active": "f3e5479a8c531f27",
   "lastOpenFiles": [
+    "01-Diary/日志存档/2025-08-15.md",
+    "01-Diary/日志存档/```.md",
     "01-Diary/本周事务/环境配置.md",
     "06-Cards/环境， pytorch基础语法等/本机配置环境.md",
-    "01-Diary/日志存档/```.md",
     "06-Cards/环境， pytorch基础语法等/Featurize复现CreamFL.md",
     "01-Diary/日志存档/2025-06-21.md",
     "01-Diary/日志存档/2025-05-12.md",
@@ -254,7 +256,6 @@
     "06-Cards/通用知识/机器学习与深度学习中的数学知识点汇总.md",
     "06-Cards/通用知识/机器学习基本概念.md",
     "06-Cards/通用知识/神经网络.md",
-    "06-Cards/通用知识/弄懂CNN、RNN、GAN、Transformer等架构.md",
     "06-Cards/通用知识",
     "06-Cards/环境， pytorch基础语法等",
     "08-Assets/image-48.png",
