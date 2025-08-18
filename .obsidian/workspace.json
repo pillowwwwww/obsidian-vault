@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -241,11 +241,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "379da0644637837f",
+  "active": "f3e5479a8c531f27",
   "lastOpenFiles": [
+    "01-Diary/日志存档/```.md",
     "01-Diary/日志存档/2025-08-15.md",
     "01-Diary/日志存档/2025-08-18.md",
-    "01-Diary/日志存档/```.md",
     "08-Assets/pdfs/2024-Decoupling parameter variation from noise/2024 IEEE 63rd Conference on Decision and Control (CDC)2024-Decoupling parameter variation from noise Biquadratic lyapunov forms .pdf",
     "08-Assets/pdfs/2024-Decoupling parameter variation from noise",
     "08-Assets/pdfs/2024-Relative-error monotonicity testing/2024-Relative-error monotonicity testing.pdf",
