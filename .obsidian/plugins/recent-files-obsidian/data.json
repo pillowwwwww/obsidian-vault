@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "```",
-      "path": "01-Diary/日志存档/```.md"
-    },
-    {
       "basename": "2025-08-20",
       "path": "01-Diary/日志存档/2025-08-20.md"
+    },
+    {
+      "basename": "2025-08-21",
+      "path": "01-Diary/日志存档/2025-08-21.md"
+    },
+    {
+      "basename": "```",
+      "path": "01-Diary/日志存档/```.md"
     },
     {
       "basename": "环境配置",
@@ -195,10 +199,6 @@
     {
       "basename": "各种模型",
       "path": "06-Cards/各种模型.md"
-    },
-    {
-      "basename": "2025-06-26",
-      "path": "01-Diary/日志存档/2025-06-26.md"
     }
   ],
   "omittedPaths": [],
