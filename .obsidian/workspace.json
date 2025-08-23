@@ -127,7 +127,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -229,8 +230,9 @@
   },
   "active": "9275d8389cc2ac7e",
   "lastOpenFiles": [
-    "01-Diary/日志存档/```.md",
+    "01-Diary/日志存档/2025-08-23.md",
     "01-Diary/日志存档/2025-08-21.md",
+    "01-Diary/日志存档/```.md",
     "01-Diary/日志存档/2025-08-18.md",
     "01-Diary/本周事务/环境配置.md",
     "01-Diary/日志存档/2025-08-20.md",
@@ -260,7 +262,6 @@
     "06-Cards/环境， pytorch基础语法等/pytorch基本知识.md",
     "08-Assets/image-49.png",
     "01-Diary/日志存档/2025-08-05.md",
-    "06-Cards/通用知识/损失函数（Loss Function）.md",
     "06-Cards/通用知识",
     "06-Cards/环境， pytorch基础语法等",
     "08-Assets/image-48.png",
