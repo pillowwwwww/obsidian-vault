@@ -10,138 +10,34 @@ excerpt:
 
 任务描述：  
 我将提供一个Instruction（前沿问题）、若干个解决Instruction需要用到的Concept/Theorem（概念、定理），请不要使用联网搜索功能。请回答Instruction。
-Concept/Theorem:
-"""
-concept1) QSMP message template and accounting
 
-Each party can locally prepare a code-space phase state or a zero-set superposition over $\Sigma^n\simeq(\mathbb F_q)^N$:
+# Instruction
 
-$$
-\lvert \psi_u\rangle=\frac{1}{\sqrt{|C_n|}}\sum_{c\in C_n}\omega^{\langle c,u\rangle}\lvert c\rangle,\quad
-\lvert \phi_S\rangle=\frac{1}{\sqrt{|S|}}\sum_{e\in S}\lvert e\rangle.
-$$
+设整数 m≥1m\ge1。对每个 i∈[m]i\in[m]，令 Ai∈{0,1}m×rA_i\in\{0,1\}^{m\times r} 且  
+r=⌈2 mln⁡2⌉r=\lceil 2^{\,m}\ln 2\rceil。定义 **Tribes**：
 
-Encoding a register over $(\mathbb F_q)^N$ costs $Q=N\log_2 q$ qubits per message; with folded-RS parameters $N,\log q=\mathrm{poly}(n)$, the total QSMP cost (Alice + Bob, one shot each) is $\mathrm{poly}(n)$.
+Tribes(Ai)=⋁j∈[r]⋀k∈[m](Ai)k,j.\mathrm{Tribes}(A_i)=\bigvee_{j\in[r]}\bigwedge_{k\in[m]} (A_i)_{k,j}.
 
-concept2) Deterministic list decoding for GRS (Guruswami–Sudan)
+再定义布尔函数
 
-There is a polynomial-time procedure $\textsf{ListDecode}(z)$ that outputs
+H(A1,…,Am)=1 ⁣[ ∑i=1mTribes(Ai) ≥m2+1 ].H(A_1,\ldots,A_m)=\mathbf 1\!\left[\ \sum_{i=1}^{m}\mathrm{Tribes}(A_i)\ \ge \frac m2+1\ \right].
 
-$$
-\{x\in \mathrm{GRS}_{q,\gamma,k,\mathbf v}:\ \mathrm{hw}(x-z)\le N-\sqrt{kN}\},
-$$
+令输入总长度 n:=m2rn:=m^2r（因为共有 mm 个矩阵、每个尺寸 m×rm\times r）。问：**给出一个能计算 HH 的 DNF 的宽度，用 nn 表示其数量级**。
 
-with $N=q-1$ and $d=N-k+1$.
 
-concept3) List-recoverability of folded RS
-
-For $C=\mathrm{RS}^{(m)}_{\mathbb F_q,\gamma,k}\subseteq\Sigma^n$ (with $\Sigma=\mathbb F_q^m,\ n=N/m$): if integers $r,s\ge1$ satisfy
-
-$$
-\frac{\zeta N}{m}\ \ge\ \Bigl(1+\frac{s}{r}\Bigr)(N\ell k^{s})^{\tfrac{1}{s+1}}\frac{1}{m-s+1},\quad
-(r+s)\Bigl(\frac{N\ell}{k}\Bigr)^{\tfrac{1}{s+1}}<q,
-$$
-
-then $C$ is $(\zeta,\ell,L)$-list-recoverable with $L\le q^{s}$.
-(Interface: given $(N,q,m,k,\zeta,\ell)$, choose $(r,s)$ to read off $L$.)
-
-concept4) High-probability unique decodability of the dual under biased noise
-
-Let $e\in(\mathbb F_q)^N$ have i.i.d. coordinates with $\Pr[e_j=0]=1-p$, $\Pr[e_j=a\neq0]=\tfrac{p}{q-1}$. For $z=x+e$ with unknown $x\in C_n^\perp$, define $\textsf{Decode}(z)$: unfold, run $\textsf{ListDecode}$, and return the unique $x$ if $\mathrm{hw}(z-x)\le(p+\varepsilon)N$. Whenever
-
-$$
-N-\sqrt{kN}\ \ge\ (p+\varepsilon)N,
-$$
-
-we have $\Pr[\textsf{Decode}(z)=x]\ge 1-2^{-\Omega(N)}$.
-
-concept5) Quantitative subcube normalization (communication ⇒ fixed coordinates + min-entropy)
-
-Let $B:=2^{\,n^{\delta^*}}$. Any public-coin two-way protocol with total communication $T$ can be normalized so that each accepting rectangle fixes at most
-
-$$
-s \le \frac{cT}{\max\{B,\ \log_2|\Sigma|\}},
-$$
-
-and every unfixed coordinate has per-coordinate min-entropy at least
-
-$$
-\alpha\cdot \max\{B,\ \log_2|\Sigma|\},
-$$
-
-for absolute constants $c,\alpha>0$.
-
-concept6) Entropy–list tradeoff: hitting bound for dangerous patterns
-
-Suppose on an accepting rectangle the dangerous-candidate set has size $\le L$, and the remaining $t'=n-s$ unfixed coordinates each have min-entropy $\ge \alpha\cdot \max\{B,\ \log_2|\Sigma|\}$. Then for any fixed dangerous pattern,
-
-$$
-\Pr[\text{hit that pattern}] \le 2^{-\alpha\cdot \max\{B,\ \log_2|\Sigma|\}\cdot t'}.
-$$
-
-By a union bound over all dangerous candidates,
-
-$$
-\Pr[\text{hit some dangerous pattern}] \le L\cdot 2^{-\alpha\cdot \max\{B,\ \log_2|\Sigma|\}\cdot t'}.
-$$
-
-(Interface: compare $\log_2 L$ against $\alpha\cdot \max\{B,\ \log_2|\Sigma|\}\cdot t'$.)
-
-concept7) k-wise independent hash families and union bound
-
-Over $\mathbb F_r$, the degree-$(k-1)$ polynomial family $h(i)=P(i)$ is $k$-wise independent, with seed length $\Theta(k\log r)$ and family size $|\mathcal H|=r^{k}$. If the protocol must succeed simultaneously for every $h\in\mathcal H$, require
-
-$$
-\alpha\cdot \max\{B,\ \log_2|\Sigma|\}\cdot (n-s)\ \gg\ \log_2|\mathcal H|
-$$
-
-so that the union bound across the family remains negligible.
-"""
-
-Instruction:
-"""
-Do not browse the web. Output only the ordered pair
-
-(
- QSMP communication
-,
- classical two-way lower bound 
-).
-( QSMP communication, classical two-way lower bound ).
-
-Models.
-
-QSMP: Alice and Bob each send one quantum state to a referee; no interaction; no shared randomness or entanglement. Cost = total qubits.
-
-Classical public-coin two-way: interactive; cost = total bits.
-
-Problem ingredients.
-
-Folded RS code $C_n\subseteq \Sigma^n$ over $\Sigma=\mathbb F_q^m$; dual $C_n^\perp$.
 ---
-Instances: $t=\mathrm{poly}(n)$ maps $H^{(i)}:\Sigma^n\to\{0,1\}^n$ solved in parallel.
 
-Same hash across all copies: choose one $k$-wise independent $h$ and reuse it for all $t$ copies; require
+## Concepts（给模型时再发；每条只含一个概念/定理，且在论文中出现并带他引）
 
-$$
-H^{(i)}(x^{(i)})\oplus h(x^{(i)})=0^n,\quad x^{(i)}\in C_n.
-$$
-
-Index gadget: each coordinate $j$ carries a label $g_j\in\{0,1\}^{B}$ with
-
-$$
-B=2^{\,n^{\delta^*}},\qquad \delta^*\in(0,1].
-$$
-
-Do not assume which of $B$ or $\log_2|\Sigma|$ dominates; use the Concepts if needed.
-
-Family size: the protocol must succeed simultaneously for every $h\in\mathcal H$, where
-
-$$
-\log_2|\mathcal H|=n^{0.34}.
-$$
-
-Success criterion: worst-case error $\le 1/3$.
+1. **Tribes 的平衡参数与 1-证书（all-1 列）**  
+    当 r=⌈2 mln⁡2⌉r=\lceil 2^{\,m}\ln 2\rceil 时，Pr⁡[Tribes(A)=1]=12+o(1)\Pr[\mathrm{Tribes}(A)=1]=\tfrac12+o(1)；且 Tribes(A)=1\mathrm{Tribes}(A)=1 的一个 1-证书就是“任选一列全为 1”。论文将这一事实作为常识并引自 O’Donnell 的专著 [O’D14, §4.2]（论文处见 “It is well-known [O’D14, §4.2] … balanced” 语句）。
+    
+2. **DNF 与 1-证书的等价刻画**  
+    “一个函数可由宽度为 kk 的 DNF 计算，当且仅当其每个取 1 的输入都存在大小 ≤kk 的 1-证书”。该刻画在论文的 Claim 4 证明里直接作为标准事实使用（“A DNF is commonly viewed as a collection of 1-certificates …”）。可配套参考 [O’D14] 对证书复杂度的讲解。
+    
+3. **合取下证书宽度可加**  
+    若要证明“至少 m/2+1m/2+1 个谓词为真”，只需为任取的 m/2+1m/2+1 个子谓词各给出其 1-证书；整体 1-证书的大小为这些证书大小之和（用于把多数阈值化为若干合取证书）。论文在 Claim 4 的构造中按此思路给出了宽度界（为每个被选矩阵给出“一列全 1”的证书）。
+    
 
 """
 
