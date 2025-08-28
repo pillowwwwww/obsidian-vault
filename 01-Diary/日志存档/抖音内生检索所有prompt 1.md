@@ -13,198 +13,83 @@ excerpt:
 
 # Instruction
 请不要使用联网搜索，回答以下问题：
-设整数 m≥1m\ge1。对每个 i∈[m]i\in[m] 给定 Ai∈{0,1}m×rA_i\in\{0,1\}^{m\times r}，其中 r=⌈2 mln⁡2⌉r=\lceil 2^{\,m}\ln 2\rceil。定义
 
-Tribes(Ai)=⋁j∈[r]⋀k∈[m](Ai)k,j,H(A1,…,Am)=1 ⁣[ ∑i=1mTribes(Ai) ≥m2+1 ].\mathrm{Tribes}(A_i)=\bigvee_{j\in[r]}\bigwedge_{k\in[m]}(A_i)_{k,j},\qquad H(A_1,\ldots,A_m)=\mathbf 1\!\Big[\ \sum_{i=1}^{m}\mathrm{Tribes}(A_i)\ \ge \tfrac m2+1\ \Big].
+设整数 m≥1m\ge1、r∈Nr\in\mathbb N。对每个 i∈[m]i\in[m]，令 Ai∈{0,1}m×rA_i\in\{0,1\}^{m\times r}，并定义
 
-令“一个块”的输入长度 s:=m2rs:=m^2r。取 tt 个独立块 x(1),…,x(t)x^{(1)},\ldots,x^{(t)}，并定义外层阈值函数
+Tribes(Ai)=⋁j∈[r]⋀k∈[m](Ai)k,j,H(A1,…,Am)=1 ⁣[∑i=1mTribes(Ai) ≥m2+1].\mathrm{Tribes}(A_i)=\bigvee_{j\in[r]}\bigwedge_{k\in[m]}(A_i)_{k,j},\qquad H(A_1,\ldots,A_m)=\mathbf 1\!\Big[\sum_{i=1}^{m}\mathrm{Tribes}(A_i)\ \ge \tfrac m2+1\Big].
 
-Ft(x(1),…,x(t)) := 1 ⁣[ ∑j=1tH(x(j)) ≥αt ],F_t(x^{(1)},\ldots,x^{(t)})\ :=\ \mathbf 1\!\Big[\ \sum_{j=1}^t H(x^{(j)})\ \ge \alpha t\ \Big],
+给定 tt 个独立“块” x(1),…,x(t)x^{(1)},\ldots,x^{(t)}，定义
 
-其中 α∈(0,1)\alpha\in(0,1) 是常数。设总输入长度 n:=t⋅sn:=t\cdot s。
+Ft(x(1),…,x(t))=1 ⁣[∑j=1tH(x(j)) ≥αt],α∈(0,1) 为常数.F_t(x^{(1)},\ldots,x^{(t)})=\mathbf 1\!\Big[\sum_{j=1}^{t} H(x^{(j)})\ \ge \alpha t\Big],\quad \alpha\in(0,1)\ \text{为常数}.
 
-**比较的两种分布（论文特有设定）**：令
+我们考虑 **两种输入来源**：
 
-x=(A1,…,Am,p) 按 Definition 5 的方式采样（当 ∣a∣=m/2 时强制 pa=1),x=(A_1,\ldots,A_m,p)\ \text{按 Definition 5 的方式采样（当 }|a|=m/2 \text{ 时强制 }p_a=1),
+- UU：{0,1}n\{0,1\}^n 的均匀分布；
+    
+- DD：按论文 **Definition 5** 采样的产品分布（当地址 a=(Tribes(A1),…,Tribes(Am))a=(\mathrm{Tribes}(A_1),\ldots,\mathrm{Tribes}(A_m)) 满足 ∣a∣=m/2|a|=m/2 时，将对应的 pap_a 置为 1，其余同均匀采样）。
+    
 
-并令 u∼{0,1}nu\sim\{0,1\}^n 为均匀分布（见文中 Definition 5 及其后续论证）。  
-我们考虑区分 xx 与 uu 的任务：选取**能把区分优势放大到 Ω(1)\Omega(1)** 的最小 tt 的量级，并给出计算 FtF_t 的 DNF **宽度上界**，用 nn 表达其数量级。
+设单块长度 s:=m2rs:=m^2 r，总输入长度 n:=t⋅sn:=t\cdot s。
 
+**问题：** 选择能使
+
+∣Pr⁡x∼D[Ft(x)=1]−Pr⁡u∼U[Ft(u)=1]∣ ≥ Ω(1)\Big|\Pr_{x\sim D}[F_t(x)=1]-\Pr_{u\sim U}[F_t(u)=1]\Big|\ \ge\ \Omega(1)
+
+的**最小** tt 的量级，并给出一个可计算 FtF_t 的 DNF **宽度上界**，用 nn 表达其数量级。
+
+> 说明：这里 **没有** 指定 rr 与 mm 的关系，也 **没有** 给出单块偏差规模 δ(m)\delta(m) 或“组合后宽度如何传递”的规则。这些都不在题面中；只有拿到 concepts 才能闭环。只给 instruction 时，模型无法把 mm 换成 log⁡n\log n，也无法选出最小 tt。
 
 ---
 
-# Concepts（优先取自题源论文参考文献；每条只含一个工具）
+# Concepts（优先出自论文参考文献；每条仅一个工具）
 
-**C1｜Tribes 的平衡性（来自 O’D14，被论文正文引用）**  
-当 r=⌈2 mln⁡2⌉r=\lceil 2^{\,m}\ln 2\rceil 时，Pr⁡[Tribes(A)=1]=12+o(1)\Pr[\mathrm{Tribes}(A)=1]=\tfrac12+o(1)。论文正文用 “It is well-known [O’D14, §4.2] … balanced” 指出这一事实。
+**C1｜Tribes 的“平衡参数”选取**  
+取 r=⌈2mln⁡2⌉r=\lceil 2^{m}\ln 2\rceil 时，Pr⁡[Tribes(A)=1]=12+o(1)\Pr[\mathrm{Tribes}(A)=1]=\tfrac12+o(1)。  
+**来源（论文参考文献）**：O’Donnell, _Analysis of Boolean Functions_, §4.2（论文正文以 “[O’D14, §4.2]” 明确引用）。
 
-**C2｜中间层概率尺度（局部中心极限定理 / Stirling 近似，O’D14 教材）**  
-对独立 {0,1}\{0,1\} 变量的和，**恰在中点层**（如 ∣a∣=m/2|a|=m/2）的质量
+**C2｜中点层质量（局部中心极限定理 / 二项中间层估计）**  
+对独立 {0,1}\{0,1\} 变量和 SmS_m，在阈值 m/2+Θ(1)m/2+\Theta(1) 的邻域，
 
-Pr⁡[∣a∣=m/2] = Θ(1/m).\Pr[|a|=m/2]\ =\ \Theta(1/\sqrt m).
+Pr⁡[ Sm≥m/2+1 ]−12 = Θ ⁣(1/m).\Pr[\,S_m\ge m/2+1\,]-\tfrac12\ =\ \Theta\!\big(1/\sqrt m\big).
 
-（这给出区分优势的“底噪级别”。教材型来源可用 O’Donnell《Analysis of Boolean Functions》中关于二项分布中间层的标准估计；论文正文亦在推导中得到 Pr⁡[E]=Ω(1/m)\Pr[E]=\Omega(1/\sqrt m)。）
+（这给出 δ(m)=Θ(1/m)\delta(m)=\Theta(1/\sqrt m) 的量级。）  
+**来源（论文参考文献优先）**：O’Donnell, _Analysis of Boolean Functions_（二项分布中间层/CLT 处；论文正文推导也得到 Ω(1/m)\Omega(1/\sqrt m) 的差距量级）。
 
-**C3｜Chernoff/Hoeffding 放大量化（教材级；论文正文点名使用 Hoeffding）**  
-将单次优势 δ>0\delta>0 的判别独立重复 tt 次并取阈值 α\alpha 的多数投票，达到 Ω(1)\Omega(1) 的区分优势需要
+**C3｜优势放大量化（Hoeffding/Chernoff）**  
+独立重复 tt 次并作多数阈值，区分优势达 Ω(1)\Omega(1) 需要 t=Θ(1/δ2)t=\Theta(1/\delta^2)。  
+**来源（论文正文点名使用；亦为标准外部文献）**：Hoeffding, _JASA_ (1963)；论文在放大步骤中“by Hoeffding inequality”给出精确量化。
 
-t=Θ(1/δ2).t=\Theta(1/\delta^2).
+**C4｜DNF 宽度 = 最大 1-证书大小**  
+最小 DNF 宽度等于最大 1-证书复杂度 C1(⋅)C_1(\cdot)。  
+**来源（论文参考文献）**：O’Donnell, _Analysis of Boolean Functions_；论文在 Claim 4 开头以“DNF 视作 1-证书族”使用该等价。
 
-论文在 Lemma 11 证明中明确“by Hoeffding inequality”给出该量化。
+**C5｜分块合成的证书乘法上界**  
+分块合成 F=g∘(f,…,f)F=g\circ(f,\ldots,f)（各块变量不相交）满足
 
-**C4｜DNF 宽度 = 最大 1-证书大小（教材级：O’D14）**  
-最小 DNF 宽度等于最大 1-证书复杂度 C1(⋅)C_1(\cdot)。论文正文把 DNF 视作“1-证书族”来使用这一视角（Claim 4 开头）。
+C1(F) ≤ C1(g)⋅C1(f),C_1(F)\ \le\ C_1(g)\cdot C_1(f),
 
-**C5｜分块合成的证书乘法上界（教材级：O’D14）**  
-分块合成 F=g∘(f,…,f)F=g\circ(f,\ldots,f) 且各块变量不相交时，有
+其中阈值函数 g(z)=1[∑zi≥αt]g(z)=\mathbf 1[\sum z_i\ge \alpha t] 有 C1(g)=⌈αt⌉C_1(g)=\lceil\alpha t\rceil。  
+**来源（论文参考文献优先）**：O’Donnell, _Analysis of Boolean Functions_（certificate complexity 的 composition 命题/练习归纳）；或 Buhrman–de Wolf, _SIAM J. Comput._, 2002（综述中对证书复杂度与合成的不等式）。
 
-C1(F) ≤ C1(g)⋅C1(f).C_1(F)\ \le\ C_1(g)\cdot C_1(f).
-
-当 g(z)=1[∑zi≥αt]g(z)=\mathbf 1[\sum z_i\ge \alpha t] 为单调阈值函数时，C1(g)=⌈αt⌉C_1(g)=\lceil\alpha t\rceil（只需固定 ⌈αt⌉\lceil\alpha t\rceil 个输入为 1）。
-
-> 注：上面 C1–C5 均来自题源论文的**外部来源**（O’D14 教材 + 经典不等式），其中 C3 在正文处被点名使用；C2 的数值尺度教材中有直接论述，且论文正文也得到相同量级（见引文）。
-
----
-
-# Answer（结构简单的数值结论）
-
- 可计算 Ft 的 DNF 宽度上界 = O((log⁡n)3) .\boxed{\ \text{可计算 }F_t\text{ 的 DNF 宽度上界 }=\ O\big((\log n)^3\big)\ }.
-
-**为何“只给 instruction”时不可解？**
-
-- 题面**未给出** δ\delta 的规模与“怎么放大到 Ω(1)\Omega(1)”的量化，也**未给** DNF 在分块多数组合下的宽度传递规则；没有 C2（中间层 Θ(1/m)\Theta(1/\sqrt m)）与 C3（t=Θ(1/δ2)t=\Theta(1/\delta^2)），模型无法选出最小 tt；没有 C5（证书乘法），即便知道单块 ℓ=O(m2)\ell=O(m^2) 也很难正确得到总体 tℓt\ell。
-    
-- 给足 C1–C5 后：由 C2 得 δ=Θ(1/m)\delta=\Theta(1/\sqrt m)，C3 推出最小 t=Θ(m)t=\Theta(m)；单块 HH 的证书大小 ℓ=O(m2)\ell=O(m^2)（由 C4 + “单列全 1”证书构造），再用 C5 得 C1(Ft)≤⌈αt⌉⋅ℓ=Θ(m)⋅O(m2)=O(m3)C_1(F_t)\le \lceil\alpha t\rceil\cdot \ell = \Theta(m)\cdot O(m^2)=O(m^3)；由 n=t⋅s=Θ(m)⋅Θ(m2⋅2m)n=t\cdot s=\Theta(m)\cdot\Theta(m^2\cdot2^m) 得 m=Θ(log⁡n)m=\Theta(\log n)，故宽度 =O((log⁡n)3)=O((\log n)^3)。
-    
+> 这 5 条里，**C1/C2/C4** 直接来自论文引用的 O’Donnell；**C3** 在论文正文中被点名使用（也有外部原始文献）；**C5** 为教材/综述命题（多数版面在 O’Donnell 里可直接找到）。如需，我能标注 O’D14 的具体章节/命题号。
 
 ---
 
-## 你关心的两点我已对齐
+# Answer（结构简单的基础数值）
 
-1. **只给 instruction**：刻意不含 δ 的规模与组合传递法则 → **一般模型无法闭环**。
-    
-2. **concepts 来源**：优先使用题源论文参考文献中的 O’Donnell 教材（C1、C2、C4、C5），以及论文正文点名使用的 Hoeffding（C3 的量化在正文 lemma 里直接出现）。如果你坚持所有概念都必须在“参考文献表”中出现，也可把 C3 改为“O’D14 中的 Chernoff 版本”来替代 Hoeffding 的表述。
+ DNF 宽度上界 =O((log⁡n)3) .\boxed{\,\text{DNF 宽度上界 }=O\big((\log n)^3\big)\,}.
 
-# Concepts（全部来自外部文献，可做 docset）
+**闭环要点（只解释给你看，不放入 concepts）**
 
-- **C1｜Tribes 平衡参数**：当 r=⌈2mln⁡2⌉r=\lceil 2^{m}\ln 2\rceil 时，Pr⁡[Tribes(A)=1]=12+o(1)\Pr[\mathrm{Tribes}(A)=1]=\tfrac12+o(1)。  
-    参考：O’Donnell, _Analysis of Boolean Functions_, §4.2.
+- 由 C2 得单块偏差 δ(m)=Θ(1/m)\delta(m)=\Theta(1/\sqrt m)，C3 推出最小 t=Θ(1/δ2)=Θ(m)t=\Theta(1/\delta^2)=\Theta(m)；
     
-- **C2｜DNF 宽度 = 最大 1-证书大小**（证书视角的标准等价）。  
-    参考：O’Donnell, _Analysis of Boolean Functions_（证书复杂度章节）。
+- 由 C4 与标准“单列 all-1”证书可得 HH 的 1-证书大小 ℓ=O(m2)\ell=O(m^2)；
     
-- **C3｜证书复杂度的分块合成上界**：对分块合成 F=g∘(f,…,f)F=g\circ(f,\ldots,f)，有  
-    C1(F) ≤ C1(g)⋅C1(f)\displaystyle C_1(F)\ \le\ C_1(g)\cdot C_1(f)。阈值函数 g(z)=1[∑zi≥k]g(z)=\mathbf 1[\sum z_i\ge k] 满足 C1(g)=kC_1(g)=k。  
-    参考：Buhrman & de Wolf, _SIAM J. Comput._, 2002（综述）；或 O’Donnell 教材中 composition 命题。
+- 由 C5：C1(Ft)≤C1(g)⋅C1(H)=Θ(t)⋅O(m2)=O(m3)C_1(F_t)\le C_1(g)\cdot C_1(H)=\Theta(t)\cdot O(m^2)=O(m^3)；
     
-- **C4｜放大量化（Hoeffding/Chernoff）**：若单次优势为 δ>0\delta>0，多数投票达到 Ω(1)\Omega(1) 需 t=Θ(1/δ2)t=\Theta(1/\delta^2)。  
-    参考：Hoeffding, _JASA_, 1963。（题源正文处亦“by Hoeffding inequality”。）
-    
-- **C5｜局部中心极限定理 / Berry–Esseen（阈值近邻偏差刻度）**：在阈值 m/2+Θ(1)m/2+\Theta(1) 邻域，  
-    Pr⁡[Sm≥m/2+1]−12=Θ(1/m)\Pr[S_m\ge m/2+1]-\tfrac12=\Theta(1/\sqrt m)。  
-    参考：Feller, _Probability Theory_, Vol. I；Berry (1941), Esseen (1942)。
+- 用 C1 把 rr 明确为 Θ(2m)\Theta(2^m)，故 n=t⋅s=Θ(m)⋅(m2⋅2m)⇒m=Θ(log⁡n)n=t\cdot s=\Theta(m)\cdot(m^2\cdot 2^m)\Rightarrow m=\Theta(\log n)，得宽度 O((log⁡n)3)O((\log n)^3)。
     
 
-# Answer（基础数值）
-
- DNF 宽度上界 =O((log⁡n)3) .\boxed{\ \text{DNF 宽度上界 }=O\big((\log n)^3\big)\ }.
-
-## 难度开关（保证“有时对、有时错”）
-
-- **开关A（最关键）**：是否附上 **C5**。
-    
-    - 给 C5：模型可推出 δ=Θ(1/m)⇒t=Θ(m)⇒\delta=\Theta(1/\sqrt m)\Rightarrow t=\Theta(m)\Rightarrow 宽度 =O(m3)=O((log⁡n)3)=O(m^3)=O((\log n)^3)。
-        
-    - 不给 C5：多数模型拿不到 δ\delta 量级，难以选出最小 tt，常答错/不完整。
-        
-- **开关B**：把 **C3** 只写“C1(F)≤C1(g)⋅C1(f)C_1(F)\le C_1(g)\cdot C_1(f)”而不点明“阈值 gg 的 C1(g)=kC_1(g)=k”——很多模型会漏乘或误用，从而失败。
-    
-- **开关C（轻改阈值）**：把内层阈值改成 m/2+⌈m⌉m/2+\lceil \sqrt m\rceil 或 m/2+cm/2+c（常数）。这会改变 δ\delta 的规模，使得是否给 C5 更关键，进一步拉大正确率差异。
-    
-
-如果你要，我也可以再给“阈值变体”的成套题面（同一 instruction 模板 + 两档 concept 配置），方便你直接做 A/B 测。
----
-
-# Concepts
-**concept1) Tribes 的平衡参数（题源论文已引用）**  
-当 r=⌈2mln⁡2⌉r=\lceil 2^{m}\ln 2\rceil 时，Pr⁡[Tribes(A)=1]=12+o(1)\Pr[\mathrm{Tribes}(A)=1]=\tfrac12+o(1)。  
-来源：R. O’Donnell, _Analysis of Boolean Functions_, §4.2（题源论文正文明确引用此处）。
-
-**concept2) DNF 宽度与 1-证书复杂度相等（外部教材）**  
-对任意布尔函数 ff，其最小 DNF 宽度等于最大的 1-证书大小 C1(f)C_1(f)。  
-来源：R. O’Donnell, _Analysis of Boolean Functions_, 证书复杂度与 DNF 的标准等价（教材结论）。
-
-**concept3) 证书复杂度的分块合成上界（外部综述/教材）**  
-对分块合成 F=g∘(f,…,f)F=g\circ (f,\ldots,f)（各块变量互不相交），有
-
-C1(F) ≤ C1(g)⋅C1(f).C_1(F)\ \le\ C_1(g)\cdot C_1(f).
-
-特别地，单调“阈值”函数 g(z)=1[∑zi≥k]g(z)=\mathbf 1[\sum z_i\ge k] 满足 C1(g)=kC_1(g)=k。  
-来源（任选其一，便于你入库）：
-
-- H. Buhrman, R. de Wolf, _Complexity Measures and Decision Tree Complexity_, **SIAM J. Comput. 2002**（关于证书复杂度、合成不等式的综述结论）；
-    
-- 或 O’Donnell 教材中关于证书复杂度与函数合成的命题（对应章节可检索“certificate complexity, composition/submultiplicativity”）。
-    
-
-**concept4) 放大量化（Hoeffding/Chernoff，不等式）**  
-独立重复 tt 次，若单次优势为 δ>0\delta>0，多数判决的区分优势达到 Ω(1)\Omega(1) 需要 t=Θ(1/δ2)t=\Theta(1/\delta^2)。  
-来源：W. Hoeffding, _JASA_, 1963（题源论文正文在相关引理证明中点名“by Hoeffding inequality”）。
-
-**concept5) 局部中心极限定理 / Berry–Esseen（确定 δ\delta 的尺度）**  
-对 Sm=∑i=1mXiS_m=\sum_{i=1}^m X_i（独立同分布 Xi∈{0,1}X_i\in\{0,1\}，p=12+o(1)p=\tfrac12+o(1)），在阈值 m/2+Θ(1)m/2+\Theta(1) 的邻域，
-
-Pr⁡[Sm≥m/2+1]−12 = Θ ⁣(1m).\Pr[S_m\ge m/2+1]-\tfrac12\ =\ \Theta\!\Big(\tfrac{1}{\sqrt m}\Big).
-
-即此时 δ=Θ(1/m)\delta=\Theta(1/\sqrt m)。  
-来源：W. Feller, _An Introduction to Probability Theory_, Vol. I（局部极限定理）；或 Berry (1941)/Esseen (1942)。
-
-> 说明：concept1 引自题源论文引用；concept2–5 为“题源以外”的权威来源，满足你“概念必须来自其他论文/教材”的要求（其中 concept4 在题源正文被点名使用，便于对齐）。
-
----
-
-# Answer（基础数值）
-
- DNF 宽度上界 =O((log⁡n)3) .\boxed{\ \text{DNF 宽度上界 }=O\big((\log n)^3\big)\ }.
-
-**推演提要（不计入 concepts，仅供你核对）：**
-
-- 由 concept5 得 δ=Θ(1/m)\delta=\Theta(1/\sqrt m)；由 concept4 得最小 t=Θ(1/δ2)=Θ(m)t=\Theta(1/\delta^2)=\Theta(m)。
-    
-- 由 (B2) 与阈值 (m/2+1)(m/2{+}1) 可构出 HH 的 1-证书大小 ℓ=Θ(m2)\ell=\Theta(m^2)。
-    
-- 由 concept3：C1(Ft)≤C1(g)⋅C1(H)=⌈αt⌉⋅ℓ=Θ(m)⋅Θ(m2)=Θ(m3)C_1(F_t)\le C_1(g)\cdot C_1(H)=\lceil\alpha t\rceil\cdot \ell=\Theta(m)\cdot \Theta(m^2)=\Theta(m^3)。
-    
-- 由 (B3) 和 r=⌈2mln⁡2⌉r=\lceil 2^{m}\ln 2\rceil 得 log⁡n=Θ(m)⇒m=Θ(log⁡n)\log n=\Theta(m)\Rightarrow m=\Theta(\log n)，从而 Θ(m3)=O((log⁡n)3)\Theta(m^3)=O((\log n)^3)。
-    
-
----
-
-## 难度控制（让模型“有时对、有时错”）
-
-- **开关 A（最关键）**：是否给 concept5（局部 CLT/Berry–Esseen）。
-    
-    - 给：多半能推出 δ=Θ(1/m)\delta=\Theta(1/\sqrt m) → 答对。
-        
-    - 不给：往往无法确定 δ\delta 量级 → 选不出最小 tt → 常答错。
-        
-- **开关 B**：把 concept3 只写成“C1(g∘ft)≤C1(g)⋅C1(f)C_1(g\circ f^t)\le C_1(g)\cdot C_1(f)”而**不点明**“阈值 gg 有 C1(g)=kC_1(g)=k”；不少模型会把 tt 漏乘或误用 max⁡{⋅}\max\{\cdot\}。
-    
-- **开关 C**：把 HH 的阈值改成 m/2+⌈m⌉m/2+\lceil \sqrt m\rceil 或 m/2+cm/2+c（常数）。这会改变 δ\delta 的幅度，对有无 concept5 的依赖更强，答案分化更明显。
-    
-
----
-
-### 合规性自检
-
-- **Instruction**：仅含标准定义与基础事实（B1–B3），不含题源论文的新技术或专有构造。
-    
-- **Concepts**：全部来自题源论文之外的来源（其中 concept1 也是题源“引用的外部知识”），满足你“概念不得来自题源正文新结果”的要求。
-    
-- **Answer**：为简洁的数量级结论。
-    
-
-如果你愿意，我还能再给一个**阈值变体版**（例如把外层 α\alpha 固定为 1/21/2，或把内层阈值改为 m/2+⌈m⌉m/2+\lceil\sqrt m\rceil），配同样风格的概念清单，用来在评测里混随机难度。
 
 ```
 
