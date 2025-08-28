@@ -9,7 +9,7 @@ excerpt:
 ```
 
 任务描述：  
-我将提供一个Instruction（前沿问题）、若干个解决Instruction需要用到的Concept/Theorem（概念、定理），请不要使用联网搜索功能。请回答Instruction。
+我将提供一个Instruction（前沿问题）、若干个解决Instruction需要用到的Concept，请不要使用联网搜索功能。请回答Instruction。
 
 # Instruction
 请不要使用联网搜索，回答以下问题：
@@ -136,4 +136,10 @@ Concept/Theorem：（解决instruction得到answer所需要的知识点）
 ```
 
 ```
+请记住：concepts优先在当前题源论文的参考文献中找，如果无法在参考文献中找到，可以在互联网上检索。 请根据我的两条建议，修改你的设计。
 
+
+```
+```
+请检查每一条Concept是否出现在题源论文中，并且是解决instruction所必须。每一条Concept中只包含一个概念或定理。注意!需要由外部的参考文献引入。
+```
