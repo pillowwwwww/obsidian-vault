@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-08-28",
+      "path": "01-Diary/日志存档/2025-08-28.md"
+    },
+    {
       "basename": "抖音内生检索所有prompt 1",
       "path": "01-Diary/日志存档/抖音内生检索所有prompt 1.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "集成学习Ensembling和蒸馏",
       "path": "06-Cards/集成学习Ensembling和蒸馏.md"
-    },
-    {
-      "basename": "常见深度学习术语解析笔记",
-      "path": "06-Cards/常见深度学习术语解析笔记.md"
     }
   ],
   "omittedPaths": [],
