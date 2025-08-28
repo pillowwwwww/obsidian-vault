@@ -8,87 +8,95 @@ excerpt:
 ## 发给豆包的prompt
 ```
 
-任务描述：  
-我将提供一个Instruction（前沿问题）、若干个解决Instruction需要用到的Concept，请不要使用联网搜索功能。请回答Instruction。
+#Task：  
+请不搜索互联网，只参考提供的Concepts回答问题 
 
 # Instruction
-请不要使用联网搜索，回答以下问题：
+设整数 $m\ge1$、$r\in\mathbb N$。对每个 $i\in[m]$，令 $A_i\in\{0,1\}^{m\times r}$，并定义
 
-设整数 m≥1m\ge1、r∈Nr\in\mathbb N。对每个 i∈[m]i\in[m]，令 Ai∈{0,1}m×rA_i\in\{0,1\}^{m\times r}，并定义
+$$
+\mathrm{Tribes}(A_i)=\bigvee_{j\in[r]}\bigwedge_{k\in[m]}(A_i)_{k,j},\qquad 
+H(A_1,\ldots,A_m)=\mathbf 1\!\Big[\sum_{i=1}^{m}\mathrm{Tribes}(A_i)\ \ge \tfrac m2+1\Big].
+$$
 
-Tribes(Ai)=⋁j∈[r]⋀k∈[m](Ai)k,j,H(A1,…,Am)=1 ⁣[∑i=1mTribes(Ai) ≥m2+1].\mathrm{Tribes}(A_i)=\bigvee_{j\in[r]}\bigwedge_{k\in[m]}(A_i)_{k,j},\qquad H(A_1,\ldots,A_m)=\mathbf 1\!\Big[\sum_{i=1}^{m}\mathrm{Tribes}(A_i)\ \ge \tfrac m2+1\Big].
+取 $t$ 个独立“块” $x^{(1)},\ldots,x^{(t)}$，并定义
 
-给定 tt 个独立“块” x(1),…,x(t)x^{(1)},\ldots,x^{(t)}，定义
+$$
+F_t(x^{(1)},\ldots,x^{(t)})=\mathbf 1\!\Big[\sum_{j=1}^{t} H(x^{(j)})\ \ge \alpha t\Big],\quad \alpha\in(0,1).
+$$
 
-Ft(x(1),…,x(t))=1 ⁣[∑j=1tH(x(j)) ≥αt],α∈(0,1) 为常数.F_t(x^{(1)},\ldots,x^{(t)})=\mathbf 1\!\Big[\sum_{j=1}^{t} H(x^{(j)})\ \ge \alpha t\Big],\quad \alpha\in(0,1)\ \text{为常数}.
+我们考虑两种输入来源：
 
-我们考虑 **两种输入来源**：
+* $U$：对 $\{0,1\}^n$ 的均匀分布；
+* $D$：按论文中 **Definition 5** 的产品分布采样（当地址向量 $a=(\mathrm{Tribes}(A_1),\ldots,\mathrm{Tribes}(A_m))$ 满足 $|a|=m/2$ 时，将对应 $p_a$ 置为 1）。
 
-- UU：{0,1}n\{0,1\}^n 的均匀分布；
-    
-- DD：按论文 **Definition 5** 采样的产品分布（当地址 a=(Tribes(A1),…,Tribes(Am))a=(\mathrm{Tribes}(A_1),\ldots,\mathrm{Tribes}(A_m)) 满足 ∣a∣=m/2|a|=m/2 时，将对应的 pap_a 置为 1，其余同均匀采样）。
-    
+**前提：**
 
-设单块长度 s:=m2rs:=m^2 r，总输入长度 n:=t⋅sn:=t\cdot s。
+* （L12）*t·ℓ-DNF 合成引理*：若 $f$ 可由宽度 $\ell$ 的 DNF 计算，且 $g:\{0,1\}^t\to\{0,1\}$ 为单调阈值函数，则 $g\circ f^t$ 可由宽度 $t\ell$ 的 DNF 计算。
 
-**问题：** 选择能使
+设单块长度 $s:=m^2 r$，总输入长度 $n:=t\cdot s$。
 
-∣Pr⁡x∼D[Ft(x)=1]−Pr⁡u∼U[Ft(u)=1]∣ ≥ Ω(1)\Big|\Pr_{x\sim D}[F_t(x)=1]-\Pr_{u\sim U}[F_t(u)=1]\Big|\ \ge\ \Omega(1)
+**问题：** 选择使
 
-的**最小** tt 的量级，并给出一个可计算 FtF_t 的 DNF **宽度上界**，用 nn 表达其数量级。
+$$
+\big|\Pr_{x\sim D}[F_t(x)=1]-\Pr_{u\sim U}[F_t(u)=1]\big|\ \ge\ \Omega(1)
+$$
 
-> 说明：这里 **没有** 指定 rr 与 mm 的关系，也 **没有** 给出单块偏差规模 δ(m)\delta(m) 或“组合后宽度如何传递”的规则。这些都不在题面中；只有拿到 concepts 才能闭环。只给 instruction 时，模型无法把 mm 换成 log⁡n\log n，也无法选出最小 tt。
+的**最小** $t$ 的量级，并给出一个计算 $F_t$ 的 DNF **宽度上界**，用 $n$ 表达其数量级。
+
+---
+### Concept 1) Balanced parameters of Tribes (with exact probability formula)
+
+For $A\in\{0,1\}^{m\times r}$,
+
+$$
+\Pr[\mathrm{Tribes}(A)=1]\ =\ 1-\bigl(1-2^{-m}\bigr)^{r}.
+$$
+
+When $r=\lceil 2^{m}\ln 2\rceil$, we have $\Pr[\mathrm{Tribes}(A)=1]=\tfrac12+o(1)$ (“balanced”).
 
 ---
 
-# Concepts（优先出自论文参考文献；每条仅一个工具）
+### Concept 2) 1-certificate template of Tribes (“single column of all 1’s”, size $=m$)
 
-**C1｜Tribes 的“平衡参数”选取**  
-取 r=⌈2mln⁡2⌉r=\lceil 2^{m}\ln 2\rceil 时，Pr⁡[Tribes(A)=1]=12+o(1)\Pr[\mathrm{Tribes}(A)=1]=\tfrac12+o(1)。  
-**来源（论文参考文献）**：O’Donnell, _Analysis of Boolean Functions_, §4.2（论文正文以 “[O’D14, §4.2]” 明确引用）。
-
-**C2｜中点层质量（局部中心极限定理 / 二项中间层估计）**  
-对独立 {0,1}\{0,1\} 变量和 SmS_m，在阈值 m/2+Θ(1)m/2+\Theta(1) 的邻域，
-
-Pr⁡[ Sm≥m/2+1 ]−12 = Θ ⁣(1/m).\Pr[\,S_m\ge m/2+1\,]-\tfrac12\ =\ \Theta\!\big(1/\sqrt m\big).
-
-（这给出 δ(m)=Θ(1/m)\delta(m)=\Theta(1/\sqrt m) 的量级。）  
-**来源（论文参考文献优先）**：O’Donnell, _Analysis of Boolean Functions_（二项分布中间层/CLT 处；论文正文推导也得到 Ω(1/m)\Omega(1/\sqrt m) 的差距量级）。
-
-**C3｜优势放大量化（Hoeffding/Chernoff）**  
-独立重复 tt 次并作多数阈值，区分优势达 Ω(1)\Omega(1) 需要 t=Θ(1/δ2)t=\Theta(1/\delta^2)。  
-**来源（论文正文点名使用；亦为标准外部文献）**：Hoeffding, _JASA_ (1963)；论文在放大步骤中“by Hoeffding inequality”给出精确量化。
-
-**C4｜DNF 宽度 = 最大 1-证书大小**  
-最小 DNF 宽度等于最大 1-证书复杂度 C1(⋅)C_1(\cdot)。  
-**来源（论文参考文献）**：O’Donnell, _Analysis of Boolean Functions_；论文在 Claim 4 开头以“DNF 视作 1-证书族”使用该等价。
-
-**C5｜分块合成的证书乘法上界**  
-分块合成 F=g∘(f,…,f)F=g\circ(f,\ldots,f)（各块变量不相交）满足
-
-C1(F) ≤ C1(g)⋅C1(f),C_1(F)\ \le\ C_1(g)\cdot C_1(f),
-
-其中阈值函数 g(z)=1[∑zi≥αt]g(z)=\mathbf 1[\sum z_i\ge \alpha t] 有 C1(g)=⌈αt⌉C_1(g)=\lceil\alpha t\rceil。  
-**来源（论文参考文献优先）**：O’Donnell, _Analysis of Boolean Functions_（certificate complexity 的 composition 命题/练习归纳）；或 Buhrman–de Wolf, _SIAM J. Comput._, 2002（综述中对证书复杂度与合成的不等式）。
-
-> 这 5 条里，**C1/C2/C4** 直接来自论文引用的 O’Donnell；**C3** 在论文正文中被点名使用（也有外部原始文献）；**C5** 为教材/综述命题（多数版面在 O’Donnell 里可直接找到）。如需，我能标注 O’D14 的具体章节/命题号。
+$\mathrm{Tribes}(A)=\bigvee_{j\in[r]}\bigwedge_{k\in[m]}A_{k,j}$.  
+A 1-certificate is: choose a column $j^\star$ and fix all $m$ bits in that column to 1. Certificate size $=m$.
 
 ---
 
-# Answer（结构简单的基础数值）
+### Concept 3) Explicit estimate for the binomial “middle layer”
 
- DNF 宽度上界 =O((log⁡n)3) .\boxed{\,\text{DNF 宽度上界 }=O\big((\log n)^3\big)\,}.
+For $S_m\sim\mathrm{Bin}(m,1/2)$,
 
-**闭环要点（只解释给你看，不放入 concepts）**
+$$
+\Pr\big[S_m=m/2\big]\ =\ \binom{m}{m/2}2^{-m}\ =\ \Theta\!\big(1/\sqrt{m}\big),
+$$
 
-- 由 C2 得单块偏差 δ(m)=Θ(1/m)\delta(m)=\Theta(1/\sqrt m)，C3 推出最小 t=Θ(1/δ2)=Θ(m)t=\Theta(1/\delta^2)=\Theta(m)；
-    
-- 由 C4 与标准“单列 all-1”证书可得 HH 的 1-证书大小 ℓ=O(m2)\ell=O(m^2)；
-    
-- 由 C5：C1(Ft)≤C1(g)⋅C1(H)=Θ(t)⋅O(m2)=O(m3)C_1(F_t)\le C_1(g)\cdot C_1(H)=\Theta(t)\cdot O(m^2)=O(m^3)；
-    
-- 用 C1 把 rr 明确为 Θ(2m)\Theta(2^m)，故 n=t⋅s=Θ(m)⋅(m2⋅2m)⇒m=Θ(log⁡n)n=t\cdot s=\Theta(m)\cdot(m^2\cdot 2^m)\Rightarrow m=\Theta(\log n)，得宽度 O((log⁡n)3)O((\log n)^3)。
-    
+more precisely (via Stirling):
+
+$$
+\binom{m}{m/2}2^{-m}\in\Big[\sqrt{\tfrac{2}{\pi m}}\,(1-O({1}/{m})),\ \sqrt{\tfrac{2}{\pi m}}\,(1+O({1}/{m}))\Big].
+$$
+
+---
+
+### Concept 4) Hoeffding amplification (minimum repetitions required for majority vote)
+
+Let independent indicator variables $Z_1,\ldots,Z_t$ have expectation gap $\delta>0$ under two distributions.  
+Take threshold $\alpha=\tfrac12(\mathbb E_x Z+\mathbb E_u Z)$, then
+
+$$
+\Pr_x\!\Big[\sum_{i=1}^t Z_i\ge \alpha t\Big]-\Pr_u\!\Big[\sum_{i=1}^t Z_i\ge \alpha t\Big]\ \ge\ 1-2e^{-\tfrac{t\delta^2}{2}}.
+$$
+
+Thus, to achieve distinguishing advantage $\Omega(1)$, one needs $t=\Theta(1/\delta^2)$.
+
+---
+
+### Concept 5) DNF width = maximum 1-certificate complexity
+
+For any Boolean function $f$, the minimal DNF width equals $C_1(f)$, the supremum of the minimal 1-certificate sizes over all 1-inputs.
+
 
 
 ```
@@ -136,10 +144,13 @@ Concept/Theorem：（解决instruction得到answer所需要的知识点）
 ```
 
 ```
-请记住：concepts优先在当前题源论文的参考文献中找，如果无法在参考文献中找到，可以在互联网上检索。 请根据我的两条建议，修改你的设计。
+目前豆包模型无法通过concepts推导出instruction的正确答案，请你重新设计concepts。
+我认为concept需要更具体，例如具体的做法，计算公式等。
 
+但你需要注意：
+1.每一条Concept/Theorem是否出现在论文中，并且是解决instruction所必须。
+2.每一条Concept/Theorem中只包含一个概念或定理。
+3.注意！Concept/Theorem不能是题源论文推论，需要由外部的参考文献引入。 concepts优先在当前题源论文的参考文献中找，如果无法在参考文献中找到，可以在互联网上检索。
+请根据我的建议，修改你的设计。
 
-```
-```
-请检查每一条Concept是否出现在题源论文中，并且是解决instruction所必须。每一条Concept中只包含一个概念或定理。注意!需要由外部的参考文献引入。
 ```
