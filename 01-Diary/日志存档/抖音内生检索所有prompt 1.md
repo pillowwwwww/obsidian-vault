@@ -12,30 +12,27 @@ excerpt:
 我将提供一个Instruction（前沿问题）、若干个解决Instruction需要用到的Concept/Theorem（概念、定理），请不要使用联网搜索功能。请回答Instruction。
 
 # Instruction（难度提升版）
-
-设整数 $m\ge1$，对每个 $i\in[m]$ 给定矩阵 $A_i\in\{0,1\}^{m\times r}$ ，其中
-$r=\lceil 2^{\,m}\ln 2\rceil$。定义
+请不要使用联网搜索，回答以下问题：
+设设整数 $m\ge 1$。对每个 $i\in[m]$ 给定矩阵 $A_i\in\{0,1\}^{m\times r}$，其中 $r=\lceil 2^{\,m}\ln 2\rceil$。定义
 
 $$
-\mathrm{Tribes}(A_i)=\bigvee_{j\in[r]} \ \bigwedge_{k\in[m]} (A_i)_{k,j},\qquad 
+\mathrm{Tribes}(A_i)=\bigvee_{j\in[r]}\ \bigwedge_{k\in[m]} (A_i)_{k,j},\qquad 
 H(A_1,\ldots,A_m)=\mathbf 1\!\Big[\ \sum_{i=1}^{m}\mathrm{Tribes}(A_i)\ \ge \tfrac m2+1\ \Big].
 $$
 
-令“一个 **块**”的输入长度为 $s:=m^2 r$（共有 $m$ 个 $m\times r$ 矩阵）。对 $t$ 个独立块 $x^{(1)},\ldots,x^{(t)}$ 定义
+设一个**块**的输入长度 $s:=m^2 r$。令 $t$ 个独立块 $x^{(1)},\ldots,x^{(t)}$，并定义
 
 $$
 F_t(x^{(1)},\ldots,x^{(t)})=\mathbf 1\!\Big[\ \sum_{j=1}^{t} H(x^{(j)})\ \ge \alpha t\ \Big],
 $$
 
-其中阈值 $\alpha$ 任取常数（例如 $\alpha\in(0,1)$ 固定）。**已知**存在某个与均匀分布独立的产品分布 $\mathcal{X}$ 使得
+其中 $\alpha\in(0,1)$ 为常数。**允许使用的基础事实**（无须外部引文）：
 
-$$
-\big|\Pr_{\mathcal{X}}[H=1]-\Pr_{\mathrm{Unif}}[H=1]\big|\ \ge\ \frac{c}{\sqrt{m}}
-$$
+* （B1）DNF 的“宽度”= 单个合取项被固定的变量数；1-证书大小给出 DNF 宽度上界。
+* （B2）$\mathrm{Tribes}(A_i)=1$ 的一个 1-证书是“某一列全为 1”（只落在该矩阵的一列上，大小为 $m$）。
 
-对某常数 $c>0$ 成立。设总输入长度 $n:=t\cdot s$。
 
-**问题：** 任选能把 $\Pr[F_t=1]$ 在 $\mathcal{X}$ 与均匀分布之间的优势放大到 $\Omega(1)$ 的最小 $t$ 的量级，给出一个可计算 $F_t$ 的 DNF 的**宽度上界**，用 $n$ 表达其数量级。
+**问题：** 选择能把 $\Pr[F_t=1]$ 与均匀分布下的值拉出常数级差距（$\Omega(1)$）的**最小** $t$ 的量级，并给出可计算 $F_t$ 的 DNF **宽度上界**，用 $n$ 表达数量级。
 
 
 ---
