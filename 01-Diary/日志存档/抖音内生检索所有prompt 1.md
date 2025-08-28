@@ -11,34 +11,56 @@ excerpt:
 任务描述：  
 我将提供一个Instruction（前沿问题）、若干个解决Instruction需要用到的Concept/Theorem（概念、定理），请不要使用联网搜索功能。请回答Instruction。
 
-# Instruction
+# Instruction（难度提升版）
 
-设整数 m≥1m\ge1。对每个 i∈[m]i\in[m]，令 Ai∈{0,1}m×rA_i\in\{0,1\}^{m\times r} 且  
-r=⌈2 mln⁡2⌉r=\lceil 2^{\,m}\ln 2\rceil。定义 **Tribes**：
+设整数 $m\ge1$，对每个 $i\in[m]$ 给定矩阵 $A_i\in\{0,1\}^{m\times r}$ ，其中
+$r=\lceil 2^{\,m}\ln 2\rceil$。定义
 
-Tribes(Ai)=⋁j∈[r]⋀k∈[m](Ai)k,j.\mathrm{Tribes}(A_i)=\bigvee_{j\in[r]}\bigwedge_{k\in[m]} (A_i)_{k,j}.
+$$
+\mathrm{Tribes}(A_i)=\bigvee_{j\in[r]} \ \bigwedge_{k\in[m]} (A_i)_{k,j},\qquad 
+H(A_1,\ldots,A_m)=\mathbf 1\!\Big[\ \sum_{i=1}^{m}\mathrm{Tribes}(A_i)\ \ge \tfrac m2+1\ \Big].
+$$
 
-再定义布尔函数
+令“一个 **块**”的输入长度为 $s:=m^2 r$（共有 $m$ 个 $m\times r$ 矩阵）。对 $t$ 个独立块 $x^{(1)},\ldots,x^{(t)}$ 定义
 
-H(A1,…,Am)=1 ⁣[ ∑i=1mTribes(Ai) ≥m2+1 ].H(A_1,\ldots,A_m)=\mathbf 1\!\left[\ \sum_{i=1}^{m}\mathrm{Tribes}(A_i)\ \ge \frac m2+1\ \right].
+$$
+F_t(x^{(1)},\ldots,x^{(t)})=\mathbf 1\!\Big[\ \sum_{j=1}^{t} H(x^{(j)})\ \ge \alpha t\ \Big],
+$$
 
-令输入总长度 n:=m2rn:=m^2r（因为共有 mm 个矩阵、每个尺寸 m×rm\times r）。问：**给出一个能计算 HH 的 DNF 的宽度，用 nn 表示其数量级**。
+其中阈值 $\alpha$ 任取常数（例如 $\alpha\in(0,1)$ 固定）。**已知**存在某个与均匀分布独立的产品分布 $\mathcal{X}$ 使得
+
+$$
+\big|\Pr_{\mathcal{X}}[H=1]-\Pr_{\mathrm{Unif}}[H=1]\big|\ \ge\ \frac{c}{\sqrt{m}}
+$$
+
+对某常数 $c>0$ 成立。设总输入长度 $n:=t\cdot s$。
+
+**问题：** 任选能把 $\Pr[F_t=1]$ 在 $\mathcal{X}$ 与均匀分布之间的优势放大到 $\Omega(1)$ 的最小 $t$ 的量级，给出一个可计算 $F_t$ 的 DNF 的**宽度上界**，用 $n$ 表达其数量级。
 
 
 ---
 
-## Concepts（给模型时再发；每条只含一个概念/定理，且在论文中出现并带他引）
+# Concepts
 
-1. **Tribes 的平衡参数与 1-证书（all-1 列）**  
-    当 r=⌈2 mln⁡2⌉r=\lceil 2^{\,m}\ln 2\rceil 时，Pr⁡[Tribes(A)=1]=12+o(1)\Pr[\mathrm{Tribes}(A)=1]=\tfrac12+o(1)；且 Tribes(A)=1\mathrm{Tribes}(A)=1 的一个 1-证书就是“任选一列全为 1”。论文将这一事实作为常识并引自 O’Donnell 的专著 [O’D14, §4.2]（论文处见 “It is well-known [O’D14, §4.2] … balanced” 语句）。
-    
-2. **DNF 与 1-证书的等价刻画**  
-    “一个函数可由宽度为 kk 的 DNF 计算，当且仅当其每个取 1 的输入都存在大小 ≤kk 的 1-证书”。该刻画在论文的 Claim 4 证明里直接作为标准事实使用（“A DNF is commonly viewed as a collection of 1-certificates …”）。可配套参考 [O’D14] 对证书复杂度的讲解。
-    
-3. **合取下证书宽度可加**  
-    若要证明“至少 m/2+1m/2+1 个谓词为真”，只需为任取的 m/2+1m/2+1 个子谓词各给出其 1-证书；整体 1-证书的大小为这些证书大小之和（用于把多数阈值化为若干合取证书）。论文在 Claim 4 的构造中按此思路给出了宽度界（为每个被选矩阵给出“一列全 1”的证书）。
-    
+**concept1) Tribes 的平衡参数**  
+当 $r=\lceil 2^{\,m}\ln 2\rceil$ 时，$\Pr[\mathrm{Tribes}(A)=1]=\tfrac12+o(1)$（经典“平衡”设定）。TR25-058 正文明确引用 O’Donnell《Analysis of Boolean Functions》\[O’D14, §4.2] 来使用这一事实：  
+“**It is well-known \[O’D14, §4.2]** … the function becomes balanced …”。  
 
+**concept2) 单调外层与 DNF 的宽度乘法：$g\circ f^t$ 的 1-证书拼接**  
+若 $f$ 可由宽度 $\ell$ 的 DNF 计算，且 $g:\{0,1\}^t\to\{0,1\}$ **单调**，则 $g\circ f^t$ 可由宽度 $t\ell$ 的 DNF 计算（把 $t$ 个块各自的 1-证书合取即可）。TR25-058 在 **Lemma 12** 中给出这一“单调组合 → 证书拼接 → 宽度乘 $t$”的标准论断：  
+“**Then $g\circ f^t$ can be computed by a $t\ell$-DNF.**”  
+
+**concept3) 放大量化：Hoeffding 不等式 → 需要 $t=\Theta(1/\delta^2)$**  
+若 $\delta:=\big|\Pr[H=1|\mathcal{X}]-\Pr[H=1|\mathrm{Unif}]\big|>0$，独立重复 $t$ 次并在阈值 $\alpha\in(\Pr_{\mathrm{Unif}},\Pr_{\mathcal X})$ 处作判决，则
+
+$$
+\Pr_{\mathcal X}\big[\text{多数判为 1}\big]-\Pr_{\mathrm{Unif}}\big[\text{多数判为 1}\big]\ \ge\ 1-2e^{-\Theta(t\delta^2)}.
+$$
+
+取 $t=\Theta(1/\delta^2)$ 可把优势放大为 $\Omega(1)$。**外部来源**：Hoeffding, *JASA*, 1963；TR25-058 在 **Lemma 11** 的证明中也直接调用“by Hoeffding inequality”。
+**concept4) DNF ↔ 1-证书视角（用于界定 $\ell$）**  
+“一个函数可由宽度 $\le k$ 的 DNF 计算，当且仅当其每个 1-输入都存在大小 $\le k$ 的 1-证书”。TR25-058 在 **Claim 4** 开头以常识形式使用这一视角（将 DNF 视作 1-证书族）：  
+“**A DNF is commonly viewed as a collection of 1-certificates …**”。  
 """
 
 ```
