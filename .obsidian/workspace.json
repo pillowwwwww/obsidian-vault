@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Diary/日志存档/```.md",
+                "file": "01-Diary/日志存档/2025-08-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "``` 的反向链接列表"
+              "title": "2025-08-30 的反向链接列表"
             }
           },
           {
@@ -195,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,8 +214,8 @@
   "active": "6dc4b88e3ec4c5eb",
   "lastOpenFiles": [
     "01-Diary/日志存档/抖音内生检索所有prompt 1.md",
-    "01-Diary/日志存档/2025-08-28.md",
     "01-Diary/日志存档/2025-08-30.md",
+    "01-Diary/日志存档/2025-08-28.md",
     "01-Diary/日志存档/第三篇.md",
     "01-Diary/日志存档/2025-08-24.md",
     "01-Diary/日志存档/```.md",
