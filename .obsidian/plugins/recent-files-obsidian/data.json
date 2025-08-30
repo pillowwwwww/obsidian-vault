@@ -5,6 +5,10 @@
       "path": "01-Diary/日志存档/第三篇.md"
     },
     {
+      "basename": "2025-08-30",
+      "path": "01-Diary/日志存档/2025-08-30.md"
+    },
+    {
       "basename": "2025-08-24",
       "path": "01-Diary/日志存档/2025-08-24.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2025-07-10",
       "path": "01-Diary/日志存档/2025-07-10.md"
-    },
-    {
-      "basename": "对比学习",
-      "path": "06-Cards/对比学习.md"
     }
   ],
   "omittedPaths": [],
