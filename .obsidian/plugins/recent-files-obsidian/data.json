@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-09-09",
+      "path": "01-Diary/日志存档/2025-09-09.md"
+    },
+    {
       "basename": "2025-09-02",
       "path": "01-Diary/日志存档/2025-09-02.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Lin2020 FedDF 集成蒸馏",
       "path": "02-Reading/mdnotes/Lin2020 FedDF 集成蒸馏.md"
-    },
-    {
-      "basename": "Huang Pami 综述2024",
-      "path": "02-Reading/mdnotes/Huang Pami 综述2024.md"
     }
   ],
   "omittedPaths": [],
