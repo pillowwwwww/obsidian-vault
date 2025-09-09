@@ -31,3 +31,5 @@ wandb: You can sync this run to the cloud by running:
 wandb: wandb sync /home/liuchang/code/CreamFL/wandb/offline-run-20250622_143143-o5t8pq5m
 wandb: Find logs at: ./wandb/offline-run-20250622_143143-o5t8pq5m/logs
 ```
+
+PS: 注意wandb W&B无法在学校的服务器上在线使用，需要使用swanlab代替。
