@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-06-06",
-      "path": "01-Diary/日志存档/2025-06-06.md"
+      "basename": "McMahan2016",
+      "path": "02-Reading/mdnotes/McMahan2016.md"
+    },
+    {
+      "basename": "Li2018 FedProx",
+      "path": "02-Reading/mdnotes/Li2018 FedProx.md"
+    },
+    {
+      "basename": "2023ICLR CreamFL",
+      "path": "02-Reading/mdnotes/2023ICLR CreamFL.md"
+    },
+    {
+      "basename": "creamfl复现记录",
+      "path": "03-Projects/CreamFL/creamfl复现记录.md"
+    },
+    {
+      "basename": "2025-09-09",
+      "path": "01-Diary/日志存档/2025-09-09.md"
+    },
+    {
+      "basename": "第三篇",
+      "path": "01-Diary/日志存档/第三篇.md"
+    },
+    {
+      "basename": "2025-08-30",
+      "path": "01-Diary/日志存档/2025-08-30.md"
+    },
+    {
+      "basename": "2025-09-02",
+      "path": "01-Diary/日志存档/2025-09-02.md"
+    },
+    {
+      "basename": "开学了",
+      "path": "01-Diary/日志存档/开学了.md"
+    },
+    {
+      "basename": "2025-06-23",
+      "path": "01-Diary/日志存档/2025-06-23.md"
     },
     {
       "basename": "2025-06-21",
@@ -13,28 +49,8 @@
       "path": "01-Diary/日志存档/2025-06-05.md"
     },
     {
-      "basename": "2025-06-23",
-      "path": "01-Diary/日志存档/2025-06-23.md"
-    },
-    {
-      "basename": "2025-09-09",
-      "path": "01-Diary/日志存档/2025-09-09.md"
-    },
-    {
-      "basename": "2025-09-02",
-      "path": "01-Diary/日志存档/2025-09-02.md"
-    },
-    {
-      "basename": "creamfl复现记录",
-      "path": "03-Projects/CreamFL/creamfl复现记录.md"
-    },
-    {
-      "basename": "开学了",
-      "path": "01-Diary/日志存档/开学了.md"
-    },
-    {
-      "basename": "2025-08-30",
-      "path": "01-Diary/日志存档/2025-08-30.md"
+      "basename": "2025-06-06",
+      "path": "01-Diary/日志存档/2025-06-06.md"
     },
     {
       "basename": "2025-08-28",
@@ -43,10 +59,6 @@
     {
       "basename": "抖音内生检索所有prompt 1",
       "path": "01-Diary/日志存档/抖音内生检索所有prompt 1.md"
-    },
-    {
-      "basename": "第三篇",
-      "path": "01-Diary/日志存档/第三篇.md"
     },
     {
       "basename": "2025-08-24",
@@ -187,18 +199,6 @@
     {
       "basename": "显卡",
       "path": "06-Cards/环境， pytorch基础语法等/显卡.md"
-    },
-    {
-      "basename": "Energy-Based Models 能量模型",
-      "path": "06-Cards/Energy-Based Models 能量模型.md"
-    },
-    {
-      "basename": "2025-07-25",
-      "path": "01-Diary/日志存档/2025-07-25.md"
-    },
-    {
-      "basename": "Lin2020 FedDF 集成蒸馏",
-      "path": "02-Reading/mdnotes/Lin2020 FedDF 集成蒸馏.md"
     }
   ],
   "omittedPaths": [],
