@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Reading/mdnotes/McMahan2016.md",
+                "file": "01-Diary/日志存档/2025-09-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "McMahan2016"
+              "title": "2025-09-11"
             }
           }
         ],
@@ -141,7 +141,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -186,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Reading/mdnotes/McMahan2016.md",
+                "file": "01-Diary/日志存档/2025-09-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +197,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "McMahan2016 的反向链接列表"
+              "title": "2025-09-11 的反向链接列表"
             }
           },
           {
@@ -242,6 +243,8 @@
   },
   "active": "b35870e6dcbc38ca",
   "lastOpenFiles": [
+    "02-Reading/mdnotes/McMahan2016.md",
+    "01-Diary/日志存档/2025-09-11.md",
     "02-Reading/mdnotes/Li2018 FedProx.md",
     "02-Reading/mdnotes/2023ICLR CreamFL.md",
     "03-Projects/CreamFL/creamfl复现记录.md",
@@ -271,8 +274,6 @@
     "08-Assets/pdfs/2024-Relative-error monotonicity testing/2024-Relative-error monotonicity testing.pdf",
     "08-Assets/pdfs/2024-Relative-error monotonicity testing/2024-Relative-error monotonicity testing 1.pdf",
     "08-Assets/pdfs/2024-Relative-error monotonicity testing",
-    "06-Cards/环境， pytorch基础语法等/本机配置环境.md",
-    "06-Cards/环境， pytorch基础语法等/Featurize复现CreamFL.md",
     "08-Assets/image-49.png",
     "06-Cards/通用知识",
     "06-Cards/环境， pytorch基础语法等",
