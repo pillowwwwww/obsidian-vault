@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2025-09-12.md",
+                "file": "01-Diary/日志存档/2025-09-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-12"
+              "title": "2025-09-13"
             }
           },
           {
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.50328826904297
+    "width": 358.50328826904297,
+    "collapsed": true
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -119,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Diary/日志存档/2025-09-12.md",
+                "file": "01-Diary/日志存档/2025-09-13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-09-12 的大纲"
+              "title": "2025-09-13 的大纲"
             }
           },
           {
@@ -144,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Diary/日志存档/2025-09-12.md",
+                "file": "01-Diary/日志存档/2025-09-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2025-09-12 的反向链接列表"
+              "title": "2025-09-11 的反向链接列表"
             }
           },
           {
@@ -201,6 +202,7 @@
   "active": "f161abc257d73635",
   "lastOpenFiles": [
     "01-Diary/日志存档/2025-09-11.md",
+    "01-Diary/日志存档/2025-09-13.md",
     "01-Diary/日志存档/2025-09-12.md",
     "08-Assets/pdfs/2017-On calibration of modern neural networks/2017-On calibration of modern neural networks.pdf",
     "08-Assets/pdfs/2017-On calibration of modern neural networks",
@@ -229,7 +231,6 @@
     "01-Diary/日志存档/2025-08-20.md",
     "01-Diary/日志存档/2025-08-23.md",
     "01-Diary/日志存档/2025-08-21.md",
-    "01-Diary/日志存档/2025-08-27.md",
     "08-Assets/pdfs/2024-Decoupling parameter variation from noise/2024 IEEE 63rd Conference on Decision and Control (CDC)2024-Decoupling parameter variation from noise Biquadratic lyapunov forms .pdf",
     "08-Assets/pdfs/2024-Decoupling parameter variation from noise",
     "08-Assets/pdfs/2024-Relative-error monotonicity testing/2024-Relative-error monotonicity testing.pdf",
