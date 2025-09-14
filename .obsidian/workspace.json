@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "afcc44c870e46148",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/日志存档/2025-06-05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-05"
-            }
-          },
-          {
             "id": "31d17e4f8341012a",
             "type": "leaf",
             "state": {
@@ -64,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Diary/日志存档/2025-06-06.md",
+                "file": "01-Diary/日志存档/2025-09-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +170,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2025-06-06 的反向链接列表"
+              "title": "2025-09-14 的反向链接列表"
             }
           },
           {
@@ -212,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,8 +216,10 @@
   },
   "active": "31d17e4f8341012a",
   "lastOpenFiles": [
-    "01-Diary/日志存档/2025-06-06.md",
+    "06-Cards/Linux操作相关.md",
     "01-Diary/日志存档/2025-09-14.md",
+    "01-Diary/日志存档/2025-06-05.md",
+    "01-Diary/日志存档/2025-06-06.md",
     "01-Diary/日志存档/2025-06-09.md",
     "06-Cards/MINE_FL框架.md",
     "06-Cards/生成数据集.md",
@@ -242,8 +229,6 @@
     "06-Cards/环境， pytorch基础语法等/pytorch基本知识.md",
     "06-Cards/环境， pytorch基础语法等/显卡.md",
     "06-Cards/环境， pytorch基础语法等/本机配置环境.md",
-    "01-Diary/日志存档/2025-06-05.md",
-    "06-Cards/Linux操作相关.md",
     "01-Diary/日志存档/2025-08-30.md",
     "01-Diary/日志存档/2025-09-02.md",
     "01-Diary/日志存档/2025-09-09.md",

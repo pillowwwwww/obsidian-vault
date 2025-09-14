@@ -5,6 +5,14 @@
       "path": "01-Diary/日志存档/2025-09-14.md"
     },
     {
+      "basename": "Linux操作相关",
+      "path": "06-Cards/Linux操作相关.md"
+    },
+    {
+      "basename": "2025-06-05",
+      "path": "01-Diary/日志存档/2025-06-05.md"
+    },
+    {
       "basename": "2025-06-06",
       "path": "01-Diary/日志存档/2025-06-06.md"
     },
@@ -43,14 +51,6 @@
     {
       "basename": "本机配置环境",
       "path": "06-Cards/环境， pytorch基础语法等/本机配置环境.md"
-    },
-    {
-      "basename": "2025-06-05",
-      "path": "01-Diary/日志存档/2025-06-05.md"
-    },
-    {
-      "basename": "Linux操作相关",
-      "path": "06-Cards/Linux操作相关.md"
     },
     {
       "basename": "2025-08-30",
