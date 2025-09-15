@@ -8,45 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94c5fcf26cde456b",
+            "id": "870dad1cb8c54eec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/Linux操作相关.md",
+                "file": "06-Cards/集成学习Ensembling和蒸馏.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux操作相关"
+              "title": "集成学习Ensembling和蒸馏"
             }
           },
           {
-            "id": "31d17e4f8341012a",
+            "id": "36416344540816f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2025-09-14.md",
+                "file": "06-Cards/LoRAPH项目.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-14"
-            }
-          },
-          {
-            "id": "dcf4ac2163dcdf7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/日志存档/2025-06-06.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-06"
+              "title": "LoRAPH项目"
             }
           }
         ],
@@ -133,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Diary/日志存档/2025-09-14.md",
+                "file": "06-Cards/LoRAPH项目.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-09-14 的大纲"
+              "title": "LoRAPH项目 的大纲"
             }
           },
           {
@@ -158,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Diary/日志存档/2025-09-14.md",
+                "file": "06-Cards/LoRAPH项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +154,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2025-09-14 的反向链接列表"
+              "title": "LoRAPH项目 的反向链接列表"
             }
           },
           {
@@ -195,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,19 +198,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "31d17e4f8341012a",
+  "active": "36416344540816f1",
   "lastOpenFiles": [
+    "06-Cards/实验日志.md",
+    "06-Cards/LoRAPH项目.md",
+    "06-Cards/集成学习Ensembling和蒸馏.md",
+    "06-Cards/环境， pytorch基础语法等/pytorch一些容易错的地方.md",
+    "06-Cards/环境， pytorch基础语法等/pytorch基本知识.md",
+    "01-Diary/日志存档/2025-09-14.md",
     "01-Diary/日志存档/2025-06-06.md",
     "01-Diary/日志存档/2025-06-09.md",
     "06-Cards/Linux操作相关.md",
-    "01-Diary/日志存档/2025-09-14.md",
     "01-Diary/日志存档/2025-06-05.md",
     "06-Cards/MINE_FL框架.md",
     "06-Cards/生成数据集.md",
     "06-Cards/环境， pytorch基础语法等/Featurize复现CreamFL.md",
     "06-Cards/环境， pytorch基础语法等/python基本语法.md",
-    "06-Cards/环境， pytorch基础语法等/pytorch一些容易错的地方.md",
-    "06-Cards/环境， pytorch基础语法等/pytorch基本知识.md",
     "06-Cards/环境， pytorch基础语法等/显卡.md",
     "06-Cards/环境， pytorch基础语法等/本机配置环境.md",
     "01-Diary/日志存档/2025-08-30.md",
@@ -240,9 +230,6 @@
     "01-Diary/本周事务/未命名 1.md",
     "02-Reading/mdnotes/Li2018 FedProx.md",
     "02-Reading/mdnotes/2023ICLR CreamFL.md",
-    "03-Projects/CreamFL/creamfl复现记录.md",
-    "01-Diary/日志存档/第三篇.md",
-    "01-Diary/日志存档/开学了.md",
     "08-Assets/pdfs/2024-Decoupling parameter variation from noise/2024 IEEE 63rd Conference on Decision and Control (CDC)2024-Decoupling parameter variation from noise Biquadratic lyapunov forms .pdf",
     "08-Assets/pdfs/2024-Decoupling parameter variation from noise",
     "08-Assets/pdfs/2024-Relative-error monotonicity testing/2024-Relative-error monotonicity testing.pdf",
