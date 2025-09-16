@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/集成学习Ensembling和蒸馏.md",
+                "file": "06-Cards/LoRAPH项目.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "集成学习Ensembling和蒸馏"
+              "title": "LoRAPH项目"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/LoRAPH项目.md",
+                "file": "06-Cards/实验日志.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LoRAPH项目"
+              "title": "实验日志"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "202.117.21.94",
+                "query": "generat",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -99,12 +98,12 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 273.50328826904297,
-    "collapsed": true
+    "width": 273.50328826904297
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -120,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-Cards/LoRAPH项目.md",
+                "file": "06-Cards/实验日志.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "LoRAPH项目 的大纲"
+              "title": "实验日志 的大纲"
             }
           },
           {
@@ -145,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-Cards/LoRAPH项目.md",
+                "file": "06-Cards/实验日志.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "LoRAPH项目 的反向链接列表"
+              "title": "实验日志 的反向链接列表"
             }
           },
           {
@@ -182,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,18 +198,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "36416344540816f1",
+  "active": "870dad1cb8c54eec",
   "lastOpenFiles": [
-    "06-Cards/实验日志.md",
     "06-Cards/LoRAPH项目.md",
+    "06-Cards/实验日志.md",
     "06-Cards/集成学习Ensembling和蒸馏.md",
+    "01-Diary/日志存档/2025-06-09.md",
+    "01-Diary/日志存档/2025-06-05.md",
     "06-Cards/环境， pytorch基础语法等/pytorch一些容易错的地方.md",
     "06-Cards/环境， pytorch基础语法等/pytorch基本知识.md",
     "01-Diary/日志存档/2025-09-14.md",
     "01-Diary/日志存档/2025-06-06.md",
-    "01-Diary/日志存档/2025-06-09.md",
     "06-Cards/Linux操作相关.md",
-    "01-Diary/日志存档/2025-06-05.md",
     "06-Cards/MINE_FL框架.md",
     "06-Cards/生成数据集.md",
     "06-Cards/环境， pytorch基础语法等/Featurize复现CreamFL.md",
