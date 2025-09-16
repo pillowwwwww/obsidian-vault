@@ -9,6 +9,8 @@ tags:
 每个yaml中规定的model有时候是resnet18m（cifar100）有时候是cnn。
 有一些参数比如学习率，推荐设置的是0.01，那我要用0.01嘛 还是0.1
 times =1 还是=5？
+师兄数据集放在哪里？我们没有mount了
+
 
 我发现cifar10的时候学习率是0.01
 ## 实验步骤
@@ -25,6 +27,9 @@ nohup python main.py --config template/fedfomo_cifar10_pr0.2.yaml > /data2/lc/ex
 
   tail -f /data2/lc/experiments/logs/FedFomo_*.log
   
+
+python generate_cifar100.py noniid nobalance dir 20 0.05
+
 ---
 ## 一些知识点
 ### 一、 参数 vs 超参数
