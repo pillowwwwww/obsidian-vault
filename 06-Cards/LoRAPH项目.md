@@ -14,9 +14,75 @@ times =1 还是=5？
 
 我发现cifar10的时候学习率是0.01
 ## 实验步骤
-### cifar 10
-#### pat
-times=1
+### cifar 10  0.78+-0.00
+```
+
+Best personalized accuracy.
+0.7822
+
+Average time cost per round.
+8.5883
+Save record path: /data2/lc/experiments/FedFomo/Cifar10_NonIID_Pat2_Client20/20250916_144353_cnn_static_pr_0.2_ls_5_att_0/Time_4/record/record.h5
+成功保存快照到pkl
+
+Average time cost: 858.89s.
+Length:  101
+Length:  101
+Length:  101
+Length:  101
+Length:  101
+Length:  101
+Length:  101
+Length:  101
+Length:  101
+Length:  101
+std for best accurancy:0.006062998479980407
+mean for best accurancy:0.7847313719204159
+All done!
+
+Storage on cpu
+-------------------------------------------------------------------------------
+Total Tensors: 1        Used Memory: 512.00B
+-------------------------------------------------------------------------------
+save config
+推送中
+```
+### cifar 100   0.21+-0.00
+```
+-------------------------time cost-------------------------19.2282
+mean time:2.4379
+var time:0.1470
+
+Best personalized accuracy.
+0.2135
+
+Average time cost per round.
+18.7890
+Save record path: /data2/lc/experiments/FedFomo/Cifar100_NonIID_Dir0.05_Client20/20250916_105011_resnet18m_static_pr_0.2_ls_5_att_0/Time_4/record/record.h5
+成功保存快照到pkl
+
+Average time cost: 1947.62s.
+Length:  101
+Length:  101
+Length:  101
+Length:  101
+Length:  101
+Length:  101
+Length:  101
+Length:  101
+Length:  101
+Length:  101
+std for best accurancy:0.004252334492058439
+mean for best accurancy:0.21028419566430454
+All done!
+
+Storage on cpu
+-------------------------------------------------------------------------------
+Total Tensors: 1        Used Memory: 512.00B
+-------------------------------------------------------------------------------
+save config
+推送中
+```
 
 ---
 ## 常用指令
