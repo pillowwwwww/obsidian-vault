@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/LoRAPH项目.md",
+                "file": "01-Diary/日志存档/2025-09-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LoRAPH项目"
+              "title": "2025-09-19"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "generat",
+                "query": "似然",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.50328826904297,
-    "collapsed": true
+    "width": 273.50328826904297
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -120,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-Cards/实验日志.md",
+                "file": "01-Diary/日志存档/2025-09-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "实验日志 的大纲"
+              "title": "2025-09-19 的大纲"
             }
           },
           {
@@ -200,6 +199,14 @@
   },
   "active": "870dad1cb8c54eec",
   "lastOpenFiles": [
+    "08-Assets/pdfs/2024-APH- Watch Your Head Assembling/APH-Projection-Heads.pdf",
+    "08-Assets/pdfs/2024-APH- Watch Your Head Assembling/2024-Watch your head Assembling projection heads to save the reliability of federated models.pdf",
+    "08-Assets/pdfs/2024-APH- Watch Your Head Assembling",
+    "06-Cards/通用知识/机器学习与深度学习中的数学知识点汇总.md",
+    "01-Diary/日志存档/2025-09-19.md",
+    "06-Cards/Energy-Based Models 能量模型.md",
+    "01-Diary/日志存档/2025-07-15.md",
+    "01-Diary/日志存档/2025-09-18.md",
     "06-Cards/LoRAPH项目.md",
     "06-Cards/实验日志.md",
     "06-Cards/集成学习Ensembling和蒸馏.md",
@@ -220,23 +227,15 @@
     "01-Diary/日志存档/2025-09-02.md",
     "01-Diary/日志存档/2025-09-09.md",
     "01-Diary/日志存档/2025-09-12.md",
-    "01-Diary/日志存档/2025-09-11.md",
-    "01-Diary/日志存档/2025-09-13.md",
     "08-Assets/pdfs/2017-On calibration of modern neural networks/2017-On calibration of modern neural networks.pdf",
     "08-Assets/pdfs/2017-On calibration of modern neural networks",
     "08-Assets/pdfs/2024-Watch your head/2024-Watch your head Assembling projection heads to save the reliability of federated models.pdf",
     "08-Assets/pdfs/2024-Watch your head",
-    "02-Reading/mdnotes/McMahan2016.md",
-    "01-Diary/本周事务/未命名 1.md",
-    "02-Reading/mdnotes/Li2018 FedProx.md",
-    "02-Reading/mdnotes/2023ICLR CreamFL.md",
     "08-Assets/pdfs/2024-Decoupling parameter variation from noise/2024 IEEE 63rd Conference on Decision and Control (CDC)2024-Decoupling parameter variation from noise Biquadratic lyapunov forms .pdf",
     "08-Assets/pdfs/2024-Decoupling parameter variation from noise",
     "08-Assets/pdfs/2024-Relative-error monotonicity testing/2024-Relative-error monotonicity testing.pdf",
     "08-Assets/pdfs/2024-Relative-error monotonicity testing/2024-Relative-error monotonicity testing 1.pdf",
-    "08-Assets/pdfs/2024-Relative-error monotonicity testing",
     "08-Assets/image-49.png",
-    "06-Cards/通用知识",
     "08-Assets/image-48.png",
     "08-Assets/image-47.png",
     "08-Assets/image-46.png",
