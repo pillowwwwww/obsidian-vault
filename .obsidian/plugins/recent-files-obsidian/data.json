@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "实验日志",
+      "path": "06-Cards/实验日志.md"
+    },
+    {
       "basename": "2025-09-19",
       "path": "01-Diary/日志存档/2025-09-19.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "LoRAPH项目",
       "path": "06-Cards/LoRAPH项目.md"
-    },
-    {
-      "basename": "实验日志",
-      "path": "06-Cards/实验日志.md"
     },
     {
       "basename": "集成学习Ensembling和蒸馏",
