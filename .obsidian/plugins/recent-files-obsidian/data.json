@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-09-20",
+      "path": "01-Diary/日志存档/2025-09-20.md"
+    },
+    {
       "basename": "实验日志",
       "path": "06-Cards/实验日志.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2025-05-19",
       "path": "01-Diary/日志存档/2025-05-19.md"
-    },
-    {
-      "basename": "FedAvg复现",
-      "path": "01-Diary/本周事务/FedAvg复现.md"
     }
   ],
   "omittedPaths": [],
