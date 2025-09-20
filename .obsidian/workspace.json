@@ -169,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,6 +187,8 @@
   },
   "active": "36416344540816f1",
   "lastOpenFiles": [
+    "08-Assets/pdfs/2024-Watch your head/2024-Watch your head Assembling projection heads to save the reliability of federated models.pdf",
+    "08-Assets/pdfs/2024-Watch your head",
     "06-Cards/实验日志.md",
     "01-Diary/日志存档/2025-09-20.md",
     "01-Diary/日志存档/2025-09-19.md",
@@ -216,11 +217,8 @@
     "01-Diary/日志存档/2025-08-30.md",
     "01-Diary/日志存档/2025-09-02.md",
     "01-Diary/日志存档/2025-09-09.md",
-    "01-Diary/日志存档/2025-09-12.md",
     "08-Assets/pdfs/2017-On calibration of modern neural networks/2017-On calibration of modern neural networks.pdf",
     "08-Assets/pdfs/2017-On calibration of modern neural networks",
-    "08-Assets/pdfs/2024-Watch your head/2024-Watch your head Assembling projection heads to save the reliability of federated models.pdf",
-    "08-Assets/pdfs/2024-Watch your head",
     "08-Assets/pdfs/2024-Decoupling parameter variation from noise/2024 IEEE 63rd Conference on Decision and Control (CDC)2024-Decoupling parameter variation from noise Biquadratic lyapunov forms .pdf",
     "08-Assets/pdfs/2024-Decoupling parameter variation from noise",
     "08-Assets/pdfs/2024-Relative-error monotonicity testing/2024-Relative-error monotonicity testing.pdf",
