@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "似然",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
