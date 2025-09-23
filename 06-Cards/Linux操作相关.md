@@ -32,7 +32,7 @@ tags:
 
 
 
-### cifar10 实验
+### 实验命令
 - 使用 nohup python main.py --config template/fedfomo_cifar10_pr0.2.yaml > /data2/lc/experiments/logs/FedFomo_$(date +%Y%m%d_%H%M%S).log 2>&1 &   进行挂起
   - 1. 看日志输出（最常用）
 
