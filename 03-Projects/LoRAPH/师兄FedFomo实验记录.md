@@ -76,3 +76,6 @@ conda install -y -c pytorch -c nvidia pytorch torchvision pytorch-cuda=12.1
 
 PS:是否需要测试OOD数据呢？
 tiny的globalround是20，为什么呢，我用的100。。。。
+
+重组投影头的时候，我加了一行代码，分离base head...不分离总是报错
+![[image-50.png]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Projects/LoRAPH/未命名.md",
+                "file": "01-Diary/日志存档/2025-09-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "2025-09-11"
             }
           },
           {
@@ -34,8 +34,37 @@
               "icon": "lucide-file",
               "title": "2025-09-14"
             }
+          },
+          {
+            "id": "7543de64373fc693",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Projects/LoRAPH/师兄FedFomo实验记录.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "师兄FedFomo实验记录"
+            }
+          },
+          {
+            "id": "f6389055f75b2119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Cards/Linux操作相关.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux操作相关"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -67,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "linux",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -98,7 +127,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,10 +227,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c1684c9ae2d6eae",
+  "active": "f6389055f75b2119",
   "lastOpenFiles": [
     "01-Diary/日志存档/2025-09-14.md",
-    "03-Projects/LoRAPH/未命名.md",
+    "06-Cards/Linux操作相关.md",
+    "03-Projects/LoRAPH/师兄FedFomo实验记录.md",
+    "01-Diary/日志存档/2025-09-11.md",
+    "08-Assets/image-50.png",
     "01-Diary/日志存档/2025-09-23.md",
     "01-Diary/日志存档/2025-08-15.md",
     "03-Projects/LoRAPH",
@@ -224,13 +257,11 @@
     "06-Cards/环境， pytorch基础语法等/pytorch一些容易错的地方.md",
     "06-Cards/环境， pytorch基础语法等/pytorch基本知识.md",
     "01-Diary/日志存档/2025-06-06.md",
-    "06-Cards/Linux操作相关.md",
     "06-Cards/MINE_FL框架.md",
     "06-Cards/生成数据集.md",
     "06-Cards/环境， pytorch基础语法等/Featurize复现CreamFL.md",
     "06-Cards/环境， pytorch基础语法等/python基本语法.md",
     "06-Cards/环境， pytorch基础语法等/显卡.md",
-    "06-Cards/环境， pytorch基础语法等/本机配置环境.md",
     "08-Assets/pdfs/2017-On calibration of modern neural networks/2017-On calibration of modern neural networks.pdf",
     "08-Assets/pdfs/2017-On calibration of modern neural networks",
     "08-Assets/pdfs/2024-Decoupling parameter variation from noise/2024 IEEE 63rd Conference on Decision and Control (CDC)2024-Decoupling parameter variation from noise Biquadratic lyapunov forms .pdf",
@@ -244,7 +275,6 @@
     "08-Assets/image-43.png",
     "08-Assets/image-42.png",
     "08-Assets/image-41.png",
-    "08-Assets/image-40.png",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名 1.canvas",
     "00-MOC/未命名.canvas",
