@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -268,12 +268,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0b6257cf117c146",
+  "active": "1e8e850bcc71ed74",
   "lastOpenFiles": [
-    "03-Projects/LoRAPH/师兄FedFomo实验记录.md",
-    "06-Cards/LoRAPH项目.md",
     "06-Cards/Linux操作相关.md",
     "06-Cards/环境， pytorch基础语法等/显卡.md",
+    "03-Projects/LoRAPH/师兄FedFomo实验记录.md",
+    "06-Cards/LoRAPH项目.md",
     "06-Cards/多模态数据预处理.md",
     "01-Diary/日志存档/2025-09-14.md",
     "01-Diary/日志存档/2025-09-25.md",
