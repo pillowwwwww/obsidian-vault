@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "师兄FedFomo实验记录",
+      "path": "03-Projects/LoRAPH/师兄FedFomo实验记录.md"
+    },
+    {
+      "basename": "Linux操作相关",
+      "path": "06-Cards/Linux操作相关.md"
+    },
+    {
       "basename": "2025-09-11",
       "path": "01-Diary/日志存档/2025-09-11.md"
     },
@@ -9,16 +17,8 @@
       "path": "06-Cards/LoRAPH项目.md"
     },
     {
-      "basename": "Linux操作相关",
-      "path": "06-Cards/Linux操作相关.md"
-    },
-    {
       "basename": "显卡",
       "path": "06-Cards/环境， pytorch基础语法等/显卡.md"
-    },
-    {
-      "basename": "师兄FedFomo实验记录",
-      "path": "03-Projects/LoRAPH/师兄FedFomo实验记录.md"
     },
     {
       "basename": "多模态数据预处理",
