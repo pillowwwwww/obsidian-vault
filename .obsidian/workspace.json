@@ -8,90 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c1684c9ae2d6eae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/日志存档/2025-09-11.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-11"
-            }
-          },
-          {
-            "id": "9f604ec63d0842ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-Cards/LoRAPH项目.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LoRAPH项目"
-            }
-          },
-          {
-            "id": "e50c9436e3a8c363",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/日志存档/2025-09-14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-14"
-            }
-          },
-          {
-            "id": "b0b6257cf117c146",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-Cards/环境， pytorch基础语法等/显卡.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "显卡"
-            }
-          },
-          {
-            "id": "3bd5821fabd410f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-Cards/Linux操作相关.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linux操作相关"
-            }
-          },
-          {
-            "id": "1e8e850bcc71ed74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/日志存档/2025-09-11.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-11"
-            }
-          },
-          {
             "id": "26147262a251bcb1",
             "type": "leaf",
             "state": {
@@ -106,21 +22,21 @@
             }
           },
           {
-            "id": "f6389055f75b2119",
+            "id": "c2365a802a242781",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/Linux操作相关.md",
+                "file": "01-Diary/日志存档/2025-09-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux操作相关"
+              "title": "2025-09-25"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,12 +198,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26147262a251bcb1",
+  "active": "c2365a802a242781",
   "lastOpenFiles": [
+    "03-Projects/LoRAPH/师兄FedFomo实验记录.md",
     "06-Cards/LoRAPH项目.md",
     "01-Diary/日志存档/2025-09-25.md",
     "01-Diary/日志存档/2025-09-11.md",
-    "03-Projects/LoRAPH/师兄FedFomo实验记录.md",
     "06-Cards/Linux操作相关.md",
     "06-Cards/环境， pytorch基础语法等/显卡.md",
     "06-Cards/多模态数据预处理.md",
