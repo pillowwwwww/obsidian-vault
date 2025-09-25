@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "师兄FedFomo实验记录",
+      "path": "03-Projects/LoRAPH/师兄FedFomo实验记录.md"
+    },
+    {
+      "basename": "LoRAPH项目",
+      "path": "06-Cards/LoRAPH项目.md"
+    },
+    {
+      "basename": "Linux操作相关",
+      "path": "06-Cards/Linux操作相关.md"
+    },
+    {
+      "basename": "显卡",
+      "path": "06-Cards/环境， pytorch基础语法等/显卡.md"
+    },
+    {
+      "basename": "多模态数据预处理",
+      "path": "06-Cards/多模态数据预处理.md"
+    },
+    {
       "basename": "2025-09-14",
       "path": "01-Diary/日志存档/2025-09-14.md"
     },
     {
       "basename": "2025-09-25",
       "path": "01-Diary/日志存档/2025-09-25.md"
-    },
-    {
-      "basename": "师兄FedFomo实验记录",
-      "path": "03-Projects/LoRAPH/师兄FedFomo实验记录.md"
-    },
-    {
-      "basename": "Linux操作相关",
-      "path": "06-Cards/Linux操作相关.md"
     },
     {
       "basename": "2025-09-11",
@@ -43,10 +55,6 @@
     {
       "basename": "2025-07-15",
       "path": "01-Diary/日志存档/2025-07-15.md"
-    },
-    {
-      "basename": "LoRAPH项目",
-      "path": "06-Cards/LoRAPH项目.md"
     },
     {
       "basename": "集成学习Ensembling和蒸馏",
@@ -87,10 +95,6 @@
     {
       "basename": "python基本语法",
       "path": "06-Cards/环境， pytorch基础语法等/python基本语法.md"
-    },
-    {
-      "basename": "显卡",
-      "path": "06-Cards/环境， pytorch基础语法等/显卡.md"
     },
     {
       "basename": "本机配置环境",

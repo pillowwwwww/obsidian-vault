@@ -50,7 +50,8 @@ conda install -y -c pytorch -c nvidia pytorch torchvision pytorch-cuda=12.1
 ```
 其它的包使用pip install吧
 
-### cifar10 实验
+### 一些实验的命令行
+
 - 使用 nohup python main.py --config template/fedfomo_cifar10_pr0.2.yaml > /data2/lc/experiments/logs/FedFomo_$(date +%Y%m%d_%H%M%S).log 2>&1 &   进行挂起
   - 1. 看日志输出（最常用）
 
@@ -68,7 +69,22 @@ conda install -y -c pytorch -c nvidia pytorch torchvision pytorch-cuda=12.1
 
 	这样你能看到训练进度。
 
+- 查看当前显卡的进程：
+```
+# 只列出有计算上下文的进程（没有就什么都不输出）
+nvidia-smi --query-compute-apps=gpu_uuid,pid,process_name,used_memory --format=csv,noheader
 
+# 只看第 3 号卡的进程
+nvidia-smi -i 3 --query-compute-apps=pid,process_name,used_memory --format=csv,noheader
+```
+
+- 查看当前进程：
+```
+ps -p PID -o pid,ppid,stat,stime,etime,%cpu,%mem,cmd
+# 若进程不在了，会输出not running
+ps -p <PID> -o pid,ppid,stat,etime,%cpu,%mem,cmd || echo "not running"
+
+```
 
 ----
 现在跑完了算法本身的模型，接下来要把FedFomo与APH和LoRAPH结合：
@@ -79,3 +95,6 @@ tiny的globalround是20，为什么呢，我用的100。。。。
 
 重组投影头的时候，我加了一行代码，分离base head...不分离总是报错
 ![[image-50.png]]
+
+
+---

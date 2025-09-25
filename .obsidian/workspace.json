@@ -36,6 +36,62 @@
             }
           },
           {
+            "id": "b0b6257cf117c146",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Cards/环境， pytorch基础语法等/显卡.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "显卡"
+            }
+          },
+          {
+            "id": "3bd5821fabd410f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Cards/Linux操作相关.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux操作相关"
+            }
+          },
+          {
+            "id": "1e8e850bcc71ed74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Cards/LoRAPH项目.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LoRAPH项目"
+            }
+          },
+          {
+            "id": "26147262a251bcb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Projects/LoRAPH/师兄FedFomo实验记录.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "师兄FedFomo实验记录"
+            }
+          },
+          {
             "id": "f6389055f75b2119",
             "type": "leaf",
             "state": {
@@ -50,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -82,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linux",
+                "query": "kill",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -113,8 +169,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,12 +268,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e50c9436e3a8c363",
+  "active": "26147262a251bcb1",
   "lastOpenFiles": [
-    "01-Diary/日志存档/2025-09-25.md",
+    "06-Cards/LoRAPH项目.md",
     "03-Projects/LoRAPH/师兄FedFomo实验记录.md",
     "06-Cards/Linux操作相关.md",
+    "06-Cards/环境， pytorch基础语法等/显卡.md",
+    "06-Cards/多模态数据预处理.md",
     "01-Diary/日志存档/2025-09-14.md",
+    "01-Diary/日志存档/2025-09-25.md",
     "01-Diary/日志存档/2025-09-11.md",
     "08-Assets/image-50.png",
     "01-Diary/日志存档/2025-09-23.md",
@@ -237,7 +295,6 @@
     "06-Cards/通用知识/机器学习与深度学习中的数学知识点汇总.md",
     "06-Cards/Energy-Based Models 能量模型.md",
     "01-Diary/日志存档/2025-07-15.md",
-    "06-Cards/LoRAPH项目.md",
     "06-Cards/集成学习Ensembling和蒸馏.md",
     "01-Diary/日志存档/2025-06-09.md",
     "01-Diary/日志存档/2025-06-05.md",
@@ -246,8 +303,6 @@
     "01-Diary/日志存档/2025-06-06.md",
     "06-Cards/MINE_FL框架.md",
     "06-Cards/生成数据集.md",
-    "06-Cards/环境， pytorch基础语法等/Featurize复现CreamFL.md",
-    "06-Cards/环境， pytorch基础语法等/python基本语法.md",
     "08-Assets/pdfs/2017-On calibration of modern neural networks/2017-On calibration of modern neural networks.pdf",
     "08-Assets/pdfs/2017-On calibration of modern neural networks",
     "08-Assets/pdfs/2024-Decoupling parameter variation from noise/2024 IEEE 63rd Conference on Decision and Control (CDC)2024-Decoupling parameter variation from noise Biquadratic lyapunov forms .pdf",
