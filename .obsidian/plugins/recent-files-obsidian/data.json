@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "显卡",
+      "path": "06-Cards/环境， pytorch基础语法等/显卡.md"
+    },
+    {
       "basename": "师兄FedFomo实验记录",
       "path": "03-Projects/LoRAPH/师兄FedFomo实验记录.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Linux操作相关",
       "path": "06-Cards/Linux操作相关.md"
-    },
-    {
-      "basename": "显卡",
-      "path": "06-Cards/环境， pytorch基础语法等/显卡.md"
     },
     {
       "basename": "多模态数据预处理",
