@@ -96,6 +96,15 @@ tiny的globalround是20，为什么呢，我用的100。。。。
 重组投影头的时候，我加了一行代码，分离base head...不分离总是报错
 ![[image-50.png]]
 
+---
+## 评估：
+
+### 1. FedFomo基线评估（w/o） - 使用 eval_script_fedavg.py
+- 直接使用fedavg的测评方法测评fedfomo是不行的，acc算出来只有10%，因为使用了全局模型
+```
+	      model = server.global_model
+```
+- 想看 FedFomo 的表现：需要对 client_models 逐个评估，然后按样本数/权重加权平均。框架训练日志已经在 serverFomo.evaluate() 中做了这件事，所以看到 0.76+ 的准确率。
 
 ---
 ## 查找进程：
