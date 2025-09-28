@@ -86,6 +86,58 @@ ps -p <PID> -o pid,ppid,stat,etime,%cpu,%mem,cmd || echo "not running"
 
 ```
 
+
+
+---
+## 调参
+### 一些知识点
+### 一、 参数 vs 超参数
+
+ 参数 (Parameters)
+
+- **定义**：模型内部的可学习变量
+- **例子**：神经网络的权重(W)和偏置(b)
+- **特点**：训练过程中自动更新
+
+```python
+# 例如一个简单神经网络
+y = W * x + b  # W和b就是参数，会通过梯度下降自动学习
+```
+
+超参数 (Hyperparameters)
+
+- **定义**：训练前需要人工设定的配置
+- **例子**：学习率、batch_size、网络层数等
+- **特点**：需要人工调整，不会自动学习
+
+```python
+# 这些都是超参数，需要你提前设定
+learning_rate = 0.01
+batch_size = 128
+epochs = 100
+```
+
+### 二、一些实验步骤：
+ 如果你想快速测试：
+
+```yaml
+times: 1
+search: false  # 只测试默认值
+```
+
+如果你想认真调参：
+
+```yaml
+times: 3  # 每组合运行3次，结果更可靠
+search: true
+# 但建议先缩小搜索空间
+M: search: [3, 5]  # 只测试2个值
+```
+
+为什么要times>1？
+因为深度学习有随机性，单次结果不可靠。
+search: 是否超参数调参，如果不search的话，那么不会遍历参数取值。
+
 ----
 现在跑完了算法本身的模型，接下来要把FedFomo与APH和LoRAPH结合：
 ### 2）
@@ -126,3 +178,27 @@ tiny的globalround是20，为什么呢，我用的100。。。。
 `ps -ef | grep python | grep -v grep`
 只看自己的：
 `ps -u liuchang | grep train_ | grep -v grep`
+
+
+
+---
+
+---
+OOM:
+1. 出现在重组投影头的时候，main没有split（这是为什么）
+2. aph 评估，cifar10结束之后，恢复cifar100的snapshot的时候会出现OOM
+3.  问一下师兄，一般同时加载多少客户端，会OOM？我们有什么办法去避免OOM,或者遇到OOM之后应该如何做？ 
+	1. 上一个数据集结束的时候Release memory
+	2. restore_from_pickle 反序列化时会把快照里的所有客户端模型直接 to(self.device) 上 GPU（PFL/system/flcore/servers/serverbase.py:617-618）。在这一瞬间显存就被一次性占满，导致报错退出，所以现在先把快照加载到CPU，或者，
+	3. 在 restore_snapshot 加参数跳过 client_models/clients[i].model 的 GPU 上屏，评测时按需拉取。
+
+
+----
+## 汇报：
+
+
+
+1. 把FedFomo迁移到MINI_FL框架上
+2. 写yaml实验配置：         
+					times写几次？- 我看之前的yaml是1/3/5都有；
+					 search: true   - 是否要进行超参数搜索？（Fe'd哪些参数需要还是直接用FedFomo原作者在github上给出的
