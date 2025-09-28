@@ -117,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.50328826904297
+    "width": 321.50328826904297
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -212,8 +212,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e990c811b2dcffe6",
+  "active": "248e60fc915edf86",
   "lastOpenFiles": [
+    "08-Assets/image-53.png",
+    "08-Assets/image-52.png",
+    "08-Assets/image-51.png",
     "06-Cards/LoRAPH项目.md",
     "03-Projects/LoRAPH/师兄FedFomo实验记录.md",
     "01-Diary/日志存档/2025-09-25.md",
@@ -246,7 +249,6 @@
     "01-Diary/日志存档/2025-06-05.md",
     "06-Cards/环境， pytorch基础语法等/pytorch一些容易错的地方.md",
     "06-Cards/环境， pytorch基础语法等/pytorch基本知识.md",
-    "06-Cards/MINE_FL框架.md",
     "08-Assets/pdfs/2017-On calibration of modern neural networks/2017-On calibration of modern neural networks.pdf",
     "08-Assets/pdfs/2017-On calibration of modern neural networks",
     "08-Assets/pdfs/2024-Decoupling parameter variation from noise/2024 IEEE 63rd Conference on Decision and Control (CDC)2024-Decoupling parameter variation from noise Biquadratic lyapunov forms .pdf",
@@ -258,8 +260,6 @@
     "08-Assets/image-45.png",
     "08-Assets/image-44.png",
     "08-Assets/image-43.png",
-    "08-Assets/image-42.png",
-    "08-Assets/image-41.png",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名 1.canvas",
     "00-MOC/未命名.canvas",

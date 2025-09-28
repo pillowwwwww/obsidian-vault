@@ -201,4 +201,32 @@ OOM:
 1. 把FedFomo迁移到MINI_FL框架上
 2. 写yaml实验配置：         
 					times写几次？- 我看之前的yaml是1/3/5都有；
-					 search: true   - 是否要进行超参数搜索？（Fe'd哪些参数需要还是直接用FedFomo原作者在github上给出的
+					 search: true   - 是否要进行超参数搜索？（FedFomo有三个参数 M、ε、val 比例，最后只用了mu，这是为什么呢？）
+					 客户端参与率、lr、local epouch、ground rounds这些，一般先使用comme setting, 在自己做实验的时候，在一点点尝试哪个设置更好嘛? 现在在测试别人的算法，所以就沿用同意的setting就可以吗？
+3. 划分数据集 ：
+					dir/pat怎么选呢，我现在是完全仿照师兄之前的设置，划分的数据集（Cifar10_NonIID_Pat2_Client20、Cifar100_NonIID_Dir0.05_Client20、TinyImageNet_NonIID_Dir0.05_Client20）
+4. 训练基线w/o模型，保存
+5. 训练APH/LoRAPH重组投影头，保存：
+					我一开始在main函数中没有把FedFomo进行分离（ split_model = rearrange_model(init_model)）导致总是报错OOM，又删掉之前训练的模型重新训练的。
+	![[image-53.png|670x737]]
+6. 评估基线模型 
+				fedfomo的基线模型评估脚本之前是用来评估FedAvg的，要重写，需要对 client_models 逐个评估，然后按样本数/权重加权平均。
+7. 评估APH/LoRAPH重组后
+		改写评估脚本后，用的【eval_script_aph_compatible.py】，
+```
+global_epoch = 10
+
+sampling_num = 10
+
+upper_lr = 0.1
+
+lower_lr = 0.01
+
+p_lambda = 0.1
+```
+但是总是遇到OOM的错误（发现可能是FedFomo算法需要为每个客户端维护一个模型副本？可能是这个原因？）
+			我尝试了以下办法： 1.只把当前要测的模型暂时迁到 GPU，用完立刻挪回 CPU，并torch.cuda.empty_cache()
+			2. 把 config.general.device、server.device 强制设为 'cpu'，；并在循环末尾清理引用、触发垃圾回收。
+		
+都不行，但是可用的memory变多了，但还是报错OOM。
+		 
