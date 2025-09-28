@@ -149,4 +149,8 @@ search: 是否超参数调参，如果不search的话，那么不会遍历参数
 OOM:
 1. 出现在重组投影头的时候，main没有split（这是为什么）
 2. aph 评估，cifar10结束之后，恢复cifar100的snapshot的时候会出现OOM
-3. 
+3.  问一下师兄，一般同时加载多少客户端，会OOM？我们有什么办法去避免OOM,或者遇到OOM之后应该如何做？ 
+	1. 上一个数据集结束的时候Release memory
+	2. restore_from_pickle 反序列化时会把快照里的所有客户端模型直接 to(self.device) 上 GPU（PFL/system/flcore/servers/serverbase.py:617-618）。在这一瞬间显存就被一次性占满，导致报错退出，所以现在先把快照加载到CPU，或者，
+	3. 在 restore_snapshot 加参数跳过 client_models/clients[i].model 的 GPU 上屏，评测时按需拉取。
+	4. 
