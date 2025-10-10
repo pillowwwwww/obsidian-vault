@@ -34,6 +34,20 @@
               "icon": "lucide-file",
               "title": "2025-10-10"
             }
+          },
+          {
+            "id": "2f64751561c4b654",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Diary/日志存档/2025-09-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-25"
+            }
           }
         ],
         "currentTab": 1
@@ -99,8 +113,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-Cards/实验日志.md",
+                "file": "01-Diary/日志存档/2025-10-10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "实验日志 的大纲"
+              "title": "2025-10-10 的大纲"
             }
           },
           {
@@ -178,12 +191,12 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,15 +214,15 @@
   },
   "active": "e5aa146106d361d8",
   "lastOpenFiles": [
-    "03-Projects/LoRAPH/师兄FedFomo实验记录.md",
-    "01-Diary/日志存档/2025-10-10.md",
     "01-Diary/日志存档/2025-09-25.md",
+    "01-Diary/日志存档/2025-10-10.md",
+    "01-Diary/日志存档/2025-09-29.md",
+    "03-Projects/LoRAPH/师兄FedFomo实验记录.md",
     "08-Assets/image-55.png",
     "06-Cards/LoRAPH项目.md",
     "01-Diary/本周事务/未命名 2.md",
     "08-Assets/image-54.png",
     "01-Diary/本周事务/未命名 1.md",
-    "01-Diary/日志存档/2025-09-29.md",
     "08-Assets/image-53.png",
     "08-Assets/image-52.png",
     "08-Assets/image-51.png",
