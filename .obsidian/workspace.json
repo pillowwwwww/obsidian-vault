@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Projects/LoRAPH/师兄FedFomo实验记录.md",
+                "file": "01-Diary/日志存档/2025-10-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "师兄FedFomo实验记录"
+              "title": "2025-10-14"
             }
           },
           {
@@ -112,12 +112,12 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 321.50328826904297,
-    "collapsed": true
+    "width": 321.50328826904297
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Projects/LoRAPH/师兄FedFomo实验记录.md",
+                "file": "01-Diary/日志存档/2025-10-14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "师兄FedFomo实验记录 的大纲"
+              "title": "2025-10-14 的大纲"
             }
           },
           {
@@ -213,8 +213,9 @@
   },
   "active": "27f2dfa020e03006",
   "lastOpenFiles": [
-    "01-Diary/日志存档/2025-10-10.md",
     "03-Projects/LoRAPH/师兄FedFomo实验记录.md",
+    "01-Diary/日志存档/2025-10-14.md",
+    "01-Diary/日志存档/2025-10-10.md",
     "06-Cards/LoRAPH项目.md",
     "01-Diary/日志存档/2025-09-25.md",
     "01-Diary/日志存档/2025-09-29.md",
@@ -250,7 +251,6 @@
     "06-Cards/Energy-Based Models 能量模型.md",
     "01-Diary/日志存档/2025-07-15.md",
     "06-Cards/集成学习Ensembling和蒸馏.md",
-    "01-Diary/日志存档/2025-06-09.md",
     "08-Assets/pdfs/2017-On calibration of modern neural networks/2017-On calibration of modern neural networks.pdf",
     "08-Assets/pdfs/2017-On calibration of modern neural networks",
     "08-Assets/pdfs/2024-Decoupling parameter variation from noise/2024 IEEE 63rd Conference on Decision and Control (CDC)2024-Decoupling parameter variation from noise Biquadratic lyapunov forms .pdf",
