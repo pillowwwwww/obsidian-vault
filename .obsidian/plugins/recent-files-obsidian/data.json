@@ -5,6 +5,22 @@
       "path": "03-Projects/LoRAPH/师兄FedFomo实验记录.md"
     },
     {
+      "basename": "2025-09-25",
+      "path": "01-Diary/日志存档/2025-09-25.md"
+    },
+    {
+      "basename": "集成学习Ensembling和蒸馏",
+      "path": "06-Cards/集成学习Ensembling和蒸馏.md"
+    },
+    {
+      "basename": "Huang Pami 综述2024",
+      "path": "02-Reading/mdnotes/Huang Pami 综述2024.md"
+    },
+    {
+      "basename": "Lin2020 FedDF 集成蒸馏",
+      "path": "02-Reading/mdnotes/Lin2020 FedDF 集成蒸馏.md"
+    },
+    {
       "basename": "关于git操作",
       "path": "06-Cards/关于git操作.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "2025-10-10",
       "path": "01-Diary/日志存档/2025-10-10.md"
-    },
-    {
-      "basename": "2025-09-25",
-      "path": "01-Diary/日志存档/2025-09-25.md"
     },
     {
       "basename": "未命名 1",
@@ -71,10 +83,6 @@
     {
       "basename": "2025-07-15",
       "path": "01-Diary/日志存档/2025-07-15.md"
-    },
-    {
-      "basename": "集成学习Ensembling和蒸馏",
-      "path": "06-Cards/集成学习Ensembling和蒸馏.md"
     },
     {
       "basename": "2025-06-09",
@@ -191,14 +199,6 @@
     {
       "basename": "2025-08-10",
       "path": "01-Diary/日志存档/2025-08-10.md"
-    },
-    {
-      "basename": "环境配置",
-      "path": "01-Diary/本周事务/环境配置.md"
-    },
-    {
-      "basename": "2025-05-12",
-      "path": "01-Diary/日志存档/2025-05-12.md"
     }
   ],
   "omittedPaths": [],

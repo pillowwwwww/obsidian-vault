@@ -264,4 +264,9 @@ p_lambda = 0.1
 通过这个小项目，现在能搞清楚整个实验流程，并且会动手设计实验，评估等等，并且弄明白了师兄之前的工作，以及现有框架。![[image-55.png|555x293]]
 
 ---
-关于
+# 实验2 ： ECE vs. Dir参数 以及 ECE vs. 参与率的变化图
+
+base模型已训练好（/home/jqchen/code/MINE_FL/Uncertainty/LoRAPH/temp_script/Avg_pr_models），你试着对这12个模型分别用APH和LoRAPH去提升其ECE，保存一下数据。
+
+1. 使用train_aph_script重组
+2. 
