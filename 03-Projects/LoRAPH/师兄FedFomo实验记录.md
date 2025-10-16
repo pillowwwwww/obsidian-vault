@@ -268,5 +268,117 @@ p_lambda = 0.1
 
 base模型已训练好（/home/jqchen/code/MINE_FL/Uncertainty/LoRAPH/temp_script/Avg_pr_models），你试着对这12个模型分别用APH和LoRAPH去提升其ECE，保存一下数据。
 
-1. 使用train_aph_script重组
-2. 
+1. 使用train_aph_script重组。
+2. 目前是针对pkl文件，通过get models.py把它转换成pt文件。注意：可以双层嵌套遍历+使用测试客户端去接收参数
+3. 
+```
+训练APH模型
+
+- **训练脚本**: `train_aph_sequence.py`
+
+- **训练日志**: `aph_sequence.log` (包含所有训练过程的ECE记录)
+
+- **保存路径**: `aph_heads/aph_head_{dataset}_pr_{pr}.pkl`
+
+训练LoRAPH模型
+
+- **训练脚本**: `train_loraph_sequence.py`
+
+- **训练日志**: `loraph_sequence.log` (包含所有训练过程的ECE记录)
+
+- **保存路径**: `aph_heads/loraph_head_{dataset}_pr_{pr}.pkl
+
+---
+```
+
+4. 把基线模型，APH，LoRAPH的ECE提取出来，绘图。
+师兄建议我：固定那个啥，比如说你固定PR，然后去变啊，比如说你PR在0.0.1，然后你的纵轴是ECE，然后横轴是那个那个。迪利克粒分布那个参数阿尔法，然后把把那三个方法（基线，APH, LoRAPH)分别是3条线或者3个那个把那种柱状图这样去画。比较直观，你这样画看不出来趋势的，因为咱们需要的是方法之间的纵向对比。
+
+5. 根据师兄的绘图脚本修改：
+  
+ 1️⃣ **matplotlib论文级配置** (完全借鉴)
+
+**来源**: `plot_heatmap.py` 第9-11行, `plot_pr_dir_bar.py` 第8-10行
+
+```python
+
+# 师兄的配置（我100%采用）
+
+plt.rcParams["font.family"] = "Times New Roman"
+
+plt.rcParams["font.size"] = 20
+
+plt.rcParams['pdf.fonttype'] = 42  # 确保PDF字体可编辑
+
+```
+
+**学到的知识点**:
+
+- `pdf.fonttype = 42` 保证生成的PDF字体是TrueType，可在Adobe Illustrator等软件中编辑
+
+- 字号20适合学术论文的图表尺寸
+
+- Times New Roman是SCI论文标准字体
+
+
+2️⃣ **专业配色方案** (完全采用) **来源**: `plot_pr_dir_bar.py` 第14行
+
+```python
+
+# 师兄的配色（我完全照搬）
+
+COLORS = ["#4E79A7", "#F28E2B", "#59A14F"]  # 蓝橙绿，论文风格
+
+```
+
+**学到的知识点**:
+- 这组配色来自Tableau专业调色板
+- 色盲友好（colorblind-safe）
+- 适合黑白打印（对比度高）
+- 符合学术期刊审美标准  
+
+**颜色含义**:
+- `#4E79A7` (蓝色): 稳重，适合基线方法
+- `#F28E2B` (橙色): 醒目，适合改进方法
+- `#59A14F` (绿色): 清新，适合最优方法
+
+3️⃣ **柱状图+折线图组合** (核心借鉴 ⭐⭐⭐) **来源**: `plot_pr_dir_bar.py` 第52-84行
+
+
+```python
+
+# 师兄的巧妙设计
+
+# 步骤1: 先画柱状图
+
+for i, alg in enumerate(ALG_ORDER):
+
+    centers = x + (i - 1) * width
+
+    heights = np.asarray(data[alg], dtype=float)
+
+    plt.bar(centers, heights, width=width,
+
+            color=COLORS[i], edgecolor='black', linewidth=0.8, alpha=0.6)
+
+    bar_centers_per_alg[alg] = centers
+
+    tops_per_alg[alg] = heights
+
+  
+
+# 步骤2: 再叠加折线（连接柱顶）
+
+for i, alg in enumerate(ALG_ORDER):
+
+    plt.plot(bar_centers_per_alg[alg], tops_per_alg[alg],
+
+             linestyle='-', marker='o', linewidth=2,
+
+             color=COLORS[i], label='_nolegend_')
+
+```
+
+**总结**：绘图模板去找temp_script/plot_开头的这三个文件
+
+6. ![[a0bd2dd42a0e6a433d53fd3c6af624a7.png]]
