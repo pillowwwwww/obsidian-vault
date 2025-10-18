@@ -8,35 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5aa146106d361d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/日志存档/2025-10-16.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-16"
-            }
-          },
-          {
             "id": "55278c6e45cc06dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2025-10-18.md",
+                "file": "03-Projects/LoRAPH/师兄FedFomo实验记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-18"
+              "title": "师兄FedFomo实验记录"
+            }
+          },
+          {
+            "id": "1bf052c1df1679f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Diary/日志存档/2025-10-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-10"
+            }
+          },
+          {
+            "id": "837df356f1ef1198",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Cards/多模态/多模态评估.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "多模态评估"
+            }
+          },
+          {
+            "id": "6fe0c94bac6f265c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Cards/多模态/多模态数据预处理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "多模态数据预处理"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Diary/日志存档/2025-10-18.md",
+                "file": "06-Cards/多模态/多模态数据预处理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-10-18 的大纲"
+              "title": "多模态数据预处理 的大纲"
             }
           },
           {
@@ -197,17 +225,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3090910a3bbb4bfa",
+  "active": "6fe0c94bac6f265c",
   "lastOpenFiles": [
-    "03-Projects/LoRAPH/师兄FedFomo实验记录.md",
+    "06-Cards/多模态/多模态评估.md",
+    "06-Cards/多模态/多模态数据预处理.md",
+    "06-Cards/多模态",
+    "01-Diary/日志存档/2025-10-10.md",
     "01-Diary/日志存档/2025-10-18.md",
+    "01-Diary/日志存档/2025-10-16.md",
+    "03-Projects/LoRAPH/师兄FedFomo实验记录.md",
     "06-Cards/集成学习Ensembling和蒸馏.md",
     "06-Cards/对比学习.md",
-    "01-Diary/日志存档/2025-10-10.md",
     "01-Diary/日志存档/2025-05-19.md",
     "03-Projects/99-使用obsidian搞科研/软件下载安装.md",
     "06-Cards/通用知识/机器学习与深度学习中的数学知识点汇总.md",
-    "01-Diary/日志存档/2025-10-16.md",
     "06-Cards/常见深度学习术语解析笔记.md",
     "01-Diary/日志存档/2025-09-14.md",
     "01-Diary/日志存档/2025-06-06.md",
@@ -229,8 +260,6 @@
     "08-Assets/image-51.png",
     "01-Diary/日志存档/2025-09-27.md",
     "01-Diary/日志存档/2025-09-11.md",
-    "06-Cards/Linux操作相关.md",
-    "06-Cards/环境， pytorch基础语法等/显卡.md",
     "08-Assets/image-50.png",
     "03-Projects/LoRAPH",
     "08-Assets/pdfs/2024-Watch your head/2024-Watch your head Assembling projection heads to save the reliability of federated models.pdf",
@@ -241,7 +270,6 @@
     "08-Assets/pdfs/2017-On calibration of modern neural networks/2017-On calibration of modern neural networks.pdf",
     "08-Assets/pdfs/2017-On calibration of modern neural networks",
     "08-Assets/pdfs/2024-Decoupling parameter variation from noise/2024 IEEE 63rd Conference on Decision and Control (CDC)2024-Decoupling parameter variation from noise Biquadratic lyapunov forms .pdf",
-    "08-Assets/pdfs/2024-Decoupling parameter variation from noise",
     "08-Assets/image-49.png",
     "08-Assets/image-48.png",
     "08-Assets/image-47.png",

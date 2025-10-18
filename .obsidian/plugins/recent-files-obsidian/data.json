@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-10-18",
-      "path": "01-Diary/日志存档/2025-10-18.md"
+      "basename": "多模态数据预处理",
+      "path": "06-Cards/多模态/多模态数据预处理.md"
+    },
+    {
+      "basename": "多模态评估",
+      "path": "06-Cards/多模态/多模态评估.md"
+    },
+    {
+      "basename": "2025-10-10",
+      "path": "01-Diary/日志存档/2025-10-10.md"
     },
     {
       "basename": "师兄FedFomo实验记录",
@@ -17,10 +25,6 @@
       "path": "06-Cards/对比学习.md"
     },
     {
-      "basename": "2025-10-10",
-      "path": "01-Diary/日志存档/2025-10-10.md"
-    },
-    {
       "basename": "2025-05-19",
       "path": "01-Diary/日志存档/2025-05-19.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "机器学习与深度学习中的数学知识点汇总",
       "path": "06-Cards/通用知识/机器学习与深度学习中的数学知识点汇总.md"
-    },
-    {
-      "basename": "2025-10-16",
-      "path": "01-Diary/日志存档/2025-10-16.md"
     },
     {
       "basename": "常见深度学习术语解析笔记",
@@ -79,10 +79,6 @@
     {
       "basename": "显卡",
       "path": "06-Cards/环境， pytorch基础语法等/显卡.md"
-    },
-    {
-      "basename": "多模态数据预处理",
-      "path": "06-Cards/多模态数据预处理.md"
     },
     {
       "basename": "2025-09-23",
