@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/多模态/多模态数据预处理.md",
+                "file": "06-Cards/对比学习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多模态数据预处理"
+              "title": "对比学习"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "迁移",
+                "query": "对比学习",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -127,11 +127,13 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 321.50328826904297
+    "width": 321.50328826904297,
+    "collapsed": true
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -147,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-Cards/多模态/多模态数据预处理.md",
+                "file": "06-Cards/对比学习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "多模态数据预处理 的大纲"
+              "title": "对比学习 的大纲"
             }
           },
           {
@@ -209,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,8 +230,12 @@
   },
   "active": "6fe0c94bac6f265c",
   "lastOpenFiles": [
-    "06-Cards/多模态/多模态评估.md",
+    "08-Assets/pdfs/2021-Learning transferable visual models from natural language supervision/2021-Learning transferable visual models from natural language supervision.pdf",
+    "08-Assets/pdfs/2021-Learning transferable visual models from natural language supervision",
+    "09-Templates/阅读批注.md",
+    "01-Diary/日志存档/2025-06-06.md",
     "06-Cards/多模态/多模态数据预处理.md",
+    "06-Cards/多模态/多模态评估.md",
     "06-Cards/多模态",
     "01-Diary/日志存档/2025-10-10.md",
     "01-Diary/日志存档/2025-10-18.md",
@@ -241,7 +248,6 @@
     "06-Cards/通用知识/机器学习与深度学习中的数学知识点汇总.md",
     "06-Cards/常见深度学习术语解析笔记.md",
     "01-Diary/日志存档/2025-09-14.md",
-    "01-Diary/日志存档/2025-06-06.md",
     "08-Assets/a0bd2dd42a0e6a433d53fd3c6af624a7.png",
     "01-Diary/日志存档/2025-10-15.md",
     "01-Diary/日志存档/2025-10-14.md",
@@ -258,8 +264,6 @@
     "08-Assets/image-53.png",
     "08-Assets/image-52.png",
     "08-Assets/image-51.png",
-    "01-Diary/日志存档/2025-09-27.md",
-    "01-Diary/日志存档/2025-09-11.md",
     "08-Assets/image-50.png",
     "03-Projects/LoRAPH",
     "08-Assets/pdfs/2024-Watch your head/2024-Watch your head Assembling projection heads to save the reliability of federated models.pdf",
@@ -269,7 +273,6 @@
     "08-Assets/pdfs/2024-APH- Watch Your Head Assembling",
     "08-Assets/pdfs/2017-On calibration of modern neural networks/2017-On calibration of modern neural networks.pdf",
     "08-Assets/pdfs/2017-On calibration of modern neural networks",
-    "08-Assets/pdfs/2024-Decoupling parameter variation from noise/2024 IEEE 63rd Conference on Decision and Control (CDC)2024-Decoupling parameter variation from noise Biquadratic lyapunov forms .pdf",
     "08-Assets/image-49.png",
     "08-Assets/image-48.png",
     "08-Assets/image-47.png",
