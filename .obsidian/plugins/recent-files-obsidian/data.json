@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "多模态的几篇经典论文",
+      "path": "06-Cards/多模态/多模态的几篇经典论文.md"
+    },
+    {
+      "basename": "多模态评估",
+      "path": "06-Cards/多模态/多模态评估.md"
+    },
+    {
+      "basename": "CLIP  Radford2021",
+      "path": "02-Reading/mdnotes/CLIP  Radford2021.md"
+    },
+    {
+      "basename": "Lin2020 FedDF 集成蒸馏",
+      "path": "02-Reading/mdnotes/Lin2020 FedDF 集成蒸馏.md"
+    },
+    {
       "basename": "对比学习",
       "path": "06-Cards/对比学习.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "多模态数据预处理",
       "path": "06-Cards/多模态/多模态数据预处理.md"
-    },
-    {
-      "basename": "多模态评估",
-      "path": "06-Cards/多模态/多模态评估.md"
     },
     {
       "basename": "2025-10-10",
@@ -59,10 +71,6 @@
     {
       "basename": "Huang Pami 综述2024",
       "path": "02-Reading/mdnotes/Huang Pami 综述2024.md"
-    },
-    {
-      "basename": "Lin2020 FedDF 集成蒸馏",
-      "path": "02-Reading/mdnotes/Lin2020 FedDF 集成蒸馏.md"
     },
     {
       "basename": "关于git操作",
@@ -187,18 +195,6 @@
     {
       "basename": "抖音内生检索所有prompt 1",
       "path": "01-Diary/日志存档/抖音内生检索所有prompt 1.md"
-    },
-    {
-      "basename": "2025-08-24",
-      "path": "01-Diary/日志存档/2025-08-24.md"
-    },
-    {
-      "basename": "```",
-      "path": "01-Diary/日志存档/```.md"
-    },
-    {
-      "basename": "2025-08-18",
-      "path": "01-Diary/日志存档/2025-08-18.md"
     }
   ],
   "omittedPaths": [],
