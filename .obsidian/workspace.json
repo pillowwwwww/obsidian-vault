@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/多模态/多模态的几篇经典论文.md",
+                "file": "01-Diary/日志存档/2025-10-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多模态的几篇经典论文"
+              "title": "2025-10-21"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "qia",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -155,12 +155,12 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 321.50328826904297,
-    "collapsed": true
+    "width": 321.50328826904297
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-Cards/多模态/多模态的几篇经典论文.md",
+                "file": "01-Diary/日志存档/2025-10-21.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "多模态的几篇经典论文 的大纲"
+              "title": "2025-10-21 的大纲"
             }
           },
           {
@@ -238,8 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,8 +254,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6fe0c94bac6f265c",
+  "active": "d4cc5673d41093ba",
   "lastOpenFiles": [
+    "06-Cards/多模态/多模态的几篇经典论文.md",
+    "01-Diary/日志存档/2025-10-21.md",
     "06-Cards/多模态/多模态评估.md",
     "02-Reading/mdnotes/CLIP  Radford2021.md",
     "02-Reading/mdnotes/Lin2020 FedDF 集成蒸馏.md",
@@ -265,7 +266,6 @@
     "08-Assets/image-58.png",
     "08-Assets/image-57.png",
     "08-Assets/image-56.png",
-    "06-Cards/多模态/多模态的几篇经典论文.md",
     "06-Cards/对比学习.md",
     "08-Assets/pdfs/2021-ViLT/2021-ViLT Vision-and-language transformer without convolution or region supervision.pdf",
     "08-Assets/pdfs/2021-ViLT",
