@@ -1,22 +1,11 @@
 ---
-date: 2025-10-23 16:43:22
-tags: dailynote
-rating: ⭐
-excerpt: 
+Title: 
+tags: 
+原始链接: 
+date:
 ---
 
-## TODO
 
-- [ ] 学习lora后，回去看adapt综述论文和b站的两个视频[大模型时代下做科研的四个思路【论文精读·52】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1oX4y1d7X6?spm_id_from=333.788.videopod.sections&vd_source=ca057beeef58161f396ba6bc8f855c34) [多模态经典论文讲解 4：VLMO_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1MAK3zkEhT?spm_id_from=333.788.videopod.sections&vd_source=ca057beeef58161f396ba6bc8f855c34&p=4)
-- [ ] zotero里面放了几篇论文，待看，比如今年联邦大模型论文等。Federated intelligence: When large AI models meet federated fine-tuning and collaborative reasoning at the network edge/  FedDAT
-- [ ] 了解一下[https://huggingface.co/docs/peft/index]前几年PEFT很火
-## Tracking
-
-联邦大模型是主流创新（结合lora）
-lora是adapt的一个实现方式。
-今年最火的是视频生成，能结合吗
-
-了解了一下lora 这个视频讲的不错。
 ## LoRA 速记笔记（用 ΔW = A·B 表示）
 
 **核心概念**：把 **W′拆分为 = W + ΔW，去训练ΔW**
@@ -24,8 +13,8 @@ lora是adapt的一个实现方式。
     **ΔW = A·B**（A、B是小矩阵，秩 r 很小）。
     
 - 推理用更新后的权重：**W′ = W + ΔW**。
-![[image-62.png]]
-![[image-60.png]]
+![[image-62.png|762x351]]
+![[image-60.png|927x521]]
 
 **为什么好用（要点版）**
 
