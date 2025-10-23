@@ -11,18 +11,14 @@
             "id": "3f41353a26be9aeb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-Cards/LoRA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LoRA"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           },
           {
-            "id": "3b4c25d307244745",
+            "id": "60db5bdcf906623c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +29,62 @@
               },
               "icon": "lucide-file",
               "title": "2025-10-23"
+            }
+          },
+          {
+            "id": "3b4c25d307244745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Cards/对比学习.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "对比学习"
+            }
+          },
+          {
+            "id": "6d8134431c2d8eb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Reading/mdnotes/2023ICLR CreamFL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2023ICLR CreamFL"
+            }
+          },
+          {
+            "id": "76267fea73e7abdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Reading/mdnotes/CLIP  Radford2021.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CLIP  Radford2021"
+            }
+          },
+          {
+            "id": "dc7df0e2bf263013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Cards/对比学习.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "对比学习"
             }
           }
         ],
@@ -68,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "前向",
+                "query": "迁移学",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -197,9 +249,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b4c25d307244745",
+  "active": "60db5bdcf906623c",
   "lastOpenFiles": [
     "06-Cards/LoRA.md",
+    "02-Reading/mdnotes/CLIP  Radford2021.md",
+    "06-Cards/对比学习.md",
+    "02-Reading/mdnotes/Li2021b.md",
+    "02-Reading/mdnotes/2023ICLR CreamFL.md",
+    "02-Reading/mdnotes/Radford2021.md",
     "01-Diary/日志存档/2025-10-23.md",
     "08-Assets/image-69.png",
     "08-Assets/image-68.png",
@@ -222,10 +279,8 @@
     "06-Cards/多模态/多模态评估.md",
     "06-Cards/通用知识/神经网络.md",
     "01-Diary/日志存档/2025-07-25.md",
-    "02-Reading/mdnotes/CLIP  Radford2021.md",
     "02-Reading/mdnotes/Lin2020 FedDF 集成蒸馏.md",
     "02-Reading/mdnotes/Kim2021.md",
-    "06-Cards/对比学习.md",
     "08-Assets/pdfs/2021-ViLT/2021-ViLT Vision-and-language transformer without convolution or region supervision.pdf",
     "08-Assets/pdfs/2021-ViLT",
     "08-Assets/pdfs/2021-Learning transferable visual models from natural language supervision/2021-Learning transferable visual models from natural language supervision.pdf",
@@ -241,9 +296,6 @@
     "03-Projects/99-使用obsidian搞科研/软件下载安装.md",
     "06-Cards/通用知识/机器学习与深度学习中的数学知识点汇总.md",
     "06-Cards/常见深度学习术语解析笔记.md",
-    "01-Diary/日志存档/2025-09-14.md",
-    "01-Diary/日志存档/2025-10-15.md",
-    "01-Diary/日志存档/2025-10-14.md",
     "03-Projects/LoRAPH",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名 1.canvas",
