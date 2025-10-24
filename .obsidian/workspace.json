@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2025-10-23.md",
+                "file": "02-Reading/mdnotes/Li2021b.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-23"
+              "title": "Li2021b"
             }
           },
           {
@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "迁移学",
+                "query": "CLS",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -151,7 +151,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Diary/日志存档/2025-10-23.md",
+                "file": "02-Reading/mdnotes/Li2021b.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-10-23 的大纲"
+              "title": "Li2021b 的大纲"
             }
           },
           {
@@ -249,8 +250,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "450ad81cf27a4dff",
+  "active": "60db5bdcf906623c",
   "lastOpenFiles": [
+    "01-Diary/日志存档/2025-10-23.md",
     "08-Assets/pdfs/2024-Mixture of LoRA experts/2024-Mixture of LoRA experts.pdf",
     "08-Assets/pdfs/2024-Mixture of LoRA experts",
     "08-Assets/pdfs/2023-Pushing mixture of experts to the limit/2023-Pushing mixture of experts to the limit Extremely parameter efficient MoE for instruction tuning.pdf",
@@ -265,7 +267,6 @@
     "02-Reading/mdnotes/Li2021b.md",
     "02-Reading/mdnotes/2023ICLR CreamFL.md",
     "02-Reading/mdnotes/Radford2021.md",
-    "01-Diary/日志存档/2025-10-23.md",
     "08-Assets/image-69.png",
     "08-Assets/image-68.png",
     "08-Assets/image-67.png",
@@ -281,7 +282,6 @@
     "06-Cards/多模态/多模态的几篇经典论文.md",
     "08-Assets/pdfs/2024-FedDAT/2024-FedDAT An approach for foundation model finetuning in multi-modal heterogeneous federated learning.pdf",
     "08-Assets/pdfs/2024-FedDAT",
-    "08-Assets/pdfs/2025-Federated intelligence/2025-Federated intelligence When large AI models meet federated fine-tuning and collaborative reasoning at the network edge.pdf",
     "06-Cards/多模态/多模态数据预处理.md",
     "06-Cards/多模态/多模态评估.md",
     "06-Cards/通用知识/神经网络.md",
