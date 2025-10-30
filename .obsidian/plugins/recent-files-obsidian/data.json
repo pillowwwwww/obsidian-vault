@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "朱博士：大模型下的科研思路",
+      "path": "06-Cards/朱博士：大模型下的科研思路.md"
+    },
+    {
       "basename": "2025-10-30",
       "path": "01-Diary/日志存档/2025-10-30.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "creamfl复现记录",
       "path": "03-Projects/CreamFL/creamfl复现记录.md"
-    },
-    {
-      "basename": "第三篇",
-      "path": "01-Diary/日志存档/第三篇.md"
     }
   ],
   "omittedPaths": [],
