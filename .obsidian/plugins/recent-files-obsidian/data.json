@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-10-23",
-      "path": "01-Diary/日志存档/2025-10-23.md"
+      "basename": "Transformer",
+      "path": "06-Cards/通用知识/Transformer.md"
+    },
+    {
+      "basename": "数据预处理：torchvision, torchaudio,torchtext",
+      "path": "06-Cards/通用知识/数据预处理：torchvision, torchaudio,torchtext.md"
+    },
+    {
+      "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
+      "path": "06-Cards/通用知识/弄懂CNN、RNN、GAN、Transformer等架构.md"
+    },
+    {
+      "basename": "神经网络",
+      "path": "06-Cards/通用知识/神经网络.md"
     },
     {
       "basename": "朱博士：大模型下的科研思路",
       "path": "06-Cards/朱博士：大模型下的科研思路.md"
+    },
+    {
+      "basename": "2025-10-23",
+      "path": "01-Diary/日志存档/2025-10-23.md"
     },
     {
       "basename": "Li2021b",
@@ -43,10 +59,6 @@
     {
       "basename": "多模态评估",
       "path": "06-Cards/多模态/多模态评估.md"
-    },
-    {
-      "basename": "神经网络",
-      "path": "06-Cards/通用知识/神经网络.md"
     },
     {
       "basename": "2025-07-25",
@@ -187,14 +199,6 @@
     {
       "basename": "McMahan2016",
       "path": "02-Reading/mdnotes/McMahan2016.md"
-    },
-    {
-      "basename": "Li2018 FedProx",
-      "path": "02-Reading/mdnotes/Li2018 FedProx.md"
-    },
-    {
-      "basename": "creamfl复现记录",
-      "path": "03-Projects/CreamFL/creamfl复现记录.md"
     }
   ],
   "omittedPaths": [],
