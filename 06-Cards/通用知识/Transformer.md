@@ -61,4 +61,21 @@ tags:
 
 
 
-**一层里就包含“Self-Attention → FFN”这两个子层**（各自配残差+LayerNorm）。然后把这一层的输出送到**下一层**，再次做“Self-Attention → FFN”。6 层就是把这个两步循环做 6 次
+**一层里就包含“Self-Attention → FFN”这两个子层**（各自配残差+LayerNorm）。然后把这一层的输出送到**下一层**，再次做“Self-Attention → FFN”。6 层就是把这个两步循环做 6 次。
+
+
+---
+# Decoder
+当一些生成式任务的时候，需要使用到decoder
+![[image-77.png|426x372]]
+注意上图：encoder中的输出H_enc输入到cross-attention中，作为KV的来源，而decoder的第一步的输出作为Q的来源。
+## 1. Mask Multi-Head Attention & 残差归一
+![[image-76.png|613x577]]
+
+## 2. Cross-attention
+
+**交叉注意力（cross-attention）**= 用“我现在要写什么”的线索（Q，来自解码器当前隐藏态）去“源句的记忆库”（K/V，来自 Encoder 输出 $HencH_{\text{enc}}Henc）里按相关性**取回一份内容摘要（上下文向量）**，帮助预测下一个词。
+* (Q = Y_t W_Q)（来自解码侧），
+* $(K=H_{\mathrm{enc}} W_K,; V=H_{\text{enc}} W_V)$ $(K=H_{\mathrm{enc}} W_K,; V=H_{\text{enc}} W_V)$（来自编码侧），
+* 输出一份对中文里“**爱**”最相关的加权内容，帮你写出 *love*。
+ $$(HencH_{\text{enc}}Henc)

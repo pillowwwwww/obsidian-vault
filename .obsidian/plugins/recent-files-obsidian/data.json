@@ -5,6 +5,10 @@
       "path": "06-Cards/通用知识/Transformer.md"
     },
     {
+      "basename": "多模态数据预处理",
+      "path": "06-Cards/多模态/多模态数据预处理.md"
+    },
+    {
       "basename": "数据预处理：torchvision, torchaudio,torchtext",
       "path": "06-Cards/通用知识/数据预处理：torchvision, torchaudio,torchtext.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "多模态的几篇经典论文",
       "path": "06-Cards/多模态/多模态的几篇经典论文.md"
-    },
-    {
-      "basename": "多模态数据预处理",
-      "path": "06-Cards/多模态/多模态数据预处理.md"
     },
     {
       "basename": "多模态评估",
