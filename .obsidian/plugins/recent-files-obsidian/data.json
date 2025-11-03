@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "LoRA",
+      "path": "06-Cards/LoRA.md"
+    },
+    {
       "basename": "2025-11-01",
       "path": "01-Diary/日志存档/2025-11-01.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "Li2021b",
       "path": "02-Reading/mdnotes/Li2021b.md"
-    },
-    {
-      "basename": "LoRA",
-      "path": "06-Cards/LoRA.md"
     },
     {
       "basename": "CLIP  Radford2021",
