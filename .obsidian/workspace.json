@@ -225,6 +225,7 @@
   },
   "active": "9f7247c582365c79",
   "lastOpenFiles": [
+    "08-Assets/image-83.png",
     "08-Assets/image-82.png",
     "08-Assets/image-81.png",
     "08-Assets/image-80.png",
@@ -251,7 +252,6 @@
     "06-Cards/多模态/多模态数据预处理.md",
     "08-Assets/image-74.png",
     "08-Assets/image-73.png",
-    "08-Assets/image-72.png",
     "06-Cards/通用知识/数据预处理：torchvision, torchaudio,torchtext.md",
     "06-Cards/通用知识/未命名",
     "06-Cards/通用知识/弄懂CNN、RNN、GAN、Transformer等架构.md",
