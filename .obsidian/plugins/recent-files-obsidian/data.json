@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "LoRA",
-      "path": "06-Cards/LoRA.md"
+      "basename": "2025-10-23",
+      "path": "01-Diary/日志存档/2025-10-23.md"
     },
     {
       "basename": "2025-11-01",
@@ -15,6 +15,10 @@
     {
       "basename": "Transformer",
       "path": "06-Cards/通用知识/Transformer.md"
+    },
+    {
+      "basename": "LoRA",
+      "path": "06-Cards/LoRA.md"
     },
     {
       "basename": "2025-08-07",
@@ -47,10 +51,6 @@
     {
       "basename": "2025-05-19",
       "path": "01-Diary/日志存档/2025-05-19.md"
-    },
-    {
-      "basename": "2025-10-23",
-      "path": "01-Diary/日志存档/2025-10-23.md"
     },
     {
       "basename": "多模态数据预处理",
