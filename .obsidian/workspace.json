@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,8 +137,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-Cards/常见深度学习术语解析笔记.md",
+                "file": "06-Cards/通用知识/Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +192,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "常见深度学习术语解析笔记 的反向链接列表"
+              "title": "Transformer 的反向链接列表"
             }
           },
           {
@@ -216,8 +215,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -237,8 +235,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2bf933a28369c9c7",
+  "active": "9f7247c582365c79",
   "lastOpenFiles": [
+    "06-Cards/常见深度学习术语解析笔记.md",
     "01-Diary/日志存档/2025-10-23.md",
     "01-Diary/日志存档/2025-11-01.md",
     "01-Diary/日志存档/2025-11-02.md",
