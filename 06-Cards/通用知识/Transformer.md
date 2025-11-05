@@ -59,8 +59,6 @@ tags:
 
 ## 3. FFN：升维（Linear） → 激活(ReLU/GELU) → 降维（Linear）
 
-
-
 **一层里就包含“Self-Attention → FFN”这两个子层**（各自配残差+LayerNorm）。然后把这一层的输出送到**下一层**，再次做“Self-Attention → FFN”。6 层就是把这个两步循环做 6 次。
 
 
