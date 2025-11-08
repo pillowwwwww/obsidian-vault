@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-11-08",
+      "path": "01-Diary/日志存档/2025-11-08.md"
+    },
+    {
       "basename": "Transformer",
       "path": "06-Cards/通用知识/Transformer.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "MINE_FL框架",
       "path": "06-Cards/MINE_FL框架.md"
-    },
-    {
-      "basename": "生成数据集",
-      "path": "06-Cards/生成数据集.md"
     }
   ],
   "omittedPaths": [],
