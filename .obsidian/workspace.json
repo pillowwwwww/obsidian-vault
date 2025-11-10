@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Reading/mdnotes/FedMultimodal Feng2023.md",
+                "file": "01-Diary/日志存档/2025-11-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FedMultimodal Feng2023"
+              "title": "2025-11-10"
             }
           }
         ]
@@ -84,7 +84,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -104,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Reading/mdnotes/FedMultimodal Feng2023.md",
+                "file": "01-Diary/日志存档/2025-11-10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "FedMultimodal Feng2023 的大纲"
+              "title": "2025-11-10 的大纲"
             }
           },
           {
@@ -185,7 +186,7 @@
   "active": "591305e2f4a456a6",
   "lastOpenFiles": [
     "02-Reading/mdnotes/FedMultimodal Feng2023.md",
-    "02-Reading/mdnotes/FedMultimodal Feng2023.md",
+    "01-Diary/日志存档/2025-11-10.md",
     "02-Reading/mdnotes/Radford2021.md",
     "01-Diary/日志存档/2025-11-08.md",
     "06-Cards/通用知识/Transformer.md",
@@ -225,7 +226,6 @@
     "06-Cards/通用知识/未命名",
     "06-Cards/通用知识/弄懂CNN、RNN、GAN、Transformer等架构.md",
     "06-Cards/通用知识/神经网络.md",
-    "06-Cards/朱博士：大模型下的科研思路.md",
     "08-Assets/pdfs/2024-Mixture of LoRA experts/2024-Mixture of LoRA experts.pdf",
     "08-Assets/pdfs/2024-Mixture of LoRA experts",
     "08-Assets/pdfs/2023-Pushing mixture of experts to the limit/2023-Pushing mixture of experts to the limit Extremely parameter efficient MoE for instruction tuning.pdf",
