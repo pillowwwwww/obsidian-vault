@@ -129,9 +129,7 @@ MiT10 是从 Moments in Time 裁出的 10 类子集。为适配端侧算力，**
 
   * 拼接式（先对各模态 GRU 输出做平均池化再拼接）；
 
-  * 轻量注意力池化（(u=\tanh(Wh+b)), (a=\text{softmax}(u^\top c)), (v=\sum a_i h_i)）。
-
-    在 **Table 4** 上与四种 FL 优化器（FedAvg/FedProx/FedRS/**FedOpt**）全面横评；总体上注意力融合在**高异质性**更优，低异质性（(\alpha=5.0)）有时拼接更稳；FedOpt 多数更强但**对服务器学习率敏感**。  
+  * 轻量注意力池化$$(u=\tanh(Wh+b)), (a=\text{softmax}(u^\top c)), (v=\sum a_i h_i)$$在 **Table 4** 上与四种 FL 优化器（FedAvg/FedProx/FedRS/**FedOpt**）全面横评；总体上注意力融合在**高异质性**更优，低异质性（(\alpha=5.0)）有时拼接更稳；FedOpt 多数更强但**对服务器学习率敏感**。  
 
 3. **单模态 vs 多模态**：在自然划分或高异质性划分上比较（Fig.3）。结论：**单模态很有竞争力**，多数数据集多模态领先幅度**≤5%**，但总体仍略胜。  
 

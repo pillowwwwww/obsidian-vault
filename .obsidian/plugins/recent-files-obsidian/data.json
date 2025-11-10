@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-11-10",
-      "path": "01-Diary/日志存档/2025-11-10.md"
-    },
-    {
       "basename": "FedMultimodal Feng2023",
       "path": "02-Reading/mdnotes/FedMultimodal Feng2023.md"
+    },
+    {
+      "basename": "朱博士：大模型下的科研思路",
+      "path": "06-Cards/朱博士：大模型下的科研思路.md"
+    },
+    {
+      "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
+      "path": "06-Cards/通用知识/弄懂CNN、RNN、GAN、Transformer等架构.md"
+    },
+    {
+      "basename": "常见深度学习术语解析笔记",
+      "path": "06-Cards/常见深度学习术语解析笔记.md"
+    },
+    {
+      "basename": "2025-11-10",
+      "path": "01-Diary/日志存档/2025-11-10.md"
     },
     {
       "basename": "Radford2021",
@@ -19,10 +31,6 @@
     {
       "basename": "Transformer",
       "path": "06-Cards/通用知识/Transformer.md"
-    },
-    {
-      "basename": "常见深度学习术语解析笔记",
-      "path": "06-Cards/常见深度学习术语解析笔记.md"
     },
     {
       "basename": "2025-10-23",
@@ -81,16 +89,8 @@
       "path": "06-Cards/通用知识/数据预处理：torchvision, torchaudio,torchtext.md"
     },
     {
-      "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
-      "path": "06-Cards/通用知识/弄懂CNN、RNN、GAN、Transformer等架构.md"
-    },
-    {
       "basename": "神经网络",
       "path": "06-Cards/通用知识/神经网络.md"
-    },
-    {
-      "basename": "朱博士：大模型下的科研思路",
-      "path": "06-Cards/朱博士：大模型下的科研思路.md"
     },
     {
       "basename": "Li2021b",
