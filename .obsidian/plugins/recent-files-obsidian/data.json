@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "朱博士：多模态论文串讲（上）",
+      "path": "06-Cards/多模态/朱博士：多模态论文串讲（上）.md"
+    },
+    {
+      "basename": "多模态的几篇经典论文",
+      "path": "06-Cards/多模态/多模态的几篇经典论文.md"
+    },
+    {
+      "basename": "CLIP  Radford2021",
+      "path": "02-Reading/mdnotes/CLIP  Radford2021.md"
+    },
+    {
       "basename": "2025-11-11",
       "path": "01-Diary/日志存档/2025-11-11.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "朱博士：多模态论文串讲（下）",
       "path": "06-Cards/多模态/朱博士：多模态论文串讲（下）.md"
-    },
-    {
-      "basename": "朱博士：多模态论文串讲（上）",
-      "path": "06-Cards/多模态/朱博士：多模态论文串讲（上）.md"
     },
     {
       "basename": "FedMultimodal Feng2023",
@@ -109,10 +117,6 @@
       "path": "02-Reading/mdnotes/Li2021b.md"
     },
     {
-      "basename": "CLIP  Radford2021",
-      "path": "02-Reading/mdnotes/CLIP  Radford2021.md"
-    },
-    {
       "basename": "对比学习",
       "path": "06-Cards/对比学习.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "2025-10-10",
       "path": "01-Diary/日志存档/2025-10-10.md"
-    },
-    {
-      "basename": "多模态的几篇经典论文",
-      "path": "06-Cards/多模态/多模态的几篇经典论文.md"
     },
     {
       "basename": "多模态评估",
