@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-11-11",
+      "path": "01-Diary/日志存档/2025-11-11.md"
+    },
+    {
       "basename": "朱博士：多模态论文串讲（下）",
       "path": "06-Cards/多模态/朱博士：多模态论文串讲（下）.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "实验日志",
       "path": "06-Cards/实验日志.md"
-    },
-    {
-      "basename": "Energy-Based Models 能量模型",
-      "path": "06-Cards/Energy-Based Models 能量模型.md"
     }
   ],
   "omittedPaths": [],
