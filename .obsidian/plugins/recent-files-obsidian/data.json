@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "朱博士：大模型下的科研思路",
+      "path": "06-Cards/朱博士：大模型下的科研思路.md"
+    },
+    {
+      "basename": "FedMultimodal Feng2023",
+      "path": "02-Reading/mdnotes/FedMultimodal Feng2023.md"
+    },
+    {
+      "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
+      "path": "06-Cards/通用知识/弄懂CNN、RNN、GAN、Transformer等架构.md"
+    },
+    {
       "basename": "朱博士：多模态论文串讲（上）",
       "path": "06-Cards/多模态/朱博士：多模态论文串讲（上）.md"
     },
@@ -17,20 +29,8 @@
       "path": "01-Diary/日志存档/2025-11-11.md"
     },
     {
-      "basename": "朱博士：大模型下的科研思路",
-      "path": "06-Cards/朱博士：大模型下的科研思路.md"
-    },
-    {
       "basename": "朱博士：多模态论文串讲（下）",
       "path": "06-Cards/多模态/朱博士：多模态论文串讲（下）.md"
-    },
-    {
-      "basename": "FedMultimodal Feng2023",
-      "path": "02-Reading/mdnotes/FedMultimodal Feng2023.md"
-    },
-    {
-      "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
-      "path": "06-Cards/通用知识/弄懂CNN、RNN、GAN、Transformer等架构.md"
     },
     {
       "basename": "常见深度学习术语解析笔记",
