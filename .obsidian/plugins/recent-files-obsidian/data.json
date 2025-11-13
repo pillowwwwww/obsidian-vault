@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ALBEF-Li2021b",
+      "path": "02-Reading/mdnotes/ALBEF-Li2021b.md"
+    },
+    {
       "basename": "多模态的几篇经典论文",
       "path": "06-Cards/多模态/多模态的几篇经典论文.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "神经网络",
       "path": "06-Cards/通用知识/神经网络.md"
-    },
-    {
-      "basename": "Li2021b",
-      "path": "02-Reading/mdnotes/Li2021b.md"
     },
     {
       "basename": "对比学习",
