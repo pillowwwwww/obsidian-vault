@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "c2fe828b2165a273",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/日志存档/2025-11-14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-14"
-            }
-          },
-          {
             "id": "fa5a76bdbf08ecb5",
             "type": "leaf",
             "state": {
@@ -64,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,12 +113,12 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 321.50328826904297,
-    "collapsed": true
+    "width": 321.50328826904297
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -148,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Diary/日志存档/2025-11-14.md",
+                "file": "06-Cards/多模态/朱博士：多模态论文串讲（下）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-11-14 的大纲"
+              "title": "朱博士：多模态论文串讲（下） 的大纲"
             }
           },
           {
@@ -210,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,8 +212,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c2fe828b2165a273",
+  "active": "cfad25a762d55222",
   "lastOpenFiles": [
+    "01-Diary/日志存档/2025-11-15.md",
+    "01-Diary/日志存档/2025-11-14.md",
     "06-Cards/多模态/朱博士：多模态论文串讲（下）.md",
     "01-Diary/日志存档/2025-11-13.md",
     "02-Reading/mdnotes/Huang Pami 综述2024.md",
@@ -239,7 +226,6 @@
     "02-Reading/mdnotes/Tan2023 PFL综述.md",
     "02-Reading/mdnotes/ALBEF-Li2021b.md",
     "02-Reading/mdnotes/Radford2021.md",
-    "01-Diary/日志存档/2025-11-14.md",
     "06-Cards/多模态/多模态的几篇经典论文.md",
     "08-Assets/image-85.png",
     "02-Reading/mdnotes/CLIP  Radford2021.md",
@@ -259,7 +245,6 @@
     "06-Cards/通用知识/Transformer.md",
     "02-Reading/mdnotes/FedMultimodal Feng2023.md",
     "08-Assets/pdfs/2023-Visual prompt based personalized federated learning/2023-Visual Prompt Based Personalized Federated Learning 1.pdf",
-    "06-Cards/常见深度学习术语解析笔记.md",
     "08-Assets/pdfs/2025-Pilot/2025-Pilot Building the federated multimodal instruction tuning framework.pdf",
     "08-Assets/pdfs/2025-Pilot",
     "08-Assets/pdfs/2024-FedDAT/2024-FedDAT An approach for foundation model finetuning in multi-modal heterogeneous federated learning 1.pdf",
