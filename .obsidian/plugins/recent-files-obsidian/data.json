@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-11-17",
+      "path": "01-Diary/日志存档/2025-11-17.md"
+    },
+    {
       "basename": "2025-11-16",
       "path": "01-Diary/日志存档/2025-11-16.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Linux操作相关",
       "path": "06-Cards/Linux操作相关.md"
-    },
-    {
-      "basename": "显卡",
-      "path": "06-Cards/环境， pytorch基础语法等/显卡.md"
     }
   ],
   "omittedPaths": [],
