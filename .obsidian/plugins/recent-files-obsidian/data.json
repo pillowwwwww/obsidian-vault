@@ -1,16 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Modal merging调研",
+      "path": "06-Cards/Modal merging调研.md"
+    },
+    {
       "basename": "2025-11-17",
       "path": "01-Diary/日志存档/2025-11-17.md"
+    },
+    {
+      "basename": "Pilot-FedMIT- Xiong2025",
+      "path": "02-Reading/mdnotes/Pilot-FedMIT- Xiong2025.md"
+    },
+    {
+      "basename": "多模态数据预处理",
+      "path": "06-Cards/多模态/多模态数据预处理.md"
+    },
+    {
+      "basename": "CLIP  Radford2021",
+      "path": "02-Reading/mdnotes/CLIP  Radford2021.md"
+    },
+    {
+      "basename": "Li2018 FedProx",
+      "path": "02-Reading/mdnotes/Li2018 FedProx.md"
+    },
+    {
+      "basename": "McMahan2016",
+      "path": "02-Reading/mdnotes/McMahan2016.md"
+    },
+    {
+      "basename": "Lin2020 FedDF 集成蒸馏",
+      "path": "02-Reading/mdnotes/Lin2020 FedDF 集成蒸馏.md"
+    },
+    {
+      "basename": "Tan2023 PFL综述",
+      "path": "02-Reading/mdnotes/Tan2023 PFL综述.md"
+    },
+    {
+      "basename": "pFedPrompt- Guo2023",
+      "path": "02-Reading/mdnotes/pFedPrompt- Guo2023.md"
     },
     {
       "basename": "2025-11-16",
       "path": "01-Diary/日志存档/2025-11-16.md"
     },
     {
-      "basename": "多模态数据预处理",
-      "path": "06-Cards/多模态/多模态数据预处理.md"
+      "basename": "Huang Pami 综述2024",
+      "path": "02-Reading/mdnotes/Huang Pami 综述2024.md"
     },
     {
       "basename": "多模态的几篇经典论文",
@@ -33,10 +69,6 @@
       "path": "01-Diary/日志存档/2025-11-13.md"
     },
     {
-      "basename": "Huang Pami 综述2024",
-      "path": "02-Reading/mdnotes/Huang Pami 综述2024.md"
-    },
-    {
       "basename": "Energy-Based Models 能量模型",
       "path": "06-Cards/Energy-Based Models 能量模型.md"
     },
@@ -53,20 +85,8 @@
       "path": "06-Cards/LoRA.md"
     },
     {
-      "basename": "Tan2023 PFL综述",
-      "path": "02-Reading/mdnotes/Tan2023 PFL综述.md"
-    },
-    {
       "basename": "ALBEF-Li2021b",
       "path": "02-Reading/mdnotes/ALBEF-Li2021b.md"
-    },
-    {
-      "basename": "Radford2021",
-      "path": "02-Reading/mdnotes/Radford2021.md"
-    },
-    {
-      "basename": "CLIP  Radford2021",
-      "path": "02-Reading/mdnotes/CLIP  Radford2021.md"
     },
     {
       "basename": "朱博士：大模型下的科研思路",
@@ -79,10 +99,6 @@
     {
       "basename": "2025-11-01",
       "path": "01-Diary/日志存档/2025-11-01.md"
-    },
-    {
-      "basename": "Guo2023",
-      "path": "02-Reading/mdnotes/Guo2023.md"
     },
     {
       "basename": "Transformer",
@@ -153,10 +169,6 @@
       "path": "06-Cards/多模态/多模态评估.md"
     },
     {
-      "basename": "Lin2020 FedDF 集成蒸馏",
-      "path": "02-Reading/mdnotes/Lin2020 FedDF 集成蒸馏.md"
-    },
-    {
       "basename": "阅读批注",
       "path": "09-Templates/阅读批注.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "关于git操作",
       "path": "06-Cards/关于git操作.md"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "01-Diary/本周事务/未命名 1.md"
-    },
-    {
-      "basename": "2025-09-11",
-      "path": "01-Diary/日志存档/2025-09-11.md"
-    },
-    {
-      "basename": "Linux操作相关",
-      "path": "06-Cards/Linux操作相关.md"
     }
   ],
   "omittedPaths": [],
