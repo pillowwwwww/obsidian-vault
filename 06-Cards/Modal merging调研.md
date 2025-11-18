@@ -37,7 +37,7 @@ https://chatgpt.com/c/69184cfb-0684-832a-ae60-5f8112fed7c0 这里面问了一些
 * 合并时**不再继续访问训练数据**；
 * 直接做权重平均、task vector 加法、TIES 那样的操作。
 * 合并的对象通常是“**已经各自走到不同 basin 的独立最优点**”，不是围绕某个共同的当前点的小更新。
-
+---
 ## 知乎的总结
 [(99+ 封私信 / 7 条消息) 首页 - 知乎](https://www.zhihu.com/column-square)
 - **在同任务上，融合后的单一模型，和融合前的各个模型相比，表现如何？** 很随机，并不好。DARE + Task-Arithmetic 貌似好一点
@@ -48,3 +48,7 @@ https://chatgpt.com/c/69184cfb-0684-832a-ae60-5f8112fed7c0 这里面问了一些
 1. 在一次训练当中，融合多个checkpoint，以提升模型的训练效果；
 2. 将融合模型作为进一步Fine-Tuning的起点，以取得更好的FT效果；
 3. `Task Vector`不仅可以用于加（即模型融合），也可以用于减（即让模型遗忘某些能力）。
+常见大模型融合算法：大模型模型融合算法（Ties、Slerp、Task Arithmetic、DARE、Passthrough）
+[浅析大模型模型融合算法（Ties、Slerp、Task Arithmetic、DARE、Passthrough） - 文章 - 开发者社区 - 火山引擎](https://developer.volcengine.com/articles/7390576746635984932)
+
+---
