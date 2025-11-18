@@ -3,3 +3,9 @@ https://chatgpt.com/c/69184cfb-0684-832a-ae60-5f8112fed7c0 这里面问了一些
 ---
 现在看一下modal merging:
 
+## 首先是Mix data or merge models? Optimizing for diverse multi-task learning：
+
+在abstract中提到：
+- 目前的模型已经被全球广泛采用，并且部署到多种应用中。偏好训练和安全措施往往过度拟合于西方中心化数据集中常见的危害，而安全协议经常无法扩展到多语言环境中。
+-  多任务+多语言，每种语言引入了独特的挑战。
+- 基于语言的合并，基于目标的合并很有效。
