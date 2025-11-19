@@ -5,6 +5,10 @@
       "path": "06-Cards/Modal merging调研.md"
     },
     {
+      "basename": "未命名 2",
+      "path": "01-Diary/本周事务/未命名 2.md"
+    },
+    {
       "basename": "2025-11-17",
       "path": "01-Diary/日志存档/2025-11-17.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "2025-09-14",
       "path": "01-Diary/日志存档/2025-09-14.md"
-    },
-    {
-      "basename": "2025-09-25",
-      "path": "01-Diary/日志存档/2025-09-25.md"
-    },
-    {
-      "basename": "关于git操作",
-      "path": "06-Cards/关于git操作.md"
     }
   ],
   "omittedPaths": [],
