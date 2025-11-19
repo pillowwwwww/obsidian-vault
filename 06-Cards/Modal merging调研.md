@@ -1,7 +1,7 @@
 [[2025-11-17]]这里先看了一下当前根据pilot的一些点：联邦+多模态+大模型+lora+adapter+moe/moa
 https://chatgpt.com/c/69184cfb-0684-832a-ae60-5f8112fed7c0 这里面问了一些关于在pilot上面魔改创新点的问题，比如加ocr，把task放在图片外一圈传上去，具体在[[2025-11-15]]的tracking里面
 ---
-现在看一下modal merging:
+现在看一下modal merging: 模型合并指的是将不同能力的多个模型合并为一个通用模型以处理多任务学习
 
 ## 首先是Mix data or merge models? Optimizing for diverse multi-task learning：
 
@@ -40,8 +40,11 @@ https://chatgpt.com/c/69184cfb-0684-832a-ae60-5f8112fed7c0 这里面问了一些
 ---
 ## 知乎的总结
 [(99+ 封私信 / 7 条消息) 首页 - 知乎](https://www.zhihu.com/column-square)
-- **在同任务上，融合后的单一模型，和融合前的各个模型相比，表现如何？** 很随机，并不好。DARE + Task-Arithmetic 貌似好一点
-- 从`TIES`论文的实验来看，融合模型的OOD Generalization能力还不错，说明**融合模型在一定程度上学到了鲁棒的task解决能力**。
+#### 两个角度去评价融合后的模型：
+- In-Domain Performance:**在同任务上，融合后的单一模型，和融合前的各个模型相比，表现如何？** 很随机，并不好。DARE + Task-Arithmetic 貌似好一点
+- OOD:从`TIES`论文的实验来看，融合模型的OOD Generalization能力还不错，说明**融合模型在一定程度上学到了鲁棒的task解决能力**。
+
+还可以从已见任务和未见任务上去评估。
 
 **其他使用场景**：
 模型融合还有一些使用场景：
@@ -115,3 +118,4 @@ https://chatgpt.com/c/69184cfb-0684-832a-ae60-5f8112fed7c0 这里面问了一些
         
     - **创新点：** 不同于 Ties/DARE 处理数值大小，RobustMerge 通过修剪小幅度参数并**动态调整奇异值（Scaling Singular Values）**来维持低秩空间中的方向稳定性，从而实现无训练、无额外数据的多模态模型融合。
 
+---
