@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gan",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -113,7 +113,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,8 +212,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "281ed0b7ffd2ff59",
+  "active": "d4cc5673d41093ba",
   "lastOpenFiles": [
+    "08-Assets/pdfs/2025-FedMerge/2025-FedMerge Federated personalization via model merging.pdf",
+    "08-Assets/pdfs/2025-FedMerge",
+    "08-Assets/image-89.png",
     "08-Assets/pdfs/2024-Model merging in LLMs, MLLMs, and beyond/2024-Model merging in LLMs, MLLMs, and beyond Methods, theories, applications and opportunities.pdf",
     "08-Assets/pdfs/2024-Model merging in LLMs, MLLMs, and beyond",
     "08-Assets/image-88.png",
@@ -227,7 +231,6 @@
     "08-Assets/pdfs/2025-MoA/2025-MoA Heterogeneous mixture of adapters for parameter-efficient fine-tuning of large language models.pdf",
     "08-Assets/pdfs/2025-MoA",
     "08-Assets/pdfs/2024-Generalizability of Mixture of Domain-Specific Adapters from the Lens of Signed Weight Directions and its Application to Effective Model Pruning/2024-Generalizability of M.pdf",
-    "08-Assets/pdfs/2024-Generalizability of Mixture of Domain-Specific Adapters from the Lens of Signed Weight Directions and its Application to Effective Model Pruning",
     "01-Diary/日志存档/2025-11-17.md",
     "02-Reading/mdnotes/Pilot-FedMIT- Xiong2025.md",
     "06-Cards/多模态/多模态数据预处理.md",
@@ -240,7 +243,6 @@
     "02-Reading/mdnotes/pFedPrompt- Guo2023.md",
     "01-Diary/日志存档/2025-11-16.md",
     "02-Reading/mdnotes/Huang Pami 综述2024.md",
-    "08-Assets/pdfs/2025-RobustMerge/2025-RobustMerge Parameter-Efficient Model Merging for MLLMs with Direction Robustness.pdf",
     "08-Assets/image-87.png",
     "08-Assets/image-86.png",
     "06-Cards/多模态/多模态的几篇经典论文.md",
@@ -258,7 +260,6 @@
     "08-Assets/image-82.png",
     "08-Assets/image-81.png",
     "08-Assets/image-80.png",
-    "08-Assets/image-79.png",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名 1.canvas",
     "00-MOC/未命名.canvas",
