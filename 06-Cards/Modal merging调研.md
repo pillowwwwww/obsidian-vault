@@ -1,7 +1,8 @@
 [[2025-11-17]]这里先看了一下当前根据pilot的一些点：联邦+多模态+大模型+lora+adapter+moe/moa
 https://chatgpt.com/c/69184cfb-0684-832a-ae60-5f8112fed7c0 这里面问了一些关于在pilot上面魔改创新点的问题，比如加ocr，把task放在图片外一圈传上去，具体在[[2025-11-15]]的tracking里面
 ---
-现在看一下modal merging: 模型合并指的是将不同能力的多个模型合并为一个通用模型以处理多任务学习
+现在看一下modal merging:
+模型合并指的是将不同能力的多个模型合并为一个通用模型以处理多任务学习。[[2025-RobustMerge Parameter-Efficient Model Merging for MLLMs with Direction Robustness.pdf]] ,也叫 M-MTC[[2024-Merge, ensemble, and cooperate! A survey on collaborative strategies in the era of large language models.pdf]]
 
 ## 首先是Mix data or merge models? Optimizing for diverse multi-task learning：
 
