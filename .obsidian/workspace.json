@@ -113,8 +113,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,7 +211,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d4cc5673d41093ba",
+  "active": "3090910a3bbb4bfa",
   "lastOpenFiles": [
     "08-Assets/pdfs/2025-FedMerge/2025-FedMerge Federated personalization via model merging.pdf",
     "08-Assets/pdfs/2025-FedMerge",
