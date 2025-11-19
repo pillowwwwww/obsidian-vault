@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "MINE_FL框架",
+      "path": "06-Cards/MINE_FL框架.md"
+    },
+    {
+      "basename": "2025-11-17",
+      "path": "01-Diary/日志存档/2025-11-17.md"
+    },
+    {
+      "basename": "LoRA",
+      "path": "06-Cards/LoRA.md"
+    },
+    {
       "basename": "Modal merging调研",
       "path": "06-Cards/Modal merging调研.md"
     },
     {
       "basename": "未命名 2",
       "path": "01-Diary/本周事务/未命名 2.md"
-    },
-    {
-      "basename": "2025-11-17",
-      "path": "01-Diary/日志存档/2025-11-17.md"
     },
     {
       "basename": "Pilot-FedMIT- Xiong2025",
@@ -83,10 +91,6 @@
     {
       "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
       "path": "06-Cards/通用知识/弄懂CNN、RNN、GAN、Transformer等架构.md"
-    },
-    {
-      "basename": "LoRA",
-      "path": "06-Cards/LoRA.md"
     },
     {
       "basename": "ALBEF-Li2021b",
