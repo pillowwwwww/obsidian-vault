@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Modal merging调研",
+      "path": "06-Cards/Modal merging调研.md"
+    },
+    {
+      "basename": "RobustMerge-Zeng2025",
+      "path": "02-Reading/mdnotes/RobustMerge-Zeng2025.md"
+    },
+    {
       "basename": "LoRA",
       "path": "06-Cards/LoRA.md"
     },
     {
       "basename": "2025-11-20",
       "path": "01-Diary/日志存档/2025-11-20.md"
-    },
-    {
-      "basename": "Modal merging调研",
-      "path": "06-Cards/Modal merging调研.md"
     },
     {
       "basename": "多模态数据预处理",
@@ -195,10 +199,6 @@
     {
       "basename": "集成学习Ensembling和蒸馏",
       "path": "06-Cards/集成学习Ensembling和蒸馏.md"
-    },
-    {
-      "basename": "软件下载安装",
-      "path": "03-Projects/99-使用obsidian搞科研/软件下载安装.md"
     }
   ],
   "omittedPaths": [],

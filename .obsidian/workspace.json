@@ -84,8 +84,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-Cards/LoRA.md",
+                "file": "06-Cards/Modal merging调研.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "LoRA 的大纲"
+              "title": "Modal merging调研 的大纲"
             }
           },
           {
@@ -183,13 +182,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f4ff75561bebdd2",
+  "active": "2ac54e5999000673",
   "lastOpenFiles": [
-    "01-Diary/日志存档/2025-11-20.md",
+    "02-Reading/mdnotes/RobustMerge-Zeng2025.md",
     "06-Cards/Modal merging调研.md",
+    "06-Cards/LoRA.md",
+    "01-Diary/日志存档/2025-11-20.md",
     "06-Cards/多模态/多模态数据预处理.md",
     "06-Cards/关于git操作.md",
-    "06-Cards/LoRA.md",
     "06-Cards/MINE_FL框架.md",
     "01-Diary/日志存档/2025-11-17.md",
     "08-Assets/image-91.png",
@@ -226,7 +226,6 @@
     "06-Cards/多模态/朱博士：多模态论文串讲（下）.md",
     "01-Diary/日志存档/2025-11-14.md",
     "01-Diary/日志存档/2025-11-13.md",
-    "06-Cards/Energy-Based Models 能量模型.md",
     "08-Assets/image-85.png",
     "08-Assets/image-84.png",
     "08-Assets/image-83.png",
