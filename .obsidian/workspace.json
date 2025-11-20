@@ -35,8 +35,7 @@
               "title": "2025-11-17"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,13 +118,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Diary/日志存档/2025-11-20.md",
+                "file": "06-Cards/Modal merging调研.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-11-20 的大纲"
+              "title": "Modal merging调研 的大纲"
             }
           },
           {
@@ -197,13 +196,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3090910a3bbb4bfa",
+  "active": "2ac54e5999000673",
   "lastOpenFiles": [
     "01-Diary/日志存档/2025-11-17.md",
+    "01-Diary/日志存档/2025-11-20.md",
     "06-Cards/Modal merging调研.md",
     "02-Reading/mdnotes/RobustMerge-Zeng2025.md",
     "06-Cards/LoRA.md",
-    "01-Diary/日志存档/2025-11-20.md",
     "06-Cards/多模态/多模态数据预处理.md",
     "06-Cards/关于git操作.md",
     "06-Cards/MINE_FL框架.md",
