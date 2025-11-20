@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "多模态数据预处理",
+      "path": "06-Cards/多模态/多模态数据预处理.md"
+    },
+    {
+      "basename": "2025-11-20",
+      "path": "01-Diary/日志存档/2025-11-20.md"
+    },
+    {
+      "basename": "Modal merging调研",
+      "path": "06-Cards/Modal merging调研.md"
+    },
+    {
+      "basename": "关于git操作",
+      "path": "06-Cards/关于git操作.md"
+    },
+    {
+      "basename": "LoRA",
+      "path": "06-Cards/LoRA.md"
+    },
+    {
       "basename": "MINE_FL框架",
       "path": "06-Cards/MINE_FL框架.md"
     },
@@ -9,24 +29,12 @@
       "path": "01-Diary/日志存档/2025-11-17.md"
     },
     {
-      "basename": "LoRA",
-      "path": "06-Cards/LoRA.md"
-    },
-    {
-      "basename": "Modal merging调研",
-      "path": "06-Cards/Modal merging调研.md"
-    },
-    {
       "basename": "未命名 2",
       "path": "01-Diary/本周事务/未命名 2.md"
     },
     {
       "basename": "Pilot-FedMIT- Xiong2025",
       "path": "02-Reading/mdnotes/Pilot-FedMIT- Xiong2025.md"
-    },
-    {
-      "basename": "多模态数据预处理",
-      "path": "06-Cards/多模态/多模态数据预处理.md"
     },
     {
       "basename": "CLIP  Radford2021",
@@ -191,14 +199,6 @@
     {
       "basename": "软件下载安装",
       "path": "03-Projects/99-使用obsidian搞科研/软件下载安装.md"
-    },
-    {
-      "basename": "机器学习与深度学习中的数学知识点汇总",
-      "path": "06-Cards/通用知识/机器学习与深度学习中的数学知识点汇总.md"
-    },
-    {
-      "basename": "2025-09-14",
-      "path": "01-Diary/日志存档/2025-09-14.md"
     }
   ],
   "omittedPaths": [],
