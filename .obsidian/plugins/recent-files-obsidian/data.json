@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "LoRA",
+      "path": "06-Cards/LoRA.md"
+    },
+    {
+      "basename": "2025-11-20",
+      "path": "01-Diary/日志存档/2025-11-20.md"
+    },
+    {
       "basename": "Modal merging调研",
       "path": "06-Cards/Modal merging调研.md"
     },
@@ -9,16 +17,8 @@
       "path": "06-Cards/多模态/多模态数据预处理.md"
     },
     {
-      "basename": "2025-11-20",
-      "path": "01-Diary/日志存档/2025-11-20.md"
-    },
-    {
       "basename": "关于git操作",
       "path": "06-Cards/关于git操作.md"
-    },
-    {
-      "basename": "LoRA",
-      "path": "06-Cards/LoRA.md"
     },
     {
       "basename": "MINE_FL框架",
