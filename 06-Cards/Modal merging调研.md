@@ -133,7 +133,8 @@ FedAvg 本质就是 FFT 版本的“基础模型合并”，把**FedAvg 可以�
 那么现在，取代传统的 FedAvg(FFT模型合并)，选择PEFT model merging，本质上就是将“全量参数的合并”变成了“PEFT 模块的合并”。
 
 Robust Merge这篇论文发现，直接把FFT的模型合并算法用到PEFT上面，表现不好。
-需要**针对联邦PEFT 特性**设计合并算法
+那么：
+- 需要**针对联邦PEFT 特性**设计合并算法。
 
 
 

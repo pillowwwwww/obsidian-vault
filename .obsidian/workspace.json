@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/Modal merging调研.md",
+                "file": "01-Diary/日志存档/2025-11-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modal merging调研"
+              "title": "2025-11-24"
             }
           },
           {
@@ -98,7 +98,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -182,7 +183,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "06-Cards/Modal merging调研.md",
+                "file": "01-Diary/日志存档/2025-11-24.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -214,8 +215,8 @@
   },
   "active": "2ac54e5999000673",
   "lastOpenFiles": [
-    "01-Diary/本周事务/合并和集成.md",
     "06-Cards/Modal merging调研.md",
+    "01-Diary/本周事务/合并和集成.md",
     "08-Assets/pdfs/2025-Analysis of model merging methods for continual updating of foundation models in distributed data settings/2025-Analysis of model merging methods for continual updating of.pdf",
     "08-Assets/pdfs/2025-Analysis of model merging methods for continual updating of foundation models in distributed data settings",
     "01-Diary/日志存档/2025-11-24.md",
