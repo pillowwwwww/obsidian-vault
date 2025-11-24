@@ -7,8 +7,8 @@ https://chatgpt.com/c/69184cfb-0684-832a-ae60-5f8112fed7c0 这里面问了一些
 ## 首先是Mix data or merge models? Optimizing for diverse multi-task learning：
 
 在abstract中提到：
-- 目前的模型已经被全球广泛采用，并且部署到多种应用中。偏好训练和安全措施往往过度拟合于西方中心化数据集中常见的危害，而安全协议经常无法扩展到多语言环境中。
--  多任务+多语言，每种语言引入了独特的挑战。
+- 目前的模型已经被全球广泛采用，并且部署到多种应用中。偏好训练和安全措施往往过度拟合于西方中心化数据集中常见的危害，而安全协议经常无法扩展到**多语言环境**中。
+- **多任务+多语言**，每种语言引入了独特的挑战。
 - 基于语言的合并，基于目标的合并很有效。
 - 模型混合比weights混合更有效。
 
@@ -85,15 +85,15 @@ https://chatgpt.com/c/69184cfb-0684-832a-ae60-5f8112fed7c0 这里面问了一些
     - **创新点：** 不同于 Ties/DARE 处理数值大小，RobustMerge 通过修剪小幅度参数并**动态调整奇异值（Scaling Singular Values）**来维持低秩空间中的方向稳定性，从而实现无训练、无额外数据的多模态模型融合。
 
 ---
-## 合并和集成 
+## 合并和集成
+[[2024-Merge, ensemble, and cooperate! A survey on collaborative strategies in the era of large language models.pdf]]
 明确界定了“合并”的独特性：
 - **参数空间 (Parameter Space)：** Merging 特指在**参数空间**中通过算术运算将多个模型整合成一个新模型 。
 - **对比 Ensemble (集成)：** 集成是在**输出空间**（如 token 概率或生成的文本）结合多个模型的结果，而不改变模型本身的参数 。合并的一个显著优势是不像集成那样需要在推理时同时运行多个模型，因此推理效率更高。
 - ![[image-88.png]]
 
----
 ## 未来挑战和方向：
-[[2024-Merge, ensemble, and cooperate! A survey on collaborative strategies in the era of large language models.pdf]]
+
 挑战：挑战与未来方向：灵活的模型合并 (Flexible LLMs Merging)
 在论文的第 6 章（挑战与未来方向）中，作者探讨了突破当前限制的可能性：
 
@@ -128,6 +128,18 @@ https://chatgpt.com/c/69184cfb-0684-832a-ae60-5f8112fed7c0 这里面问了一些
 ---
 
 ## 我的想法：
-间隔x轮，能不能在服务器中聚合参数后，再模型合并一下（剪枝/缩放）再发回去?
+#### 1. 如何定义传统联邦学习和模型合并的关系？
+FedAvg 本质就是 FFT 版本的“基础模型合并”，把**FedAvg 可以视为最基础、最原始的“模型合并”算法**。
+那么现在，取代传统的 FedAvg(FFT模型合并)，选择PEFT model merging，本质上就是将“全量参数的合并”变成了“PEFT 模块的合并”。
+
+Robust Merge这篇论文发现，直接把FFT的模型合并算法用到PEFT上面，表现不好。
+需要**针对联邦PEFT 特性**设计合并算法
+
+
+
+
+
+
+
 在服务器上去合并不同的模型，选一个最合适的分数最高的发给客户端
 

@@ -196,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,11 +214,12 @@
   },
   "active": "2ac54e5999000673",
   "lastOpenFiles": [
+    "01-Diary/本周事务/合并和集成.md",
+    "06-Cards/Modal merging调研.md",
     "08-Assets/pdfs/2025-Analysis of model merging methods for continual updating of foundation models in distributed data settings/2025-Analysis of model merging methods for continual updating of.pdf",
     "08-Assets/pdfs/2025-Analysis of model merging methods for continual updating of foundation models in distributed data settings",
     "01-Diary/日志存档/2025-11-24.md",
     "06-Cards/LoRA.md",
-    "06-Cards/Modal merging调研.md",
     "01-Diary/日志存档/2025-11-17.md",
     "01-Diary/日志存档/2025-11-20.md",
     "02-Reading/mdnotes/RobustMerge-Zeng2025.md",
@@ -241,7 +241,6 @@
     "01-Diary/本周事务/未命名 2.md",
     "08-Assets/pdfs/2024-Merge, ensemble, and cooperate/2024-Merge, ensemble, and cooperate! A survey on collaborative strategies in the era of large language models.pdf",
     "08-Assets/pdfs/2024-Merge, ensemble, and cooperate",
-    "08-Assets/pdfs/2025-MoA/2025-MoA Heterogeneous mixture of adapters for parameter-efficient fine-tuning of large language models.pdf",
     "02-Reading/mdnotes/Pilot-FedMIT- Xiong2025.md",
     "02-Reading/mdnotes/CLIP  Radford2021.md",
     "02-Reading/mdnotes/Li2018 FedProx.md",
