@@ -134,9 +134,16 @@ FedAvg 本质就是 FFT 版本的“基础模型合并”，把**FedAvg 可以�
 
 Robust Merge这篇论文发现，直接把FFT的模型合并算法用到PEFT上面，表现不好。
 那么：
-- 需要**针对联邦PEFT 特性**设计合并算法。
+- 需要**针对联邦PEFT 特性**设计零样本（Unseen Task）合并算法。
+- 【在实际联邦中，经常有新客户端加入，带来一个全新的任务（例如 Client New 想做“表情包识别”，这是之前系统里没有的任务）。】
 
 
+- **Pilot 的缺陷：** 在 Pilot 论文中，针对 Text-Adapter 的聚合，作者提出了一种“自适应聚合”策略，其核心是计算参数之间的**欧几里得距离 (Euclidean Distance)**，并选择距离最近的 Top-M 个客户端进行加权平均 。
+    
+- **RobustMerge 的反驳：** RobustMerge 明确指出，直接对 PEFT 参数进行基于数值（或简单距离）的合并是次优的，因为它忽略了**奇异值向量的方向 (Direction of Singular Vectors)** 。仅仅因为欧氏距离近就聚合，可能会导致虽然距离近、但“主方向”不一致的 Adapter 互相抵消，破坏特定任务的知识。
+
+方法：
+merge里面提到的合并算法+模型池改为（池子里 Global Models改为“VQA Expert”、“Caption Expert”的 Adapter）
 
 
 
