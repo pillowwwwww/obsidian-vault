@@ -158,3 +158,9 @@ merge里面提到的合并算法+模型池改为（池子里 Global Models改为
 
 #### 3. 把robustmerge的方法迁移到联邦学习里面
 - 最近有研究表明，去除 Adapter 中的非线性激活函数（Linear Adapter）在许多任务上效果相当。如果采用 Linear Adapter，其数学形式与 LoRA 几乎一致（都是低秩矩阵相乘），RobustMerge 的方法可以直接迁移
+
+
+
+- 可以做成 **A 型**：每轮把 LoRA/adapter 传到 server，server 用“合并算法”替换掉 FedAvg/加权平均，在训练循环里用；
+    
+- 也可以做成 **B 型**：本地训完再一次性把 LoRA/adapter（或其压缩统计）传上来，只做一次/少数几次 **训练免合并**，这才是典型的 “model merging”。
