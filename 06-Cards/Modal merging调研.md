@@ -57,6 +57,12 @@ https://chatgpt.com/c/69184cfb-0684-832a-ae60-5f8112fed7c0 这里面问了一些
 3. `Task Vector`不仅可以用于加（即模型融合），也可以用于减（即让模型遗忘某些能力）。
 常见大模型融合算法：大模型模型融合算法（Ties、Slerp、Task Arithmetic、DARE、Passthrough）
 [浅析大模型模型融合算法（Ties、Slerp、Task Arithmetic、DARE、Passthrough） - 文章 - 开发者社区 - 火山引擎](https://developer.volcengine.com/articles/7390576746635984932)
+#### 这些融合算法分为两类：参数空间（Parameter-space） vs. 函数空间（Function-space）
+![[image-98.png]]
+![[image-93.png|682x323]]
+![[image-94.png|681x265]]
+![[image-95.png|682x449]]
+![[image-96.png|480x229]]
 
 ---
 ## 发展过程
@@ -145,8 +151,7 @@ Robust Merge这篇论文发现，直接把FFT的模型合并算法用到PEFT上�
 方法：
 merge里面提到的合并算法+模型池改为（池子里 Global Models改为“VQA Expert”、“Caption Expert”的 Adapter）
 
-
-
+#### 2. W0​ 冻结，给每个任务训练一个ΔWi，所有“model merging”本质上就是在玩LoRA的 ΔWi
 
 
 在服务器上去合并不同的模型，选一个最合适的分数最高的发给客户端

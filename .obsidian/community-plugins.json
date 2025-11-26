@@ -13,7 +13,6 @@
   "obsidian-git",
   "obsidian-zotero-desktop-connector",
   "highlightr-plugin",
-  "image-converter",
   "open-in-new-tab",
   "nldates-obsidian",
   "code-styler",
@@ -24,5 +23,6 @@
   "mathlive",
   "obsidian-markmind",
   "zotlit",
-  "obsidian-pandoc-reference-list"
+  "obsidian-pandoc-reference-list",
+  "image-converter"
 ]
