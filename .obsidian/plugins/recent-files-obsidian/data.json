@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-11-26",
+      "path": "01-Diary/日志存档/2025-11-26.md"
+    },
+    {
       "basename": "Modal merging调研",
       "path": "06-Cards/Modal merging调研.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "阅读批注",
       "path": "09-Templates/阅读批注.md"
-    },
-    {
-      "basename": "师兄FedFomo实验记录",
-      "path": "03-Projects/LoRAPH/师兄FedFomo实验记录.md"
     }
   ],
   "omittedPaths": [],
