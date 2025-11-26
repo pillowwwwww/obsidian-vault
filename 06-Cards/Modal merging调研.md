@@ -156,3 +156,5 @@ merge里面提到的合并算法+模型池改为（池子里 Global Models改为
 
 在服务器上去合并不同的模型，选一个最合适的分数最高的发给客户端
 
+#### 3. 把robustmerge的方法迁移到联邦学习里面
+- 最近有研究表明，去除 Adapter 中的非线性激活函数（Linear Adapter）在许多任务上效果相当。如果采用 Linear Adapter，其数学形式与 LoRA 几乎一致（都是低秩矩阵相乘），RobustMerge 的方法可以直接迁移
