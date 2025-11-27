@@ -195,3 +195,6 @@ merge里面提到的合并算法+模型池改为（池子里 Global Models改为
 - 也可以做成 **B 型**：本地训完再一次性把 LoRA/adapter（或其压缩统计）传上来，只做一次/少数几次 **训练免合并**，这才是典型的 “model merging”。
 总结：
  您应该采纳 RobustMerge 关于“干扰机制”的理论洞察（RobustMerge 的发现完全适用于 FL：简单的参数平均会破坏 LoRA 适配器中的细微方向信息，导致全局模型性能下降，特别是在异构数据环境下。），但在算法实现上，应转向 **LoRM**。LoRM 通过数学手段解决了 RobustMerge 试图通过剪枝解决的问题，且更适合联邦学习的去中心化特性。
+
+
+$$ \mathcal{L}_{local} = \mathcal{L}_{CE}(\theta_{base} + B_k A_k; D_k) + \lambda | B_k^T B_k - I |_F^2 $$
