@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "多模态的几篇经典论文",
+      "path": "06-Cards/多模态/多模态的几篇经典论文.md"
+    },
+    {
+      "basename": "ALBEF-Li2021b",
+      "path": "02-Reading/mdnotes/ALBEF-Li2021b.md"
+    },
+    {
       "basename": "Modal merging调研",
       "path": "06-Cards/Modal merging调研.md"
     },
@@ -89,10 +97,6 @@
       "path": "02-Reading/mdnotes/Huang Pami 综述2024.md"
     },
     {
-      "basename": "多模态的几篇经典论文",
-      "path": "06-Cards/多模态/多模态的几篇经典论文.md"
-    },
-    {
       "basename": "2025-11-15",
       "path": "01-Diary/日志存档/2025-11-15.md"
     },
@@ -119,10 +123,6 @@
     {
       "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
       "path": "06-Cards/通用知识/弄懂CNN、RNN、GAN、Transformer等架构.md"
-    },
-    {
-      "basename": "ALBEF-Li2021b",
-      "path": "02-Reading/mdnotes/ALBEF-Li2021b.md"
     },
     {
       "basename": "朱博士：大模型下的科研思路",
