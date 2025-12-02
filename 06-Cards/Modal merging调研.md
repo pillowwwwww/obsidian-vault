@@ -198,3 +198,6 @@ merge里面提到的合并算法+模型池改为（池子里 Global Models改为
 
 
 $$ \mathcal{L}_{local} = \mathcal{L}_{CE}(\theta_{base} + B_k A_k; D_k) + \lambda | B_k^T B_k - I |_F^2 $$
+
+#### 4. 根据文本模特的稳定性去稳定视觉模态
+**“因为我们观察到 Client A 和 Client B 的文本模态达成了某种共识（例如参数距离近、或谱特征一致），所以我们有理由相信并在数学上赋予更高的权重，去强制融合它们原本发散的视觉模态**
