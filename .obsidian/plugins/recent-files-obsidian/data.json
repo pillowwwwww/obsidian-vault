@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-12-04",
+      "path": "01-Diary/日志存档/2025-12-04.md"
+    },
+    {
       "basename": "2025-12-02",
       "path": "01-Diary/日志存档/2025-12-02.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023ICLR CreamFL",
       "path": "02-Reading/mdnotes/2023ICLR CreamFL.md"
-    },
-    {
-      "basename": "2025-10-10",
-      "path": "01-Diary/日志存档/2025-10-10.md"
     }
   ],
   "omittedPaths": [],
