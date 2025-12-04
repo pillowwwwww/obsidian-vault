@@ -210,3 +210,35 @@ $$ \mathcal{L}_{local} = \mathcal{L}_{CE}(\theta_{base} + B_k A_k; D_k) + \lambd
 ### 1. 验证： 语言是多模态联邦系统中的‘不变量’（Invariant），而视觉是‘协变量’（Covariant）。 利用语言的谱稳定性，我们可以校准视觉特征的漂移。
 
 我们将实验分为**三个阶段**。请按顺序执行，不要跳步。
+第一阶段：**现象验证（Modality Gap / Figure 1）** 这里完全「本地训练 + 相似度分析」，不涉及联邦聚合。
+```
+python -m train_clients   --config configs/local.yaml   --domains Art Clipart Product Real_World
+```
+
+```
+python analyze_similarity.py   --client_a /data1/lc/code/myFedCLIP/src/checkpoints/art   --client_b /data1/lc/code/myFedCLIP/src/checkpoints/clipart   --output_csv ./outputs/sim_art_clipart.csv   --output_fig ./outputs/sim_art_clipart.png
+```
+
+![[image-100.png|705x356]]
+
+```
+- **视觉（Visual）依然是“高频噪声”的重灾区：** 在联邦学习中，Client A 的数据可能是“素描狗”，Client B 的数据是“照片狗”。对于 CLIP 的 Visual Encoder 来说，这两张图的像素统计特征天差地别，导致梯度的更新方向剧烈冲突（发散）。
+    
+- **文本（Text）依然是“低频共识”的锚点：** 无论图片怎么变，Client A 和 Client B 对应的文本标签都是“Dog”。 CLIP 的 Text Encoder 处理的是符号化的语义。虽然它不如 LLM 那么深厚，但在映射“Dog”这个概念到特征空间时，不同客户端之间的差异远小于视觉像素的差异。**这就是你需要的“谱稳定性”基础。**
+
+
+模型融合：
+在写论文时，你不要说自己是 "A better aggregation rule for FL"（这显得很土）；你要说自己是 **"A Spectral-Aware Merging Strategy for Heterogeneous Experts"**（这才是顶会喜欢的 Model Merging 叙事）。你的客户端就是一个个“异构专家（Experts）”，你在服务端做的是“专家融合”。
+
+未见任务：
+- 你利用文本（Text LoRA）作为锚点。因为“狗”这个语义在照片和素描里是一样的，所以 Text LoRA 的主成分（SVD Top-K）非常稳定。
+    
+- 如果有客户端为了强行拟合“照片纹理”，导致其参数偏离了“语义共识”，你的算法会检测到 Text 谱的异常。
+    
+- **结果**：你的算法会**抑制**那些过拟合特定风格（Domain-Specific）的视觉参数，只保留**与语义强相关**的视觉参数（Domain-Invariant）。
+    
+- **结论**：去除了特定域的噪声，保留了通用语义特征，模型自然在 **Unseen Tasks**（新领域）上泛化能力更强。
+
+还跨模态：
+RobustMerge 是在同一个模态里做 SVD。你是**用 Text 的 SVD 去诊断 Vision 的质量**。这是一个非常有新意的 **"Cross-Modal Spectral Dependency"**
+```
