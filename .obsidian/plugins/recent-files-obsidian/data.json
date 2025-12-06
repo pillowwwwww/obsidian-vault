@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-12-06",
+      "path": "01-Diary/日志存档/2025-12-06.md"
+    },
+    {
       "basename": "Modal merging调研",
       "path": "06-Cards/Modal merging调研.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "对比学习",
       "path": "06-Cards/对比学习.md"
-    },
-    {
-      "basename": "2023ICLR CreamFL",
-      "path": "02-Reading/mdnotes/2023ICLR CreamFL.md"
     }
   ],
   "omittedPaths": [],
