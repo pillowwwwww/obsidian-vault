@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "LoRA",
+      "path": "06-Cards/LoRA.md"
+    },
+    {
       "basename": "Modal merging调研",
       "path": "06-Cards/Modal merging调研.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "合并和集成",
       "path": "01-Diary/本周事务/合并和集成.md"
-    },
-    {
-      "basename": "LoRA",
-      "path": "06-Cards/LoRA.md"
     },
     {
       "basename": "多模态数据预处理",
