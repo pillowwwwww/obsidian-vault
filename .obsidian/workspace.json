@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0882b2ad2e6ebb2d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
             "id": "1532f3be07eff2d9",
             "type": "leaf",
             "state": {
@@ -37,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Reading/mdnotes/RobustMerge-Zeng2025.md",
+                "file": "06-Cards/Modal merging调研.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RobustMerge-Zeng2025"
+              "title": "Modal merging调研"
             }
           }
         ],
@@ -224,11 +214,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1532f3be07eff2d9",
+  "active": "12106f7bc461dbd6",
   "lastOpenFiles": [
-    "06-Cards/Modal merging调研.md",
-    "01-Diary/日志存档/2025-12-06.md",
+    "08-Assets/pdfs/2025-When language overrules/2025-When language overrules Revealing text dominance in multimodal large language models.pdf",
+    "08-Assets/pdfs/2025-When language overrules",
     "02-Reading/mdnotes/RobustMerge-Zeng2025.md",
+    "01-Diary/日志存档/2025-12-06.md",
+    "06-Cards/Modal merging调研.md",
     "08-Assets/image-100.png",
     "01-Diary/日志存档/2025-12-04.md",
     "01-Diary/日志存档/2025-12-02.md",
@@ -262,7 +254,6 @@
     "08-Assets/pdfs/2024-Model merging in LLMs, MLLMs, and beyond/2024-Model merging in LLMs, MLLMs, and beyond Methods, theories, applications and opportunities.pdf",
     "08-Assets/pdfs/2024-Model merging in LLMs, MLLMs, and beyond",
     "08-Assets/pdfs/2025-Learning to Specialize/2025-Learning to Specialize Joint Gating-Expert Training for Adaptive MoEs in Decentralized Settings.pdf",
-    "08-Assets/pdfs/2025-Learning to Specialize",
     "06-Cards/未命名思维导图.md",
     "06-Cards/通用知识/未命名思维导图.md",
     "01-Diary/本周事务/未命名 2.md",
@@ -271,7 +262,6 @@
     "02-Reading/mdnotes/Li2018 FedProx.md",
     "02-Reading/mdnotes/McMahan2016.md",
     "02-Reading/mdnotes/Lin2020 FedDF 集成蒸馏.md",
-    "02-Reading/mdnotes/Tan2023 PFL综述.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名 1.canvas",
     "00-MOC/未命名.canvas",
