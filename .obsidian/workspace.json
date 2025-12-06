@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/LoRA.md",
+                "file": "02-Reading/mdnotes/RobustMerge-Zeng2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LoRA"
+              "title": "RobustMerge-Zeng2025"
             }
           }
         ],
@@ -184,7 +184,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "06-Cards/LoRA.md",
+                "file": "02-Reading/mdnotes/RobustMerge-Zeng2025.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -216,6 +216,7 @@
   },
   "active": "12106f7bc461dbd6",
   "lastOpenFiles": [
+    "06-Cards/LoRA.md",
     "06-Cards/Modal merging调研.md",
     "08-Assets/pdfs/2025-When language overrules/2025-When language overrules Revealing text dominance in multimodal large language models.pdf",
     "08-Assets/pdfs/2025-When language overrules",
@@ -243,7 +244,6 @@
     "01-Diary/本周事务/合并和集成.md",
     "08-Assets/pdfs/2025-Analysis of model merging methods for continual updating of foundation models in distributed data settings/2025-Analysis of model merging methods for continual updating of.pdf",
     "08-Assets/pdfs/2025-Analysis of model merging methods for continual updating of foundation models in distributed data settings",
-    "06-Cards/LoRA.md",
     "01-Diary/日志存档/2025-11-20.md",
     "06-Cards/多模态/多模态数据预处理.md",
     "06-Cards/关于git操作.md",

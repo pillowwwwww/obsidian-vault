@@ -136,4 +136,128 @@ Figure 3(c) 展示了全量微调（FFT）参数与参数高效微调（PEFT, �
 
 ## 🔬实验方法：
 
+**论文用 SVD 的理论“包装”了一个非常简单的启发式算法。**
+
+这种“包装”在学术界并不罕见，它并不是欺骗，而是为了给一个简单的操作（比如剪枝）寻找一个更深层的数学解释（即“为什么剪枝有效？”）。
+
+我将分两部分回答你的问题：
+
+### 第一部分：RobustMerge 是如何用 SVD 理论“包装”的？
+
+你可以把整篇论文看作一个**“为了卖这瓶醋（简单的剪枝算法），包了一顿饺子（SVD 理论分析）”**的过程。
+
+#### 1. 它是如何建立联系的？（逻辑跳跃点）
+
+- **现象（醋）：** 作者发现，直接把 LoRA 参数里绝对值小的那些数字（Small Magnitude Parameters）剪掉，合并效果反而更好。
+    
+- **理论（饺子）：** 为什么剪掉小参数会好？
+    
+    - 作者引入 SVD 说：因为在低秩空间里，小奇异值对应的**方向不稳定**（Direction Instability）。
+        
+    - **关键连接点（包装的核心）：** 作者**假设**（Implicit Assumption）参数矩阵里的**小数值**（Small Magnitude）主要贡献给了 SVD 里的**小奇异值**（Small Singular Values）。
+        
+    - **结论：** 所以，我剪掉参数矩阵里的小数值 $\approx$ 我消除了 SVD 里不稳定的方向 $\approx$ 我增强了“方向鲁棒性”（Direction Robustness）。
+        
+
+#### 2. 为什么你会觉得“高大上”但看不懂？
+
+因为它在**两个不同的空间**里反复横跳，试图把它们说成一回事：
+
+- **空间 A（实际操作的空间）：** 参数矩阵 $A$ 和 $B$ 的空间。这里只有简单的“数值大小”。
+    
+- **空间 B（理论解释的空间）：** SVD 分解后的 $U, \Sigma, V$ 空间。这里有“奇异值”、“特征方向”、“子空间”。
+    
+
+**真相是：** 它实际操作极其简单（就是剪枝+缩放），但它为了发表论文，必须用 SVD 证明这个操作是“有理论依据的”，不仅仅是“我试了一下发现这样更好”。
+
+---
+
+### 第二部分：代码审查
+
+经过仔细阅读你提供的代码，我可以确信地告诉你：**是的，这正是 RobustMerge 的核心实现代码。**
+
+虽然文件名叫 `merge_lora_weights.py`，但它只是一个入口脚本。真正的“魔法”藏在 `aurorazengfh/robustmerge/RobustMerge-68bee107dd06a2d7c3e28fd3a2f6702ef7f6d58e/llava/model/builder.py` 文件中的 `load_and_merge_pretrained_model` 函数里。
+
+我为你逐行拆解这段代码，让你看看所谓的“高大上”理论是如何落地为几行 Python 代码的：
+
+#### 1. 代码位置定位
+
+请看 `builder.py` 中 `load_and_merge_pretrained_model` 函数的后半部分（大约第 240 行开始）。
+
+#### 2. 核心逻辑映射
+
+步骤一：准备合并 (Concatenate)
+
+代码将所有模型的 LoRA 参数拼接到一起，方便统一计算。
+
+Python
+
+```
+# builder.py, line 245-250
+lora_parameters = torch.load(...)
+# ... 将所有模型的参数 concat 到 concat_model_weights 中
+```
+
+步骤二：计算剪枝阈值 (The Pruning Threshold)
+
+这里对应论文中的“剪掉绝对值最小的 $k\%$ 参数”。
+
+Python
+
+```
+# builder.py, line 256
+# 计算第 (1-mask_ratio) 位置的数值，作为保留参数的门槛
+kth_values, _ = concat_model_weights.abs().kthvalue(int(d1 * d2* (1-mask_ratio)), dim=1, keepdim=True)
+```
+
+步骤三：生成掩码 (Pruning / Masking)
+
+这里就是实际的“剪枝”操作。
+
+Python
+
+```
+# builder.py, line 258
+# 如果参数绝对值 >= 阈值，就保留 (True/1)，否则丢弃 (False/0)
+masks = (concat_model_weights.abs() >= kth_values).reshape(T, d1, d2)
+# 应用掩码，把小参数变成 0
+trimed_model_weights = masks * concat_model_weights
+```
+
+步骤四：互补缩放 (Complementary Parameter Scaling)
+
+这是全篇论文最核心公式 (Eq. 3) 的代码实现。
+
+论文公式：$S = \frac{\sum |A|}{\sum |Mask \odot A|}$
+
+Python
+
+```
+# builder.py, line 265
+# 分子：原始权重的绝对值之和 (torch.sum(abs(concat_model_weight)))
+# 分母：剪枝后权重的绝对值之和 (torch.sum(abs(masks * concat_model_weight)))
+s_vector = torch.sum(abs(concat_model_weight),dim=-1)/ torch.sum(abs(masks * concat_model_weight), dim=-1)
+
+# builder.py, line 266
+# 限制缩放范围，防止系数过大爆炸
+scale = clamp(s_vector, 1-att_ratio, 0)
+```
+
+**步骤五：加权合并 (Merge)**
+
+Python
+
+```
+# builder.py, line 271
+# 对于 lora_B，把计算出来的 scale 乘进去。
+# 这就是论文里说的：用 scale 补偿剪枝损失的能量，并最终合并。
+merged_model_weights[name]=torch.sum(fuse_weight * scale.unsqueeze(1) * trimed_model_weights, dim=0)/torch.sum(scale.unsqueeze(1), dim=0)
+```
+
+### 总结
+
+1. **关于理论：** 你的感觉是对的。SVD 是为了解释“为什么保留大数值参数是合理的”，它赋予了简单的 Magnitude Pruning 以“维护方向鲁棒性”的高级含义。
+    
+2. **关于代码：** `llava/model/builder.py` 里的这段代码完全复现了论文算法。它非常直白：**找阈值 -> 剪枝 -> 算比例 -> 乘回去 -> 加起来**。没有任何 SVD 分解的计算操作（如 `torch.svd`），这验证了它是 Training-free 且高效的
+
 ## 📜 总结：
