@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/Modal merging调研.md",
+                "file": "03-Projects/merging/初稿1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modal merging调研"
+              "title": "初稿1"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "FibecFed EMNLP2024"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -197,7 +197,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "02-Reading/mdnotes/FibecFed EMNLP2024.md",
+                "file": "03-Projects/merging/初稿1.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -227,12 +227,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3090910a3bbb4bfa",
+  "active": "12106f7bc461dbd6",
   "lastOpenFiles": [
-    "01-Diary/日志存档/2025-12-10.md",
-    "02-Reading/mdnotes/FibecFed EMNLP2024.md",
-    "03-Projects/merging/初稿1.md",
+    "08-Assets/pdfs/2025-Sens-merging/2025-Sens-merging Sensitivity-guided parameter balancing for merging large language models.pdf",
+    "08-Assets/pdfs/2025-Sens-merging",
     "06-Cards/Modal merging调研.md",
+    "02-Reading/mdnotes/FibecFed EMNLP2024.md",
+    "01-Diary/日志存档/2025-12-10.md",
+    "03-Projects/merging/初稿1.md",
     "08-Assets/pdfs/2024-FedFisher",
     "01-Diary/日志存档/2025-12-06.md",
     "01-Diary/日志存档/2025-12-08.md",
@@ -270,11 +272,9 @@
     "06-Cards/关于git操作.md",
     "06-Cards/MINE_FL框架.md",
     "08-Assets/image-91.png",
-    "08-Assets/pdfs/2025-FedMerge/2025-FedMerge Federated personalization via model merging.pdf",
     "06-Cards/未命名思维导图.md",
     "06-Cards/通用知识/未命名思维导图.md",
     "01-Diary/本周事务/未命名 2.md",
-    "02-Reading/mdnotes/Pilot-FedMIT- Xiong2025.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名 1.canvas",
     "00-MOC/未命名.canvas",
