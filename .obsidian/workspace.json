@@ -22,6 +22,34 @@
             }
           },
           {
+            "id": "81f36b7fb2020462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Diary/日志存档/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "9a05c1889a77545d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Diary/日志存档/2025-12-02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-02"
+            }
+          },
+          {
             "id": "d668b3860f6e0bd8",
             "type": "leaf",
             "state": {
@@ -35,7 +63,8 @@
               "title": "初稿1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,13 +127,11 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 321.50328826904297,
-    "collapsed": true
+    "width": 321.50328826904297
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -120,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-Cards/LoRA.md",
+                "file": "01-Diary/日志存档/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "LoRA 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -145,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-Cards/LoRA.md",
+                "file": "01-Diary/日志存档/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +182,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "LoRA 的反向链接列表"
+              "title": "未命名 的反向链接列表"
             }
           },
           {
@@ -184,7 +211,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "06-Cards/LoRA.md",
+                "file": "01-Diary/日志存档/未命名.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -194,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -215,12 +242,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d1cdbba56314251",
+  "active": "81f36b7fb2020462",
   "lastOpenFiles": [
+    "01-Diary/日志存档/2025-12-15.md",
+    "01-Diary/日志存档/未命名.md",
+    "01-Diary/日志存档/2025-12-13.md",
+    "01-Diary/日志存档/2025-12-02.md",
+    "06-Cards/LoRA.md",
     "08-Assets/pdfs/2024-Federated Fine-tuning of Large Language Models under Heterogeneous Tasks and Client Resources/2024-Federated Fine-tuning of Large Language Models under Heterogeneous Tasks.pdf",
     "08-Assets/pdfs/2024-Federated Fine-tuning of Large Language Models under Heterogeneous Tasks and Client Resources",
     "06-Cards/Modal merging调研.md",
-    "01-Diary/日志存档/2025-12-15.md",
     "08-Assets/pdfs/2023-Language Models are Super Mario/2023-Language Models are Super Mario Absorbing Abilities from Homologous Models as a Free Lunch.pdf",
     "08-Assets/pdfs/2023-Language Models are Super Mario",
     "08-Assets/pdfs/2025-Activation-informed merging of large language models/2025-Activation-informed merging of large language models.pdf",
@@ -229,19 +260,15 @@
     "08-Assets/pdfs/2025-Activation-guided consensus merging for large language models",
     "08-Assets/pdfs/2024-Revisiting Ensembling in One-Shot Federated Learning/2024-Revisiting Ensembling in One-Shot Federated Learning.pdf",
     "08-Assets/pdfs/2024-Revisiting Ensembling in One-Shot Federated Learning",
-    "08-Assets/pdfs/2025-One-shot federated learning methods/2025-One-shot federated learning methods A practical guide.pdf",
     "03-Projects/merging/初稿1.md",
     "02-Reading/mdnotes/FibecFed EMNLP2024.md",
     "01-Diary/日志存档/2025-12-12.md",
-    "01-Diary/日志存档/2025-12-02.md",
-    "01-Diary/日志存档/2025-12-13.md",
     "01-Diary/日志存档/2025-12-04.md",
     "01-Diary/日志存档/2025-12-06.md",
     "01-Diary/日志存档/2025-12-08.md",
     "01-Diary/日志存档/2025-12-10.md",
     "01-Diary/日志存档/2025-07-15.md",
     "02-Reading/mdnotes/RobustMerge-Zeng2025.md",
-    "06-Cards/LoRA.md",
     "08-Assets/image-100.png",
     "08-Assets/image-99.png",
     "06-Cards/多模态/多模态的几篇经典论文.md",
