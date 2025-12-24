@@ -16,9 +16,11 @@
 
 **本地链接:** [2024-Unlocking the Global Synergies in Low-Rank Adapters.pdf](zotero://open-pdf/0_ABG5AWSW)
 
+
+我们提出了一种动态HeteroLoRA框架，该框架自动确定LLM微调中LoRA模块的“开/关”状态。
+
 ---
-1. 这篇论文提出了：lora模块和LoRA 适配的 Shortcut 模块。该模块可以替换残差链接。
-**LoRA 适配的 Shortcut 模块 (LoRA-adapted Shortcut)**：
+1. 这篇论文提出了：lora模块和LoRA 适配的 Shortcut 模块。该模块可以替换残差链接。 (LoRA-adapted Shortcut)**：
 - **位置**：
     - 蓝色： **Residual Shortcut（残差捷径）**：替换每一层内部原本的残差连接（图 3 中的蓝色块）
 	    位置：位于 Transformer 层内部。$s_{res1}$ 跨越 Attention 层，$s_{res2}$ 跨越 MLP 层 。
@@ -32,7 +34,18 @@
 2. 这篇论文不做“微调秩的大小”（比如这一层调成3，那一层调成5），而是做**“二选一的开关”**（要么给你高配 $r=8$，要么直接关掉），以此来模拟多秩分配的效果。
 
 3. 这篇论文对于连接方式进行了修改（Figure3）
-4. Table2，这篇论文其实只提升了0.3个点
+
+4. Table2，只应用dynamic去选择怎么分配秩，其实只提升了0.3个点。
+
+5. - **基准（Baseline）**：所有 LoRA 模块都打开，但是秩很低，**$r=2$**。这是“大锅饭”模式。
+	- **挑战者（HeteroLoRA）**：只有 **25%** 的模块打开，但是给高配 **$r=8$**。这是“精英模式”。
+
+6. 这篇文章发现**零成本代理** 把所有 LoRA 模块扫描一遍，问谁最重要，效果很差。
+
+7. Figure 4 发现了一个规律：**Value 投影（$W_V$）通常比 Query 投影（$W_Q$）更重要**（被开启的频率更高）。更容易拿到高分，被分配更高的秩.
+
+8. 修改残差链接和动态选择top25%的高秩能提升的都不多，我认为最有价值的是Figure4实验：
+	![[image-101.png]]
 ---
 
 ### 0. 翻译摘要原文
