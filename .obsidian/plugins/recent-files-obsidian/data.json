@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Zhang2024",
+      "path": "02-Reading/mdnotes/Zhang2024.md"
+    },
+    {
       "basename": "Liu2025a",
       "path": "02-Reading/mdnotes/Liu2025a.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2025-08-07",
       "path": "01-Diary/日志存档/2025-08-07.md"
-    },
-    {
-      "basename": "2025-08-06",
-      "path": "01-Diary/日志存档/2025-08-06.md"
     }
   ],
   "omittedPaths": [],
