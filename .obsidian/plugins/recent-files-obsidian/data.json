@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "LoRA",
-      "path": "06-Cards/LoRA.md"
+      "basename": "Liu2025a",
+      "path": "02-Reading/mdnotes/Liu2025a.md"
     },
     {
       "basename": "Modal merging调研",
       "path": "03-Projects/merging/Modal merging调研.md"
+    },
+    {
+      "basename": "LoRA",
+      "path": "06-Cards/LoRA.md"
+    },
+    {
+      "basename": "Yao2025",
+      "path": "02-Reading/mdnotes/Yao2025.md"
+    },
+    {
+      "basename": "Yang2025a",
+      "path": "02-Reading/mdnotes/Yang2025a.md"
     },
     {
       "basename": "初稿1",
@@ -187,10 +199,6 @@
     {
       "basename": "2025-08-06",
       "path": "01-Diary/日志存档/2025-08-06.md"
-    },
-    {
-      "basename": "2025-07-25",
-      "path": "01-Diary/日志存档/2025-07-25.md"
     }
   ],
   "omittedPaths": [],
