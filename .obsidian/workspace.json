@@ -212,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,7 +228,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96141a8f1c36264f",
+  "active": "45517edcc50fea31",
   "lastOpenFiles": [
     "01-Diary/日志存档/2026-01-14.md",
     "03-Projects/Subspace_LoRA/关于实验设置.md",
