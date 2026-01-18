@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-01-18",
+      "path": "01-Diary/日志存档/2026-01-18.md"
+    },
+    {
       "basename": "关于实验设置",
       "path": "03-Projects/Subspace_LoRA/关于实验设置.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "朱博士：多模态论文串讲（上）",
       "path": "06-Cards/多模态/朱博士：多模态论文串讲（上）.md"
-    },
-    {
-      "basename": "2025-11-01",
-      "path": "01-Diary/日志存档/2025-11-01.md"
     }
   ],
   "omittedPaths": [],
