@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2026-01-21.md",
+                "file": "03-Projects/Subspace_LoRA/关于实验设置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-21"
+              "title": "关于实验设置"
             }
           },
           {
@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.50328826904297
+    "width": 321.50328826904297,
+    "collapsed": true
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -197,7 +198,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "01-Diary/日志存档/2026-01-21.md",
+                "file": "03-Projects/Subspace_LoRA/关于实验设置.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -211,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,8 +230,8 @@
   },
   "active": "81f36b7fb2020462",
   "lastOpenFiles": [
-    "03-Projects/Subspace_LoRA/关于实验设置.md",
     "01-Diary/日志存档/2026-01-21.md",
+    "03-Projects/Subspace_LoRA/关于实验设置.md",
     "03-Projects/merging/初稿1.md",
     "01-Diary/日志存档/2026-01-18.md",
     "01-Diary/日志存档/2026-01-16.md",
