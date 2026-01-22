@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Modal merging调研",
+      "path": "03-Projects/merging/Modal merging调研.md"
+    },
+    {
+      "basename": "2026-01-22",
+      "path": "01-Diary/日志存档/2026-01-22.md"
+    },
+    {
       "basename": "关于实验设置",
       "path": "03-Projects/Subspace_LoRA/关于实验设置.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "2026-01-13",
       "path": "01-Diary/日志存档/2026-01-13.md"
-    },
-    {
-      "basename": "Modal merging调研",
-      "path": "03-Projects/merging/Modal merging调研.md"
     },
     {
       "basename": "Liu2025a",
@@ -195,10 +199,6 @@
     {
       "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
       "path": "06-Cards/通用知识/弄懂CNN、RNN、GAN、Transformer等架构.md"
-    },
-    {
-      "basename": "朱博士：大模型下的科研思路",
-      "path": "06-Cards/朱博士：大模型下的科研思路.md"
     }
   ],
   "omittedPaths": [],
