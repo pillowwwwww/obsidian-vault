@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "af9507590b3e2c09",
+        "id": "78d371a36168cc7e",
         "type": "tabs",
         "children": [
           {
-            "id": "96141a8f1c36264f",
+            "id": "f8cf80af3e7acc23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/日志存档/2026-01-18.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-01-18"
+              "title": "新标签页"
             }
           }
         ]
@@ -89,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.50328826904297
+    "width": 321.50328826904297,
+    "collapsed": true
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -169,7 +166,6 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "01-Diary/日志存档/2026-01-18.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -199,15 +195,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96141a8f1c36264f",
+  "active": "f8cf80af3e7acc23",
   "lastOpenFiles": [
     "01-Diary/日志存档/2026-01-22.md",
     "03-Projects/Subspace_LoRA/关于实验设置.md",
+    "01-Diary/日志存档/2026-01-18.md",
     "08-Assets/image-102.png",
     "03-Projects/merging/Modal merging调研.md",
     "01-Diary/日志存档/2026-01-21.md",
     "03-Projects/merging/初稿1.md",
-    "01-Diary/日志存档/2026-01-18.md",
     "01-Diary/日志存档/2026-01-16.md",
     "01-Diary/日志存档/2026-01-14.md",
     "02-Reading/mdnotes/FlexLoRA2024.md",
