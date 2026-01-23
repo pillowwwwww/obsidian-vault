@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-01-22",
-      "path": "01-Diary/日志存档/2026-01-22.md"
-    },
-    {
       "basename": "关于实验设置",
       "path": "03-Projects/Subspace_LoRA/关于实验设置.md"
+    },
+    {
+      "basename": "2026-01-23",
+      "path": "01-Diary/日志存档/2026-01-23.md"
+    },
+    {
+      "basename": "2026-01-22",
+      "path": "01-Diary/日志存档/2026-01-22.md"
     },
     {
       "basename": "2026-01-18",
@@ -195,10 +199,6 @@
     {
       "basename": "神经网络",
       "path": "06-Cards/通用知识/神经网络.md"
-    },
-    {
-      "basename": "弄懂CNN、RNN、GAN、Transformer等架构",
-      "path": "06-Cards/通用知识/弄懂CNN、RNN、GAN、Transformer等架构.md"
     }
   ],
   "omittedPaths": [],
