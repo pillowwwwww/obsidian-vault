@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2026-03-06.md",
+                "file": "02-Reading/mdnotes/Pilot-FedMIT- Xiong2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-06"
+              "title": "Pilot-FedMIT- Xiong2025"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CLS",
+                "query": "fedit",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -85,11 +85,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 321.50328826904297
+    "width": 321.50328826904297,
+    "collapsed": true
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -169,7 +170,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "01-Diary/日志存档/2026-03-06.md",
+                "file": "02-Reading/mdnotes/Pilot-FedMIT- Xiong2025.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -183,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,8 +203,9 @@
   },
   "active": "f8cf80af3e7acc23",
   "lastOpenFiles": [
-    "03-Projects/Subspace_LoRA/关于实验设置.md",
+    "02-Reading/mdnotes/Yang2025a.md",
     "01-Diary/日志存档/2026-03-06.md",
+    "03-Projects/Subspace_LoRA/关于实验设置.md",
     "01-Diary/日志存档/2026-03-03.md",
     "08-Assets/pdfs/2023-LoraHub/2023-LoraHub Efficient Cross-Task Generalization via Dynamic LoRA Composition.pdf",
     "08-Assets/pdfs/2023-LoraHub",
@@ -233,7 +236,6 @@
     "02-Reading/mdnotes/Liu2024.md",
     "06-Cards/LoRA.md",
     "02-Reading/mdnotes/Yao2025.md",
-    "02-Reading/mdnotes/Yang2025a.md",
     "02-Reading/mdnotes/Sun2024.md",
     "01-Diary/日志存档/2025-12-23.md",
     "01-Diary/日志存档/2025-12-18.md",
