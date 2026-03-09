@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-03-09",
+      "path": "01-Diary/日志存档/2026-03-09.md"
+    },
+    {
       "basename": "Fisher信息矩阵",
       "path": "06-Cards/Fisher信息矩阵.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2025-11-15",
       "path": "01-Diary/日志存档/2025-11-15.md"
-    },
-    {
-      "basename": "朱博士：多模态论文串讲（下）",
-      "path": "06-Cards/多模态/朱博士：多模态论文串讲（下）.md"
     }
   ],
   "omittedPaths": [],
