@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-03-09",
-      "path": "01-Diary/日志存档/2026-03-09.md"
+      "basename": "Modal merging调研",
+      "path": "03-Projects/merging/Modal merging调研.md"
+    },
+    {
+      "basename": "2026-Sparsity-aware evolution for model merging",
+      "path": "08-Assets/pdfs/2026-Sparsity-aware evolution for model merging/2026-Sparsity-aware evolution for model merging.pdf"
+    },
+    {
+      "basename": "zhang2026sparsityaware",
+      "path": "02-Reading/mdnotes/zhang2026sparsityaware.md"
+    },
+    {
+      "basename": "FlexLoRA2024",
+      "path": "02-Reading/mdnotes/FlexLoRA2024.md"
+    },
+    {
+      "basename": "Pilot-FedMIT- Xiong2025",
+      "path": "02-Reading/mdnotes/Pilot-FedMIT- Xiong2025.md"
     },
     {
       "basename": "Fisher信息矩阵",
       "path": "06-Cards/Fisher信息矩阵.md"
     },
     {
-      "basename": "Pilot-FedMIT- Xiong2025",
-      "path": "02-Reading/mdnotes/Pilot-FedMIT- Xiong2025.md"
+      "basename": "2026-03-09",
+      "path": "01-Diary/日志存档/2026-03-09.md"
     },
     {
       "basename": "Yang2025a",
@@ -45,10 +61,6 @@
       "path": "01-Diary/日志存档/2026-01-18.md"
     },
     {
-      "basename": "Modal merging调研",
-      "path": "03-Projects/merging/Modal merging调研.md"
-    },
-    {
       "basename": "2026-01-21",
       "path": "01-Diary/日志存档/2026-01-21.md"
     },
@@ -63,10 +75,6 @@
     {
       "basename": "2026-01-14",
       "path": "01-Diary/日志存档/2026-01-14.md"
-    },
-    {
-      "basename": "FlexLoRA2024",
-      "path": "02-Reading/mdnotes/FlexLoRA2024.md"
     },
     {
       "basename": "2026-01-13",
@@ -191,14 +199,6 @@
     {
       "basename": "2025-11-16",
       "path": "01-Diary/日志存档/2025-11-16.md"
-    },
-    {
-      "basename": "Huang Pami 综述2024",
-      "path": "02-Reading/mdnotes/Huang Pami 综述2024.md"
-    },
-    {
-      "basename": "2025-11-15",
-      "path": "01-Diary/日志存档/2025-11-15.md"
     }
   ],
   "omittedPaths": [],
