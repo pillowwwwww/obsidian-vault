@@ -288,4 +288,23 @@ RobustMerge 是在同一个模态里做 SVD。你是**用 Text 的 SVD 去诊断
 我认为在SVD分解这一步，仅仅根据rank的不同，去截断B 和A会造成旋转不确定的错误/遗忘。Bnew 和 Anew有多种组合，但是下发给客户端之后，客户端本地的 Adam 优化器里，还存着上一轮的“动量（Momentum）”。这个动量是基于**旧坐标系**的旧 $A$ 和旧 $B$ 积累下来的。
 “在 SVD 分解后截断 $B$ 和 $A$ 导致旋转不确定性，使得客户端基于旧坐标系的 Adam 动量失效。”
 
+【该想法应该是错的，因为svd分解后的b和a这个过程是服务器在全局ΔW上进行分解的，基底也是全局最优基底】
 
+#### 【恍然大悟！】 [[2024-Selective aggregation for low-rank adaptation in federated learning.pdf]]
+Lora分为A B矩阵，这是参数空间的。
+
+流经AB矩阵的**输入数据** $x_t$，这是数据空间的。
+
+$V \Lambda V^T$是 $\mathbb{E}[x_t x_t^T]$的“真身”，在矩阵的世界里，为什么 $\mathbb{E}[x_t x_t^T]$ 一定能被分解成 $V \Lambda V^T$ 呢？
+
+$\begin{bmatrix} \mathbb{E}[x_1^2] & \mathbb{E}[x_1 x_2] \\ \mathbb{E}[x_2 x_1] & \mathbb{E}[x_2^2] \end{bmatrix}$
+
+这背后隐藏着线性代数中最伟大、最优美的定理之一：**谱定理（Spectral Theorem）**。
+
+**谱定理（Spectral Theorem）** 铁口直断地给出了一个无与伦比的保证：
+
+**只要一个矩阵是实对称矩阵，它就【一定】能被分解为一个正交矩阵** $V$**、一个对角矩阵** $\Lambda$**、以及** $V$ **的转置** $V^T$ **的乘积。**
+
+也就是说：因为 $\mathbb{E}[x_t x_t^T]$ 完美对称，所以数学之神保证了必定存在一组 $V$ 和 $\Lambda$，使得：$\mathbb{E}[x_t x_t^T] = V \Lambda V^T$
+
+这个等号是绝对成立的，没有任何条件和悬念。
