@@ -216,6 +216,8 @@
   },
   "active": "0715fe6dd3e51573",
   "lastOpenFiles": [
+    "08-Assets/pdfs/2025-Ravan/2025-Ravan Multi-head low-rank adaptation for federated fine-tuning.pdf",
+    "08-Assets/pdfs/2025-Ravan",
     "03-Projects/merging/Modal merging调研.md",
     "08-Assets/pdfs/-Tensor-aggregated LoRA in federated fine-tuning/-Tensor-aggregated LoRA in federated fine-tuning.pdf",
     "08-Assets/pdfs/-Tensor-aggregated LoRA in federated fine-tuning",
@@ -230,7 +232,6 @@
     "08-Assets/pdfs/2026-FedRot-LoRA",
     "08-Assets/image-103.png",
     "08-Assets/pdfs/2025-FedPaI/2025-FedPaI Achieving extreme sparsity in federated learning via pruning at initialization.pdf",
-    "08-Assets/pdfs/2025-FedPaI",
     "02-Reading/mdnotes/zhang2026sparsityaware.md",
     "02-Reading/mdnotes/Pilot-FedMIT- Xiong2025.md",
     "06-Cards/Fisher信息矩阵.md",
