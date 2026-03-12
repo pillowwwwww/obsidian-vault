@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "FlexLoRA2024"
             }
-          },
-          {
-            "id": "4213829bd8efa49d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Projects/merging/Modal merging调研.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modal merging调研"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,7 +184,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "03-Projects/merging/Modal merging调研.md",
+                "file": "02-Reading/mdnotes/FlexLoRA2024.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -228,8 +214,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4213829bd8efa49d",
+  "active": "0715fe6dd3e51573",
   "lastOpenFiles": [
+    "01-Diary/日志存档/2026-03-12.md",
+    "03-Projects/merging/Modal merging调研.md",
     "08-Assets/pdfs/2026-Rethinking LoRA for data heterogeneous federated learning/2026-Rethinking LoRA for data heterogeneous federated learning Subspace and state alignment.pdf",
     "08-Assets/pdfs/2026-Rethinking LoRA for data heterogeneous federated learning",
     "08-Assets/pdfs/2025-FedSVD/2025-FedSVD Adaptive orthogonalization for private federated learning with LoRA.pdf",
@@ -240,14 +228,12 @@
     "08-Assets/pdfs/2025-FedPaI/2025-FedPaI Achieving extreme sparsity in federated learning via pruning at initialization.pdf",
     "08-Assets/pdfs/2025-FedPaI",
     "08-Assets/pdfs/2026-Sparsity-aware evolution for model merging/2026-Sparsity-aware evolution for model merging.pdf",
-    "03-Projects/merging/Modal merging调研.md",
     "02-Reading/mdnotes/zhang2026sparsityaware.md",
     "02-Reading/mdnotes/FlexLoRA2024.md",
     "02-Reading/mdnotes/Pilot-FedMIT- Xiong2025.md",
     "06-Cards/Fisher信息矩阵.md",
     "01-Diary/日志存档/2026-03-09.md",
     "08-Assets/pdfs/2024-Merging LoRAs like playing LEGO/2024-Merging LoRAs like playing LEGO Pushing the modularity of LoRA to extremes through rank-wise clustering.pdf",
-    "08-Assets/pdfs/2024-Merging LoRAs like playing LEGO",
     "02-Reading/mdnotes/Yang2025a.md",
     "01-Diary/日志存档/2026-03-06.md",
     "03-Projects/Subspace_LoRA/关于实验设置.md",
