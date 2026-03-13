@@ -227,8 +227,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "08ba756331ba9720",
+  "active": "45517edcc50fea31",
   "lastOpenFiles": [
+    "08-Assets/pdfs/2025-AdaRank/2025-AdaRank Adaptive rank pruning for enhanced model merging.pdf",
+    "08-Assets/pdfs/2025-AdaRank",
+    "08-Assets/pdfs/2026-Communication-efficient personalized adaptation via federated-local model merging/2026-Communication-efficient personalized adaptation via federated-local model merging 1.pdf",
     "01-Diary/日志存档/2026-03-03.md",
     "01-Diary/日志存档/2026-01-24.md",
     "01-Diary/日志存档/2026-03-13.md",
@@ -248,8 +251,6 @@
     "08-Assets/pdfs/2026-Rethinking LoRA for data heterogeneous federated learning",
     "08-Assets/pdfs/2025-FedSVD/2025-FedSVD Adaptive orthogonalization for private federated learning with LoRA.pdf",
     "08-Assets/pdfs/2025-FedSVD",
-    "08-Assets/pdfs/2026-FedRot-LoRA/2026-FedRot-LoRA Mitigating rotational misalignment in federated LoRA.pdf",
-    "08-Assets/pdfs/2026-FedRot-LoRA",
     "08-Assets/image-103.png",
     "02-Reading/mdnotes/zhang2026sparsityaware.md",
     "06-Cards/Fisher信息矩阵.md",
@@ -267,7 +268,6 @@
     "02-Reading/mdnotes/Liu2025a.md",
     "02-Reading/mdnotes/HetroLoRA2024.md",
     "08-Assets/image-101.png",
-    "02-Reading/mdnotes/Yadav2024.md",
     "08-Assets/image-100.png",
     "08-Assets/image-99.png",
     "08-Assets/image-98.png",
