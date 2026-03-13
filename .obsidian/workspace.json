@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Reading/mdnotes/RobustMerge-Zeng2025.md",
+                "file": "01-Diary/日志存档/2026-03-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RobustMerge-Zeng2025"
+              "title": "2026-03-13"
             }
           }
         ],
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -184,7 +184,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "02-Reading/mdnotes/RobustMerge-Zeng2025.md",
+                "file": "01-Diary/日志存档/2026-03-13.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -216,6 +216,8 @@
   },
   "active": "0715fe6dd3e51573",
   "lastOpenFiles": [
+    "02-Reading/mdnotes/RobustMerge-Zeng2025.md",
+    "01-Diary/日志存档/2026-03-13.md",
     "08-Assets/pdfs/2025-Ravan/2025-Ravan Multi-head low-rank adaptation for federated fine-tuning.pdf",
     "08-Assets/pdfs/2025-Ravan",
     "03-Projects/merging/Modal merging调研.md",
@@ -231,7 +233,6 @@
     "08-Assets/pdfs/2026-FedRot-LoRA/2026-FedRot-LoRA Mitigating rotational misalignment in federated LoRA.pdf",
     "08-Assets/pdfs/2026-FedRot-LoRA",
     "08-Assets/image-103.png",
-    "08-Assets/pdfs/2025-FedPaI/2025-FedPaI Achieving extreme sparsity in federated learning via pruning at initialization.pdf",
     "02-Reading/mdnotes/zhang2026sparsityaware.md",
     "02-Reading/mdnotes/Pilot-FedMIT- Xiong2025.md",
     "06-Cards/Fisher信息矩阵.md",
@@ -254,7 +255,6 @@
     "02-Reading/mdnotes/HetroLoRA2024.md",
     "08-Assets/image-101.png",
     "02-Reading/mdnotes/Yadav2024.md",
-    "02-Reading/mdnotes/Liu2024.md",
     "08-Assets/image-100.png",
     "08-Assets/image-99.png",
     "08-Assets/image-98.png",

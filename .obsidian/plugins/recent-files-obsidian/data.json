@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-03-13",
+      "path": "01-Diary/日志存档/2026-03-13.md"
+    },
+    {
       "basename": "RobustMerge-Zeng2025",
       "path": "02-Reading/mdnotes/RobustMerge-Zeng2025.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Tan2023 PFL综述",
       "path": "02-Reading/mdnotes/Tan2023 PFL综述.md"
-    },
-    {
-      "basename": "pFedPrompt- Guo2023",
-      "path": "02-Reading/mdnotes/pFedPrompt- Guo2023.md"
     }
   ],
   "omittedPaths": [],
