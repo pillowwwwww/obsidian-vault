@@ -169,7 +169,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "02-Reading/mdnotes/RobustMerge-Zeng2025.md",
+                "file": "01-Diary/日志存档/2026-03-06.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -199,8 +199,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f4ff75561bebdd2",
+  "active": "1b78dbf7d7395565",
   "lastOpenFiles": [
+    "02-Reading/mdnotes/RobustMerge-Zeng2025.md",
     "01-Diary/日志存档/2026-01-24.md",
     "01-Diary/日志存档/2026-03-16.md",
     "01-Diary/日志存档/2026-03-06.md",
@@ -211,7 +212,6 @@
     "01-Diary/日志存档/2026-03-13.md",
     "01-Diary/日志存档/2026-03-09.md",
     "01-Diary/日志存档/2026-03-12.md",
-    "02-Reading/mdnotes/RobustMerge-Zeng2025.md",
     "02-Reading/mdnotes/Pilot-FedMIT- Xiong2025.md",
     "08-Assets/pdfs/2025-Ravan/2025-Ravan Multi-head low-rank adaptation for federated fine-tuning.pdf",
     "08-Assets/pdfs/2025-Ravan",
