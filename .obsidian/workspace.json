@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2026-03-06.md",
+                "file": "01-Diary/日志存档/2026-03-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-06"
+              "title": "2026-03-17"
             }
           }
         ]
@@ -169,7 +169,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "01-Diary/日志存档/2026-03-06.md",
+                "file": "01-Diary/日志存档/2026-03-17.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -201,10 +201,11 @@
   },
   "active": "1b78dbf7d7395565",
   "lastOpenFiles": [
+    "01-Diary/日志存档/2026-03-06.md",
+    "01-Diary/日志存档/2026-03-17.md",
     "02-Reading/mdnotes/RobustMerge-Zeng2025.md",
     "01-Diary/日志存档/2026-01-24.md",
     "01-Diary/日志存档/2026-03-16.md",
-    "01-Diary/日志存档/2026-03-06.md",
     "08-Assets/pdfs/2025-AdaRank/2025-AdaRank Adaptive rank pruning for enhanced model merging.pdf",
     "08-Assets/pdfs/2025-AdaRank",
     "08-Assets/pdfs/2026-Communication-efficient personalized adaptation via federated-local model merging/2026-Communication-efficient personalized adaptation via federated-local model merging 1.pdf",
@@ -238,7 +239,6 @@
     "01-Diary/日志存档/2026-01-14.md",
     "01-Diary/日志存档/2026-01-13.md",
     "02-Reading/mdnotes/Liu2025a.md",
-    "02-Reading/mdnotes/HetroLoRA2024.md",
     "08-Assets/image-101.png",
     "08-Assets/image-100.png",
     "08-Assets/image-99.png",
