@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Cards/通用知识/未命名.md",
+                "file": "06-Cards/通用知识/矩阵投影.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "矩阵投影"
+            }
+          },
+          {
+            "id": "b10a5ab361d71d25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Cards/实验一.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "实验一"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +183,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "06-Cards/通用知识/未命名.md",
+                "file": "06-Cards/实验一.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -198,10 +213,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f9da824e054efe05",
+  "active": "b10a5ab361d71d25",
   "lastOpenFiles": [
+    "06-Cards/通用知识/矩阵投影.md",
     "06-Cards/Fisher信息矩阵.md",
-    "06-Cards/通用知识/未命名.md",
     "06-Cards/实验一.md",
     "01-Diary/日志存档/2026-03-23.md",
     "08-Assets/image-107.png",
