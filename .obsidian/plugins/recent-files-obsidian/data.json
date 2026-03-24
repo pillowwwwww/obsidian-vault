@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "01-Diary/日志存档/未命名.md"
+    },
+    {
+      "basename": "2026-03-23",
+      "path": "01-Diary/日志存档/2026-03-23.md"
+    },
+    {
       "basename": "实验一",
       "path": "06-Cards/实验一.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Fisher信息矩阵",
       "path": "06-Cards/Fisher信息矩阵.md"
-    },
-    {
-      "basename": "2026-03-23",
-      "path": "01-Diary/日志存档/2026-03-23.md"
     },
     {
       "basename": "2026-03-06",
@@ -195,10 +199,6 @@
     {
       "basename": "Lin2020 FedDF 集成蒸馏",
       "path": "02-Reading/mdnotes/Lin2020 FedDF 集成蒸馏.md"
-    },
-    {
-      "basename": "Tan2023 PFL综述",
-      "path": "02-Reading/mdnotes/Tan2023 PFL综述.md"
     }
   ],
   "omittedPaths": [],
