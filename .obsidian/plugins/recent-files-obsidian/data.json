@@ -5,6 +5,10 @@
       "path": "01-Diary/日志存档/未命名.md"
     },
     {
+      "basename": "2025-03-24",
+      "path": "01-Diary/日志存档/2025-03-24.md"
+    },
+    {
       "basename": "2026-03-23",
       "path": "01-Diary/日志存档/2026-03-23.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "McMahan2016",
       "path": "02-Reading/mdnotes/McMahan2016.md"
-    },
-    {
-      "basename": "Lin2020 FedDF 集成蒸馏",
-      "path": "02-Reading/mdnotes/Lin2020 FedDF 集成蒸馏.md"
     }
   ],
   "omittedPaths": [],
