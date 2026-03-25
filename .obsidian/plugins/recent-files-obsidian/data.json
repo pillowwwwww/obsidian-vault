@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "动机部分",
+      "path": "03-Projects/merging/动机部分.md"
+    },
+    {
       "basename": "未命名",
       "path": "01-Diary/日志存档/未命名.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Li2018 FedProx",
       "path": "02-Reading/mdnotes/Li2018 FedProx.md"
-    },
-    {
-      "basename": "McMahan2016",
-      "path": "02-Reading/mdnotes/McMahan2016.md"
     }
   ],
   "omittedPaths": [],
