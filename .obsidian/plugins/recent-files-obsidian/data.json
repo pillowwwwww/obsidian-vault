@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "图表解释",
+      "path": "03-Projects/merging/Motivation/图表解释.md"
+    },
+    {
       "basename": "动机部分",
-      "path": "03-Projects/merging/动机部分.md"
+      "path": "03-Projects/merging/Motivation/动机部分.md"
+    },
+    {
+      "basename": "矩阵投影",
+      "path": "06-Cards/通用知识/矩阵投影.md"
     },
     {
       "basename": "未命名",
@@ -19,10 +27,6 @@
     {
       "basename": "实验一",
       "path": "06-Cards/实验一.md"
-    },
-    {
-      "basename": "矩阵投影",
-      "path": "06-Cards/通用知识/矩阵投影.md"
     },
     {
       "basename": "Fisher信息矩阵",
@@ -195,10 +199,6 @@
     {
       "basename": "CLIP  Radford2021",
       "path": "02-Reading/mdnotes/CLIP  Radford2021.md"
-    },
-    {
-      "basename": "Li2018 FedProx",
-      "path": "02-Reading/mdnotes/Li2018 FedProx.md"
     }
   ],
   "omittedPaths": [],
