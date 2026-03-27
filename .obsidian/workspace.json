@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -239,7 +239,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "01-Diary/日志存档/2026-03-25.md",
+                "file": "03-Projects/merging/Motivation/动机部分.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -269,7 +269,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b4785f2e4d697960",
+  "active": "2912a51f732a8cee",
   "lastOpenFiles": [
     "01-Diary/日志存档/2026-03-27.md",
     "01-Diary/日志存档/2026-03-25.md",
