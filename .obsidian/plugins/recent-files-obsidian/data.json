@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "图表解释",
+      "path": "03-Projects/merging/Motivation/图表解释.md"
+    },
+    {
+      "basename": "2026-03-31",
+      "path": "01-Diary/日志存档/2026-03-31.md"
+    },
+    {
       "basename": "动机部分",
       "path": "03-Projects/merging/Motivation/动机部分.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "2026-03-25",
       "path": "01-Diary/日志存档/2026-03-25.md"
-    },
-    {
-      "basename": "图表解释",
-      "path": "03-Projects/merging/Motivation/图表解释.md"
     },
     {
       "basename": "实验一",
@@ -195,10 +199,6 @@
     {
       "basename": "MINE_FL框架",
       "path": "06-Cards/MINE_FL框架.md"
-    },
-    {
-      "basename": "未命名 2",
-      "path": "01-Diary/本周事务/未命名 2.md"
     }
   ],
   "omittedPaths": [],
