@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "eac980bb41e79971",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Projects/merging/Motivation/Motivation写作.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Motivation写作"
+            }
+          },
+          {
             "id": "26e3f9f4c46b5a81",
             "type": "leaf",
             "state": {
@@ -61,6 +75,20 @@
               },
               "icon": "lucide-file",
               "title": "2026-03-27"
+            }
+          },
+          {
+            "id": "72e4b007c5e1ddc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Diary/日志存档/2026-03-31.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-31"
             }
           },
           {
@@ -78,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,8 +169,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -226,7 +253,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "03-Projects/merging/Motivation/图表解释.md",
+                "file": "03-Projects/merging/Motivation/Motivation写作.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -256,13 +283,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf025279229ece47",
+  "active": "eac980bb41e79971",
   "lastOpenFiles": [
-    "01-Diary/日志存档/2026-03-31.md",
     "03-Projects/merging/Motivation/动机部分.md",
+    "03-Projects/merging/Motivation/Motivation写作.md",
+    "03-Projects/merging/Motivation/图表解释.md",
+    "01-Diary/日志存档/2026-03-31.md",
     "01-Diary/日志存档/2026-03-27.md",
     "01-Diary/日志存档/2026-03-25.md",
-    "03-Projects/merging/Motivation/图表解释.md",
     "08-Assets/image-113.png",
     "06-Cards/实验一.md",
     "08-Assets/image-112.png",
@@ -303,7 +331,6 @@
     "02-Reading/mdnotes/guo2024selectivea.md",
     "02-Reading/mdnotes/FlexLoRA2024.md",
     "02-Reading/mdnotes/zhang2026sparsityaware.md",
-    "02-Reading/mdnotes/Yang2025a.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名 1.canvas",
     "00-MOC/未命名.canvas",
