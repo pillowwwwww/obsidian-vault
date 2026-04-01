@@ -30,3 +30,6 @@ Federated fine-tuning starts from client updates that are substantially heteroge
 你也可以把最后一句换成这一版，更有研究问题的张力：
 
 如果确实如此，那么标准的聚合规则所减少的就不只是无害的客户端差异；它还可能抹除那些对本地适配有用、偏向源客户端的知识。
+
+
+---
