@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "58240180415fca1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Projects/merging/Motivation/动机部分.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "动机部分"
-            }
-          },
-          {
             "id": "6fe6d619570525f0",
             "type": "leaf",
             "state": {
@@ -64,17 +50,17 @@
             }
           },
           {
-            "id": "62f0a9d9bc61bbfa",
+            "id": "cfaf16c6101ed95e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Projects/merging/Motivation/动机部分.md",
+                "file": "03-Projects/merging/Motivation/Motivation写作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "动机部分"
+              "title": "Motivation写作"
             }
           },
           {
@@ -90,23 +76,9 @@
               "icon": "lucide-file",
               "title": "Motivation review"
             }
-          },
-          {
-            "id": "7f1df45d7220e90a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-Cards/实验一.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "实验一"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -287,11 +259,11 @@
   "active": "cdf1d733d0aa2672",
   "lastOpenFiles": [
     "03-Projects/merging/Motivation/Motivation写作.md",
-    "03-Projects/merging/Motivation/Motivation review.md",
-    "03-Projects/merging/Motivation/动机部分.md",
     "03-Projects/merging/Motivation/图表解释.md",
-    "03-Projects/merging/method/第一版method方案.md",
+    "03-Projects/merging/Motivation/Motivation review.md",
     "06-Cards/实验一.md",
+    "03-Projects/merging/Motivation/动机部分.md",
+    "03-Projects/merging/method/第一版method方案.md",
     "03-Projects/merging/初稿1.md",
     "03-Projects/merging/method",
     "03-Projects/merging/未命名.md",
