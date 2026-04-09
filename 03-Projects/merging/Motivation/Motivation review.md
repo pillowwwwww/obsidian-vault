@@ -22,4 +22,3 @@ Caption 建议：
 当前有什么能部分回应这个攻击： Figure 3 的 causal experiment 试图回答"这些方向不是噪音"，但只有 5 个 bundle，效应量在 1e-5 量级。
 改进建议（不需要重跑训练）： 在生成 heatmap 时加一个 energy gate，比如只展示 `band_name in ["head", "middle"]` 或 `energy_score >= τ_e` 的方向。这样可以排除纯噪声方向，让 motivation 更站得住脚。如果加了 energy gate 之后，高衰减方向仍然大量存在，那说服力就大大增强。
 
-$$ text{col3} = \frac{1}{5}\Big(\underbrace{\langle B_{\text{self}}, \phi_{\text{ref}}\rangle / \sigma_{\text{ref}}}_{= 1} + \sum_{c' \neq \text{self}} \langle B_{c'}, \phi_{\text{ref}}\rangle / \sigma_{\text{ref}}\Big) = \frac{1}{5}(1 + 4 \cdot \text{col2}) $$
