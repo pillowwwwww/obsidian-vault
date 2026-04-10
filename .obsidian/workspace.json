@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -225,8 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,8 +241,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3090910a3bbb4bfa",
+  "active": "cfaf16c6101ed95e",
   "lastOpenFiles": [
+    "03-Projects/merging/Motivation/图表解释.md",
+    "03-Projects/merging/method/第一版method方案.md",
     "08-Assets/pdfs/2025-Ensembles of low-rank expert adapters/2025-Ensembles of low-rank expert adapters.pdf",
     "08-Assets/pdfs/2025-Ensembles of low-rank expert adapters",
     "08-Assets/pdfs/2025-Task singular vectors/2025-Task singular vectors Reducing task interference in model merging.pdf",
@@ -251,10 +252,8 @@
     "03-Projects/merging/Motivation/Motivation写作.md",
     "01-Diary/日志存档/2026-04-10.md",
     "03-Projects/merging/Motivation/Motivation review.md",
-    "03-Projects/merging/Motivation/图表解释.md",
     "06-Cards/实验一.md",
     "03-Projects/merging/Motivation/动机部分.md",
-    "03-Projects/merging/method/第一版method方案.md",
     "03-Projects/merging/初稿1.md",
     "03-Projects/merging/method",
     "03-Projects/merging/未命名.md",
@@ -287,7 +286,6 @@
     "01-Diary/日志存档/2026-01-24.md",
     "08-Assets/pdfs/2025-AdaRank/2025-AdaRank Adaptive rank pruning for enhanced model merging.pdf",
     "08-Assets/pdfs/2025-AdaRank",
-    "08-Assets/pdfs/2026-Communication-efficient personalized adaptation via federated-local model merging/2026-Communication-efficient personalized adaptation via federated-local model merging 1.pdf",
     "01-Diary/日志存档/2026-03-03.md",
     "01-Diary/日志存档/2026-03-13.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
