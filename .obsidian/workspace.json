@@ -242,8 +242,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf025279229ece47",
+  "active": "3090910a3bbb4bfa",
   "lastOpenFiles": [
+    "08-Assets/pdfs/2025-Ensembles of low-rank expert adapters/2025-Ensembles of low-rank expert adapters.pdf",
+    "08-Assets/pdfs/2025-Ensembles of low-rank expert adapters",
+    "08-Assets/pdfs/2025-Task singular vectors/2025-Task singular vectors Reducing task interference in model merging.pdf",
+    "08-Assets/pdfs/2025-Task singular vectors",
     "03-Projects/merging/Motivation/Motivation写作.md",
     "01-Diary/日志存档/2026-04-10.md",
     "03-Projects/merging/Motivation/Motivation review.md",
@@ -286,10 +290,6 @@
     "08-Assets/pdfs/2026-Communication-efficient personalized adaptation via federated-local model merging/2026-Communication-efficient personalized adaptation via federated-local model merging 1.pdf",
     "01-Diary/日志存档/2026-03-03.md",
     "01-Diary/日志存档/2026-03-13.md",
-    "01-Diary/日志存档/2026-03-09.md",
-    "08-Assets/pdfs/2025-Ravan/2025-Ravan Multi-head low-rank adaptation for federated fine-tuning.pdf",
-    "08-Assets/pdfs/2025-Ravan",
-    "08-Assets/pdfs/-Tensor-aggregated LoRA in federated fine-tuning/-Tensor-aggregated LoRA in federated fine-tuning.pdf",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名 1.canvas",
     "00-MOC/未命名.canvas",
