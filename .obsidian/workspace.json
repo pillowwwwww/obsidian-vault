@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,8 +127,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -243,11 +242,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cfaf16c6101ed95e",
+  "active": "bf025279229ece47",
   "lastOpenFiles": [
+    "03-Projects/merging/Motivation/Motivation写作.md",
     "01-Diary/日志存档/2026-04-10.md",
     "03-Projects/merging/Motivation/Motivation review.md",
-    "03-Projects/merging/Motivation/Motivation写作.md",
     "03-Projects/merging/Motivation/图表解释.md",
     "06-Cards/实验一.md",
     "03-Projects/merging/Motivation/动机部分.md",

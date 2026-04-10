@@ -91,3 +91,4 @@ Federated fine-tuning starts from client updates that are substantially heteroge
 
 
 ---
+"Spectral contraction 是 FedAvg 聚合的副产品。虽然它对全局模型的平均性能影响有限（因为被衰减的多是任务特异方向），但对任务异构的个别客户端是有害的：当客户端收到聚合后的 G 作为下一轮训练起点时，它之前学到的任务特异方向已经被稀释或丢失了。FedDGC 在客户端开始本地训练之前，选择性地恢复那些'在本地显著、被全局稀释、且其他客户端不支持'的方向，让客户端不需要浪费本地训练预算去重新学习已经学过的东西。"
