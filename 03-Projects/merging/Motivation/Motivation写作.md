@@ -2,6 +2,33 @@
 远端对应目录是：
 - /root/SubspaceLoRA/Subspace_LoRA/experiments/tail_collapse/motivation_main_figures_fedavg_homo_clients0_2_3_4_5_r128_seed42_seed43
 
+# 直觉
+当前动机部分依赖的核心直觉可以概括为三步：
+
+1. 不同客户端学到的 `LoRA-B` 并不完全相同，它们在谱结构上存在明显异质性。
+
+2. `FedAvg（联邦平均）` 会快速抹平这种异质性，但这种抹平不是均匀的。
+
+3. 被优先抹掉的不是纯随机噪音，而更像是对源客户端更有用的本地内容。
+
+# 前置知识
+
+【SELECTIVE AGGREGATION FOR LOW-RANK ADAPTATION IN FEDERATED LEARNING】
+该论文通过**数学推导**得出，LoRA 的 A、B 在联邦学习中不对称，依赖不同因素（A 的最优解与输入数据分布无关，而 B与输入数据分布有关）。
+提出A 更像“跨客户端共享的通用知识”，B 更像“客户端私有的个性化知识”
+
+
+定义谱异质性：
+
+
+# 逻辑链
+
+ Figure 1
+`FedAvg rapidly compresses cross-client spectral heterogeneity in LoRA-B.`
+联邦聚合会快速压缩 LoRA-B 中跨客户端的频谱异质性
+
+
+
 # 文字表述
 ![[image-114.png]]
 **Figure 1.**  
@@ -35,11 +62,11 @@ Figure 1. FedAvg rapidly compresses cross-client spectral heterogeneity in LoRA-
 $$
 B_{c,l}^{(t)} = U_{c,l}^{(t)} \Sigma_{c,l}^{(t)} V_{c,l}^{(t)\top}
 $$
-2. 取奇异值向量 `\sigma`，构造归一化谱分布：
+2. 取奇异值向量 $\sigma$，构造归一化谱分布：
 $$
 p_{c,l}^{(t)}(i)=\frac{\sigma_{c,l}^{(t)}(i)}{\sum_j \sigma_{c,l}^{(t)}(j)}
 $$
-这一步在 [_normalized_sum_spectrum](/e:/FL/Robust%20Tail%20Singular/Subspace_LoRA/experiments/tail_collapse/analyze_spectral_heterogeneity.py#L105)。
+这一步在 [_normalized_sum_spectrum.py](/e:/FL/Robust%20Tail%20Singular/Subspace_LoRA/experiments/tail_collapse/analyze_spectral_heterogeneity.py#L105)。
 3. 对同一层、同一轮的两个客户端 `a,b`，计算它们归一化谱分布的 `JS divergence（JS 散度）`：
 $$
 \mathrm{JS}(p,q)=\frac{1}{2}\mathrm{KL}(p\|m)+\frac{1}{2}\mathrm{KL}(q\|m), \quad m=\frac{p+q}{2}
