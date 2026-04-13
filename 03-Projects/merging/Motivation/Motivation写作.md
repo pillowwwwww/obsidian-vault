@@ -13,22 +13,38 @@
 
 # 前置知识
 
-【SELECTIVE AGGREGATION FOR LOW-RANK ADAPTATION IN FEDERATED LEARNING】
+#### 暂时只针对B矩阵
+【SELECTIVE AGGREGATION FOR LOW-RANK ADAPTATION IN FEDERATED LEARNING 】
 该论文通过**数学推导**得出，LoRA 的 A、B 在联邦学习中不对称，依赖不同因素（A 的最优解与输入数据分布无关，而 B与输入数据分布有关）。
 提出A 更像“跨客户端共享的通用知识”，B 更像“客户端私有的个性化知识”
+#### 2. 定义谱异质性：
+在线性代数里，`spectrum（谱）` 泛指一个线性对象在某个分解下的标量序列。  
+> `singular value spectrum（奇异值谱）`
+对某个客户端 `c`、层 `l`、轮次 `t` 的 `LoRA-B` 矩阵记为：
+$$
+B_{c,l}^{(t)} \in \mathbb{R}^{d_{\text{out}} \times r}
+$$
+SVD:
+$$
+B_{c,l}^{(t)} = U_{c,l}^{(t)} \Sigma_{c,l}^{(t)} V_{c,l}^{(t)\top}
+$$
+也可写为：
+$$
+B_{c,l}^{(t)} = \sum_{i=1}^{q} \sigma_{c,l,i}^{(t)}\, u_{c,l,i}^{(t)} v_{c,l,i}^{(t)\top}
+$$
+![[image-118.png]]
 
-
-定义谱异质性：
-
+- $u_i v_i^\top$ 是第$i$个谱方向；
+- $\sigma_i$是该方向的强度。
 
 # 逻辑链
-
- Figure 1
-`FedAvg rapidly compresses cross-client spectral heterogeneity in LoRA-B.`
+#### 1. FedAvg rapidly compresses cross-client spectral heterogeneity in LoRA-B.`
 联邦聚合会快速压缩 LoRA-B 中跨客户端的频谱异质性
-
-
-
+#### 2. FedAvg does not suppress local directions uniformly; it disproportionately attenuates low-consensus local directions.
+FedAvg 并非均匀地抑制局部方向；它会不成比例地衰减低一致性的局部方向
+#### 3. The attenuated bundles are not random noise; they are more useful to their source client. FedAvg may wash out part of the client-specific, functionally meaningful knowledge encoded in low-consensus LoRA-B。
+被削弱的方向并非随机噪声；它们对源客户端更有用。
+FedAvg 可能会抹去编码在低一致性 LoRA-B 子空间中的部分客户端特定且具有功能意义的信息。`
 # 文字表述
 ![[image-114.png]]
 **Figure 1.**  

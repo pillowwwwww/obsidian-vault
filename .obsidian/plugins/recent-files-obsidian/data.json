@@ -5,6 +5,14 @@
       "path": "03-Projects/merging/Motivation/Motivation写作.md"
     },
     {
+      "basename": "动机部分",
+      "path": "03-Projects/merging/Motivation/动机部分.md"
+    },
+    {
+      "basename": "第一版method方案",
+      "path": "03-Projects/merging/method/第一版method方案.md"
+    },
+    {
       "basename": "Motivation review",
       "path": "03-Projects/merging/Motivation/Motivation review.md"
     },
@@ -13,16 +21,8 @@
       "path": "03-Projects/merging/初稿1.md"
     },
     {
-      "basename": "动机部分",
-      "path": "03-Projects/merging/Motivation/动机部分.md"
-    },
-    {
       "basename": "矩阵投影",
       "path": "06-Cards/通用知识/矩阵投影.md"
-    },
-    {
-      "basename": "第一版method方案",
-      "path": "03-Projects/merging/method/第一版method方案.md"
     },
     {
       "basename": "图表解释",
