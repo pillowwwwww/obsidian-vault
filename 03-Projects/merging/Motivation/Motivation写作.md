@@ -2,15 +2,6 @@
 远端对应目录是：
 - /root/SubspaceLoRA/Subspace_LoRA/experiments/tail_collapse/motivation_main_figures_fedavg_homo_clients0_2_3_4_5_r128_seed42_seed43
 
-# 直觉
-当前动机部分依赖的核心直觉可以概括为三步：
-
-1. 不同客户端学到的 `LoRA-B` 并不完全相同，它们在谱结构上存在明显异质性。
-
-2. `FedAvg（联邦平均）` 会快速抹平这种异质性，但这种抹平不是均匀的。
-
-3. 被优先抹掉的不是纯随机噪音，而更像是对源客户端更有用的本地内容。
-
 # 前置知识
 
 #### 暂时只针对B矩阵
@@ -39,12 +30,12 @@ $$
 
 # 逻辑链
 #### 1. FedAvg rapidly compresses cross-client spectral heterogeneity in LoRA-B.`
-联邦聚合会快速压缩 LoRA-B 中跨客户端的频谱异质性
+联邦聚合会快速压缩 LoRA-B 中跨客户端的谱异质性。
 #### 2. FedAvg does not suppress local directions uniformly; it disproportionately attenuates low-consensus local directions.
-FedAvg 并非均匀地抑制局部方向；它会不成比例地衰减低一致性的局部方向
+那些获得其他客户端支持较弱的局部方向，在聚合后被保留下来的可能性较低。`
 #### 3. The attenuated bundles are not random noise; they are more useful to their source client. FedAvg may wash out part of the client-specific, functionally meaningful knowledge encoded in low-consensus LoRA-B。
-被削弱的方向并非随机噪声；它们对源客户端更有用。
-FedAvg 可能会抹去编码在低一致性 LoRA-B 子空间中的部分客户端特定且具有功能意义的信息。`
+被削弱的方向并非随机噪声；它们对源客户端更有用。（个性化知识）
+
 # 文字表述
 ![[image-114.png]]
 **Figure 1.**  
@@ -127,11 +118,10 @@ Federated fine-tuning starts from client updates that are substantially heteroge
 联邦微调开始时，客户端在 LoRA-B 中的更新具有显著异质性，但这种异质性会被 FedAvg 很快压缩（图 1）。更重要的是，这种压缩并非均匀发生。聚合会不成比例地削弱那些几乎得不到其他客户端支持的局部方向（图 2）。此外，这些被削弱的 bundle 所承载的内容在功能上也并非随机。当它们被恢复到全局锚点时，这些 bundle 对其源客户端的帮助大于对非源客户端的帮助；而当它们从源客户端的局部模型中被移除时，造成的损害也大于匹配对照移除（图 3）。这些观察引出了我们的核心研究问题：FedAvg 是否会冲淡一部分编码在低共识 LoRA-B 子空间中的、具有功能意义的客户端特有知识？
 
 
-**如果你想更像顶会动机段的收尾句**  
-你也可以把最后一句换成这一版，更有研究问题的张力：
-
 如果确实如此，那么标准的聚合规则所减少的就不只是无害的客户端差异；它还可能抹除那些对本地适配有用、偏向源客户端的知识。
 
 
 ---
+所以我们提出了FedDGC:
+
 "Spectral contraction 是 FedAvg 聚合的副产品。虽然它对全局模型的平均性能影响有限（因为被衰减的多是任务特异方向），但对任务异构的个别客户端是有害的：当客户端收到聚合后的 G 作为下一轮训练起点时，它之前学到的任务特异方向已经被稀释或丢失了。FedDGC 在客户端开始本地训练之前，选择性地恢复那些'在本地显著、被全局稀释、且其他客户端不支持'的方向，让客户端不需要浪费本地训练预算去重新学习已经学过的东西。"
