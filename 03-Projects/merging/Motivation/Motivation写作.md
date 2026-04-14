@@ -28,11 +28,11 @@ $$
 - $u_i v_i^\top$ 是第$i$个谱方向；
 - $\sigma_i$是该方向的强度。
 
-# 逻辑链
+# 逻辑链（谱异质性存在 → 低共识方向优先被削弱 → 被削弱内容对源客户端有功能意义）
 #### 1. FedAvg rapidly compresses cross-client spectral heterogeneity in LoRA-B.`
 联邦聚合会快速压缩 LoRA-B 中跨客户端的谱异质性。
 #### 2. FedAvg does not suppress local directions uniformly; it disproportionately attenuates low-consensus local directions.
-那些获得其他客户端支持较弱的局部方向，在聚合后被保留下来的可能性较低。`
+那些获得其他客户端支持较弱的局部方向【暂时定为低共识方向】，在聚合后被保留下来的可能性较低。`
 #### 3. The attenuated bundles are not random noise; they are more useful to their source client. FedAvg may wash out part of the client-specific, functionally meaningful knowledge encoded in low-consensus LoRA-B。
 被削弱的方向并非随机噪声；它们对源客户端更有用。（个性化知识）
 
@@ -102,10 +102,23 @@ $$
 
 ---
 
-![[image-115.png]]
+![[image-119.png]]
 **Figure 2.**  
-Figure 2. FedAvg selectively attenuates low-consensus local directions. The left panel shows representative local directions whose support from other clients is weak and whose post-aggregation projection is substantially reduced. The right panel summarizes direction retention after aggregation. At round 0, the mean retention is 0.391 and 99.8% of directions have retention below 1; even at round 1, the mean retention is still only 0.882 and 81.5% of directions remain below 1. These results suggest that aggregation does not suppress all local directions uniformly, but disproportionately weakens directions with limited cross-client support.
-图 2。FedAvg 会选择性地削弱跨客户端共识较低的局部方向。左图展示了具有代表性的局部方向：这些方向几乎得不到其他客户端的支持，并且在聚合后，其投影被显著缩小。右图总结了聚合后的方向保留情况。在第 0 轮时，平均保留率为 0.391，且 99.8% 的方向保留率低于 1；即使在第 1 轮时，平均保留率仍只有 0.882，并且仍有 81.5% 的方向低于 1。这些结果表明，聚合并不是对所有局部方向进行均匀抑制，而是会不成比例地削弱那些跨客户端支持有限的方向。
+左图（Scatter）关键数据：
+
+- Spearman ρ = 0.795，p ≈ 0 — 极强的正相关
+- 共 64,680 个方向（仅 `head` + `middle` band，已过滤噪声）
+- 可以清晰看到：`diff_presence`（cross-client presence，x 轴）越低，`retain_after_agg`（聚合后保留率，y 轴）也越低
+- 趋势线（binned mean）从左下到右上几乎是线性递增的
+
+右图（Violin）关键数据：
+
+- Round 0：99.8% 方向被衰减（保留率 < 1），平均保留率 0.391
+- Round 1：81.5% 方向被衰减，平均保留率 0.882
+
+论点支撑力： 这张图直接证明了 "获得其他客户端支持较弱的局部方向，在聚合后被保留下来的可能性较低"，且用了与 y 轴非耦合的 x 轴指标（`diff_presence`），band filter 排除了噪声方向，使用了全量方向（无 selection bias）。
+
+图片已保存在本地 `Subspace_LoRA/experiments/tail_collapse/redesign_motivation_main_figures_fedavg_homo_clients0_2_3_4_5_r128_seed42_seed43/` 目录中。
 
 
 ![[image-116.png]]
