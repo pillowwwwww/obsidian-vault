@@ -30,7 +30,7 @@ $$
 
 # 逻辑链（谱异质性存在 → 低共识方向优先被削弱 → 被削弱内容对源客户端有功能意义）
 #### 1. FedAvg rapidly compresses cross-client spectral heterogeneity in LoRA-B.`
-联邦聚合会快速压缩 LoRA-B 中跨客户端的谱异质性。
+联邦聚合会快速压缩 LoRA（后面可能会改成B矩阵）中跨客户端的谱异质性。
 #### 2. FedAvg does not suppress local directions uniformly; it disproportionately attenuates low-consensus local directions.
 那些获得其他客户端支持较弱的局部方向【暂时定为低共识方向】，在聚合后被保留下来的可能性较低。`
 #### 3. The attenuated bundles are not random noise; they are more useful to their source client. FedAvg may wash out part of the client-specific, functionally meaningful knowledge encoded in low-consensus LoRA-B。
@@ -38,7 +38,7 @@ $$
 
 # 文字表述
 ![[image-114.png]]
-**Figure 1.**  
+**Figure 1.**  后面改成Frobenius 距离
 Figure 1. FedAvg rapidly compresses cross-client spectral heterogeneity in LoRA-B. At round 0, client updates exhibit clearly different spectral profiles, with a mean pairwise JS divergence of 4.18×10^-3 and a median of 2.86×10^-3. After only one FedAvg step, the mean and median pairwise distances drop to 1.06×10^-3 and 8.00×10^-4, respectively. This shows that aggregation quickly pushes heterogeneous client updates toward a more homogeneous spectrum.
 图 1。FedAvg 会在 LoRA-B 中快速压缩跨客户端的谱异质性。在第 0 轮时，客户端更新表现出明显不同的谱特征，其两两 JS 散度的平均值为 4.18×10^-3，中位数为 2.86×10^-3。仅经过一步 FedAvg 后，两两距离的平均值和中位数分别下降到 1.06×10^-3 和 8.00×10^-4。这表明，聚合会迅速将原本异质的客户端更新推向更加同质化的谱分布。
 **spectral = LoRA-B 的 singular value spectrum（奇异值谱）**
@@ -108,7 +108,7 @@ $$
 
 - Spearman ρ = 0.795，p ≈ 0 — 极强的正相关
 - 共 64,680 个方向（仅 `head` + `middle` band，已过滤噪声）
-- 可以清晰看到：`diff_presence`（cross-client presence，x 轴）越低，`retain_after_agg`（聚合后保留率，y 轴）也越低
+- 其他客户端的投影绝对值均值，x 轴越低，`retain_after_agg`（聚合后保留率，y 轴）也越低
 - 趋势线（binned mean）从左下到右上几乎是线性递增的
 
 右图（Violin）关键数据：
