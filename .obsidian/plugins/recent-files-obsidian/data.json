@@ -5,6 +5,14 @@
       "path": "03-Projects/merging/Motivation/Motivation写作.md"
     },
     {
+      "basename": "2026-04-16",
+      "path": "01-Diary/日志存档/2026-04-16.md"
+    },
+    {
+      "basename": "LoRA",
+      "path": "06-Cards/LoRA.md"
+    },
+    {
       "basename": "第一版method方案",
       "path": "03-Projects/merging/method/第一版method方案.md"
     },
@@ -149,10 +157,6 @@
       "path": "02-Reading/mdnotes/HetroLoRA2024.md"
     },
     {
-      "basename": "LoRA",
-      "path": "06-Cards/LoRA.md"
-    },
-    {
       "basename": "Yao2025",
       "path": "02-Reading/mdnotes/Yao2025.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2025-11-26",
       "path": "01-Diary/日志存档/2025-11-26.md"
-    },
-    {
-      "basename": "2025-11-27",
-      "path": "01-Diary/日志存档/2025-11-27.md"
     }
   ],
   "omittedPaths": [],
