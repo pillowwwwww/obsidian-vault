@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Motivation review",
+      "path": "03-Projects/merging/Motivation/Motivation review.md"
+    },
+    {
+      "basename": "图表解释",
+      "path": "03-Projects/merging/Motivation/图表解释.md"
+    },
+    {
+      "basename": "2026-04-17",
+      "path": "01-Diary/日志存档/2026-04-17.md"
+    },
+    {
       "basename": "Motivation写作",
       "path": "03-Projects/merging/Motivation/Motivation写作.md"
     },
@@ -15,14 +27,6 @@
     {
       "basename": "LoRA",
       "path": "06-Cards/LoRA.md"
-    },
-    {
-      "basename": "图表解释",
-      "path": "03-Projects/merging/Motivation/图表解释.md"
-    },
-    {
-      "basename": "Motivation review",
-      "path": "03-Projects/merging/Motivation/Motivation review.md"
     },
     {
       "basename": "初稿1",
@@ -195,10 +199,6 @@
     {
       "basename": "ALBEF-Li2021b",
       "path": "02-Reading/mdnotes/ALBEF-Li2021b.md"
-    },
-    {
-      "basename": "2025-11-26",
-      "path": "01-Diary/日志存档/2025-11-26.md"
     }
   ],
   "omittedPaths": [],
