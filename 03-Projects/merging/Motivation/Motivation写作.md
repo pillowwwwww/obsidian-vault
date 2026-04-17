@@ -204,5 +204,6 @@ Round 1:
 > Figure 1 左:   δ/σ by band → tail 方向被稀释得更严重（效果）
 
 >Figure 1 右 (新):  cross_support by band → tail 方向缺乏跨客户端共识（原因）
+>	tail 方向的跨客户端共识低，FedAvg 聚合时其他客户端没有相应的支持来"保护"这些方向（why）
 
 > Figure 2:   恢复 top-δ 方向 → perplexity 下降（功能意义，排除"noise"解释）
