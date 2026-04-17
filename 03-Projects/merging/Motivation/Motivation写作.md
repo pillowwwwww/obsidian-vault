@@ -207,3 +207,12 @@ Round 1:
 >	tail 方向的跨客户端共识低，FedAvg 聚合时其他客户端没有相应的支持来"保护"这些方向（why）
 
 > Figure 2:   恢复 top-δ 方向 → perplexity 下降（功能意义，排除"noise"解释）
+
+![[image-120.png]]
+
+
+Figure 1：FedAvg 对 tail 方向造成了更大的稀释缺口（因为跨客户端共识低）
+
+Figure 2：这些被稀释的 tail 方向不是噪声——同客户端在下一轮主动恢复了它们（R1 Self ≈ 0.72），而其他客户端完全不恢复（R1 Other ≈ Post-FedAvg）。FedAvg 浪费了训练资源，迫使客户端在每一轮都重新学习被抹掉的个性化知识。
+
+→ FedDGC-B 的动机：既然这些方向会被重新学习，不如在聚合时就保护它们。
