@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-04-18",
+      "path": "01-Diary/日志存档/2026-04-18.md"
+    },
+    {
       "basename": "Motivation写作",
       "path": "03-Projects/merging/Motivation/Motivation写作.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "多模态的几篇经典论文",
       "path": "06-Cards/多模态/多模态的几篇经典论文.md"
-    },
-    {
-      "basename": "ALBEF-Li2021b",
-      "path": "02-Reading/mdnotes/ALBEF-Li2021b.md"
     }
   ],
   "omittedPaths": [],
