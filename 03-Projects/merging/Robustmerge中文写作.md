@@ -43,7 +43,7 @@
   
 
 ---
-
+在修复这些问题后，现在请你链接服务器ssh -p 32518 root@connect.bjb2.seetacloud.com ，密码TsVOKL1FbM+t，为我执行这个v5的实验
   
 
 ## 1 引言
