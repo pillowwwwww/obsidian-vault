@@ -234,7 +234,8 @@ local-only 的 band 排序是 Floor > Tail > Middle > Head（尾部方向在纯
 1. Local-only 线几乎保持平坦（0.89–0.96） → 证明方向损失不是训练本身造成的，是聚合造成的
 2. FL 与 Local-only 的差距 = 纯粹的"聚合代价"（aggregation cost）
 3. Local-only 中 Floor 保留最好（0.96），但 FL 中 Floor 损失最大（0.39）→ 聚合专门伤害低共识方向
-
+ 纵坐标：**band 级别的中位数 rel_retain**，rel_retain 本身定义为：
+`rel_retain_k = retain_k * (||ΔW_ref||_F / ||ΔW_target||_F)`,retain_k = |<ΔW_target, φ_k>| / σ_k
 #### 从这一张相对占比图中，可以同时读出四条证据：
 
 1. 聚合是损失的唯一来源：Local-only ≈ 0.96（几乎无损），FL ≈ 0.39–0.51 → 差距完全由聚合造成
