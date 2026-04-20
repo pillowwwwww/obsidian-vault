@@ -269,8 +269,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "359636de65cd1dd3",
+  "active": "45517edcc50fea31",
   "lastOpenFiles": [
+    "08-Assets/pdfs/2024-PiSSA/2024-PiSSA Principal singular values and singular vectors adaptation of large language models.pdf",
+    "08-Assets/pdfs/2024-PiSSA",
+    "08-Assets/pdfs/2024-MiLoRA/2024-MiLoRA Harnessing minor singular components for parameter-efficient LLM finetuning.pdf",
+    "08-Assets/pdfs/2024-MiLoRA",
     "03-Projects/merging/Related Work/参考论文图片.md",
     "08-Assets/image-127.png",
     "08-Assets/image-126.png",
@@ -305,11 +309,8 @@
     "01-Diary/日志存档/2026-04-13.md",
     "08-Assets/pdfs/2025-Ensembles of low-rank expert adapters/2025-Ensembles of low-rank expert adapters.pdf",
     "08-Assets/pdfs/2025-Ensembles of low-rank expert adapters",
-    "08-Assets/pdfs/2025-Task singular vectors/2025-Task singular vectors Reducing task interference in model merging.pdf",
-    "08-Assets/pdfs/2025-Task singular vectors",
     "01-Diary/日志存档/2026-04-10.md",
     "06-Cards/实验一.md",
-    "03-Projects/merging/method",
     "01-Diary/日志存档/2025-03-24.md",
     "01-Diary/日志存档/2026-03-25.md",
     "01-Diary/日志存档/2026-04-07.md",
