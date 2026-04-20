@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "参考论文图片",
+      "path": "03-Projects/merging/Related Work/参考论文图片.md"
+    },
+    {
       "basename": "Motivation写作",
       "path": "03-Projects/merging/Motivation/Motivation写作.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Robustmerge中文写作",
       "path": "03-Projects/merging/Robustmerge中文写作.md"
-    },
-    {
-      "basename": "参考论文图片",
-      "path": "03-Projects/merging/Related Work/参考论文图片.md"
     },
     {
       "basename": "第一版method方案",
