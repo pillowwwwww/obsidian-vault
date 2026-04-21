@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Projects/merging/Motivation/图表解释.md",
+                "file": "01-Diary/日志存档/2026-04-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "图表解释"
+              "title": "2026-04-21"
             }
           }
         ],
@@ -239,7 +239,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "03-Projects/merging/Motivation/图表解释.md",
+                "file": "01-Diary/日志存档/2026-04-21.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -269,8 +269,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45517edcc50fea31",
+  "active": "3090910a3bbb4bfa",
   "lastOpenFiles": [
+    "03-Projects/merging/Motivation/图表解释.md",
+    "01-Diary/日志存档/2026-04-21.md",
     "08-Assets/pdfs/2024-PiSSA/2024-PiSSA Principal singular values and singular vectors adaptation of large language models.pdf",
     "08-Assets/pdfs/2024-PiSSA",
     "08-Assets/pdfs/2024-MiLoRA/2024-MiLoRA Harnessing minor singular components for parameter-efficient LLM finetuning.pdf",
@@ -295,7 +297,6 @@
     "08-Assets/image-121.png",
     "08-Assets/image-120.png",
     "03-Projects/merging/Motivation/Motivation review.md",
-    "03-Projects/merging/Motivation/图表解释.md",
     "01-Diary/日志存档/2026-04-17.md",
     "01-Diary/日志存档/2026-04-16.md",
     "06-Cards/LoRA.md",
@@ -308,7 +309,6 @@
     "08-Assets/image-118.png",
     "01-Diary/日志存档/2026-04-13.md",
     "08-Assets/pdfs/2025-Ensembles of low-rank expert adapters/2025-Ensembles of low-rank expert adapters.pdf",
-    "08-Assets/pdfs/2025-Ensembles of low-rank expert adapters",
     "01-Diary/日志存档/2026-04-10.md",
     "06-Cards/实验一.md",
     "01-Diary/日志存档/2025-03-24.md",
