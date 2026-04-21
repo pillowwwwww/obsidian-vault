@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,7 +239,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "03-Projects/merging/Related Work/参考PFL整理.md",
+                "file": "03-Projects/merging/Motivation/Motivation写作.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -269,10 +269,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "359636de65cd1dd3",
+  "active": "42f84a3ef92d2179",
   "lastOpenFiles": [
-    "01-Diary/日志存档/2026-04-21.md",
     "03-Projects/merging/Related Work/参考PFL整理.md",
+    "01-Diary/日志存档/2026-04-21.md",
     "03-Projects/merging/Motivation/图表解释.md",
     "08-Assets/pdfs/2024-PiSSA/2024-PiSSA Principal singular values and singular vectors adaptation of large language models.pdf",
     "08-Assets/pdfs/2024-PiSSA",
