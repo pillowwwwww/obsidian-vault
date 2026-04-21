@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Motivation写作",
-      "path": "03-Projects/merging/Motivation/Motivation写作.md"
+      "basename": "Robustmerge中文写作",
+      "path": "03-Projects/merging/Robustmerge中文写作.md"
     },
     {
       "basename": "参考PFL整理",
       "path": "03-Projects/merging/Related Work/参考PFL整理.md"
+    },
+    {
+      "basename": "Motivation写作",
+      "path": "03-Projects/merging/Motivation/Motivation写作.md"
     },
     {
       "basename": "2026-04-21",
@@ -31,10 +35,6 @@
     {
       "basename": "初稿1",
       "path": "03-Projects/merging/初稿1.md"
-    },
-    {
-      "basename": "Robustmerge中文写作",
-      "path": "03-Projects/merging/Robustmerge中文写作.md"
     },
     {
       "basename": "第一版method方案",
