@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2026-04-22.md",
+                "file": "03-Projects/merging/method/v8实验整理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-22"
+              "title": "v8实验整理"
             }
           },
           {
@@ -155,8 +155,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -240,7 +239,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "01-Diary/日志存档/2026-04-22.md",
+                "file": "03-Projects/merging/method/v8实验整理.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -272,8 +271,17 @@
   },
   "active": "563e382ee57a80ee",
   "lastOpenFiles": [
-    "03-Projects/merging/Robustmerge中文写作.md",
+    "08-Assets/image-135.png",
+    "08-Assets/image-134.png",
+    "08-Assets/image-133.png",
+    "08-Assets/image-132.png",
+    "08-Assets/image-131.png",
+    "08-Assets/image-130.png",
+    "08-Assets/image-129.png",
+    "08-Assets/image-128.png",
     "01-Diary/日志存档/2026-04-22.md",
+    "03-Projects/merging/method/v8实验整理.md",
+    "03-Projects/merging/Robustmerge中文写作.md",
     "03-Projects/merging/Related Work/参考PFL整理.md",
     "03-Projects/merging/Motivation/Motivation写作.md",
     "01-Diary/日志存档/2026-04-21.md",
@@ -290,15 +298,10 @@
     "03-Projects/merging/初稿1.md",
     "03-Projects/merging/Related Work",
     "08-Assets/image-125.png",
-    "08-Assets/image-124.png",
     "08-Assets/pdfs/2024-Dual-personalizing adapter for federated foundation models/2024-Dual-personalizing adapter for federated foundation models.pdf",
     "08-Assets/pdfs/2024-Dual-personalizing adapter for federated foundation models",
-    "08-Assets/image-123.png",
     "03-Projects/merging/method/第一版method方案.md",
     "01-Diary/日志存档/2026-04-18.md",
-    "08-Assets/image-122.png",
-    "08-Assets/image-121.png",
-    "08-Assets/image-120.png",
     "03-Projects/merging/Motivation/Motivation review.md",
     "01-Diary/日志存档/2026-04-17.md",
     "01-Diary/日志存档/2026-04-16.md",
@@ -306,18 +309,14 @@
     "08-Assets/pdfs/2026-Make LoRA great again/2026-Make LoRA great again Boosting LoRA with adaptive singular values and mixture-of-experts optimization alignment.pdf",
     "08-Assets/pdfs/2026-Make LoRA great again",
     "01-Diary/日志存档/2026-04-15.md",
-    "08-Assets/image-119.png",
     "03-Projects/merging/Motivation/动机部分.md",
     "01-Diary/日志存档/2026-04-14.md",
-    "08-Assets/image-118.png",
     "01-Diary/日志存档/2026-04-13.md",
     "08-Assets/pdfs/2025-Ensembles of low-rank expert adapters/2025-Ensembles of low-rank expert adapters.pdf",
     "01-Diary/日志存档/2026-04-10.md",
     "06-Cards/实验一.md",
     "01-Diary/日志存档/2025-03-24.md",
     "01-Diary/日志存档/2026-03-25.md",
-    "01-Diary/日志存档/2026-04-07.md",
-    "01-Diary/日志存档/2026-03-31.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名 1.canvas",
     "00-MOC/未命名.canvas",
