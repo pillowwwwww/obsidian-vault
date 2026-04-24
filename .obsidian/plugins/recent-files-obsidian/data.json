@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-04-24",
+      "path": "01-Diary/日志存档/2026-04-24.md"
+    },
+    {
       "basename": "2026-04-23",
       "path": "01-Diary/日志存档/2026-04-23.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "HetroLoRA2024",
       "path": "02-Reading/mdnotes/HetroLoRA2024.md"
-    },
-    {
-      "basename": "Yao2025",
-      "path": "02-Reading/mdnotes/Yao2025.md"
     }
   ],
   "omittedPaths": [],
