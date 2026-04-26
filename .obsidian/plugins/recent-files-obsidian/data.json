@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "v9",
+      "path": "03-Projects/merging/method/v9.md"
+    },
+    {
       "basename": "2026-04-26",
       "path": "01-Diary/日志存档/2026-04-26.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-01-13",
       "path": "01-Diary/日志存档/2026-01-13.md"
-    },
-    {
-      "basename": "Liu2025a",
-      "path": "02-Reading/mdnotes/Liu2025a.md"
     }
   ],
   "omittedPaths": [],
