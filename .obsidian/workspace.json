@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,7 +197,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "03-Projects/merging/Robustmerge中文写作.md",
+                "file": "01-Diary/日志存档/2026-04-27.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -227,11 +227,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c4cc5ba9cc0c256",
+  "active": "057bfca36286abac",
   "lastOpenFiles": [
+    "03-Projects/merging/Robustmerge中文写作.md",
     "03-Projects/merging/method/v9.md",
     "01-Diary/日志存档/2026-04-27.md",
-    "03-Projects/merging/Robustmerge中文写作.md",
     "01-Diary/日志存档/2026-04-26.md",
     "03-Projects/merging/Motivation/Motivation写作.md",
     "03-Projects/merging/Related Work/参考论文图片.md",
