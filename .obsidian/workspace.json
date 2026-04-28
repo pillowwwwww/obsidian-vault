@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Projects/merging/method/v9.md",
+                "file": "01-Diary/日志存档/2026-04-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "v9"
+              "title": "2026-04-27"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Robustmerge中文写作"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +183,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "03-Projects/merging/Robustmerge中文写作.md",
+                "file": "01-Diary/日志存档/2026-04-27.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -214,12 +213,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c4cc5ba9cc0c256",
+  "active": "3c7740b1a6a36fb2",
   "lastOpenFiles": [
+    "03-Projects/merging/method/v9.md",
+    "03-Projects/merging/Robustmerge中文写作.md",
     "01-Diary/日志存档/2026-04-28.md",
     "01-Diary/日志存档/2026-04-27.md",
-    "03-Projects/merging/Robustmerge中文写作.md",
-    "03-Projects/merging/method/v9.md",
     "01-Diary/日志存档/2026-04-26.md",
     "03-Projects/merging/Motivation/Motivation写作.md",
     "03-Projects/merging/Related Work/参考论文图片.md",
