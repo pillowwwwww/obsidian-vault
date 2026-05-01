@@ -183,7 +183,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "01-Diary/日志存档/2026-05-01.md",
+                "file": "03-Projects/merging/Robustmerge中文写作.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -213,10 +213,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f4ff75561bebdd2",
+  "active": "3c7740b1a6a36fb2",
   "lastOpenFiles": [
-    "01-Diary/日志存档/2026-04-27.md",
     "01-Diary/日志存档/2026-05-01.md",
+    "01-Diary/日志存档/2026-04-27.md",
     "03-Projects/merging/method/v9.md",
     "03-Projects/merging/Robustmerge中文写作.md",
     "01-Diary/日志存档/2026-04-28.md",
