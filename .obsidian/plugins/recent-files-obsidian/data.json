@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-05-02",
-      "path": "01-Diary/日志存档/2026-05-02.md"
+      "basename": "Modal merging调研",
+      "path": "03-Projects/merging/Modal merging调研.md"
+    },
+    {
+      "basename": "初稿1",
+      "path": "03-Projects/merging/初稿1.md"
+    },
+    {
+      "basename": "storyline",
+      "path": "03-Projects/merging/storyline.md"
+    },
+    {
+      "basename": "Motivation写作",
+      "path": "03-Projects/merging/Motivation/Motivation写作.md"
     },
     {
       "basename": "Robustmerge中文写作",
       "path": "03-Projects/merging/Robustmerge中文写作.md"
     },
     {
-      "basename": "2026-05-01",
-      "path": "01-Diary/日志存档/2026-05-01.md"
+      "basename": "2026-05-02",
+      "path": "01-Diary/日志存档/2026-05-02.md"
     },
     {
       "basename": "2026-04-27",
@@ -21,16 +33,8 @@
       "path": "03-Projects/merging/method/v9.md"
     },
     {
-      "basename": "2026-04-28",
-      "path": "01-Diary/日志存档/2026-04-28.md"
-    },
-    {
       "basename": "2026-04-26",
       "path": "01-Diary/日志存档/2026-04-26.md"
-    },
-    {
-      "basename": "Motivation写作",
-      "path": "03-Projects/merging/Motivation/Motivation写作.md"
     },
     {
       "basename": "参考论文图片",
@@ -67,14 +71,6 @@
     {
       "basename": "矩阵投影",
       "path": "06-Cards/通用知识/矩阵投影.md"
-    },
-    {
-      "basename": "storyline",
-      "path": "03-Projects/merging/storyline.md"
-    },
-    {
-      "basename": "初稿1",
-      "path": "03-Projects/merging/初稿1.md"
     },
     {
       "basename": "第一版method方案",
@@ -163,10 +159,6 @@
     {
       "basename": "Pilot-FedMIT- Xiong2025",
       "path": "02-Reading/mdnotes/Pilot-FedMIT- Xiong2025.md"
-    },
-    {
-      "basename": "Modal merging调研",
-      "path": "03-Projects/merging/Modal merging调研.md"
     },
     {
       "basename": "FlexLoRA2024",
