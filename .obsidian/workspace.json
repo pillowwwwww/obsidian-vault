@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -253,7 +253,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "03-Projects/merging/Modal merging调研.md",
+                "file": "03-Projects/merging/Robustmerge中文写作.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -283,8 +283,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3090910a3bbb4bfa",
+  "active": "a8a41fc772809eae",
   "lastOpenFiles": [
+    "03-Projects/merging/Modal merging调研.md",
     "03-Projects/merging/初稿1.md",
     "03-Projects/merging/storyline.md",
     "03-Projects/merging/Motivation/Motivation写作.md",
@@ -330,7 +331,6 @@
     "01-Diary/日志存档/2026-04-16.md",
     "06-Cards/LoRA.md",
     "08-Assets/pdfs/2026-Make LoRA great again/2026-Make LoRA great again Boosting LoRA with adaptive singular values and mixture-of-experts optimization alignment.pdf",
-    "01-Diary/日志存档/2026-04-15.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名 1.canvas",
     "00-MOC/未命名.canvas",
