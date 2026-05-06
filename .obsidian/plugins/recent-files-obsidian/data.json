@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-05-07",
+      "path": "01-Diary/日志存档/2026-05-07.md"
+    },
+    {
       "basename": "2026-05-04",
       "path": "01-Diary/日志存档/2026-05-04.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "关于实验设置",
       "path": "03-Projects/Subspace_LoRA/关于实验设置.md"
-    },
-    {
-      "basename": "2026-01-23",
-      "path": "01-Diary/日志存档/2026-01-23.md"
     }
   ],
   "omittedPaths": [],
