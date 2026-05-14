@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "storyline",
-      "path": "03-Projects/merging/storyline.md"
+      "basename": "agent 基础",
+      "path": "03-Projects/agent FL/agent 基础.md"
     },
     {
       "basename": "2026-05-14",
       "path": "01-Diary/日志存档/2026-05-14.md"
+    },
+    {
+      "basename": "storyline",
+      "path": "03-Projects/merging/storyline.md"
     },
     {
       "basename": "2026-05-04",
@@ -195,10 +199,6 @@
     {
       "basename": "zhang2026sparsityaware",
       "path": "02-Reading/mdnotes/zhang2026sparsityaware.md"
-    },
-    {
-      "basename": "Yang2025a",
-      "path": "02-Reading/mdnotes/Yang2025a.md"
     }
   ],
   "omittedPaths": [],
