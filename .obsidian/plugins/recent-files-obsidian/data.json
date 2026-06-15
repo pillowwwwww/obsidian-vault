@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-06-15",
+      "path": "01-Diary/日志存档/2026-06-15.md"
+    },
+    {
       "basename": "agent 基础",
       "path": "03-Projects/agent FL/agent 基础.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-Sparsity-aware evolution for model merging",
       "path": "08-Assets/pdfs/2026-Sparsity-aware evolution for model merging/2026-Sparsity-aware evolution for model merging.pdf"
-    },
-    {
-      "basename": "zhang2026sparsityaware",
-      "path": "02-Reading/mdnotes/zhang2026sparsityaware.md"
     }
   ],
   "omittedPaths": [],
