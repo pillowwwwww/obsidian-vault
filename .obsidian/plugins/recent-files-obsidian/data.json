@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "LoRA",
+      "path": "06-Cards/LoRA.md"
+    },
+    {
+      "basename": "zhang2026sparsityaware",
+      "path": "02-Reading/mdnotes/zhang2026sparsityaware.md"
+    },
+    {
+      "basename": "Yao2025",
+      "path": "02-Reading/mdnotes/Yao2025.md"
+    },
+    {
+      "basename": "Yadav2024",
+      "path": "02-Reading/mdnotes/Yadav2024.md"
+    },
+    {
       "basename": "Modal merging调研",
       "path": "03-Projects/merging/Modal merging调研.md"
     },
@@ -129,10 +145,6 @@
       "path": "01-Diary/日志存档/2026-04-16.md"
     },
     {
-      "basename": "LoRA",
-      "path": "06-Cards/LoRA.md"
-    },
-    {
       "basename": "2026-04-15",
       "path": "01-Diary/日志存档/2026-04-15.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "RobustMerge-Zeng2025",
       "path": "02-Reading/mdnotes/RobustMerge-Zeng2025.md"
-    },
-    {
-      "basename": "2026-01-24",
-      "path": "01-Diary/日志存档/2026-01-24.md"
-    },
-    {
-      "basename": "Pilot-FedMIT- Xiong2025",
-      "path": "02-Reading/mdnotes/Pilot-FedMIT- Xiong2025.md"
-    },
-    {
-      "basename": "FlexLoRA2024",
-      "path": "02-Reading/mdnotes/FlexLoRA2024.md"
     }
   ],
   "omittedPaths": [],
