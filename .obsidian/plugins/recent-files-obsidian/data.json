@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "基础知识",
+      "path": "03-Projects/On Policy KD/基础知识.md"
+    },
+    {
       "basename": "集成学习Ensembling和蒸馏",
       "path": "06-Cards/集成学习Ensembling和蒸馏.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-04-07",
       "path": "01-Diary/日志存档/2026-04-07.md"
-    },
-    {
-      "basename": "2026-03-23",
-      "path": "01-Diary/日志存档/2026-03-23.md"
     }
   ],
   "omittedPaths": [],
