@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-06-25",
+      "path": "01-Diary/日志存档/2026-06-25.md"
+    },
+    {
+      "basename": "矩阵投影",
+      "path": "06-Cards/通用知识/矩阵投影.md"
+    },
+    {
       "basename": "LoRA",
       "path": "06-Cards/LoRA.md"
+    },
+    {
+      "basename": "Modal merging调研",
+      "path": "03-Projects/merging/Modal merging调研.md"
+    },
+    {
+      "basename": "初稿1",
+      "path": "03-Projects/merging/初稿1.md"
+    },
+    {
+      "basename": "Robustmerge中文写作",
+      "path": "03-Projects/merging/Robustmerge中文写作.md"
+    },
+    {
+      "basename": "storyline",
+      "path": "03-Projects/merging/storyline.md"
+    },
+    {
+      "basename": "动机部分",
+      "path": "03-Projects/merging/Motivation/动机部分.md"
+    },
+    {
+      "basename": "Motivation review",
+      "path": "03-Projects/merging/Motivation/Motivation review.md"
+    },
+    {
+      "basename": "Motivation写作",
+      "path": "03-Projects/merging/Motivation/Motivation写作.md"
+    },
+    {
+      "basename": "guo2024selectivea",
+      "path": "02-Reading/mdnotes/guo2024selectivea.md"
     },
     {
       "basename": "zhang2026sparsityaware",
@@ -15,10 +55,6 @@
     {
       "basename": "Yadav2024",
       "path": "02-Reading/mdnotes/Yadav2024.md"
-    },
-    {
-      "basename": "Modal merging调研",
-      "path": "03-Projects/merging/Modal merging调研.md"
     },
     {
       "basename": "2026-05-06",
@@ -41,16 +77,8 @@
       "path": "01-Diary/日志存档/2026-05-14.md"
     },
     {
-      "basename": "storyline",
-      "path": "03-Projects/merging/storyline.md"
-    },
-    {
       "basename": "2026-05-04",
       "path": "01-Diary/日志存档/2026-05-04.md"
-    },
-    {
-      "basename": "Motivation写作",
-      "path": "03-Projects/merging/Motivation/Motivation写作.md"
     },
     {
       "basename": "2026-05-02",
@@ -65,16 +93,8 @@
       "path": "01-Diary/日志存档/2026-04-27.md"
     },
     {
-      "basename": "初稿1",
-      "path": "03-Projects/merging/初稿1.md"
-    },
-    {
       "basename": "2026-05-05",
       "path": "01-Diary/日志存档/2026-05-05.md"
-    },
-    {
-      "basename": "Robustmerge中文写作",
-      "path": "03-Projects/merging/Robustmerge中文写作.md"
     },
     {
       "basename": "2026-05-03",
@@ -121,20 +141,12 @@
       "path": "03-Projects/merging/Motivation/图表解释.md"
     },
     {
-      "basename": "矩阵投影",
-      "path": "06-Cards/通用知识/矩阵投影.md"
-    },
-    {
       "basename": "第一版method方案",
       "path": "03-Projects/merging/method/第一版method方案.md"
     },
     {
       "basename": "2026-04-18",
       "path": "01-Diary/日志存档/2026-04-18.md"
-    },
-    {
-      "basename": "Motivation review",
-      "path": "03-Projects/merging/Motivation/Motivation review.md"
     },
     {
       "basename": "2026-04-17",
@@ -147,10 +159,6 @@
     {
       "basename": "2026-04-15",
       "path": "01-Diary/日志存档/2026-04-15.md"
-    },
-    {
-      "basename": "动机部分",
-      "path": "03-Projects/merging/Motivation/动机部分.md"
     },
     {
       "basename": "2026-04-14",
@@ -191,14 +199,6 @@
     {
       "basename": "2026-03-06",
       "path": "01-Diary/日志存档/2026-03-06.md"
-    },
-    {
-      "basename": "2026-03-19",
-      "path": "01-Diary/日志存档/2026-03-19.md"
-    },
-    {
-      "basename": "RobustMerge-Zeng2025",
-      "path": "02-Reading/mdnotes/RobustMerge-Zeng2025.md"
     }
   ],
   "omittedPaths": [],
