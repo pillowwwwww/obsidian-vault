@@ -5,6 +5,14 @@
       "path": "06-Cards/集成学习Ensembling和蒸馏.md"
     },
     {
+      "basename": "第一周小结",
+      "path": "01-Diary/本周事务/第一周小结.md"
+    },
+    {
+      "basename": "2026-04-27",
+      "path": "01-Diary/日志存档/2026-04-27.md"
+    },
+    {
       "basename": "Modal merging调研",
       "path": "03-Projects/merging/Modal merging调研.md"
     },
@@ -91,10 +99,6 @@
     {
       "basename": "2026-05-07",
       "path": "01-Diary/日志存档/2026-05-07.md"
-    },
-    {
-      "basename": "2026-04-27",
-      "path": "01-Diary/日志存档/2026-04-27.md"
     },
     {
       "basename": "2026-05-05",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-03-23",
       "path": "01-Diary/日志存档/2026-03-23.md"
-    },
-    {
-      "basename": "Fisher信息矩阵",
-      "path": "06-Cards/Fisher信息矩阵.md"
     }
   ],
   "omittedPaths": [],

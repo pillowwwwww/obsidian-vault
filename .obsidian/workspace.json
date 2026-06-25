@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "蒸馏",
+                "query": "KL",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -326,8 +326,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5bead99055bc9335",
+  "active": "d4cc5673d41093ba",
   "lastOpenFiles": [
+    "01-Diary/本周事务/第一周小结.md",
+    "01-Diary/日志存档/2026-04-27.md",
+    "06-Cards/集成学习Ensembling和蒸馏.md",
     "03-Projects/merging/Modal merging调研.md",
     "06-Cards/LoRA.md",
     "01-Diary/日志存档/2026-06-25.md",
@@ -356,9 +359,6 @@
     "03-Projects/未命名.md",
     "01-Diary/日志存档/2026-05-04.md",
     "01-Diary/日志存档/2026-05-02.md",
-    "01-Diary/日志存档/2026-05-07.md",
-    "01-Diary/日志存档/2026-04-27.md",
-    "01-Diary/日志存档/2026-05-05.md",
     "08-Assets/pdfs/2024-FDLoRA/2024-FDLoRA Personalized federated learning of large language model via dual LoRA tuning.pdf",
     "08-Assets/pdfs/2024-FDLoRA",
     "08-Assets/image-137.png",
