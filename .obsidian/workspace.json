@@ -50,62 +50,21 @@
             }
           },
           {
-            "id": "dc6ff0945b9146ca",
+            "id": "250b7727d30353ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Projects/merging/Motivation/动机部分.md",
+                "file": "03-Projects/On Policy KD/基础知识.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "动机部分"
-            }
-          },
-          {
-            "id": "e0cab83cffc5fb05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Projects/merging/storyline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "storyline"
-            }
-          },
-          {
-            "id": "fd46156decf12b41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Projects/merging/Robustmerge中文写作.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Robustmerge中文写作"
-            }
-          },
-          {
-            "id": "450c20555218ca63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Projects/merging/初稿1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "初稿1"
+              "title": "基础知识"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,8 +127,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,7 +211,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "06-Cards/LoRA.md",
+                "file": "03-Projects/On Policy KD/基础知识.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -283,8 +241,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "efd3e1ce7d2201d3",
+  "active": "250b7727d30353ab",
   "lastOpenFiles": [
+    "03-Projects/merging/Motivation/Motivation review.md",
+    "03-Projects/merging/Motivation/动机部分.md",
+    "03-Projects/merging/storyline.md",
+    "03-Projects/merging/Robustmerge中文写作.md",
+    "03-Projects/merging/初稿1.md",
+    "06-Cards/LoRA.md",
     "01-Diary/日志存档/2026-05-06.md",
     "01-Diary/日志存档/2026-07-06.md",
     "03-Projects/On Policy KD/基础知识.md",
@@ -296,14 +260,8 @@
     "01-Diary/本周事务/第一周小结.md",
     "01-Diary/日志存档/2026-04-27.md",
     "03-Projects/merging/Modal merging调研.md",
-    "06-Cards/LoRA.md",
     "01-Diary/日志存档/2026-06-25.md",
     "06-Cards/通用知识/矩阵投影.md",
-    "03-Projects/merging/初稿1.md",
-    "03-Projects/merging/Robustmerge中文写作.md",
-    "03-Projects/merging/storyline.md",
-    "03-Projects/merging/Motivation/动机部分.md",
-    "03-Projects/merging/Motivation/Motivation review.md",
     "03-Projects/merging/Motivation/Motivation写作.md",
     "02-Reading/mdnotes/guo2024selectivea.md",
     "02-Reading/mdnotes/Yao2025.md",

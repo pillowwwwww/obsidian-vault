@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "基础知识",
+      "path": "03-Projects/On Policy KD/基础知识.md"
+    },
+    {
+      "basename": "Motivation review",
+      "path": "03-Projects/merging/Motivation/Motivation review.md"
+    },
+    {
+      "basename": "动机部分",
+      "path": "03-Projects/merging/Motivation/动机部分.md"
+    },
+    {
+      "basename": "storyline",
+      "path": "03-Projects/merging/storyline.md"
+    },
+    {
+      "basename": "Robustmerge中文写作",
+      "path": "03-Projects/merging/Robustmerge中文写作.md"
+    },
+    {
+      "basename": "初稿1",
+      "path": "03-Projects/merging/初稿1.md"
+    },
+    {
       "basename": "LoRA",
       "path": "06-Cards/LoRA.md"
     },
@@ -11,10 +35,6 @@
     {
       "basename": "2026-07-06",
       "path": "01-Diary/日志存档/2026-07-06.md"
-    },
-    {
-      "basename": "基础知识",
-      "path": "03-Projects/On Policy KD/基础知识.md"
     },
     {
       "basename": "zhang2026sparsityaware",
@@ -47,26 +67,6 @@
     {
       "basename": "矩阵投影",
       "path": "06-Cards/通用知识/矩阵投影.md"
-    },
-    {
-      "basename": "初稿1",
-      "path": "03-Projects/merging/初稿1.md"
-    },
-    {
-      "basename": "Robustmerge中文写作",
-      "path": "03-Projects/merging/Robustmerge中文写作.md"
-    },
-    {
-      "basename": "storyline",
-      "path": "03-Projects/merging/storyline.md"
-    },
-    {
-      "basename": "动机部分",
-      "path": "03-Projects/merging/Motivation/动机部分.md"
-    },
-    {
-      "basename": "Motivation review",
-      "path": "03-Projects/merging/Motivation/Motivation review.md"
     },
     {
       "basename": "Motivation写作",
