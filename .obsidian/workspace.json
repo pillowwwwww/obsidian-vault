@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -225,7 +225,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "03-Projects/On Policy KD/目前opd的形式.md",
+                "file": "06-Cards/头脑风暴.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -255,12 +255,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8361573c81a53ae4",
+  "active": "250b7727d30353ab",
   "lastOpenFiles": [
+    "03-Projects/On Policy KD/目前opd的形式.md",
     "08-Assets/pdfs/2026-Revisiting on-policy distillation/2026-Revisiting on-policy distillation Empirical failure modes and simple fixes.pdf",
     "08-Assets/pdfs/2026-Revisiting on-policy distillation",
     "03-Projects/On Policy KD/基础知识.md",
-    "03-Projects/On Policy KD/目前opd的形式.md",
     "06-Cards/头脑风暴.md",
     "08-Assets/image-141.png",
     "01-Diary/日志存档/2026-07-07.md",
@@ -302,7 +302,6 @@
     "08-Assets/image-132.png",
     "08-Assets/pdfs/2024-PiSSA/2024-PiSSA Principal singular values and singular vectors adaptation of large language models.pdf",
     "08-Assets/pdfs/2024-PiSSA",
-    "08-Assets/pdfs/2024-MiLoRA/2024-MiLoRA Harnessing minor singular components for parameter-efficient LLM finetuning.pdf",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名 1.canvas",
     "00-MOC/未命名.canvas",

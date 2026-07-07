@@ -9,3 +9,4 @@ token-level OPD
 
 sampled-token OPD
 = token-level OPD 的单样本近似，只看学生采样出的 token
+《Revisiting on-policy distillation: Empirical failure modes and simple fixes》
