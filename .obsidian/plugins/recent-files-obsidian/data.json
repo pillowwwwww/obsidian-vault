@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-07-07",
+      "path": "01-Diary/日志存档/2026-07-07.md"
+    },
+    {
       "basename": "基础知识",
       "path": "03-Projects/On Policy KD/基础知识.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "实验一",
       "path": "06-Cards/实验一.md"
-    },
-    {
-      "basename": "2025-03-24",
-      "path": "01-Diary/日志存档/2025-03-24.md"
     }
   ],
   "omittedPaths": [],

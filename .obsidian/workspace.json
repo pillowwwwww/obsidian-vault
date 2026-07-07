@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Projects/On Policy KD/基础知识.md",
+                "file": "01-Diary/日志存档/2026-07-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基础知识"
+              "title": "2026-07-07"
             }
           }
         ],
@@ -211,7 +211,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "03-Projects/On Policy KD/基础知识.md",
+                "file": "01-Diary/日志存档/2026-07-07.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -241,8 +241,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "250b7727d30353ab",
+  "active": "3090910a3bbb4bfa",
   "lastOpenFiles": [
+    "03-Projects/On Policy KD/基础知识.md",
+    "01-Diary/日志存档/2026-07-07.md",
     "03-Projects/merging/Motivation/Motivation review.md",
     "03-Projects/merging/Motivation/动机部分.md",
     "03-Projects/merging/storyline.md",
@@ -251,7 +253,6 @@
     "06-Cards/LoRA.md",
     "01-Diary/日志存档/2026-05-06.md",
     "01-Diary/日志存档/2026-07-06.md",
-    "03-Projects/On Policy KD/基础知识.md",
     "02-Reading/mdnotes/zhang2026sparsityaware.md",
     "01-Diary/日志存档/2026-06-26.md",
     "06-Cards/集成学习Ensembling和蒸馏.md",
@@ -274,7 +275,6 @@
     "03-Projects/agent FL/agent 基础.md",
     "08-Assets/image-138.png",
     "01-Diary/日志存档/2026-05-14.md",
-    "03-Projects/agent FL/agent基础知识.md",
     "03-Projects/agent FL",
     "08-Assets/pdfs/2024-FDLoRA/2024-FDLoRA Personalized federated learning of large language model via dual LoRA tuning.pdf",
     "08-Assets/pdfs/2024-FDLoRA",
