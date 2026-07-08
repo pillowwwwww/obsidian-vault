@@ -1,24 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "RL LOSS",
+      "path": "06-Cards/强化学习/RL LOSS.md"
+    },
+    {
       "basename": "GPRO强化学习算法复现",
-      "path": "06-Cards/GPRO强化学习算法复现.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "03-Projects/On Policy KD/未命名.md"
-    },
-    {
-      "basename": "目前opd的形式",
-      "path": "03-Projects/On Policy KD/目前opd的形式.md"
-    },
-    {
-      "basename": "Motivation review",
-      "path": "03-Projects/merging/Motivation/Motivation review.md"
-    },
-    {
-      "basename": "2026-07-08",
-      "path": "01-Diary/日志存档/2026-07-08.md"
+      "path": "06-Cards/强化学习/GPRO强化学习算法复现.md"
     },
     {
       "basename": "头脑风暴",
@@ -27,6 +15,26 @@
     {
       "basename": "基础知识",
       "path": "03-Projects/On Policy KD/基础知识.md"
+    },
+    {
+      "basename": "目前opd的形式",
+      "path": "03-Projects/On Policy KD/目前opd的形式.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "03-Projects/On Policy KD/未命名.md"
+    },
+    {
+      "basename": "image-142",
+      "path": "08-Assets/image-142.png"
+    },
+    {
+      "basename": "Motivation review",
+      "path": "03-Projects/merging/Motivation/Motivation review.md"
+    },
+    {
+      "basename": "2026-07-08",
+      "path": "01-Diary/日志存档/2026-07-08.md"
     },
     {
       "basename": "2026-07-07",
@@ -191,14 +199,6 @@
     {
       "basename": "2026-04-18",
       "path": "01-Diary/日志存档/2026-04-18.md"
-    },
-    {
-      "basename": "2026-04-17",
-      "path": "01-Diary/日志存档/2026-04-17.md"
-    },
-    {
-      "basename": "2026-04-16",
-      "path": "01-Diary/日志存档/2026-04-16.md"
     }
   ],
   "omittedPaths": [],
