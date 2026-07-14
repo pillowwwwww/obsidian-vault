@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-07-14",
+      "path": "01-Diary/日志存档/2026-07-14.md"
+    },
+    {
       "basename": "RL LOSS",
       "path": "06-Cards/强化学习/RL LOSS.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "第一版method方案",
       "path": "03-Projects/merging/method/第一版method方案.md"
-    },
-    {
-      "basename": "2026-04-18",
-      "path": "01-Diary/日志存档/2026-04-18.md"
     }
   ],
   "omittedPaths": [],
