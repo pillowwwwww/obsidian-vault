@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,8 +183,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -268,7 +267,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "01-Diary/日志存档/2026-07-14.md",
+                "file": "03-Projects/On Policy KD/未命名.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -298,8 +297,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f4ff75561bebdd2",
+  "active": "02b5998cfe3a883b",
   "lastOpenFiles": [
+    "08-Assets/image-147.png",
     "06-Cards/强化学习/RL LOSS.md",
     "01-Diary/日志存档/2026-07-14.md",
     "08-Assets/image-146.png",
@@ -336,7 +336,6 @@
     "03-Projects/merging/Modal merging调研.md",
     "01-Diary/日志存档/2026-06-25.md",
     "06-Cards/通用知识/矩阵投影.md",
-    "03-Projects/merging/Motivation/Motivation写作.md",
     "08-Assets/pdfs/2023-AgentTuning/2023-AgentTuning Enabling generalized agent abilities for LLMs.pdf",
     "08-Assets/pdfs/2023-AgentTuning",
     "08-Assets/image-139.png",
