@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-07-15",
+      "path": "01-Diary/日志存档/2026-07-15.md"
+    },
+    {
       "basename": "未命名",
       "path": "03-Projects/On Policy KD/未命名.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "图表解释",
       "path": "03-Projects/merging/Motivation/图表解释.md"
-    },
-    {
-      "basename": "第一版method方案",
-      "path": "03-Projects/merging/method/第一版method方案.md"
     }
   ],
   "omittedPaths": [],
