@@ -115,12 +115,12 @@ FedOPD 当前固定使用 Forward KL 是合理且明确的正式设计，但论�
 
 并不相同，可以分成四组：
 
-|任务群|代表工作|主要任务|常见指标|与 FedOPD 的可比性|
-|---|---|---|---|---|
-|传统序列生成|GKD、DistiLLM、SKD|摘要、翻译|ROUGE、BLEU|低到中|
-|Instruction following|MiniLLM、DistiLLM、DistiLLM-2|通用指令、长文本、代码|perplexity、自动指标、judge score|中|
-|数学与长推理|GKD、SKD、Prefix OPD、EOPD、Veto、OPSD|GSM8K、MATH/AIME 类及 OOD reasoning|EM、Pass@k、平均长度|最高|
-|连续决策与长期学习|SDFT、SDPO、agent correction|continual learning、工具调用、代码代理|成功率、遗忘率、reward|研究动机相近，任务不同|
+| 任务群                   | 代表工作                              | 主要任务                             | 常见指标                        | 与 FedOPD 的可比性 |
+| --------------------- | --------------------------------- | -------------------------------- | --------------------------- | ------------- |
+| 传统序列生成                | GKD、DistiLLM、SKD                  | 摘要、翻译                            | ROUGE、BLEU                  | 低到中           |
+| Instruction following | MiniLLM、DistiLLM、DistiLLM-2       | 通用指令、长文本、代码                      | perplexity、自动指标、judge score | 中             |
+| 数学与长推理                | GKD、SKD、Prefix OPD、EOPD、Veto、OPSD | GSM8K、MATH/AIME 类及 OOD reasoning | EM、Pass@k、平均长度              | 最高            |
+| 连续决策与长期学习             | SDFT、SDPO、agent correction        | continual learning、工具调用、代码代理     | 成功率、遗忘率、reward              | 研究动机相近，任务不同   |
 
 即使都使用 GSM8K，仍可能存在以下差异：
 
