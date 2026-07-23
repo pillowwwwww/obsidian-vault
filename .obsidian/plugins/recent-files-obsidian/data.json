@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-07-23",
+      "path": "01-Diary/日志存档/2026-07-23.md"
+    },
+    {
       "basename": "nlp常见metric",
       "path": "03-Projects/On Policy KD/nlp常见metric.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-04-23",
       "path": "01-Diary/日志存档/2026-04-23.md"
-    },
-    {
-      "basename": "v8实验整理",
-      "path": "03-Projects/merging/method/v8实验整理.md"
     }
   ],
   "omittedPaths": [],
