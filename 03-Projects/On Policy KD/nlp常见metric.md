@@ -94,3 +94,16 @@ Early stopping 不是一个指标，而是规则：
 
 常见条件包括 EOS、固定停止字符串、完整答案格式、答案稳定或专门训练的停止分类器。Transformers 支持固定 `stop_strings` 和自定义逐序列停止条件。[StoppingCriteria documentation](https://huggingface.co/docs/transformers/internal/generation_utils)
 
+
+
+
+## 配置解释
+- `token_mean`：所有有效 token 等权；长轨迹总权重更大。
+- `round`：每轮开始生成一次32条轨迹，本轮所有 optimizer steps 重复使用这批轨迹。
+
+- `round-level`：本轮开始时一次生成全部32条轨迹，然后分给后面的 optimizer steps。轨迹通常各使用一次，但第2至第4步使用的仍是本轮起点模型生成的旧轨迹。
+- `step-level`：每次 optimizer step 前，用刚更新后的 Student 重新生成8条轨迹，查询一次 Teacher，训练一次后丢弃。更接近严格 on-policy，但耗时更长。
+- `token-mean`：每个 token 等权。500-token答案对梯度的总影响约为100-token答案的5倍。
+- `sequence-mean`：先对每条答案内部取平均，再对答案取平均。无论100还是500 token，每个 prompt 的总权重基本相同。
+
+我们改为使用round-level+sequence-mean。（师兄选择的是round-level+token-mean，）step-level虽然更严格，但耗时更长
