@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DFL常见词汇",
+      "path": "03-Projects/DFL/DFL常见词汇.md"
+    },
+    {
       "basename": "2026-08-07",
       "path": "01-Diary/日志存档/2026-08-07.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "v9",
       "path": "03-Projects/merging/method/v9.md"
-    },
-    {
-      "basename": "2026-04-26",
-      "path": "01-Diary/日志存档/2026-04-26.md"
     }
   ],
   "omittedPaths": [],
