@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "GPRO强化学习算法复现",
-      "path": "06-Cards/强化学习/GPRO强化学习算法复现.md"
+      "basename": "2026-08-10",
+      "path": "01-Diary/日志存档/2026-08-10.md"
     },
     {
       "basename": "头脑风暴",
       "path": "06-Cards/头脑风暴.md"
+    },
+    {
+      "basename": "GPRO强化学习算法复现",
+      "path": "06-Cards/强化学习/GPRO强化学习算法复现.md"
     },
     {
       "basename": "nlp常见metric",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-05-05",
       "path": "01-Diary/日志存档/2026-05-05.md"
-    },
-    {
-      "basename": "2026-05-03",
-      "path": "01-Diary/日志存档/2026-05-03.md"
     }
   ],
   "omittedPaths": [],

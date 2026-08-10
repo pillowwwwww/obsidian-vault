@@ -184,7 +184,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "06-Cards/强化学习/GPRO强化学习算法复现.md",
+                "file": "01-Diary/日志存档/2026-08-10.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -216,9 +216,10 @@
   },
   "active": "3f4ff75561bebdd2",
   "lastOpenFiles": [
+    "06-Cards/头脑风暴.md",
+    "01-Diary/日志存档/2026-08-10.md",
     "08-Assets/pdfs/2026-Multi-turn on-policy distillation with prefix replay/2026-Multi-turn on-policy distillation with prefix replay.pdf",
     "08-Assets/pdfs/2026-Multi-turn on-policy distillation with prefix replay",
-    "06-Cards/头脑风暴.md",
     "08-Assets/image-150.png",
     "03-Projects/On Policy KD/nlp常见metric.md",
     "01-Diary/日志存档/2026-08-08.md",
@@ -261,7 +262,6 @@
     "08-Assets/pdfs/2023-AgentTuning/2023-AgentTuning Enabling generalized agent abilities for LLMs.pdf",
     "08-Assets/pdfs/2023-AgentTuning",
     "03-Projects/agent FL",
-    "08-Assets/pdfs/2024-FDLoRA/2024-FDLoRA Personalized federated learning of large language model via dual LoRA tuning.pdf",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名 1.canvas",
     "00-MOC/未命名.canvas",
