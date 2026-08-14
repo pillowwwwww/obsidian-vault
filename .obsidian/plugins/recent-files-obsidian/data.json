@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-08-13",
+      "path": "01-Diary/日志存档/2026-08-13.md"
+    },
+    {
+      "basename": "nlp常见metric",
+      "path": "03-Projects/On Policy KD/nlp常见metric.md"
+    },
+    {
+      "basename": "2026-08-14",
+      "path": "01-Diary/日志存档/2026-08-14.md"
+    },
+    {
       "basename": "motivation构思",
       "path": "03-Projects/DFL/motivation构思.md"
     },
     {
       "basename": "DPFL研究动机逻辑链",
       "path": "03-Projects/DFL/DPFL研究动机逻辑链.md"
-    },
-    {
-      "basename": "2026-08-13",
-      "path": "01-Diary/日志存档/2026-08-13.md"
     },
     {
       "basename": "2026-08-12",
@@ -31,10 +39,6 @@
     {
       "basename": "GPRO强化学习算法复现",
       "path": "06-Cards/强化学习/GPRO强化学习算法复现.md"
-    },
-    {
-      "basename": "nlp常见metric",
-      "path": "03-Projects/On Policy KD/nlp常见metric.md"
     },
     {
       "basename": "2026-08-08",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-06-15",
       "path": "01-Diary/日志存档/2026-06-15.md"
-    },
-    {
-      "basename": "agent 基础",
-      "path": "03-Projects/agent FL/agent 基础.md"
     }
   ],
   "omittedPaths": [],
