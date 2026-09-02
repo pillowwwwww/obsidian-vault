@@ -7,5 +7,10 @@
 流程：
 ![[e717469a8501980c184d98723bbe5a03-2.png]]
 
+
+
+
+2. 根据子空间去选择merge的对象：论文：[MASS: MoErging through Adaptive Subspace Selection](https://iclr.cc/virtual/2026/poster/10010856)，ICLR 2026。MASS也根据子空间选择合并对象，但它不是在训练前选择固定模型子集，而是：
+			对每个测试样本，动态判断该样本属于哪些任务子空间，然后只激活并合并对应的任务更新。
 ### 2. 研究干扰和共享的平衡
 ![[image-154.png|626x502]]
