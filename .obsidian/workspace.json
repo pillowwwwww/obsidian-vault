@@ -131,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.50329208374023
+    "width": 328.50329208374023,
+    "collapsed": true
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -243,6 +244,10 @@
   },
   "active": "28ed437e210db049",
   "lastOpenFiles": [
+    "08-Assets/pdfs/2026-DC-merge/2026-DC-merge Improving model merging with directional consistency.pdf",
+    "08-Assets/pdfs/2026-DC-merge",
+    "08-Assets/pdfs/2025-No task left behind/2025-No task left behind Isotropic model merging with common and task-specific subspaces.pdf",
+    "08-Assets/pdfs/2025-No task left behind",
     "03-Projects/DFL/FFA-LORA+smooth实验.md",
     "03-Projects/DFL/头脑风暴2（adarank+FL）.md",
     "03-Projects/DFL/motivation构思.md",
@@ -279,16 +284,12 @@
     "08-Assets/pdfs/-DPFL/-DPFL Decentralized personalized federated learning.pdf",
     "08-Assets/pdfs/-DPFL",
     "08-Assets/pdfs/2026-Multi-turn on-policy distillation with prefix replay/2026-Multi-turn on-policy distillation with prefix replay.pdf",
-    "08-Assets/pdfs/2026-Multi-turn on-policy distillation with prefix replay",
     "03-Projects/DFL/DFL常见词汇.md",
-    "03-Projects/DFL",
     "03-Projects/On Policy KD/文本生成策略Greedy-decoding.md",
     "01-Diary/日志存档/2026-07-25.md",
     "03-Projects/On Policy KD/OPD调研报告.md",
     "01-Diary/日志存档/2026-07-23.md",
     "01-Diary/日志存档/2026-07-17.md",
-    "01-Diary/日志存档/2026-07-15.md",
-    "06-Cards/强化学习",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名 1.canvas",
     "00-MOC/未命名.canvas",
