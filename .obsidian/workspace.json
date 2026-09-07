@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/本周事务/未命名 3.md",
+                "file": "01-Diary/本周事务/实验表格.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 3"
+              "title": "实验表格"
+            }
+          },
+          {
+            "id": "e851b0ad9f1583bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Diary/本周事务/未命名 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名 4"
             }
           },
           {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.50329208374023,
-    "collapsed": true
+    "width": 328.50329208374023
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -173,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Diary/本周事务/未命名 3.md",
+                "file": "01-Diary/本周事务/未命名 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +196,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "未命名 3 的反向链接列表"
+              "title": "未命名 4 的反向链接列表"
             }
           },
           {
@@ -212,7 +225,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "01-Diary/本周事务/未命名 3.md",
+                "file": "01-Diary/本周事务/未命名 4.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -222,7 +235,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -242,13 +255,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e990c811b2dcffe6",
+  "active": "e851b0ad9f1583bd",
   "lastOpenFiles": [
+    "01-Diary/本周事务/实验表格.md",
+    "01-Diary/本周事务/未命名 4.md",
     "08-Assets/pdfs/2026-DC-merge/2026-DC-merge Improving model merging with directional consistency 1.pdf",
     "03-Projects/DFL/头脑风暴 1.md",
     "03-Projects/DFL/DPFL研究动机逻辑链.md",
     "01-Diary/日志存档/2026-07-31.md",
-    "01-Diary/本周事务/未命名 3.md",
     "03-Projects/DFL/头脑风暴2（adarank+FL）.md",
     "08-Assets/pdfs/-105_From_Aggregation_to_Guidan/105_From_Aggregation_to_Guidan.pdf",
     "08-Assets/pdfs/-105_From_Aggregation_to_Guidan",
@@ -277,7 +291,6 @@
     "01-Diary/日志存档/2026-08-14.md",
     "01-Diary/日志存档/2026-08-15.md",
     "01-Diary/日志存档/2026-09-02.md",
-    "08-Assets/pdfs/-FedAGC/-FedAGC Federated continual learning with asymmetric gradient correction 1.pdf",
     "08-Assets/image-159.png",
     "08-Assets/image-158.png",
     "08-Assets/image-157.png",
