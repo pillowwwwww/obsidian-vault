@@ -77,8 +77,7 @@
               "title": "头脑风暴 1"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Diary/本周事务/未命名 4.md",
+                "file": "03-Projects/DFL/FFA-LORA+smooth实验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +195,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "未命名 4 的反向链接列表"
+              "title": "FFA-LORA+smooth实验 的反向链接列表"
             }
           },
           {
@@ -225,7 +224,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "01-Diary/本周事务/未命名 4.md",
+                "file": "03-Projects/DFL/FFA-LORA+smooth实验.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -255,10 +254,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e851b0ad9f1583bd",
+  "active": "28ed437e210db049",
   "lastOpenFiles": [
-    "01-Diary/本周事务/实验表格.md",
     "01-Diary/本周事务/未命名 4.md",
+    "01-Diary/本周事务/实验表格.md",
     "08-Assets/pdfs/2026-DC-merge/2026-DC-merge Improving model merging with directional consistency 1.pdf",
     "03-Projects/DFL/头脑风暴 1.md",
     "03-Projects/DFL/DPFL研究动机逻辑链.md",
