@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Projects/DFL/FFA-LORA+smooth实验.md",
+                "file": "01-Diary/日志存档/2026-09-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FFA-LORA+smooth实验"
+              "title": "2026-09-09"
             }
           },
           {
@@ -140,7 +140,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -224,7 +225,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "03-Projects/DFL/FFA-LORA+smooth实验.md",
+                "file": "01-Diary/日志存档/2026-09-09.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -256,6 +257,8 @@
   },
   "active": "28ed437e210db049",
   "lastOpenFiles": [
+    "03-Projects/DFL/FFA-LORA+smooth实验.md",
+    "01-Diary/日志存档/2026-09-09.md",
     "01-Diary/本周事务/未命名 4.md",
     "01-Diary/本周事务/实验表格.md",
     "08-Assets/pdfs/2026-DC-merge/2026-DC-merge Improving model merging with directional consistency 1.pdf",
@@ -268,7 +271,6 @@
     "08-Assets/pdfs/2023-TIES-merging/2023-TIES-merging Resolving interference when merging models.pdf",
     "08-Assets/pdfs/2023-TIES-merging",
     "08-Assets/image-162.png",
-    "03-Projects/DFL/FFA-LORA+smooth实验.md",
     "01-Diary/日志存档/2026-09-03.md",
     "未命名",
     "08-Assets/pdfs/2026-DC-merge/2026-DC-merge Improving model merging with directional consistency.pdf",
@@ -301,7 +303,6 @@
     "01-Diary/日志存档/2026-07-25.md",
     "03-Projects/On Policy KD/OPD调研报告.md",
     "01-Diary/日志存档/2026-07-23.md",
-    "01-Diary/日志存档/2026-07-17.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名 1.canvas",
     "00-MOC/未命名.canvas",
