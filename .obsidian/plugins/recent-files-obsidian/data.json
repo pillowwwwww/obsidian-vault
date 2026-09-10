@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "实验表格",
+      "path": "01-Diary/本周事务/实验表格.md"
+    },
+    {
       "basename": "关于talk：权重视角下的post training",
       "path": "06-Cards/关于talk：权重视角下的post training.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "FFA-LORA+smooth实验",
       "path": "03-Projects/DFL/FFA-LORA+smooth实验.md"
-    },
-    {
-      "basename": "实验表格",
-      "path": "01-Diary/本周事务/实验表格.md"
     },
     {
       "basename": "头脑风暴 1",
