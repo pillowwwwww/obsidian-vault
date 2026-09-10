@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "3b494d740b8952e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Projects/merging/Modal merging调研.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modal merging调研"
+            }
+          },
+          {
             "id": "e851b0ad9f1583bd",
             "type": "leaf",
             "state": {
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -225,7 +239,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "01-Diary/本周事务/实验表格.md",
+                "file": "03-Projects/merging/Modal merging调研.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -255,8 +269,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1241937743f329a8",
+  "active": "3b494d740b8952e4",
   "lastOpenFiles": [
+    "01-Diary/本周事务/实验表格.md",
     "06-Cards/关于talk：权重视角下的post training.md",
     "08-Assets/image-166.png",
     "08-Assets/image-165.png",
@@ -268,7 +283,6 @@
     "08-Assets/pdfs/2025-FedEx-LoRA",
     "01-Diary/日志存档/2026-09-09.md",
     "03-Projects/DFL/FFA-LORA+smooth实验.md",
-    "01-Diary/本周事务/实验表格.md",
     "08-Assets/pdfs/2026-DC-merge/2026-DC-merge Improving model merging with directional consistency 1.pdf",
     "03-Projects/DFL/头脑风暴 1.md",
     "03-Projects/DFL/DPFL研究动机逻辑链.md",
