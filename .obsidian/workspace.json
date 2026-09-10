@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,7 +239,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "03-Projects/merging/Modal merging调研.md",
+                "file": "01-Diary/本周事务/实验表格.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -269,8 +269,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b494d740b8952e4",
+  "active": "1241937743f329a8",
   "lastOpenFiles": [
+    "03-Projects/merging/Modal merging调研.md",
     "01-Diary/本周事务/实验表格.md",
     "06-Cards/关于talk：权重视角下的post training.md",
     "08-Assets/image-166.png",
