@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/本周事务/未命名 4.md",
+                "file": "01-Diary/日志存档/2026-09-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 4"
+              "title": "2026-09-10"
             }
           },
           {
@@ -226,7 +226,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "01-Diary/本周事务/未命名 4.md",
+                "file": "01-Diary/日志存档/2026-09-10.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -258,11 +258,12 @@
   },
   "active": "e851b0ad9f1583bd",
   "lastOpenFiles": [
+    "01-Diary/本周事务/未命名 4.md",
+    "01-Diary/日志存档/2026-09-10.md",
     "08-Assets/pdfs/2025-FedEx-LoRA/2025-FedEx-LoRA Exact aggregation for federated and efficient fine-tuning of foundation models.pdf",
     "08-Assets/pdfs/2025-FedEx-LoRA",
     "01-Diary/日志存档/2026-09-09.md",
     "03-Projects/DFL/FFA-LORA+smooth实验.md",
-    "01-Diary/本周事务/未命名 4.md",
     "01-Diary/本周事务/实验表格.md",
     "08-Assets/pdfs/2026-DC-merge/2026-DC-merge Improving model merging with directional consistency 1.pdf",
     "03-Projects/DFL/头脑风暴 1.md",
@@ -278,7 +279,6 @@
     "未命名",
     "08-Assets/pdfs/2026-DC-merge/2026-DC-merge Improving model merging with directional consistency.pdf",
     "08-Assets/pdfs/2026-DC-merge",
-    "08-Assets/pdfs/2025-No task left behind/2025-No task left behind Isotropic model merging with common and task-specific subspaces.pdf",
     "03-Projects/DFL/motivation构思.md",
     "08-Assets/image-161.png",
     "08-Assets/e717469a8501980c184d98723bbe5a03-2.png",
