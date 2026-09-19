@@ -50,20 +50,6 @@
             }
           },
           {
-            "id": "e851b0ad9f1583bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Diary/本周事务/实验表格.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "实验表格"
-            }
-          },
-          {
             "id": "530f3ddb6dbea0a8",
             "type": "leaf",
             "state": {
@@ -78,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,7 +212,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "01-Diary/本周事务/实验表格.md",
+                "file": "03-Projects/merging/Modal merging调研.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -256,8 +242,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e851b0ad9f1583bd",
+  "active": "3b494d740b8952e4",
   "lastOpenFiles": [
+    "01-Diary/日志存档/2026-09-19.md",
+    "01-Diary/本周事务/实验表格.md",
     "08-Assets/pdfs/2024-Parameter efficient multi-task model fusion with partial linearization/2024-Parameter efficient multi-task model fusion with partial linearization.pdf",
     "08-Assets/pdfs/2024-Parameter efficient multi-task model fusion with partial linearization",
     "06-Cards/关于talk：权重视角下的post training.md",
@@ -265,7 +253,6 @@
     "03-Projects/DFL/头脑风暴 1.md",
     "03-Projects/DFL/头脑风暴2（adarank+FL）.md",
     "01-Diary/日志存档/2026-09-11.md",
-    "01-Diary/本周事务/实验表格.md",
     "08-Assets/image-166.png",
     "08-Assets/image-165.png",
     "08-Assets/image-164.png",
@@ -286,7 +273,6 @@
     "08-Assets/image-162.png",
     "01-Diary/日志存档/2026-09-03.md",
     "未命名",
-    "08-Assets/pdfs/2026-DC-merge/2026-DC-merge Improving model merging with directional consistency.pdf",
     "03-Projects/DFL/motivation构思.md",
     "08-Assets/image-161.png",
     "08-Assets/e717469a8501980c184d98723bbe5a03-2.png",
