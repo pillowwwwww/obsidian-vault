@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Projects/DFL/头脑风暴2（adarank+FL）.md",
+                "file": "01-Diary/日志存档/2026-10-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "头脑风暴2（adarank+FL）"
+              "title": "2026-10-09"
             }
           },
           {
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.50329208374023
+    "width": 328.50329208374023,
+    "collapsed": true
   },
   "right": {
     "id": "6e7011190a6a4416",
@@ -198,7 +199,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "03-Projects/DFL/头脑风暴2（adarank+FL）.md",
+                "file": "01-Diary/日志存档/2026-10-09.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -230,6 +231,8 @@
   },
   "active": "4c244e7aaa2045e1",
   "lastOpenFiles": [
+    "03-Projects/DFL/头脑风暴2（adarank+FL）.md",
+    "01-Diary/日志存档/2026-10-09.md",
     "01-Diary/本周事务/实验表格.md",
     "03-Projects/merging/Modal merging调研.md",
     "01-Diary/日志存档/2026-09-19.md",
@@ -237,7 +240,6 @@
     "08-Assets/pdfs/2024-Parameter efficient multi-task model fusion with partial linearization",
     "06-Cards/关于talk：权重视角下的post training.md",
     "03-Projects/DFL/头脑风暴 1.md",
-    "03-Projects/DFL/头脑风暴2（adarank+FL）.md",
     "01-Diary/日志存档/2026-09-11.md",
     "08-Assets/image-166.png",
     "08-Assets/image-165.png",
@@ -275,7 +277,6 @@
     "01-Diary/日志存档/2026-08-15.md",
     "01-Diary/日志存档/2026-09-02.md",
     "03-Projects/On Policy KD/nlp常见metric.md",
-    "06-Cards/头脑风暴.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名 1.canvas",
     "00-MOC/未命名.canvas",
