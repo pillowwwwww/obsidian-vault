@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-10-21",
+      "path": "01-Diary/日志存档/2026-10-21.md"
+    },
+    {
+      "basename": "头脑风暴 1",
+      "path": "03-Projects/DFL/头脑风暴 1.md"
+    },
+    {
+      "basename": "2026-09-09",
+      "path": "01-Diary/日志存档/2026-09-09.md"
+    },
+    {
       "basename": "2026-10-09",
       "path": "01-Diary/日志存档/2026-10-09.md"
     },
@@ -25,10 +37,6 @@
       "path": "06-Cards/关于talk：权重视角下的post training.md"
     },
     {
-      "basename": "头脑风暴 1",
-      "path": "03-Projects/DFL/头脑风暴 1.md"
-    },
-    {
       "basename": "2026-09-11",
       "path": "01-Diary/日志存档/2026-09-11.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "未命名 4",
       "path": "01-Diary/本周事务/未命名 4.md"
-    },
-    {
-      "basename": "2026-09-09",
-      "path": "01-Diary/日志存档/2026-09-09.md"
     },
     {
       "basename": "FFA-LORA+smooth实验",
@@ -195,10 +199,6 @@
     {
       "basename": "Motivation写作",
       "path": "03-Projects/merging/Motivation/Motivation写作.md"
-    },
-    {
-      "basename": "guo2024selectivea",
-      "path": "02-Reading/mdnotes/guo2024selectivea.md"
     }
   ],
   "omittedPaths": [],
