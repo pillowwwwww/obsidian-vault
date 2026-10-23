@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Diary/日志存档/2026-10-23.md",
+                "file": "03-Projects/FedC2C/新的研究动机.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-23"
+              "title": "新的研究动机"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,7 +168,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "01-Diary/日志存档/2026-10-23.md",
+                "file": "03-Projects/FedC2C/新的研究动机.md",
                 "itemId": -1,
                 "attachmentId": -1,
                 "follow": "zt-reader"
@@ -201,9 +200,10 @@
   },
   "active": "680f80bb90818ef5",
   "lastOpenFiles": [
-    "01-Diary/日志存档/2026-10-21.md",
     "03-Projects/FedC2C/研究问题和研究动机.md",
+    "03-Projects/FedC2C/新的研究动机.md",
     "01-Diary/日志存档/2026-10-23.md",
+    "01-Diary/日志存档/2026-10-21.md",
     "03-Projects/DFL/头脑风暴 1.md",
     "03-Projects/FedC2C",
     "01-Diary/日志存档/2026-09-09.md",
@@ -246,7 +246,6 @@
     "01-Diary/日志存档/2026-08-10.md",
     "01-Diary/日志存档/2026-08-08.md",
     "01-Diary/日志存档/2026-08-13.md",
-    "01-Diary/日志存档/2026-08-14.md",
     "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
     "00-MOC/未命名 1.canvas",
     "00-MOC/未命名.canvas",
